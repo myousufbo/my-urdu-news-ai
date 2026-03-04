@@ -1,0 +1,335 @@
+/* =========================================
+   Base & Typography (Urdu)
+========================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
+/* Using standard Google Fonts as fallback for Jameel Noori if not installed locally */
+
+:root {
+    /* Light Theme (Default) */
+    --bg-color: #f3f4f6;
+    --text-primary: #1f2937;
+    --text-secondary: #4b5563;
+    --card-bg: rgba(255, 255, 255, 0.7);
+    --primary-color: #2563eb;
+    --primary-hover: #1d4ed8;
+    --border-color: rgba(255, 255, 255, 0.5);
+    --shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+    
+    /* Font Stack optimized for Urdu */
+    --font-urdu: 'Jameel Noori Nastaleeq', 'Gulzar', 'Noto Nastaliq Urdu', Arial, sans-serif;
+    --font-english: 'Inter', system-ui, sans-serif;
+}
+
+.dark-mode {
+    --bg-color: #0f172a;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --card-bg: rgba(30, 41, 59, 0.6);
+    --primary-color: #3b82f6;
+    --primary-hover: #60a5fa;
+    --border-color: rgba(255, 255, 255, 0.05);
+    --shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-urdu);
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    line-height: 1.8;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-size: 18px; /* Slightly larger for Urdu readability */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* =========================================
+   Glassmorphism Utilities
+========================================= */
+.glass {
+    background: var(--card-bg);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+}
+
+/* =========================================
+   Header / Navbar
+========================================= */
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    padding: 15px 0;
+    background: var(--card-bg);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--primary-color);
+    letter-spacing: -0.5px;
+}
+
+.icon-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-primary);
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.icon-btn:hover {
+    background-color: rgba(128, 128, 128, 0.1);
+    color: var(--primary-color);
+}
+
+/* =========================================
+   Hero Section
+========================================= */
+main {
+    padding: 40px 0;
+}
+
+.hero {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 40px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.1), rgba(15, 23, 42, 0.05));
+    border: 1px solid var(--border-color);
+}
+
+.hero-content {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero-content h2 {
+    font-size: 2.5rem;
+    line-height: 1.4;
+    margin-bottom: 15px;
+    color: var(--primary-color);
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+}
+
+.hero-latest-news {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* =========================================
+   News Grid Section
+========================================= */
+.section-header {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+@media (min-width: 768px) {
+    .section-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.section-header h3 {
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.filter-buttons {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding-bottom: 5px; /* For scrollbar if needed */
+}
+
+.filter-btn {
+    padding: 8px 20px;
+    border-radius: 30px;
+    border: 1px solid var(--border-color);
+    background: transparent;
+    color: var(--text-secondary);
+    font-family: var(--font-urdu);
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.filter-btn.active, .filter-btn:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+}
+
+/* =========================================
+   News Cards (Dynamically Injected)
+========================================= */
+.news-card {
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.news-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+}
+
+.dark-mode .news-card:hover {
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+}
+
+.card-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-bottom: 1px solid var(--border-color);
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+.card-content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-family: var(--font-english); /* Usually English dates/sources */
+}
+
+.source-badge {
+    background: rgba(37, 99, 235, 0.1);
+    color: var(--primary-color);
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-weight: 500;
+}
+
+.card-title {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.card-title a {
+    color: var(--text-primary);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.card-title a:hover {
+    color: var(--primary-color);
+}
+
+.card-excerpt {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 20px;
+    flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--border-color);
+    padding-top: 15px;
+}
+
+.read-more {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: gap 0.2s;
+}
+
+.read-more:hover {
+    gap: 12px;
+}
+
+/* =========================================
+   Loading State
+========================================= */
+.loading-spinner {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    text-align: center;
+    padding: 40px;
+}
+
+/* =========================================
+   Footer
+========================================= */
+footer {
+    margin-top: 60px;
+    padding: 30px 0;
+    text-align: center;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    font-size: 1rem;
+}

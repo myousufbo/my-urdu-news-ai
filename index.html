@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عالمی خبریں - تیز، مستند، اردو میں</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="dark-mode">
+
+    <!-- Header / Navbar -->
+    <header class="navbar">
+        <div class="container nav-content">
+            <h1 class="logo">عالمی خبریں</h1>
+            
+            <div class="nav-actions">
+                <button id="theme-toggle" class="icon-btn" aria-label="Toggle Theme">
+                    <i class="fas fa-sun"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+        
+        <!-- Hero Section -->
+        <section class="hero glass-panel">
+            <div class="hero-content">
+                <h2>دنیا بھر کی تازہ ترین خبریں اب آپ کی زبان میں</h2>
+                <p>مصنوعی ذہانت کے ذریعے دنیا کے صفِ اول کے ذرائع ابلاغ (جیسے BBC، CNN، Al Jazeera) سے حاصل کی گئی خبروں کا سلیس اور مستند اردو ترجمہ۔</p>
+            </div>
+            <div class="hero-latest-news" id="featured-news-container">
+                <!-- Featured news will be injected here via JS -->
+                <div class="loading-spinner"><i class="fas fa-circle-notch fa-spin"></i> خبریں لوڈ ہو رہی ہیں...</div>
+            </div>
+        </section>
+
+        <!-- News Grid Section -->
+        <section class="news-section">
+            <div class="section-header">
+                <h3><i class="fas fa-globe-asia"></i> تازہ ترین</h3>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">تمام</button>
+                    <!-- Adding some static categories for demo later we can make it dynamic -->
+                    <button class="filter-btn" data-filter="world">عالمی</button>
+                    <button class="filter-btn" data-filter="tech">ٹیکنالوجی</button>
+                    <button class="filter-btn" data-filter="sports">کھیل</button>
+                </div>
+            </div>
+
+            <!-- Grid Container -->
+            <div class="news-grid" id="news-grid-container">
+                <!-- News Cards will be injected here via JS -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <p>&copy; 2026 عالمی خبریں۔ AI کی مدد سے خودکار ترجمہ شدہ۔</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/app.js"></script>
+</body>
+</html>
