@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cm215nnjyr0o#0",
+    "originalTitle": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+    "urduTitle": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+    "urduSummary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-05T21:20:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1e9qpy90g3o#0",
+    "originalTitle": "Azerbaijan says Iran struck its territory, as war spills over border",
+    "urduTitle": "Azerbaijan says Iran struck its territory, as war spills over border",
+    "urduSummary": "President Ilham Aliyev says drone strikes are \"act of terror\" as he places armed forces on high alert.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-05T21:33:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772741831",
+    "originalTitle": "US states sue to stop Trump’s latest global tariffs",
+    "urduTitle": "US states sue to stop Trump’s latest global tariffs",
+    "urduSummary": "Lawsuit is to stop the 10%  tariffs that Trump immediately imposed after US Supreme Court struck down previous tariffs.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss",
+    "pubDate": "2026-03-05T21:39:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772739949",
+    "originalTitle": "Iran fires more missiles, drones across Gulf region amid US-Israeli attacks",
+    "urduTitle": "Iran fires more missiles, drones across Gulf region amid US-Israeli attacks",
+    "urduSummary": "Gulf countries face continued barrage of Iranian attacks as US, Israel pledge to continue military assault against Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/5/iran-fires-more-missiles-drones-across-gulf-region-amid-us-israeli-attacks?traffic_source=rss",
+    "pubDate": "2026-03-05T21:31:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772743254",
+    "originalTitle": "Why has Hezbollah joined Middle East war?",
+    "urduTitle": "Why has Hezbollah joined Middle East war?",
+    "urduSummary": "Hezbollah has been attacking Israel as it pummels southern Lebanon and parts of Beirut.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/3/5/why-has-hezbollah-joined-middle-east-war?traffic_source=rss",
+    "pubDate": "2026-03-05T21:28:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cr5llg0e9g9o#0",
     "originalTitle": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
     "urduTitle": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
@@ -491,28 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/4/russia-china-raise-diplomatic-voices-against-us-israeli-attacks-on-iran?traffic_source=rss",
     "pubDate": "2026-03-04T03:03:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772584531",
-    "originalTitle": "US Commerce Secretary Lutnick to testify before Congress about Epstein ties",
-    "urduTitle": "US Commerce Secretary Lutnick to testify before Congress about Epstein ties",
-    "urduSummary": "Lutnick's relationship with financier has come under scrutiny after files revealed closer ties than previously known.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/4/us-commerce-secretary-lutnick-to-testify-before-congress-about-epstein-ties?traffic_source=rss",
-    "pubDate": "2026-03-04T02:45:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772591572",
-    "originalTitle": "US senators fear ‘boots on the ground’ after Iran war briefing",
-    "urduTitle": "US senators fear ‘boots on the ground’ after Iran war briefing",
-    "urduSummary": "Democratic senators voiced alarm after a classified briefing on the US‑Israeli war with Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/us-senators-fear-boots-on-the-ground-after-iran-war-briefing?traffic_source=rss",
-    "pubDate": "2026-03-04T02:37:51.000Z",
     "category": "world",
     "imageUrl": null
   }
