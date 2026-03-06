@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1772817487",
+    "originalTitle": "Has Donald Trump failed to sell the Iran war to the world?",
+    "urduTitle": "Has Donald Trump failed to sell the Iran war to the world?",
+    "urduSummary": "Some of Washington's allies have been critical and will not join the conflict.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/3/6/has-donald-trump-failed-to-sell-the-iran-war-to-the-world?traffic_source=rss",
+    "pubDate": "2026-03-06T17:34:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772708509",
+    "originalTitle": "How will the Middle East conflict affect global energy prices?",
+    "urduTitle": "How will the Middle East conflict affect global energy prices?",
+    "urduSummary": "Energy supplies in the Middle East are being choked off as the conflict between the US, Israel and Iran escalates.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss",
+    "pubDate": "2026-03-06T17:30:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772813337",
+    "originalTitle": "US job market stalls, unemployment rate rises before Fed decision",
+    "urduTitle": "US job market stalls, unemployment rate rises before Fed decision",
+    "urduSummary": "The healthcare sector was hit the hardest , while tariff-exposed sectors remained stagnant .",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss",
+    "pubDate": "2026-03-06T17:11:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1772799723",
     "originalTitle": "FIFA, AFC urged to protect Iran women footballers after ‘traitors’ threat",
     "urduTitle": "FIFA, AFC urged to protect Iran women footballers after ‘traitors’ threat",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/3/4/formula-one-teams-on-edge-as-new-regulations-face-first-test-in-australia?traffic_source=rss",
     "pubDate": "2026-03-04T16:43:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772633698",
-    "originalTitle": "Iraqi women’s rights activist Yanar Mohammed killing spurs call for justice",
-    "urduTitle": "Iraqi women’s rights activist Yanar Mohammed killing spurs call for justice",
-    "urduSummary": "Amnesty International decries Mohammed's killing as 'calculated assault to stifle human rights defenders' in Iraq.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/4/iraqi-womens-rights-activist-yanar-mohammed-killing-spurs-call-for-justice?traffic_source=rss",
-    "pubDate": "2026-03-04T15:54:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7955ewj7gwo#0",
-    "originalTitle": "Three men arrested in UK on suspicion of spying for China",
-    "urduTitle": "Three men arrested in UK on suspicion of spying for China",
-    "urduSummary": "He is one of three unnamed men who the Met Police suspect of assisting Chinese intelligence services in the UK.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-04T13:59:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c89kkykg39yo#0",
-    "originalTitle": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
-    "urduTitle": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
-    "urduSummary": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c89kkykg39yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-04T13:13:08.000Z",
     "category": "world",
     "imageUrl": null
   }
