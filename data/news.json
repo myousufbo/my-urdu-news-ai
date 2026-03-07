@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1772872242",
+    "originalTitle": "Moment drone strikes Dubai International Airport",
+    "urduTitle": "Moment drone strikes Dubai International Airport",
+    "urduSummary": "Moment drone strikes Dubai International Airport",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/moment-drone-strikes-dubai-international-airport?traffic_source=rss",
+    "pubDate": "2026-03-07T08:33:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772870577",
+    "originalTitle": "Overnight US-Israeli strikes in Tehran target airport",
+    "urduTitle": "Overnight US-Israeli strikes in Tehran target airport",
+    "urduSummary": "Overnight US-Israeli strikes in Tehran target airport",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/overnight-us-israeli-strikes-in-tehran-target-airport?traffic_source=rss",
+    "pubDate": "2026-03-07T08:27:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772869463",
+    "originalTitle": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
+    "urduTitle": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
+    "urduSummary": "Arab states in the Gulf and beyond that house US assets have been targeted in Iranian retaliatory strikes in the war.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/7/iran-to-halt-strikes-on-neighbours-unless-attacks-from-there-pezeshkian?traffic_source=rss",
+    "pubDate": "2026-03-07T08:25:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5yq82k1wk8o#0",
     "originalTitle": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
     "urduTitle": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/5/drone-targets-us-base-in-iraq-as-iran-attacks-hit-region-amid-us-israel-war?traffic_source=rss",
     "pubDate": "2026-03-05T08:49:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqxddwl93qjo#0",
-    "originalTitle": "China sets lowest economic growth target since 1991",
-    "urduTitle": "China sets lowest economic growth target since 1991",
-    "urduSummary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-05T03:10:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772678657",
-    "originalTitle": "Canada PM Carney says unable to rule out military role in Iran war",
-    "urduTitle": "Canada PM Carney says unable to rule out military role in Iran war",
-    "urduSummary": "Canadian leader also said the US-Israeli attacks on Iran appear to be 'inconsistent with international law'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss",
-    "pubDate": "2026-03-05T04:44:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772677191",
-    "originalTitle": "North Korea’s Kim oversees cruise missile tests from new naval destroyer",
-    "urduTitle": "North Korea’s Kim oversees cruise missile tests from new naval destroyer",
-    "urduSummary": "Kim Jong Un supervised the launch of sea-to-surface 'strategic cruise missiles' from country's new naval destroyer.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/5/north-koreas-kim-oversees-cruise-missile-tests-from-new-naval-destroyer?traffic_source=rss",
-    "pubDate": "2026-03-05T04:26:41.000Z",
     "category": "world",
     "imageUrl": null
   }
