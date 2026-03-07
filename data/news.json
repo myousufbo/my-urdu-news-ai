@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cy8l2p2l3v0o#0",
+    "originalTitle": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+    "urduTitle": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+    "urduSummary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-07T19:16:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772900629",
+    "originalTitle": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
+    "urduTitle": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
+    "urduSummary": "Iran's judiciary chief contradicts earlier apology to Gulf, warns of ‘heavy attacks’ on areas ‘at disposal of enemy'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss",
+    "pubDate": "2026-03-07T20:18:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772904025",
+    "originalTitle": "Russia kills 10 in Ukraine strike including children with new missile",
+    "urduTitle": "Russia kills 10 in Ukraine strike including children with new missile",
+    "urduSummary": "President Zelenskyy calls for international response as Russian assault targets civilian and energy infrastructure.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss",
+    "pubDate": "2026-03-07T20:13:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772912733",
+    "originalTitle": "Smoke rises from a Dubai tower after attack",
+    "urduTitle": "Smoke rises from a Dubai tower after attack",
+    "urduSummary": "Video shows smoke rising from a Dubai tower after shrapnel damaged the residential building and set a car on fire.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss",
+    "pubDate": "2026-03-07T19:49:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cq6qp458zv1o#0",
     "originalTitle": "Iran will continue to defend itself against aggression, ambassador to UK says",
     "urduTitle": "Iran will continue to defend itself against aggression, ambassador to UK says",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-03-05T17:23:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772725748",
-    "originalTitle": "Israel, US intensify Iran strikes, targeting homes, hospitals, stadium",
-    "urduTitle": "Israel, US intensify Iran strikes, targeting homes, hospitals, stadium",
-    "urduSummary": "Strikes target hospitals, schools, and cultural sites across Iran, disrupting daily life particularly in Tehran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/3/5/explosions-rock-tehran-as-israel-intensifies-strikes-on-government-sites?traffic_source=rss",
-    "pubDate": "2026-03-05T19:01:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772716896",
-    "originalTitle": "Israel kills more than 100 Lebanese as it commands Beirut residents to flee",
-    "urduTitle": "Israel kills more than 100 Lebanese as it commands Beirut residents to flee",
-    "urduSummary": "More than 38,000 Syrians flee Lebanon for Syria, as mounting violence causes displacement across the Middle East and beyond.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/3/5/buildings-devastated-by-israeli-strikes-in-lebanon-death-toll-rises-to-77?traffic_source=rss",
-    "pubDate": "2026-03-05T18:15:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772731589",
-    "originalTitle": "India beat England to reach T20 World Cup final as Sanju stars again",
-    "urduTitle": "India beat England to reach T20 World Cup final as Sanju stars again",
-    "urduSummary": "Sanju Samson hit 89 for India as they posted 253-6 and beat England by 7 runs in second semifinal of 2026 T20 World Cup.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/3/5/india-beat-england-to-reach-t20-world-cup-final-as-sanju-stars-again?traffic_source=rss",
-    "pubDate": "2026-03-05T17:47:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c79550jrye8o#0",
-    "originalTitle": "Nepalis vote in first election since Gen Z uprising for change",
-    "urduTitle": "Nepalis vote in first election since Gen Z uprising for change",
-    "urduSummary": "This election will test whether the country is ready for a new, untested generation to shape its future.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c79550jrye8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-05T12:51:12.000Z",
     "category": "world",
     "imageUrl": null
   }
