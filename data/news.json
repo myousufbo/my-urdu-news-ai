@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1772921005",
+    "originalTitle": "Trump says US does not need UK’s aircraft carriers for Iran war",
+    "urduTitle": "Trump says US does not need UK’s aircraft carriers for Iran war",
+    "urduSummary": "The president called the Iran war 'already won' as he dismissed reports that the UK was preparing HMS Prince of Wales.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss",
+    "pubDate": "2026-03-08T00:33:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772924324",
+    "originalTitle": "Iran war live: Trump again demands surrender; Israel bombs oil depots",
+    "urduTitle": "Iran war live: Trump again demands surrender; Israel bombs oil depots",
+    "urduSummary": "Qatar, Saudi Arabia and UAE report more attacks despite assurance from Iran's president that the strikes will stop.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
+    "pubDate": "2026-03-08T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772925532",
+    "originalTitle": "Huge fire rages at Tehran oil depot after Israeli attack",
+    "urduTitle": "Huge fire rages at Tehran oil depot after Israeli attack",
+    "urduSummary": "Footage captured a massive fire raging at the Shahran oil depot in northern Tehran following an Israeli strike.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack?traffic_source=rss",
+    "pubDate": "2026-03-07T23:26:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cy8l2p2l3v0o#0",
     "originalTitle": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
     "urduTitle": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/5/iran-fires-more-missiles-drones-across-gulf-region-amid-us-israeli-attacks?traffic_source=rss",
     "pubDate": "2026-03-05T21:31:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772743254",
-    "originalTitle": "Why has Hezbollah joined Middle East war?",
-    "urduTitle": "Why has Hezbollah joined Middle East war?",
-    "urduSummary": "Hezbollah has been attacking Israel as it pummels southern Lebanon and parts of Beirut.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/3/5/why-has-hezbollah-joined-middle-east-war?traffic_source=rss",
-    "pubDate": "2026-03-05T21:28:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr5llg0e9g9o#0",
-    "originalTitle": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
-    "urduTitle": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
-    "urduSummary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-05T18:19:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gjjn41l7no#0",
-    "originalTitle": "Britney Spears arrested on suspicion of driving under the influence",
-    "urduTitle": "Britney Spears arrested on suspicion of driving under the influence",
-    "urduSummary": "The singer was arrested by the California Highway Patrol at around 21:30 PT (05:30 GMT) on Wednesday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-05T17:23:19.000Z",
     "category": "world",
     "imageUrl": null
   }
