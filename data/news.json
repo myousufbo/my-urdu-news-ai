@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1772977337",
+    "originalTitle": "Pope Leo urges dialogue amid Middle East war",
+    "urduTitle": "Pope Leo urges dialogue amid Middle East war",
+    "urduSummary": "Pope Leo urged dialogue and an end to the violence in the Middle East as tensions escalate in the region.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/pope-leo-urges-dialogue-amid-middle-east-war?traffic_source=rss",
+    "pubDate": "2026-03-08T13:44:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772975973",
+    "originalTitle": "Al Jazeera reporter boards first flight to Doha since war on Iran",
+    "urduTitle": "Al Jazeera reporter boards first flight to Doha since war on Iran",
+    "urduSummary": "Al Jazeera’s Osama Bin Javaid reports from aboard the first flight heading to Doha from Paris since the war on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/al-jazeera-reporter-boards-first-flight-to-doha-since-war-on-iran?traffic_source=rss",
+    "pubDate": "2026-03-08T13:23:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772960344",
+    "originalTitle": "Tehran residents donate blood amid ongoing US-Israel attacks on Iran",
+    "urduTitle": "Tehran residents donate blood amid ongoing US-Israel attacks on Iran",
+    "urduSummary": "Residents in Tehran are flocking to blood donation centres, responding to growing medical needs and fears of shortages.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/tehran-residents-donate-blood-amid-ongoing-us-israel-attacks-on-iran?traffic_source=rss",
+    "pubDate": "2026-03-08T13:10:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cx2r1xldl1ko#0",
     "originalTitle": "War fuels debate in Cyprus over UK military bases",
     "urduTitle": "War fuels debate in Cyprus over UK military bases",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-03-05T22:16:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy9g1l5jx90o#0",
-    "originalTitle": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-    "urduTitle": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-    "urduSummary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-06T04:23:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772766480",
-    "originalTitle": "US House joins Senate to vote down war powers resolution",
-    "urduTitle": "US House joins Senate to vote down war powers resolution",
-    "urduSummary": "The US House of Representatives has joined the Senate in killing a war powers resolution for the war in Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss",
-    "pubDate": "2026-03-06T03:20:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772760454",
-    "originalTitle": "Video shows projectile exploding near Ali al-Salem Air Base in Kuwait",
-    "urduTitle": "Video shows projectile exploding near Ali al-Salem Air Base in Kuwait",
-    "urduSummary": "Videos showed a projectile striking near Kuwait's Ali al-Salem Air Base, which has hosted a number of US forces.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/video-shows-projectile-exploding-near-ali-al-salem-air-base-in-kuwait?traffic_source=rss",
-    "pubDate": "2026-03-06T01:32:29.000Z",
     "category": "world",
     "imageUrl": null
   }
