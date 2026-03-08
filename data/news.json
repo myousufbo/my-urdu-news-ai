@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/crrxpwzvd5vo#0",
+    "originalTitle": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
+    "urduTitle": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
+    "urduSummary": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-08T01:08:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772981334",
+    "originalTitle": "Israel escalates attacks across Lebanon as two soldiers killed",
+    "urduTitle": "Israel escalates attacks across Lebanon as two soldiers killed",
+    "urduSummary": "Israeli military confirms first fatalities in Lebanon a week after fighting resumes with Hezbollah.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
+    "pubDate": "2026-03-08T16:31:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772978050",
+    "originalTitle": "‘Gulf countries may question US capability to protect them’",
+    "urduTitle": "‘Gulf countries may question US capability to protect them’",
+    "urduSummary": "‘This war has not been thought through’",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss",
+    "pubDate": "2026-03-08T15:30:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772973150",
+    "originalTitle": "Iran women’s football team sing anthem amid safety concerns during war",
+    "urduTitle": "Iran women’s football team sing anthem amid safety concerns during war",
+    "urduSummary": "Players sing, salute during anthem in last Asian Cup game as rights activists raise concerns over their return to Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/3/8/iran-womens-football-team-sing-anthem-amid-safety-concerns-during-war?traffic_source=rss",
+    "pubDate": "2026-03-08T14:34:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1772977337",
     "originalTitle": "Pope Leo urges dialogue amid Middle East war",
     "urduTitle": "Pope Leo urges dialogue amid Middle East war",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/6/is-brics-bloc-divided-over-us-israel-attacks-on-iran?traffic_source=rss",
     "pubDate": "2026-03-06T09:16:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772786381",
-    "originalTitle": "Will the Houthis join Iran’s war?",
-    "urduTitle": "Will the Houthis join Iran’s war?",
-    "urduSummary": "As the regional conflict escalates, Abdel-Malik al-Houthi faces a strategic choice: intervene or stay out.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/3/6/will-the-houthis-join-irans-war?traffic_source=rss",
-    "pubDate": "2026-03-06T09:12:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772782272",
-    "originalTitle": "Cost to US for war on Iran is $3.7bn in first 100 hours, says think tank",
-    "urduTitle": "Cost to US for war on Iran is $3.7bn in first 100 hours, says think tank",
-    "urduSummary": "Most of the costs are not budgeted for, meaning the Pentagon will need to request more funding soon, researchers say.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/6/cost-to-us-for-war-on-iran-is-3-7bn-in-first-100-hours-says-think-tank?traffic_source=rss",
-    "pubDate": "2026-03-06T08:35:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2044vzrdpzo#0",
-    "originalTitle": "'What is the game plan?': The Iran war is unsettling China and its ambitions ",
-    "urduTitle": "'What is the game plan?': The Iran war is unsettling China and its ambitions ",
-    "urduSummary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-05T23:13:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2e4v7yvjx8o#0",
-    "originalTitle": "Trump cuts his losses on Noem after controversial tenure at homeland security",
-    "urduTitle": "Trump cuts his losses on Noem after controversial tenure at homeland security",
-    "urduSummary": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-05T22:16:24.000Z",
     "category": "world",
     "imageUrl": null
   }
