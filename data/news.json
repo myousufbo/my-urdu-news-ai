@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cdr24g1p3vpo#0",
+    "originalTitle": "US teacher killed after toilet paper prank goes wrong",
+    "urduTitle": "US teacher killed after toilet paper prank goes wrong",
+    "urduSummary": "Jason Hughes's family does not want the students prosecuted after the  prank turned into  a fatal car accident.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-09T17:09:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773066495",
+    "originalTitle": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
+    "urduTitle": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
+    "urduSummary": "French president says 'purely defensive' mission aims to gradually reopen key Gulf waterway amid spike in oil prices.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
+    "pubDate": "2026-03-09T16:45:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773064318",
+    "originalTitle": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
+    "urduTitle": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
+    "urduSummary": "Top Democrats say Minab school bombing that killed at least 170 people 'must be fully and impartially reviewed'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
+    "pubDate": "2026-03-09T16:41:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773069630",
+    "originalTitle": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
+    "urduTitle": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
+    "urduSummary": "The US military claims six men killed in a strike on a suspected drug-smuggling boat in the eastern Pacific Ocean.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/9/us-military-kills-six-in-strike-on-alleged-drug-boat-in-the-eastern-pacific?traffic_source=rss",
+    "pubDate": "2026-03-09T16:40:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c2e4yxj0pd3o#0",
     "originalTitle": "India offered sanctuary to Iranian ship three days before US sank it",
     "urduTitle": "India offered sanctuary to Iranian ship three days before US sank it",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/7/iranian-authorities-warn-against-fifth-column-as-no-signs-of-war-abating?traffic_source=rss",
     "pubDate": "2026-03-07T13:00:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772831766",
-    "originalTitle": "OpenAI’s fund raising boom slows amid mounting debt",
-    "urduTitle": "OpenAI’s fund raising boom slows amid mounting debt",
-    "urduSummary": "Experts have begun to question the AI startup’s path forward amid surging financial needs and no profit plan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/7/openais-fund-raising-boom-slows-amid-mounting-debt?traffic_source=rss",
-    "pubDate": "2026-03-07T12:29:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772872242",
-    "originalTitle": "Moment drone strikes Dubai International Airport",
-    "urduTitle": "Moment drone strikes Dubai International Airport",
-    "urduSummary": "Moment drone strikes Dubai International Airport",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/moment-drone-strikes-dubai-international-airport?traffic_source=rss",
-    "pubDate": "2026-03-07T08:33:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772870577",
-    "originalTitle": "Overnight US-Israeli strikes in Tehran target airport",
-    "urduTitle": "Overnight US-Israeli strikes in Tehran target airport",
-    "urduSummary": "Overnight US-Israeli strikes in Tehran target airport",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/overnight-us-israeli-strikes-in-tehran-target-airport?traffic_source=rss",
-    "pubDate": "2026-03-07T08:27:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772869463",
-    "originalTitle": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
-    "urduTitle": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
-    "urduSummary": "Arab states in the Gulf and beyond that house US assets have been targeted in Iranian retaliatory strikes in the war.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/7/iran-to-halt-strikes-on-neighbours-unless-attacks-from-there-pezeshkian?traffic_source=rss",
-    "pubDate": "2026-03-07T08:25:01.000Z",
     "category": "world",
     "imageUrl": null
   }
