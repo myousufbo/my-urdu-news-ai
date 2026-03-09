@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-03-09T10:30:35.532Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773044728",
+    "originalTitle": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians",
+    "urduTitle": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians",
+    "urduSummary": "Deputy Health Minister Ali Jafarian tells Al Jazeera air attacks damage dozens of healthcare facilities.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss",
+    "pubDate": "2026-03-09T10:12:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773046229",
+    "originalTitle": "Iraq coach urges FIFA to delay World Cup playoff amid US-Israel war on Iran",
+    "urduTitle": "Iraq coach urges FIFA to delay World Cup playoff amid US-Israel war on Iran",
+    "urduSummary": "Graham Arnold says a delay to the March 31 fixture will allow the scattered members of his team to gather and prepare.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/3/9/iraq-coach-urges-fifa-to-delay-world-cup-playoff-amid-us-israel-war-on-iran?traffic_source=rss",
+    "pubDate": "2026-03-09T10:05:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1772975918",
+    "originalTitle": "Which US and Israeli military companies are profiting from the Iran war?",
+    "urduTitle": "Which US and Israeli military companies are profiting from the Iran war?",
+    "urduSummary": "Defence stocks reach all-time highs, driven by need to produce billions of dollars of weapons systems.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war?traffic_source=rss",
+    "pubDate": "2026-03-09T09:56:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c78xxg05w0zo#0",
     "originalTitle": "Who is Mojtaba Khamenei, Iran's new supreme leader? ",
     "urduTitle": "Who is Mojtaba Khamenei, Iran's new supreme leader? ",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now?traffic_source=rss",
     "pubDate": "2026-03-07T04:21:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772853181",
-    "originalTitle": "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
-    "urduTitle": "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
-    "urduSummary": "Apparent anti-aircraft fire was seen in the Bekaa Valley of eastern Lebanon amid reports of an attempted Israeli attack.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss",
-    "pubDate": "2026-03-07T03:18:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772851267",
-    "originalTitle": "Massive explosions, fires from US-Israeli strikes on Tehran",
-    "urduTitle": "Massive explosions, fires from US-Israeli strikes on Tehran",
-    "urduSummary": "Massive explosions and fires were seen across Tehran as US-Israeli strikes pummelled targets in the Iranian capital.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/massive-explosions-fires-from-us-israeli-strikes-on-tehran?traffic_source=rss",
-    "pubDate": "2026-03-07T03:02:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772825695",
-    "originalTitle": "US and Israel attacking Iran at ‘record pace’, war monitor says",
-    "urduTitle": "US and Israel attacking Iran at ‘record pace’, war monitor says",
-    "urduSummary": "Airwars says first days of US-Israeli Iran strikes 'hit significantly more targets than any campaign in recent decades'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/6/us-and-israel-attacking-iran-at-record-pace-war-monitor-says?traffic_source=rss",
-    "pubDate": "2026-03-06T20:37:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772819878",
-    "originalTitle": "Human rights court orders reparations for forced sterilisation case in Peru",
-    "urduTitle": "Human rights court orders reparations for forced sterilisation case in Peru",
-    "urduSummary": "Inter-American Court of Human Rights says Peru must pay family of woman who died as a result of forced sterilisation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/6/human-rights-court-orders-reparations-for-forced-sterilisation-case-in-peru?traffic_source=rss",
-    "pubDate": "2026-03-06T20:31:37.000Z",
     "category": "world",
     "imageUrl": null
   }
