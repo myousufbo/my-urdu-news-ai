@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-03-11T21:02:34.251Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773253846",
+    "originalTitle": "Two killed as tornadoes sweep across US Midwest in latest extreme weather",
+    "urduTitle": "Two killed as tornadoes sweep across US Midwest in latest extreme weather",
+    "urduSummary": "'Supercell' thunderstorms hit Illinois and Indiana, after eight people killed by tornadoes in US Midwest last week.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss",
+    "pubDate": "2026-03-11T20:26:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773252849",
+    "originalTitle": "UN’s failure to stop Iranian attacks sending ‘dangerous signal’: Qatar",
+    "urduTitle": "UN’s failure to stop Iranian attacks sending ‘dangerous signal’: Qatar",
+    "urduSummary": "Qatar's envoy to UN condemns Iranian drone, missile strikes across the Gulf as 'clear violation of international law'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/11/uns-failure-to-stop-iranian-attacks-sending-dangerous-signal-qatar?traffic_source=rss",
+    "pubDate": "2026-03-11T20:01:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773254675",
+    "originalTitle": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
+    "urduTitle": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
+    "urduSummary": "Three Norwegian citizens with Iraqi heritage arrested as investigators probe possible foreign state involvement.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/11/three-brothers-arrested-in-norway-over-bomb-attack-on-us-embassy-in-oslo?traffic_source=rss",
+    "pubDate": "2026-03-11T19:34:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn0znx4xrl9o#0",
     "originalTitle": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
     "urduTitle": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/3/9/aje-onl-tt_lbn_50yearsofisrinvasions_av_v3-090326?traffic_source=rss",
     "pubDate": "2026-03-09T20:05:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdr24g1p3vpo#0",
-    "originalTitle": "US teacher killed after toilet paper prank goes wrong",
-    "urduTitle": "US teacher killed after toilet paper prank goes wrong",
-    "urduSummary": "Jason Hughes's family does not want the students prosecuted after the  prank turned into  a fatal car accident.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-09T17:09:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773066495",
-    "originalTitle": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
-    "urduTitle": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
-    "urduSummary": "French president says 'purely defensive' mission aims to gradually reopen key Gulf waterway amid spike in oil prices.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
-    "pubDate": "2026-03-09T16:45:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773064318",
-    "originalTitle": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
-    "urduTitle": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
-    "urduSummary": "Top Democrats say Minab school bombing that killed at least 170 people 'must be fully and impartially reviewed'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
-    "pubDate": "2026-03-09T16:41:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773069630",
-    "originalTitle": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
-    "urduTitle": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
-    "urduSummary": "The US military claims six men killed in a strike on a suspected drug-smuggling boat in the eastern Pacific Ocean.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/9/us-military-kills-six-in-strike-on-alleged-drug-boat-in-the-eastern-pacific?traffic_source=rss",
-    "pubDate": "2026-03-09T16:40:59.000Z",
     "category": "world",
     "imageUrl": null
   }
