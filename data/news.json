@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c5y4wdlyy9xo#0",
+    "originalTitle": "At least six dead in Switzerland bus fire",
+    "urduTitle": "At least six dead in Switzerland bus fire",
+    "urduSummary": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-11T06:13:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773215061",
+    "originalTitle": "ICC rejects bias claims from stranded South Africa, West Indies cricketers",
+    "urduTitle": "ICC rejects bias claims from stranded South Africa, West Indies cricketers",
+    "urduSummary": "Frustrated players say they were left in the dark for days over their travel while England flew out within two days.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/3/11/icc-rejects-bias-claims-from-stranded-south-africa-west-indies-cricketers?traffic_source=rss",
+    "pubDate": "2026-03-11T09:14:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773219205",
+    "originalTitle": "‘Titanic’ Trump-Epstein statue appears in Washington DC",
+    "urduTitle": "‘Titanic’ Trump-Epstein statue appears in Washington DC",
+    "urduSummary": "A statue was placed in Washington DC depicting US President Donald Trump and convicted sex offender Jeffrey Epstein.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/titanic-trump-epstein-statue-appears-in-washington-dc?traffic_source=rss",
+    "pubDate": "2026-03-11T09:10:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773217031",
+    "originalTitle": "Russia kills two in Ukraine’s Kharkiv; war grinds on, focus on Middle East",
+    "urduTitle": "Russia kills two in Ukraine’s Kharkiv; war grinds on, focus on Middle East",
+    "urduSummary": "At least seven injured in the northeastern city of Kharkiv after a drone hit a 'civilian enterprise', officials say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/11/russia-kills-two-in-ukraines-kharkiv-war-grinds-on-focus-on-middle-east?traffic_source=rss",
+    "pubDate": "2026-03-11T09:03:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cdjm7rxjxneo#0",
     "originalTitle": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
     "urduTitle": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-03-09T05:12:58.825Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773013914",
-    "originalTitle": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
-    "urduTitle": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
-    "urduSummary": "Crude oil prices surge more than 20 percent as sprawling regional conflict threatens global energy supplies.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss",
-    "pubDate": "2026-03-09T00:52:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773011423",
-    "originalTitle": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
-    "urduTitle": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
-    "urduSummary": "Iran's military and political leaders pledge allegiance to Mojtaba Khamenei as US-Israeli attacks continue.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss",
-    "pubDate": "2026-03-09T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773009448",
-    "originalTitle": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
-    "urduTitle": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
-    "urduSummary": "Iranian state television has announced that the Assembly of Experts has chosen Mojtaba Khamenei as supreme leader.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-names-ayatollah-khameneis-son-as-new-leader-after-fathers-killing?traffic_source=rss",
-    "pubDate": "2026-03-08T22:46:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1772993980",
-    "originalTitle": "Thousands flee Akobo after South Sudan army issues forced evacuation order",
-    "urduTitle": "Thousands flee Akobo after South Sudan army issues forced evacuation order",
-    "urduSummary": "Army tells UN and aid workers to leave as forces close in on one of the last opposition strongholds.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/8/thousands-flee-akobo-after-south-sudan-army-issues-forced-evacuation-order?traffic_source=rss",
-    "pubDate": "2026-03-08T20:17:38.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
