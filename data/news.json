@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1773308282",
+    "originalTitle": "Al Jazeera sees bombs being loaded onto US planes at UK base",
+    "urduTitle": "Al Jazeera sees bombs being loaded onto US planes at UK base",
+    "urduSummary": "An Al Jazeera crew filmed bunker-busting bombs being loaded onto US military planes at a UK military base.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-sees-bombs-being-loaded-onto-us-planes-at-uk-base?traffic_source=rss",
+    "pubDate": "2026-03-12T09:46:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773308119",
+    "originalTitle": "Saudi Arabia and UAE condemn Iranian attacks",
+    "urduTitle": "Saudi Arabia and UAE condemn Iranian attacks",
+    "urduSummary": "Saudi and UAE ambassadors to the UN condemn Iranian attacks ahead of Security Council meeting.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/saudi-arabia-and-uae-condemn-iranian-attacks?traffic_source=rss",
+    "pubDate": "2026-03-12T09:38:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773262465",
+    "originalTitle": "Residents of this Beirut neighbourhood felt safe. Then Israel attacked it.",
+    "urduTitle": "Residents of this Beirut neighbourhood felt safe. Then Israel attacked it.",
+    "urduSummary": "Residents of a Beirut neighbourhood tell Al Jazeera they felt safe until the Israeli attack on Wednesday morning.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/3/12/residents-of-this-beirut-neighbourhood-felt-safe-then-israel-attacked-it?traffic_source=rss",
+    "pubDate": "2026-03-12T09:36:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c1w5141vx53o#0",
     "originalTitle": "Oil price jumps despite deal to release record amount of reserves",
     "urduTitle": "Oil price jumps despite deal to release record amount of reserves",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/10/could-the-us-israel-war-with-iran-fuel-global-inflation?traffic_source=rss",
     "pubDate": "2026-03-10T09:17:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773123406",
-    "originalTitle": "US investigators begin search of Epstein’s former ranch in New Mexico",
-    "urduTitle": "US investigators begin search of Epstein’s former ranch in New Mexico",
-    "urduSummary": "Search comes after the release of investigative files renewed attention to sex offender's activities at the Zorro Ranch.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/10/us-investigators-begin-search-of-epsteins-former-ranch-in-new-mexico?traffic_source=rss",
-    "pubDate": "2026-03-10T09:17:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773129887",
-    "originalTitle": "Geopolitical analysis of the imposed war against Iran",
-    "urduTitle": "Geopolitical analysis of the imposed war against Iran",
-    "urduSummary": "This is a war of survival and global consequences.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/3/10/geopolitical-analysis-of-the-imposed-war-against-iran?traffic_source=rss",
-    "pubDate": "2026-03-10T09:02:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773109021",
-    "originalTitle": "Australia to send missiles to UAE, surveillance plane to help Gulf defence",
-    "urduTitle": "Australia to send missiles to UAE, surveillance plane to help Gulf defence",
-    "urduSummary": "Australian Prime Minister Anthony Albanese said missiles and reconnaissance plane will be sent to region.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/10/australia-to-send-missiles-to-uae-surveillance-plane-to-help-gulf-defence?traffic_source=rss",
-    "pubDate": "2026-03-10T03:55:52.000Z",
     "category": "world",
     "imageUrl": null
   }
