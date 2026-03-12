@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c8jxnjvjkg7o#0",
+    "originalTitle": "Rapper-politician Balendra Shah's party wins Nepal election",
+    "urduTitle": "Rapper-politician Balendra Shah's party wins Nepal election",
+    "urduSummary": "The Rastriya Swatatantra Party has won a large majority in an election dominated by issues including corruption.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-12T15:25:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773334427",
+    "originalTitle": "Two in critical condition after shooting at Old Dominion University in US",
+    "urduTitle": "Two in critical condition after shooting at Old Dominion University in US",
+    "urduSummary": "Authorities say suspect is dead after opening fire in university building in latest shooting on US university campus.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/12/two-in-critical-condition-after-shooting-at-old-dominion-university-in-us?traffic_source=rss",
+    "pubDate": "2026-03-12T17:36:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773329625",
+    "originalTitle": "Israel drops charges against soldiers in Palestinian detainee abuse case",
+    "urduTitle": "Israel drops charges against soldiers in Palestinian detainee abuse case",
+    "urduSummary": "Charges dropped against five soldiers accused of sexually abusing a Palestinian detainee at a military facility.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/12/israel-drops-charges-on-soldiers-who-allegedly-raped-palestinian-detainee?traffic_source=rss",
+    "pubDate": "2026-03-12T17:30:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773333196",
+    "originalTitle": "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
+    "urduTitle": "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
+    "urduSummary": "US president, who won the FIFA Peace Prize says Iran would be welcome but should not come for its players' safety.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/12/trump-says-not-appropriate-for-iran-to-participate-in-the-world-cup-in-us?traffic_source=rss",
+    "pubDate": "2026-03-12T17:20:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c3094g50rnvo#0",
     "originalTitle": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
     "urduTitle": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/search-efforts-suspended-after-deadly-indonesia-landfill-collapse?traffic_source=rss",
     "pubDate": "2026-03-10T17:28:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773157653",
-    "originalTitle": "Global airlines hike ticket prices as Iran war sends costs soaring",
-    "urduTitle": "Global airlines hike ticket prices as Iran war sends costs soaring",
-    "urduSummary": "The war has sent oil prices surging, upending global travel and pushing airline ticket costs on some routes sky-high.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/10/global-airlines-hike-ticket-prices-as-iran-war-sends-costs-soaring?traffic_source=rss",
-    "pubDate": "2026-03-10T17:14:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd9g5p3ppxlo#0",
-    "originalTitle": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict",
-    "urduTitle": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict",
-    "urduSummary": "President Aoun outlines a path towards \"permanent security and stability\", as Israeli strikes targeting Hezbollah continue.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-10T12:00:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773142341",
-    "originalTitle": "What are the Ukrainian drone interceptors sent to counter Iranian attacks?",
-    "urduTitle": "What are the Ukrainian drone interceptors sent to counter Iranian attacks?",
-    "urduSummary": "Ukraine has battle experience with Iranian-made Shahed drones and has mass-produced cheap interceptors.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/10/what-are-the-ukrainian-drone-interceptors-sent-to-counter-iranian-attacks?traffic_source=rss",
-    "pubDate": "2026-03-10T13:59:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773141610",
-    "originalTitle": "Women’s football team to be welcomed home with open arms, Iran says",
-    "urduTitle": "Women’s football team to be welcomed home with open arms, Iran says",
-    "urduSummary": "Iran's Foreign Ministry and general prosecutor say the team is invited to return home 'with peace and confidence'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss",
-    "pubDate": "2026-03-10T13:06:47.000Z",
     "category": "world",
     "imageUrl": null
   }
