@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1773694042",
+    "originalTitle": "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
+    "urduTitle": "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
+    "urduSummary": "Speaking at the Oval office, US President Donald Trump stated that Somalia is a “fourth world nation.”",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
+    "pubDate": "2026-03-16T21:16:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773694696",
+    "originalTitle": "Ten ICU patients killed in hospital fire in eastern India",
+    "urduTitle": "Ten ICU patients killed in hospital fire in eastern India",
+    "urduSummary": "Emergency responders carried patients out of a government hospital in Odisha, India.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
+    "pubDate": "2026-03-16T21:01:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773694590",
+    "originalTitle": "Who is answering Trump’s call for help with Strait of Hormuz?",
+    "urduTitle": "Who is answering Trump’s call for help with Strait of Hormuz?",
+    "urduSummary": "Trump has criticised the response to his call to help protect shipping in the Strait of Hormuz during the war on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/who-is-answering-trumps-call-for-help-with-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-03-16T21:00:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c8r17plnvy3o#0",
     "originalTitle": "Wary allies show there's no quick fix to Trump's Iran crisis",
     "urduTitle": "Wary allies show there's no quick fix to Trump's Iran crisis",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
     "pubDate": "2026-03-14T16:03:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773349838",
-    "originalTitle": "How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples",
-    "urduTitle": "How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples",
-    "urduSummary": "Some First Nations are challenging Carney's resource-extraction plans to strengthen Canadian economy from US threats.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/14/carneys-build-big-and-build-fast-push-is-dividing-canadas-indigenous?traffic_source=rss",
-    "pubDate": "2026-03-14T15:18:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8jxzlwvd8ro#0",
-    "originalTitle": "Why has the US targeted Iran's Kharg Island?",
-    "urduTitle": "Why has the US targeted Iran's Kharg Island?",
-    "urduSummary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-14T13:42:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvg3xk6xgyzo#0",
-    "originalTitle": "Hamas urges key ally Iran to halt attacks on Gulf states",
-    "urduTitle": "Hamas urges key ally Iran to halt attacks on Gulf states",
-    "urduSummary": "The Palestinian group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-14T13:34:17.000Z",
     "category": "world",
     "imageUrl": null
   }
