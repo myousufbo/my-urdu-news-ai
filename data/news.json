@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1773828771",
+    "originalTitle": "Rama in Lebanon",
+    "urduTitle": "Rama in Lebanon",
+    "urduSummary": "A video diary for Al Jazeera",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss",
+    "pubDate": "2026-03-18T10:17:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773779826",
+    "originalTitle": "The Kent warning: When truth escapes the war machine",
+    "urduTitle": "The Kent warning: When truth escapes the war machine",
+    "urduSummary": "A US counterterrorism official’s resignation raises uncomfortable questions about a war few are willing to challenge",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/3/18/the-kent-warning-when-truth-escapes-the-war-machine?traffic_source=rss",
+    "pubDate": "2026-03-18T10:12:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773826708",
+    "originalTitle": "‘US and Israel have taken majority of Iran’s ballistic missile capability’",
+    "urduTitle": "‘US and Israel have taken majority of Iran’s ballistic missile capability’",
+    "urduSummary": "‘US and Israel have taken the vast majority of Iran’s ballistic missile capability’",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/quotable/2026/3/18/us-and-israel-have-taken-majority-of-irans-ballistic-missile-capability?traffic_source=rss",
+    "pubDate": "2026-03-18T09:42:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cgqgxqekp89o#0",
     "originalTitle": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
     "urduTitle": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/3/16/man-city-vs-real-madrid-champions-league-team-news-start-and?traffic_source=rss",
     "pubDate": "2026-03-16T10:06:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cp32gez414yo#0",
-    "originalTitle": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-    "urduTitle": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-    "urduSummary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-16T05:14:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2dl5j0w23o#0",
-    "originalTitle": "How US groups are driving a new generation of anti-abortion activism in the UK",
-    "urduTitle": "How US groups are driving a new generation of anti-abortion activism in the UK",
-    "urduSummary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-16T00:31:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20jyngz7ygo#0",
-    "originalTitle": "Ukraine's urgent fight on the financial frontline",
-    "urduTitle": "Ukraine's urgent fight on the financial frontline",
-    "urduSummary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-16T00:06:14.000Z",
     "category": "world",
     "imageUrl": null
   }
