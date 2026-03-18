@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cgqgxqekp89o#0",
+    "originalTitle": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+    "urduTitle": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+    "urduSummary": "Larijani has long been seen as one of the Islamic Republic's most experienced and influential policy makers.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-18T04:36:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn9e0wrglgdo#0",
+    "originalTitle": "Total repression and air strikes bring unrelenting dread for Iranians",
+    "urduTitle": "Total repression and air strikes bring unrelenting dread for Iranians",
+    "urduSummary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-18T00:07:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773800235",
+    "originalTitle": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
+    "urduTitle": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
+    "urduSummary": "US President Donald Trump delays his trip to Beijing while also seeking China's help to reopen the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss",
+    "pubDate": "2026-03-18T04:43:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773808404",
+    "originalTitle": "Actor Sean Penn gifted a special ‘Oscar’ by Ukraine’s railway company",
+    "urduTitle": "Actor Sean Penn gifted a special ‘Oscar’ by Ukraine’s railway company",
+    "urduSummary": "Sean Penn was gifted an ‘Oscar’ made of Ukrainian railway metal after he skipped the Oscars to visit war-torn Ukraine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/actor-sean-penn-gifted-a-special-oscar-by-ukraines-railway-company?traffic_source=rss",
+    "pubDate": "2026-03-18T04:37:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773803839",
+    "originalTitle": "Trump administration defends Anthropic blacklisting in US court",
+    "urduTitle": "Trump administration defends Anthropic blacklisting in US court",
+    "urduSummary": "US defence secretary designated Anthropic a 'supply chain risk' after it refused to remove guardrails on its technology.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/3/18/trump-administration-defends-anthropic-blacklisting-in-us-court?traffic_source=rss",
+    "pubDate": "2026-03-18T04:15:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1773765371",
     "originalTitle": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
     "urduTitle": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-03-16T00:06:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773632667",
-    "originalTitle": "One Battle After Another’s big night: Key takeaways from the 2026 Oscars",
-    "urduTitle": "One Battle After Another’s big night: Key takeaways from the 2026 Oscars",
-    "urduSummary": "Paul Thomas Anderson's political chase film earned six Oscars, beating the vampire thriller Sinners, which scored four.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/16/one-battle-after-anothers-big-night-key-takeaways-from-the-2026-oscars?traffic_source=rss",
-    "pubDate": "2026-03-16T05:24:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773629298",
-    "originalTitle": "Oscars 2026: Full list of winners",
-    "urduTitle": "Oscars 2026: Full list of winners",
-    "urduSummary": "One Battle After Another wins six Oscars, while Sinners takes four awards.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/16/oscars-2026-full-list-of-winners?traffic_source=rss",
-    "pubDate": "2026-03-16T04:20:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773632215",
-    "originalTitle": "Sabalenka wins first Indian Wells title with victory against Rybakina",
-    "urduTitle": "Sabalenka wins first Indian Wells title with victory against Rybakina",
-    "urduSummary": "World number one's triumph against Elena Rybakina avenges her loss to the Kazakh in the 2026 Australian Open final.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/3/16/sabalenka-wins-first-indian-wells-title-with-victory-against-rybakina?traffic_source=rss",
-    "pubDate": "2026-03-16T04:13:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773593719",
-    "originalTitle": "A dozen arrests as hundreds attend Al-Quds Day rally in London",
-    "urduTitle": "A dozen arrests as hundreds attend Al-Quds Day rally in London",
-    "urduSummary": "Police make 12 arrests as demonstrators defy government restrictions to gather on Thames embankment.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/15/thousands-attend-al-quds-day-rally-in-london?traffic_source=rss",
-    "pubDate": "2026-03-15T20:50:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773606533",
-    "originalTitle": "Displaced families in Lebanon turn vehicles into rain-soaked shelters",
-    "urduTitle": "Displaced families in Lebanon turn vehicles into rain-soaked shelters",
-    "urduSummary": "Displaced families in Sidon are turning their vehicles into makeshift shelters, covering them with tarp.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/displaced-families-in-lebanon-turn-vehicles-into-rain-soaked-shelters?traffic_source=rss",
-    "pubDate": "2026-03-15T20:37:19.000Z",
     "category": "world",
     "imageUrl": null
   }
