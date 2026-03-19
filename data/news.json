@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c1d6dk569w6o#0",
+    "originalTitle": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
+    "urduTitle": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
+    "urduSummary": "Lawmakers pressed intelligence officials about the Iran war, and if the Islamic Republic had posed an imminent threat.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-18T22:18:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-03-19T05:15:58.965Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773895630",
+    "originalTitle": "JD Vance deflects gas price concerns with criticism of Biden",
+    "urduTitle": "JD Vance deflects gas price concerns with criticism of Biden",
+    "urduSummary": "US Vice President JD Vance deflected concerns about high gas prices by criticising the Biden administration.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/jd-vance-deflects-gas-price-concerns-with-criticism-of-biden?traffic_source=rss",
+    "pubDate": "2026-03-19T04:56:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773895579",
+    "originalTitle": "Ben-Gvir visits gallows museum, threatens the death penalty",
+    "urduTitle": "Ben-Gvir visits gallows museum, threatens the death penalty",
+    "urduSummary": "Israel’s National Security Minister has filmed himself in front of gallows, threatening the death penalty.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/ben-gvir-visits-gallows-museum-threatens-the-death-penalty?traffic_source=rss",
+    "pubDate": "2026-03-19T04:48:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773895420",
+    "originalTitle": "Attacks on GCC show ‘IRGC don’t think, they just push a button’",
+    "urduTitle": "Attacks on GCC show ‘IRGC don’t think, they just push a button’",
+    "urduSummary": "Khaled Batarfi, a Saudi political analyst, says Iran’s attacks on the GCC are irrational and create anger.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/quotable/2026/3/19/attacks-on-gcc-show-irgc-dont-think-they-just-push-a-button?traffic_source=rss",
+    "pubDate": "2026-03-19T04:48:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvg8g98ezmzo#0",
     "originalTitle": "Israel destroys river bridges in southern Lebanon",
     "urduTitle": "Israel destroys river bridges in southern Lebanon",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-03-17T00:08:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773719622",
-    "originalTitle": "Venezuela defeats Italy, sets up WBC final against US",
-    "urduTitle": "Venezuela defeats Italy, sets up WBC final against US",
-    "urduSummary": "Venezuela is through to its first World Baseball Classic final and will play the host nation for the title in Florida.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/3/17/venezuela-defeats-italy-sets-up-wbc-final-against-us?traffic_source=rss",
-    "pubDate": "2026-03-17T04:29:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773720851",
-    "originalTitle": "South African fruit exports face delays as Iran war disrupts shipping",
-    "urduTitle": "South African fruit exports face delays as Iran war disrupts shipping",
-    "urduSummary": "South Africa's fruit exporters face mounting losses and disruption as the US-Israel war on Iran enters its fourth week.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss",
-    "pubDate": "2026-03-17T04:20:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773716008",
-    "originalTitle": "Cuba tells exiles ‘doors are open’ to invest in businesses in the country",
-    "urduTitle": "Cuba tells exiles ‘doors are open’ to invest in businesses in the country",
-    "urduSummary": "Cuba also says it is removing impediments to US businesses and other foreign investors.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/17/cuba-tells-exiles-doors-are-open-to-invest-in-businesses-in-the-country?traffic_source=rss",
-    "pubDate": "2026-03-17T04:16:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773694042",
-    "originalTitle": "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
-    "urduTitle": "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
-    "urduSummary": "Speaking at the Oval office, US President Donald Trump stated that Somalia is a “fourth world nation.”",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
-    "pubDate": "2026-03-16T21:16:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773694696",
-    "originalTitle": "Ten ICU patients killed in hospital fire in eastern India",
-    "urduTitle": "Ten ICU patients killed in hospital fire in eastern India",
-    "urduSummary": "Emergency responders carried patients out of a government hospital in Odisha, India.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
-    "pubDate": "2026-03-16T21:01:22.000Z",
     "category": "world",
     "imageUrl": null
   }
