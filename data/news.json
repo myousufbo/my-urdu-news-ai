@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cr71rkeg7xxo#0",
+    "originalTitle": "Ukraine-Hungary oil pipeline row threatens EU loan",
+    "urduTitle": "Ukraine-Hungary oil pipeline row threatens EU loan",
+    "urduSummary": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-20T20:16:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774033618",
+    "originalTitle": "Ex-minister Gamboa targeted in Costa Rica’s first extradition to the US",
+    "urduTitle": "Ex-minister Gamboa targeted in Costa Rica’s first extradition to the US",
+    "urduSummary": "A former Supreme Court justice, Celso Gamboa was accused by the US of using government connections to traffic cocaine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/20/ex-minister-gamboa-targeted-in-costa-ricas-first-extradition-to-the-us?traffic_source=rss",
+    "pubDate": "2026-03-20T20:39:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774034822",
+    "originalTitle": "US says it struck alleged drug trafficking vessel in Pacific, killing two",
+    "urduTitle": "US says it struck alleged drug trafficking vessel in Pacific, killing two",
+    "urduSummary": "In an initial statement, the US military said three people survived the strike but did not offer additional details.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/20/us-says-it-struck-alleged-drug-trafficking-vessel-in-pacific-killing-two?traffic_source=rss",
+    "pubDate": "2026-03-20T20:30:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774037091",
+    "originalTitle": "Will Europe be pulled into the Iran war?",
+    "urduTitle": "Will Europe be pulled into the Iran war?",
+    "urduSummary": "Europe is under pressure as Trump pushes allies to support the Iran war. How are they responding?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/3/20/aje-onl-aj_tt_irn_whatdoeseudo_av_v2-200326?traffic_source=rss",
+    "pubDate": "2026-03-20T20:09:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c248pgn158go#0",
     "originalTitle": "Israel strikes Syria after Druze clashes",
     "urduTitle": "Israel strikes Syria after Druze clashes",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-03-18T21:50:55.967Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-03-18T21:50:56.053Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773866202",
-    "originalTitle": "Iranians burn Trump, Netanyahu effigies at warship victim rally",
-    "urduTitle": "Iranians burn Trump, Netanyahu effigies at warship victim rally",
-    "urduSummary": "Iranians in Tehran burned effigies of Israeli PM Netanyahu and US President Trump.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss",
-    "pubDate": "2026-03-18T20:42:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773858244",
-    "originalTitle": "US Fed keeps interest rates steady amid economic, geopolitical uncertainty",
-    "urduTitle": "US Fed keeps interest rates steady amid economic, geopolitical uncertainty",
-    "urduSummary": "The US Federal Reserve keeps rates steady at 3.5–3.75 percent amidst a cooling labour market and Iran pressures.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty?traffic_source=rss",
-    "pubDate": "2026-03-18T20:34:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773856307",
-    "originalTitle": "Israel holding more than half of Palestinian child detainees without charge",
-    "urduTitle": "Israel holding more than half of Palestinian child detainees without charge",
-    "urduSummary": "Rights group says Palestinian children consistently report 'appalling and debilitating conditions' in Israeli prisons.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/18/israel-holding-more-than-half-of-palestinian-child-detainees-without-charge?traffic_source=rss",
-    "pubDate": "2026-03-18T20:25:52.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
