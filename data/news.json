@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c2k3jgy9vq3o#0",
+    "originalTitle": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+    "urduTitle": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+    "urduSummary": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-19T22:41:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4geg0eeyjeo#0",
+    "originalTitle": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+    "urduTitle": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+    "urduSummary": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-20T00:04:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c9d415g55nno#0",
+    "originalTitle": "US considers lifting sanctions on some Iranian oil",
+    "urduTitle": "US considers lifting sanctions on some Iranian oil",
+    "urduSummary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-19T19:55:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773218945",
+    "originalTitle": "Why Pakistani farmers are suing two German companies for deadly 2022 floods",
+    "urduTitle": "Why Pakistani farmers are suing two German companies for deadly 2022 floods",
+    "urduSummary": "Case relates to RWE and Heidelberg Materials, accused of emissions that intensified historic floods and destroyed farms.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/3/20/why-pakistani-farmers-are-suing-two-german-companies-for-deadly-2022-floods?traffic_source=rss",
+    "pubDate": "2026-03-20T04:22:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773977112",
+    "originalTitle": "Unpacking Netanyahu’s latest claims about the war on Iran",
+    "urduTitle": "Unpacking Netanyahu’s latest claims about the war on Iran",
+    "urduSummary": "Benjamin Netanyahu claimed to have made significant progress in 20 days of war on Iran but indicated more is to come.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/unpacking-netanyahus-latest-claims-about-the-war-on-iran?traffic_source=rss",
+    "pubDate": "2026-03-20T03:49:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773978235",
+    "originalTitle": "Trump must ‘take the steering wheel back from the Israelis’ in Iran war",
+    "urduTitle": "Trump must ‘take the steering wheel back from the Israelis’ in Iran war",
+    "urduSummary": "Trita Parsi, argues that US President Trump must not allow Israel to control the war with Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/quotable/2026/3/20/trump-must-take-the-steering-wheel-back-from-the-israelis-in-iran-war?traffic_source=rss",
+    "pubDate": "2026-03-20T03:48:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1773954621",
     "originalTitle": "Israelis protest in Tel Aviv calling for end to Iran war",
     "urduTitle": "Israelis protest in Tel Aviv calling for end to Iran war",
@@ -480,72 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss",
     "pubDate": "2026-03-18T04:43:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773808404",
-    "originalTitle": "Actor Sean Penn gifted a special ‘Oscar’ by Ukraine’s railway company",
-    "urduTitle": "Actor Sean Penn gifted a special ‘Oscar’ by Ukraine’s railway company",
-    "urduSummary": "Sean Penn was gifted an ‘Oscar’ made of Ukrainian railway metal after he skipped the Oscars to visit war-torn Ukraine.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/actor-sean-penn-gifted-a-special-oscar-by-ukraines-railway-company?traffic_source=rss",
-    "pubDate": "2026-03-18T04:37:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773803839",
-    "originalTitle": "Trump administration defends Anthropic blacklisting in US court",
-    "urduTitle": "Trump administration defends Anthropic blacklisting in US court",
-    "urduSummary": "US defence secretary designated Anthropic a 'supply chain risk' after it refused to remove guardrails on its technology.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/3/18/trump-administration-defends-anthropic-blacklisting-in-us-court?traffic_source=rss",
-    "pubDate": "2026-03-18T04:15:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773765371",
-    "originalTitle": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
-    "urduTitle": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
-    "urduSummary": "US president strikes defiant tone as allies reject joining coalition, does not name countries he said 'on their way'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
-    "pubDate": "2026-03-17T21:17:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773779536",
-    "originalTitle": "Who was Ali Larijani, Iran’s powerful insider?",
-    "urduTitle": "Who was Ali Larijani, Iran’s powerful insider?",
-    "urduSummary": "Iran has confirmed that security chief Ali Larijani has been killed.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/who-was-ali-larijani-irans-powerful-insider?traffic_source=rss",
-    "pubDate": "2026-03-17T21:09:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773777309",
-    "originalTitle": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
-    "urduTitle": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
-    "urduSummary": "The 2026 World Cup matches will be played as per schedule announced last year, the football organisation says.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/3/17/fifa-rejects-irans-request-to-move-world-cup-matches-from-us-to-mexico?traffic_source=rss",
-    "pubDate": "2026-03-17T20:57:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cg4g66r3z40o#0",
-    "originalTitle": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-    "urduTitle": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-    "urduSummary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-17T16:43:34.000Z",
     "category": "world",
     "imageUrl": null
   }
