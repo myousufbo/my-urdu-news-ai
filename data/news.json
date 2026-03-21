@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c3ex9nq2qywo#0",
+    "originalTitle": "Trump threatens to send ICE into airports unless funding deal reached",
+    "urduTitle": "Trump threatens to send ICE into airports unless funding deal reached",
+    "urduSummary": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-21T20:22:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774121978",
+    "originalTitle": "Joe Kent speaks out against Iran war at prayer event after resigning",
+    "urduTitle": "Joe Kent speaks out against Iran war at prayer event after resigning",
+    "urduSummary": "Joe Kent says he resigned as director of the US National Counterterrorism Center over opposition to the war in Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/joe-kent-speaks-out-against-iran-war-at-prayer-event-after-resigning?traffic_source=rss",
+    "pubDate": "2026-03-21T19:46:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774112506",
+    "originalTitle": "EU urges members to start storing winter gas as Iran war causes price surge",
+    "urduTitle": "EU urges members to start storing winter gas as Iran war causes price surge",
+    "urduSummary": "War, which saw Iran attack Qatar facility, has caused 'high, volatile' gas prices that could hit EU storage projections.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge?traffic_source=rss",
+    "pubDate": "2026-03-21T19:24:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1773776853",
+    "originalTitle": "Eid without toys: Israeli restrictions drive up prices in Gaza",
+    "urduTitle": "Eid without toys: Israeli restrictions drive up prices in Gaza",
+    "urduSummary": "Amid war and supply restrictions, Gaza’s toy markets face shortages and high prices, leaving children without Eid gifts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/3/21/eid-without-toys-israeli-restrictions-drive-up-prices-in-gaza?traffic_source=rss",
+    "pubDate": "2026-03-21T18:03:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c20qj970gwro#0",
     "originalTitle": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
     "urduTitle": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/unpacking-netanyahus-latest-claims-about-the-war-on-iran?traffic_source=rss",
     "pubDate": "2026-03-20T03:49:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773978235",
-    "originalTitle": "Trump must ‘take the steering wheel back from the Israelis’ in Iran war",
-    "urduTitle": "Trump must ‘take the steering wheel back from the Israelis’ in Iran war",
-    "urduSummary": "Trita Parsi, argues that US President Trump must not allow Israel to control the war with Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/quotable/2026/3/20/trump-must-take-the-steering-wheel-back-from-the-israelis-in-iran-war?traffic_source=rss",
-    "pubDate": "2026-03-20T03:48:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773954621",
-    "originalTitle": "Israelis protest in Tel Aviv calling for end to Iran war",
-    "urduTitle": "Israelis protest in Tel Aviv calling for end to Iran war",
-    "urduSummary": "Israelis protested in Tel Aviv demanding an end to the war with Iran and conflict with Hezbollah.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/israelis-protest-in-tel-aviv-calling-for-end-to-iran-war?traffic_source=rss",
-    "pubDate": "2026-03-19T21:12:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773953205",
-    "originalTitle": "FIFA fines Israel FA citing racism and ‘multiple’ discrimination breaches",
-    "urduTitle": "FIFA fines Israel FA citing racism and ‘multiple’ discrimination breaches",
-    "urduSummary": "Following Palestine allegations, FIFA clears Israeli settlement clubs but fines Israel FA for discrimination breaches.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/3/19/israel-fined-by-fifa-citing-racism-and-multiple-discrimination-breaches?traffic_source=rss",
-    "pubDate": "2026-03-19T21:11:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1773947113",
-    "originalTitle": "US states file lawsuit challenging Trump’s revocation of climate finding",
-    "urduTitle": "US states file lawsuit challenging Trump’s revocation of climate finding",
-    "urduSummary": "The Trump administration revoked key scientific finding that formed a basis for regulations to address climate change.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/19/us-states-file-lawsuit-challenging-trumps-revocation-of-climate-finding?traffic_source=rss",
-    "pubDate": "2026-03-19T21:07:29.000Z",
     "category": "world",
     "imageUrl": null
   }
