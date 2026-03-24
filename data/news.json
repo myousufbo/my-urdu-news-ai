@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cz67jq0enwpo#0",
+    "originalTitle": "Pilots killed in LaGuardia plane crash named",
+    "urduTitle": "Pilots killed in LaGuardia plane crash named",
+    "urduSummary": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire truck to cross the runway.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-24T20:34:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774386482",
+    "originalTitle": "Arms manufacturer thrives amid US-Israel war on Iran",
+    "urduTitle": "Arms manufacturer thrives amid US-Israel war on Iran",
+    "urduSummary": "Elbit Systems has seen rapid growth as wars intensify across Iran, Palestine, and Lebanon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss",
+    "pubDate": "2026-03-24T21:33:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774381423",
+    "originalTitle": "Long lines, unpaid TSA workers: Experts say US air travel system in crisis",
+    "urduTitle": "Long lines, unpaid TSA workers: Experts say US air travel system in crisis",
+    "urduSummary": "TSA workers face unpaid wages, causing long lines and staffing shortages at key US airports during shutdown chaos.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/24/long-lines-unpaid-tsa-workers-experts-say-us-air-travel-system-in-crisis?traffic_source=rss",
+    "pubDate": "2026-03-24T21:13:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774386327",
+    "originalTitle": "Building collapses after Iranian missile strike on Israel",
+    "urduTitle": "Building collapses after Iranian missile strike on Israel",
+    "urduSummary": "A building has collapsed in Bnei Brak, near Tel Aviv, after Israeli authorities said it was hit by an Iranian missile.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/building-collapses-after-iranian-missile-strike-on-israel?traffic_source=rss",
+    "pubDate": "2026-03-24T21:07:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c4gjv02g54ko#0",
     "originalTitle": "Iran war shows norms of international conflicts have been overturned",
     "urduTitle": "Iran war shows norms of international conflicts have been overturned",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-03-22T18:37:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c30rl05evd8o#0",
-    "originalTitle": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
-    "urduTitle": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
-    "urduSummary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-22T20:23:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj94jmj2p28o#0",
-    "originalTitle": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
-    "urduTitle": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
-    "urduSummary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-22T19:05:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774210351",
-    "originalTitle": "Displaced families shelter in tents in Beirut amid Israeli strikes",
-    "urduTitle": "Displaced families shelter in tents in Beirut amid Israeli strikes",
-    "urduSummary": "Families displaced by Israeli strikes are sheltering in tents across Beirut, as rain falls.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss",
-    "pubDate": "2026-03-22T20:33:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774203527",
-    "originalTitle": "Emerging from latest blackout, Cuba says ready for any potential US attack",
-    "urduTitle": "Emerging from latest blackout, Cuba says ready for any potential US attack",
-    "urduSummary": "Trump, who cut off oil supplies to Cuba after abducting Venezuela's Maduro, has threatened to take over the nation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack?traffic_source=rss",
-    "pubDate": "2026-03-22T20:28:34.000Z",
     "category": "world",
     "imageUrl": null
   }
