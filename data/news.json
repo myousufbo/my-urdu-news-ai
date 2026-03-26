@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1774515650",
+    "originalTitle": "Dozens dead in Bangladesh as passenger bus plunges into Padma River",
+    "urduTitle": "Dozens dead in Bangladesh as passenger bus plunges into Padma River",
+    "urduSummary": "Children among dead after bus carrying 40 passengers, which was attempting to board a ferry, topples into river.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/26/dozens-dead-in-bangladesh-as-passenger-bus-plunges-into-padma-river?traffic_source=rss",
+    "pubDate": "2026-03-26T10:24:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774520190",
+    "originalTitle": "‘Missile hit’ flips car in Israel",
+    "urduTitle": "‘Missile hit’ flips car in Israel",
+    "urduSummary": "Surveillance footage shows a car overturning due to 'falling rocket debris in central Israel'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/missile-hit-flips-car-in-israel?traffic_source=rss",
+    "pubDate": "2026-03-26T10:19:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774509372",
+    "originalTitle": "Israel hinders repair of damaged water infra deepening Gaza’s health crisis",
+    "urduTitle": "Israel hinders repair of damaged water infra deepening Gaza’s health crisis",
+    "urduSummary": "Palestinian engineers struggle to repair Gaza's water system, which has been contaminated, posing a health risk.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/3/26/israel-hinders-repair-of-damaged-water-infra-deepening-gazas-health-crisis?traffic_source=rss",
+    "pubDate": "2026-03-26T09:52:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cm29l9r68j8o#0",
     "originalTitle": "Who wants what and why from US-Iran peace talks?",
     "urduTitle": "Who wants what and why from US-Iran peace talks?",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss",
     "pubDate": "2026-03-24T10:31:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774339180",
-    "originalTitle": "Iran launches waves of missiles towards Israel",
-    "urduTitle": "Iran launches waves of missiles towards Israel",
-    "urduSummary": "Israel’s Magen David Adom emergency medical service said 'six people were lightly injured' in the missile strikes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/3/24/iran-launches-waves-of-missiles-towards-israel?traffic_source=rss",
-    "pubDate": "2026-03-24T10:05:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774345810",
-    "originalTitle": "Iran says no talks with US, calls Trump statements a ‘bluff’",
-    "urduTitle": "Iran says no talks with US, calls Trump statements a ‘bluff’",
-    "urduSummary": "Iranian officials have dismissed statements by Trump as a ‘bluff’, denying any direct or indirect talks with the US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/iran-says-no-talks-with-us-calls-trump-statements-a?traffic_source=rss",
-    "pubDate": "2026-03-24T09:54:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c895v5pq5p1o#0",
-    "originalTitle": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
-    "urduTitle": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
-    "urduSummary": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-24T02:41:31.000Z",
     "category": "world",
     "imageUrl": null
   }
