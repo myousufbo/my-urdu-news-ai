@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1774571043",
+    "originalTitle": "Malaysia’s ships allowed to pass Strait of Hormuz, PM Anwar says",
+    "urduTitle": "Malaysia’s ships allowed to pass Strait of Hormuz, PM Anwar says",
+    "urduSummary": "Malaysian leader says oil tankers granted clearance by Iran as government introduces measures to conserve fuel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/3/27/malaysias-ships-allowed-to-pass-strait-of-hormuz-pm-anwar-says?traffic_source=rss",
+    "pubDate": "2026-03-27T04:24:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774584844",
+    "originalTitle": "First responders rescue man from Tehran building hit by air strike",
+    "urduTitle": "First responders rescue man from Tehran building hit by air strike",
+    "urduSummary": "The Iranian Red Crescent Society released video showing rescuers in Tehran pulling a man from a damaged building.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/first-responders-rescue-man-from-tehran-building-hit-by-air-strike?traffic_source=rss",
+    "pubDate": "2026-03-27T04:24:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774584252",
+    "originalTitle": "Palestinians flee tear gas as Israeli settlers arrive in occupied West Bank",
+    "urduTitle": "Palestinians flee tear gas as Israeli settlers arrive in occupied West Bank",
+    "urduSummary": "The Israeli army fired tear gas at Palestinian residents of the Beit Imrin village in the occupied West Bank.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/palestinians-flee-tear-gas-as-israeli-settlers-arrive-in-occupied-west-bank?traffic_source=rss",
+    "pubDate": "2026-03-27T04:08:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1774557220",
     "originalTitle": "Iran placing messages on missiles as war of narratives intensifies",
     "urduTitle": "Iran placing messages on missiles as war of narratives intensifies",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss",
     "pubDate": "2026-03-25T04:10:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774411694",
-    "originalTitle": "What we know about the US’s 15-point plan Iran proposal",
-    "urduTitle": "What we know about the US’s 15-point plan Iran proposal",
-    "urduSummary": "US media reports the Trump administration has proposed a temporary ceasefire and a 15-point plan to end the war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-the-uss-15-point-plan-iran-proposal?traffic_source=rss",
-    "pubDate": "2026-03-25T04:10:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz67jq0enwpo#0",
-    "originalTitle": "Pilots killed in LaGuardia plane crash named",
-    "urduTitle": "Pilots killed in LaGuardia plane crash named",
-    "urduSummary": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire truck to cross the runway.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-24T20:34:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774386482",
-    "originalTitle": "Arms manufacturer thrives amid US-Israel war on Iran",
-    "urduTitle": "Arms manufacturer thrives amid US-Israel war on Iran",
-    "urduSummary": "Elbit Systems has seen rapid growth as wars intensify across Iran, Palestine, and Lebanon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss",
-    "pubDate": "2026-03-24T21:33:59.000Z",
     "category": "world",
     "imageUrl": null
   }
