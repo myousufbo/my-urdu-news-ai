@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c62lx8ek9x9o#0",
+    "originalTitle": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
+    "urduTitle": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
+    "urduSummary": "Jawad Younes and his uncle Ragheb were laid to rest on Saturday after their family compound was hit a day earlier.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-28T16:29:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774708273",
+    "originalTitle": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
+    "urduTitle": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
+    "urduSummary": "Kyiv has sought to leverage its expertise in downing Russian drones to help Gulf nations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss",
+    "pubDate": "2026-03-28T16:16:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774712680",
+    "originalTitle": "Senegal parade AFCON trophy, despite title being awarded to Morocco",
+    "urduTitle": "Senegal parade AFCON trophy, despite title being awarded to Morocco",
+    "urduSummary": "Senegal parade AFCON trophy at Stade de France ahead of friendly against Peru, despite being stripped of the title.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/3/28/senegal-parade-afcon-trophy-despite-title-being-awarded-to-morocco?traffic_source=rss",
+    "pubDate": "2026-03-28T15:58:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774712361",
+    "originalTitle": "Israeli forces intensify attacks on Beirut",
+    "urduTitle": "Israeli forces intensify attacks on Beirut",
+    "urduSummary": "Israeli forces launched renewed attacks in southern Beirut, as the UN warns of an imminent humanitarian catastrophe.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/israeli-forces-intensify-attacks-on-beirut?traffic_source=rss",
+    "pubDate": "2026-03-28T15:45:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/crr10v5p7lgo#0",
     "originalTitle": "Gaza peace doubts deepen as attention shifts to Iran",
     "urduTitle": "Gaza peace doubts deepen as attention shifts to Iran",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
     "pubDate": "2026-03-26T19:19:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774540127",
-    "originalTitle": "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands",
-    "urduTitle": "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands",
-    "urduSummary": "Trump says US, Israel wiped out navy and air force, as Iran lawmakers plan to collect tolls for transiting ships.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss",
-    "pubDate": "2026-03-26T19:02:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774547297",
-    "originalTitle": "Kim Jong Un gifted gun after Belarus friendship treaty",
-    "urduTitle": "Kim Jong Un gifted gun after Belarus friendship treaty",
-    "urduSummary": "Belarusian President Alexander Lukashenko gifted North Korean leader Kim Jong Un a gun.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss",
-    "pubDate": "2026-03-26T18:03:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c87wd0d84jqo#0",
-    "originalTitle": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
-    "urduTitle": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
-    "urduSummary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-26T09:37:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj408984v2xo#0",
-    "originalTitle": "French court hands Islam scholar Tariq Ramadan 18-year jail term for rape",
-    "urduTitle": "French court hands Islam scholar Tariq Ramadan 18-year jail term for rape",
-    "urduSummary": "Ramadan, a 63-year-old former Oxford professor, denied the charges but his lawyers said he was too ill to attend the trial.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cj408984v2xo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-26T14:31:23.000Z",
     "category": "world",
     "imageUrl": null
   }
