@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1774816077",
+    "originalTitle": "IRGC spokesperson says Trump ‘only understands the language of force’",
+    "urduTitle": "IRGC spokesperson says Trump ‘only understands the language of force’",
+    "urduSummary": "IRGC spokesperson Ebrahim Zolfaghari dismisses threats of US ground operations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/irgc-spokesperson-says-trump-only-understands-the-language-of?traffic_source=rss",
+    "pubDate": "2026-03-29T20:31:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774814879",
+    "originalTitle": "Qatari TV station hit in Iran",
+    "urduTitle": "Qatari TV station hit in Iran",
+    "urduSummary": "Qatar’s Al Araby network condemns an attack on its office in Tehran, which injured at least 10 people.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
+    "pubDate": "2026-03-29T20:11:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774805842",
+    "originalTitle": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+    "urduTitle": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+    "urduSummary": "Lebanese Christians mark Palm Sunday with prayers, stressing shared hardships for all communities amid Israel's war.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
+    "pubDate": "2026-03-29T19:36:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1774799998",
     "originalTitle": "Iran hits industrial zone in southern Israel",
     "urduTitle": "Iran hits industrial zone in southern Israel",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/3/27/aje-onl-tt_us_iran15pointplan_av-270326?traffic_source=rss",
     "pubDate": "2026-03-27T18:00:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774632535",
-    "originalTitle": "Iran’s football team honours children killed in Minab school airstrike",
-    "urduTitle": "Iran’s football team honours children killed in Minab school airstrike",
-    "urduSummary": "Iranian football players laid backpacks on a football pitch in Turkey to pay tribute to the children killed in a US-Isra",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/irans-football-team-honours-children-killed-in-minab-school-airstrike?traffic_source=rss",
-    "pubDate": "2026-03-27T17:32:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774632285",
-    "originalTitle": "Israelis question Lebanon war as opposition grows",
-    "urduTitle": "Israelis question Lebanon war as opposition grows",
-    "urduSummary": "Growing opposition within Israel is raising questions about the government’s military strategy in southern Lebanon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israelis-question-lebanon-war-as-opposition-grows?traffic_source=rss",
-    "pubDate": "2026-03-27T17:31:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2evg2m3ye2o#0",
-    "originalTitle": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
-    "urduTitle": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
-    "urduSummary": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-27T13:17:22.000Z",
     "category": "world",
     "imageUrl": null
   }
