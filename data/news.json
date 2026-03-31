@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cm25ynex2zxo#0",
+    "originalTitle": "China bans storing cremated remains in empty 'bone ash apartments'",
+    "urduTitle": "China bans storing cremated remains in empty 'bone ash apartments'",
+    "urduSummary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-31T10:53:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774957818",
+    "originalTitle": "Pakistan cricketer Fakhar Zaman handed two-match PSL ban for ball tampering",
+    "urduTitle": "Pakistan cricketer Fakhar Zaman handed two-match PSL ban for ball tampering",
+    "urduSummary": "Lahore Qalandars batter was found guilty of changing the condition of the ball in the match against Karachi Kings.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/3/31/pakistan-cricketer-fakhar-zaman-handed-two-match-psl-ban-for-ball-tampering?traffic_source=rss",
+    "pubDate": "2026-03-31T12:28:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774958763",
+    "originalTitle": "Three Indonesian peacekeepers killed by Israeli attacks in Lebanon",
+    "urduTitle": "Three Indonesian peacekeepers killed by Israeli attacks in Lebanon",
+    "urduSummary": "Two Israeli attacks in southern Lebanon have killed three Indonesian UN peacekeepers in the past 48 hours.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/three-indonesian-peacekeepers-killed-by-israeli-attacks-in-lebanon?traffic_source=rss",
+    "pubDate": "2026-03-31T12:12:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774958333",
+    "originalTitle": "Iranian rescuers save two civilians from rubble after US-Israeli strikes",
+    "urduTitle": "Iranian rescuers save two civilians from rubble after US-Israeli strikes",
+    "urduSummary": "Footage shows Iranian Red Crescent Society rescuers and firemen saving two civilians from underneath the rubble.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iranian-rescuers-save-two-civilians-from-rubble-after-us-israeli-strikes?traffic_source=rss",
+    "pubDate": "2026-03-31T12:01:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5ywgn2n3nqo#0",
     "originalTitle": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
     "urduTitle": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month?traffic_source=rss",
     "pubDate": "2026-03-29T13:33:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774790063",
-    "originalTitle": "Lebanese family launches mobile aid initiative for displaced",
-    "urduTitle": "Lebanese family launches mobile aid initiative for displaced",
-    "urduSummary": "A Lebanese family in Beirut has launched a mobile aid initiative to support people displaced by the ongoing conflict.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-family-launches-mobile-aid-initiative-for-displaced?traffic_source=rss",
-    "pubDate": "2026-03-29T13:17:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774776229",
-    "originalTitle": "Dozens detained in Tel Aviv as anti-war protest turns violent",
-    "urduTitle": "Dozens detained in Tel Aviv as anti-war protest turns violent",
-    "urduSummary": "Police in Tel Aviv dispersed protesters opposing the US-Israeli war on Iran on Saturday. Up to 18 people were arrested.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/dozens-detained-in-tel-aviv-as-anti-war-protest-turns-violent?traffic_source=rss",
-    "pubDate": "2026-03-29T09:30:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774764411",
-    "originalTitle": "Pentagon readies for weeks of US ground operations in Iran: Report",
-    "urduTitle": "Pentagon readies for weeks of US ground operations in Iran: Report",
-    "urduSummary": "Uncertainty looms over Trump's approval of the Pentagon's plans for limited ground operations in Iran's strategic regions.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
-    "pubDate": "2026-03-29T09:15:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774761096",
-    "originalTitle": "US-Israel war on Iran: What’s happening on day 30 of attacks?",
-    "urduTitle": "US-Israel war on Iran: What’s happening on day 30 of attacks?",
-    "urduSummary": "Foreign ministers from Pakistan, Turkiye, Egypt and Saudi Arabia hold talks in Islamabad to end US-Israel war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss",
-    "pubDate": "2026-03-29T08:54:04.000Z",
     "category": "world",
     "imageUrl": null
   }
