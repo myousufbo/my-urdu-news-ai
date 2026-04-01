@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c5yled478zwo#0",
+    "originalTitle": "US journalist Shelly Kittleson kidnapped in Baghdad",
+    "urduTitle": "US journalist Shelly Kittleson kidnapped in Baghdad",
+    "urduSummary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-03-31T21:08:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775005064",
+    "originalTitle": "Bosnia fans celebrate as team qualifies for World Cup, knocking Italy out",
+    "urduTitle": "Bosnia fans celebrate as team qualifies for World Cup, knocking Italy out",
+    "urduSummary": "Supporters celebrated as Bosnia and Herzegovina beat Italy in a penalty shootout to secure a spot in the 2026 World Cup.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/bosnia-fans-celebrate-as-team-qualifies-for-world-cup-knocking-italy-out?traffic_source=rss",
+    "pubDate": "2026-04-01T01:07:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775004821",
+    "originalTitle": "Emergency workers search for victims of Israeli airstrikes on Beirut",
+    "urduTitle": "Emergency workers search for victims of Israeli airstrikes on Beirut",
+    "urduSummary": "Emergency workers searched through rubble in Beirut after Israeli airstrikes hit the Jnah neighbourhood.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss",
+    "pubDate": "2026-04-01T00:56:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775004478",
+    "originalTitle": "‘A law of death that only applies to Palestinians’",
+    "urduTitle": "‘A law of death that only applies to Palestinians’",
+    "urduSummary": "Protesters demanded UK Prime Minister Keir Starmer act, not just condemn, Israel’s death penalty law for Palestinians.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/a-law-of-death-that-only-applies-to?traffic_source=rss",
+    "pubDate": "2026-04-01T00:56:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c7056exw78xo#0",
     "originalTitle": "Judge temporarily halts construction of Trump's White House ballroom",
     "urduTitle": "Judge temporarily halts construction of Trump's White House ballroom",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss",
     "pubDate": "2026-03-30T11:10:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774868778",
-    "originalTitle": "Sirens heard across Haifa port",
-    "urduTitle": "Sirens heard across Haifa port",
-    "urduSummary": "Sirens were heard across the port of Haifa on Monday, amid expectations of incoming missiles.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/sirens-heard-across-haifa-port?traffic_source=rss",
-    "pubDate": "2026-03-30T11:10:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774849067",
-    "originalTitle": "Canadian YouTuber captures congestion of dozens of ships in Hormuz Strait",
-    "urduTitle": "Canadian YouTuber captures congestion of dozens of ships in Hormuz Strait",
-    "urduSummary": "A Canadian activist captured dozens of oil tankers and cargo ships crowding the vital waterway.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/canadian-youtuber-captures-congestion-of-dozens-of-ships-in-hormuz-strait?traffic_source=rss",
-    "pubDate": "2026-03-30T05:40:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774847792",
-    "originalTitle": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
-    "urduTitle": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
-    "urduSummary": "US President Donald Trump says the US-Israeli war on Iran has effectively brought ‘regime change’.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss",
-    "pubDate": "2026-03-30T05:20:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774843999",
-    "originalTitle": "Fakhar Zaman charged with ball‑tampering by Pakistan board in PSL",
-    "urduTitle": "Fakhar Zaman charged with ball‑tampering by Pakistan board in PSL",
-    "urduSummary": "Pakistan Super League has been jolted by ball-tampering accusation against Zaman, which allegedly occurred on Sunday.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/3/30/fakhar-zaman-charged-with-ball%e2%80%91tampering-by-pakistan-board-in-psl?traffic_source=rss",
-    "pubDate": "2026-03-30T04:54:26.000Z",
     "category": "world",
     "imageUrl": null
   }
