@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1775019665",
+    "originalTitle": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026",
+    "urduTitle": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026",
+    "urduSummary": "Goals from Ali Al-Hamadi and Aymen Hussein send Iraq to their first FIFA World Cup since 1986.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss",
+    "pubDate": "2026-04-01T05:17:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775019651",
+    "originalTitle": "First Black astronaut candidate ‘proud’ Victor Glover will make history",
+    "urduTitle": "First Black astronaut candidate ‘proud’ Victor Glover will make history",
+    "urduSummary": "First Black astronaut candidate Ed Dwight says he’s “really proud” of Victor Glover who’s set to make history.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/first-black-astronaut-candidate-proud-victor-glover-will-make-history?traffic_source=rss",
+    "pubDate": "2026-04-01T05:07:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775019121",
+    "originalTitle": "Residents inspect drone damage near Erbil airport",
+    "urduTitle": "Residents inspect drone damage near Erbil airport",
+    "urduSummary": "Residents living near Erbil's international airport in northern Iraq, say falling drone debris has damaged properties.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/residents-inspect-drone-damage-near-erbil-airport?traffic_source=rss",
+    "pubDate": "2026-04-01T04:54:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5yled478zwo#0",
     "originalTitle": "US journalist Shelly Kittleson kidnapped in Baghdad",
     "urduTitle": "US journalist Shelly Kittleson kidnapped in Baghdad",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-03-30T09:46:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwyd07m7e1xo#0",
-    "originalTitle": "Photos show heavily damaged US radar jet at Saudi base",
-    "urduTitle": "Photos show heavily damaged US radar jet at Saudi base",
-    "urduSummary": "US Central Command has not yet publicly commented on the incident.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-29T18:42:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774863844",
-    "originalTitle": "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’",
-    "urduTitle": "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’",
-    "urduSummary": "Russia’s intelligence agency accuses the second secretary at the British Embassy in Moscow of espionage.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/30/russia-expels-british-diplomat-accused-of-economic-espionage?traffic_source=rss",
-    "pubDate": "2026-03-30T11:20:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774868765",
-    "originalTitle": "Beirut apartment damaged in Israeli strike",
-    "urduTitle": "Beirut apartment damaged in Israeli strike",
-    "urduSummary": "An Israeli air strike has heavily damaged a residential building in Beirut’s southern suburbs.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss",
-    "pubDate": "2026-03-30T11:10:41.000Z",
     "category": "world",
     "imageUrl": null
   }
