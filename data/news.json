@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cze0kz7gr84o#0",
+    "originalTitle": "China is trying to play peacemaker in the Iran war - will it work?",
+    "urduTitle": "China is trying to play peacemaker in the Iran war - will it work?",
+    "urduSummary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-01T07:16:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775029889",
+    "originalTitle": "Israeli police inspect damage on the road after missile impact",
+    "urduTitle": "Israeli police inspect damage on the road after missile impact",
+    "urduSummary": "Police inspect a strike site in Tel Aviv after a missile hit the city.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
+    "pubDate": "2026-04-01T07:55:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775024867",
+    "originalTitle": "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
+    "urduTitle": "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
+    "urduSummary": "Shrapnel from an Iranian drone interception kills a Bangladeshi national in the UAE's Fujairah city.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/1/iran-attacks-cause-fire-in-kuwait-bahrain-kill-man-in-uae?traffic_source=rss",
+    "pubDate": "2026-04-01T07:54:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1774947708",
+    "originalTitle": "What is NASA’s Artemis II moon mission, and when will it launch?",
+    "urduTitle": "What is NASA’s Artemis II moon mission, and when will it launch?",
+    "urduSummary": "For the first time in more than 50 years, humans will travel around the moon to test deep-space life-support systems.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/1/what-is-nasas-artemis-ii-moon-mission-and-when-will-it-launch?traffic_source=rss",
+    "pubDate": "2026-04-01T07:51:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1775019665",
     "originalTitle": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026",
     "urduTitle": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/marco-rubio-says-president-trump-prefers-diplomatic-solution-to-war-on-iran?traffic_source=rss",
     "pubDate": "2026-03-30T15:33:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774884363",
-    "originalTitle": "‘Iran will never acquire nuclear weapons’ Rubio tells Al Jazeera",
-    "urduTitle": "‘Iran will never acquire nuclear weapons’ Rubio tells Al Jazeera",
-    "urduSummary": "Secretary of State Marco Rubio has outlines what the US’s main demands are for Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iran-will-never-acquire-nuclear-weapons-rubio-tells-al-jazeera?traffic_source=rss",
-    "pubDate": "2026-03-30T15:29:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774879969",
-    "originalTitle": "Rubio tells Al Jazeera that Strait of Hormuz to reopen ‘one way or another’",
-    "urduTitle": "Rubio tells Al Jazeera that Strait of Hormuz to reopen ‘one way or another’",
-    "urduSummary": "In an exclusive interview, top US diplomat says Trump seeks diplomacy and demands Iran end nuclear, missile programme.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/3/30/rubio-tells-al-jazeera-strait-of-hormuz-will-reopen-one-way-or-another?traffic_source=rss",
-    "pubDate": "2026-03-30T14:21:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8jxzlwvd8ro#0",
-    "originalTitle": "Why does the US have Iran's Kharg Island in its sights?",
-    "urduTitle": "Why does the US have Iran's Kharg Island in its sights?",
-    "urduSummary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-30T04:06:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czrevyx28z2o#0",
-    "originalTitle": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
-    "urduTitle": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
-    "urduSummary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-30T09:46:42.000Z",
     "category": "world",
     "imageUrl": null
   }
