@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cevk0e4ykwko#0",
+    "originalTitle": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+    "urduTitle": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+    "urduSummary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-02T13:41:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775146964",
+    "originalTitle": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+    "urduTitle": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+    "urduSummary": "Palestinians in Gaza joined protests against the Israeli govt approval of a death penalty law on Palestinian prisoners.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/video-protests-in-gaza-against-israels-palestinian-death-penalty-law?traffic_source=rss",
+    "pubDate": "2026-04-02T16:31:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775146954",
+    "originalTitle": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
+    "urduTitle": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
+    "urduSummary": "‘When the only tool you have in your toolbox is a hammer you can solve everything with the hammer’.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss",
+    "pubDate": "2026-04-02T16:27:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775137849",
+    "originalTitle": "Pakistan, Afghanistan hold talks in China to end months of conflict",
+    "urduTitle": "Pakistan, Afghanistan hold talks in China to end months of conflict",
+    "urduSummary": "China has been trying to mediate a negotiated settlement to the conflict between the allies-turned-foes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
+    "pubDate": "2026-04-02T15:55:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/videos/c70dxqp0q2do#0",
     "originalTitle": "Macron calls Trump's remarks on his marriage 'inelegant'",
     "urduTitle": "Macron calls Trump's remarks on his marriage 'inelegant'",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-03-31T20:21:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774987000",
-    "originalTitle": "Israelis attempt to perform Passover sacrifice at Al-Aqsa",
-    "urduTitle": "Israelis attempt to perform Passover sacrifice at Al-Aqsa",
-    "urduSummary": "Israelis filmed themselves attempting to bring goats into the Al-Aqsa Mosque compound for a Passover sacrifice.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israelis-attempt-to-perform-passover-sacrifice-at-al-aqsa?traffic_source=rss",
-    "pubDate": "2026-03-31T20:03:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774985969",
-    "originalTitle": "How Pakistan positioned itself at the center of global crisis management",
-    "urduTitle": "How Pakistan positioned itself at the center of global crisis management",
-    "urduSummary": "Pakistan has emerged as a global crisis mediator amid the US war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss",
-    "pubDate": "2026-03-31T19:46:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1774984866",
-    "originalTitle": "What’s behind Donald Trump’s interest in Iran’s Kharg Island?",
-    "urduTitle": "What’s behind Donald Trump’s interest in Iran’s Kharg Island?",
-    "urduSummary": "The US president is threatening to take over Iran's oil export hub or destroy it.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/3/31/whats-behind-donald-trumps-interest-in-irans-kharg-island?traffic_source=rss",
-    "pubDate": "2026-03-31T19:42:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9wqgjn7x89o#0",
-    "originalTitle": "Iran using children in security roles in war, reports and witnesses say",
-    "urduTitle": "Iran using children in security roles in war, reports and witnesses say",
-    "urduSummary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-03-31T12:56:45.000Z",
     "category": "world",
     "imageUrl": null
   }
