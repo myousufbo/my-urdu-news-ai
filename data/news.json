@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cwyjekvwww0o#0",
+    "originalTitle": "France's Muslim gathering ban overturned by courts",
+    "urduTitle": "France's Muslim gathering ban overturned by courts",
+    "urduSummary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-03T12:20:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy51wzeq6g5o#0",
+    "originalTitle": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+    "urduTitle": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+    "urduSummary": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-03T15:04:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-04-03T16:33:55.964Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775225047",
+    "originalTitle": "French-owned container ship transits Hormuz Strait in first since Iran war",
+    "urduTitle": "French-owned container ship transits Hormuz Strait in first since Iran war",
+    "urduSummary": "CMA CGM's vessel becomes the first French-owned ship to traverse Hormuz since the US–Israel war on Iran began.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
+    "pubDate": "2026-04-03T16:24:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775231334",
+    "originalTitle": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
+    "urduTitle": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
+    "urduSummary": "Drone footage from Israel shows damage to a factory in Petah Tikva from debris from an intercepted Iranian missile.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss",
+    "pubDate": "2026-04-03T15:51:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775223905",
+    "originalTitle": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+    "urduTitle": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+    "urduSummary": "The request for defence spending is the largest in decades and accompanies cuts to domestic programmes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
+    "pubDate": "2026-04-03T15:48:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/videos/crl10127elgo#0",
     "originalTitle": "Watch: Artemis II astronauts speak from space",
     "urduTitle": "Watch: Artemis II astronauts speak from space",
@@ -480,72 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss",
     "pubDate": "2026-04-01T23:54:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775082591",
-    "originalTitle": "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
-    "urduTitle": "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
-    "urduSummary": "Trump administration has denied involvement after Cuban government says a boat of armed men tried to infiltrate island.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting?traffic_source=rss",
-    "pubDate": "2026-04-01T23:31:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775068133",
-    "originalTitle": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
-    "urduTitle": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
-    "urduSummary": "President Daniel Noboa has led a hardline effort against local criminal networks, including military operations with US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss",
-    "pubDate": "2026-04-01T20:20:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775059695",
-    "originalTitle": "‘Hits close to home’: US Supreme Court hears birthright citizenship case",
-    "urduTitle": "‘Hits close to home’: US Supreme Court hears birthright citizenship case",
-    "urduSummary": "Case could determine future of century-old practice of infants being born in US automatically being granted citizenship.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/1/hits-close-to-home-us-supreme-court-hears-birthright-citizenship-case?traffic_source=rss",
-    "pubDate": "2026-04-01T20:19:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775065909",
-    "originalTitle": "Burundi says at least 13 killed, dozens injured in military base blast",
-    "urduTitle": "Burundi says at least 13 killed, dozens injured in military base blast",
-    "urduSummary": "Army spokesperson says houses, buildings, vehicles ​and military equipment were destroyed in ammunition depot blast.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast?traffic_source=rss",
-    "pubDate": "2026-04-01T20:16:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c79je4vldq5o#0",
-    "originalTitle": "What do Trump's latest comments on leaving Nato mean for the alliance?",
-    "urduTitle": "What do Trump's latest comments on leaving Nato mean for the alliance?",
-    "urduSummary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-01T16:31:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2wq13758no#0",
-    "originalTitle": "Families cram into Greek court for trial into deadliest train crash",
-    "urduTitle": "Families cram into Greek court for trial into deadliest train crash",
-    "urduSummary": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-01T16:30:17.000Z",
     "category": "world",
     "imageUrl": null
   }
