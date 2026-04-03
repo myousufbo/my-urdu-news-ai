@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/videos/crl10127elgo#0",
+    "originalTitle": "Watch: Artemis II astronauts speak from space",
+    "urduTitle": "Watch: Artemis II astronauts speak from space",
+    "urduSummary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-03T07:07:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775061362",
+    "originalTitle": "War crimes are no longer shameful. That should terrify you",
+    "urduTitle": "War crimes are no longer shameful. That should terrify you",
+    "urduSummary": "In the latest escalation in the Middle East, warring sides have demonstrated complete disregard for civilian life.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you?traffic_source=rss",
+    "pubDate": "2026-04-03T12:16:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775202716",
+    "originalTitle": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
+    "urduTitle": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
+    "urduSummary": "Years of war have fundamentally changed Israel's politics, economy and society, analysts say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take?traffic_source=rss",
+    "pubDate": "2026-04-03T11:24:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775209162",
+    "originalTitle": "Burkina Faso military leader Traore says ‘forget democracy’",
+    "urduTitle": "Burkina Faso military leader Traore says ‘forget democracy’",
+    "urduSummary": "Traore reneged on promises to hold elections and has since scrapped political parties in the country.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
+    "pubDate": "2026-04-03T11:21:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1775196661",
     "originalTitle": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups",
     "urduTitle": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-01T16:30:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-04-01T16:47:16.191Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775060769",
-    "originalTitle": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
-    "urduTitle": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
-    "urduSummary": "A senior Iranian official has laughed in response to US President Donald Trump's claim that Iran asked for a ceasefire.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss",
-    "pubDate": "2026-04-01T16:29:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775060523",
-    "originalTitle": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
-    "urduTitle": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
-    "urduSummary": "Kenyan tea farmers are facing a crisis after the US-Israeli war on Iran disrupted key export routes to the Middle East.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss",
-    "pubDate": "2026-04-01T16:25:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775021181",
-    "originalTitle": "History’s biggest census: Why India’s new population count is controversial",
-    "urduTitle": "History’s biggest census: Why India’s new population count is controversial",
-    "urduSummary": "The population count, which was delayed by five years, will include caste enumeration for the first time in a century.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss",
-    "pubDate": "2026-04-01T16:19:46.000Z",
     "category": "world",
     "imageUrl": null
   }
