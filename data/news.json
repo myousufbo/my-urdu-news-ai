@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c937g7nd5x4o#0",
+    "originalTitle": "Artemis II blasts ever closer to the far side of the Moon",
+    "urduTitle": "Artemis II blasts ever closer to the far side of the Moon",
+    "urduSummary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-03T03:35:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775189763",
+    "originalTitle": "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’",
+    "urduTitle": "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’",
+    "urduSummary": "Trump steps up threats after US strike on Iran's largest bridge, as Tehran launches attacks across the region.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+    "pubDate": "2026-04-03T05:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775073501",
+    "originalTitle": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
+    "urduTitle": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
+    "urduSummary": "Pakistan braces for gas shortage crisis as  LNG supplies collapse amid escalating regional conflict.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+    "pubDate": "2026-04-03T04:55:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775191051",
+    "originalTitle": "Donald Trump fires loyalist Attorney General Pam Bondi",
+    "urduTitle": "Donald Trump fires loyalist Attorney General Pam Bondi",
+    "urduSummary": "President Trump has fired Attorney General Pam Bondi, a loyalist and tenacious Trump defender.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss",
+    "pubDate": "2026-04-03T04:43:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/crm1vj941x9o#0",
     "originalTitle": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
     "urduTitle": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/4/1/irans-minister-civilisational-identity-under-fire-in-unprecedented-war?traffic_source=rss",
     "pubDate": "2026-04-01T12:45:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775042129",
-    "originalTitle": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
-    "urduTitle": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
-    "urduSummary": "Human Rights Watch slams the ruling against Ben Jamal and Chris Nineham as a 'political' move to silence dissent.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss",
-    "pubDate": "2026-04-01T12:27:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775038347",
-    "originalTitle": "How are NATO allies pushing back against Trump’s Iran war demands?",
-    "urduTitle": "How are NATO allies pushing back against Trump’s Iran war demands?",
-    "urduSummary": "Trump says he is considering a NATO exit as allies resist cooperation in US-Israel war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/1/how-are-nato-allies-pushing-back-against-trumps-iran-war-demands?traffic_source=rss",
-    "pubDate": "2026-04-01T12:03:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cze0kz7gr84o#0",
-    "originalTitle": "China is trying to play peacemaker in the Iran war - will it work?",
-    "urduTitle": "China is trying to play peacemaker in the Iran war - will it work?",
-    "urduSummary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-01T07:16:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775029889",
-    "originalTitle": "Israeli police inspect damage on the road after missile impact",
-    "urduTitle": "Israeli police inspect damage on the road after missile impact",
-    "urduSummary": "Police inspect a strike site in Tel Aviv after a missile hit the city.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
-    "pubDate": "2026-04-01T07:55:50.000Z",
     "category": "world",
     "imageUrl": null
   }
