@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1775278275",
+    "originalTitle": "NASA unveils first images of Earth from Artemis II",
+    "urduTitle": "NASA unveils first images of Earth from Artemis II",
+    "urduSummary": "NASA has unveiled the first images of Earth taken by Artemis II astronauts as they head towards the moon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+    "pubDate": "2026-04-04T04:53:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775251737",
+    "originalTitle": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+    "urduTitle": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+    "urduSummary": "Iran claims responsibility for downing two US warplanes, as search under way for missing crewmember.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+    "pubDate": "2026-04-04T03:51:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775273474",
+    "originalTitle": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
+    "urduTitle": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
+    "urduSummary": "European Parliament member Rima Hassan says she’s facing “genuine judicial and political harassment”.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
+    "pubDate": "2026-04-04T03:35:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0le43jw8e9o#0",
     "originalTitle": "How elite US teams tackle combat rescue missions",
     "urduTitle": "How elite US teams tackle combat rescue missions",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-02T09:38:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775131569",
-    "originalTitle": "Smoke rises over Mashhad, Iran, following strike near airport",
-    "urduTitle": "Smoke rises over Mashhad, Iran, following strike near airport",
-    "urduSummary": "Footage shows columns of smoke rising over the Iranian city of Mashhad, after US-Israeli strikes near the airport.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/smoke-rises-over-mashhad-iran-following-strike-near-airport?traffic_source=rss",
-    "pubDate": "2026-04-02T12:13:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775127565",
-    "originalTitle": "Women’s Asian Cup finalists accuse governing body over equal money",
-    "urduTitle": "Women’s Asian Cup finalists accuse governing body over equal money",
-    "urduSummary": "Japan and Australia renew calls for pay parity with men's football, as former also sack coach Nils Nielsen.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/2/womens-asian-cup-finalists-accuse-governing-body-over-equal-money?traffic_source=rss",
-    "pubDate": "2026-04-02T12:07:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775130238",
-    "originalTitle": "Pakistan-bound ships pass through Strait of Hormuz",
-    "urduTitle": "Pakistan-bound ships pass through Strait of Hormuz",
-    "urduSummary": "Two ships have passed through the Strait of Hormuz and arrived at Karachi Port.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss",
-    "pubDate": "2026-04-02T11:57:37.000Z",
     "category": "world",
     "imageUrl": null
   }
