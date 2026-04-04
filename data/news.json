@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1775302147",
+    "originalTitle": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
+    "urduTitle": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
+    "urduSummary": "Tehran says it is the fourth attack near the nuclear plant amid the US-Israel war on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+    "pubDate": "2026-04-04T12:19:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775300407",
+    "originalTitle": "Israel’s unchecked war machine",
+    "urduTitle": "Israel’s unchecked war machine",
+    "urduSummary": "With conflicts on multiple fronts, Israel’s war fever shows no sign of easing.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss",
+    "pubDate": "2026-04-04T11:56:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775286778",
+    "originalTitle": "At least four people killed in Russian attacks on Ukraine",
+    "urduTitle": "At least four people killed in Russian attacks on Ukraine",
+    "urduSummary": "At least one person has also died in a Ukrainian attack on Russia's southern Rostov region.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
+    "pubDate": "2026-04-04T10:20:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1775281882",
     "originalTitle": "Afghanistan earthquake kills eight members of same family",
     "urduTitle": "Afghanistan earthquake kills eight members of same family",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss",
     "pubDate": "2026-04-02T16:27:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775137849",
-    "originalTitle": "Pakistan, Afghanistan hold talks in China to end months of conflict",
-    "urduTitle": "Pakistan, Afghanistan hold talks in China to end months of conflict",
-    "urduSummary": "China has been trying to mediate a negotiated settlement to the conflict between the allies-turned-foes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
-    "pubDate": "2026-04-02T15:55:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c70dxqp0q2do#0",
-    "originalTitle": "Macron calls Trump's remarks on his marriage 'inelegant'",
-    "urduTitle": "Macron calls Trump's remarks on his marriage 'inelegant'",
-    "urduSummary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-02T12:33:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c070d9g5k7jo#0",
-    "originalTitle": "Man dies in storm as Saharan dust shrouds Crete",
-    "urduTitle": "Man dies in storm as Saharan dust shrouds Crete",
-    "urduSummary": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-02T07:54:44.000Z",
     "category": "world",
     "imageUrl": null
   }
