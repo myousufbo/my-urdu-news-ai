@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1775374470",
+    "originalTitle": "Messi scores as Inter Miami open new stadium with a draw in the MLS",
+    "urduTitle": "Messi scores as Inter Miami open new stadium with a draw in the MLS",
+    "urduSummary": "Miami captain scored his team's first goal after David Beckham said the Nu Stadium was a 'dream come true' for Miami.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/4/5/messi-scores-as-inter-miami-open-new-stadium-with-a-draw-in-the-mls?traffic_source=rss",
+    "pubDate": "2026-04-05T08:14:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775369012",
+    "originalTitle": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
+    "urduTitle": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
+    "urduSummary": "Protesters chant against the US and Israel, urging the global community to confront their actions in the Middle East.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/4/5/thousands-rally-in-iraq-against-us-israeli-regional-aggression?traffic_source=rss",
+    "pubDate": "2026-04-05T08:06:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775375588",
+    "originalTitle": "Trump seeks to end the war without it becoming ‘an abject failure’",
+    "urduTitle": "Trump seeks to end the war without it becoming ‘an abject failure’",
+    "urduSummary": "Barbara Slavin of the Stimson Center says Trump misread the situation in Iran and now scrambles for a way out.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-seeks-to-end-the-war-without-it-becoming-an-abject?traffic_source=rss",
+    "pubDate": "2026-04-05T07:58:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvg3nr83xyvo#0",
     "originalTitle": "German males under 45 may need military approval for long stays abroad ",
     "urduTitle": "German males under 45 may need military approval for long stays abroad ",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
     "pubDate": "2026-04-03T11:21:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775196661",
-    "originalTitle": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups",
-    "urduTitle": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups",
-    "urduSummary": "FA Cup and Champions League are Liverpool's only hope for glory this season as they languish in fifth place in league.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/3/man-city-vs-liverpool-fa-cup-quarterfinal-preview-team-news-start?traffic_source=rss",
-    "pubDate": "2026-04-03T08:30:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775154905",
-    "originalTitle": "Why did Trump fire Pam Bondi from Justice Department, who is Todd Blanche?",
-    "urduTitle": "Why did Trump fire Pam Bondi from Justice Department, who is Todd Blanche?",
-    "urduSummary": "Pam Bondi was fired by Trump, with the president saying she would be 'transitioning' to a new role in the private sector",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche?traffic_source=rss",
-    "pubDate": "2026-04-03T08:19:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775202164",
-    "originalTitle": "Lakers handed one of heaviest defeats by Thunder and hit by Doncic injury",
-    "urduTitle": "Lakers handed one of heaviest defeats by Thunder and hit by Doncic injury",
-    "urduSummary": "The Los Angeles Lakers are thumped 139-96 by Oklahoma City Thunder in heavy defeat, while Luka Doncic strains hamstring.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/3/lakers-handed-one-of-heaviest-defeats-by-thunder-and-hit-by-doncic-injury?traffic_source=rss",
-    "pubDate": "2026-04-03T08:16:48.000Z",
     "category": "world",
     "imageUrl": null
   }
