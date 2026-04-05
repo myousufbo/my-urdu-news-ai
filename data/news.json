@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cx267dnex7ko#0",
+    "originalTitle": "Man charged over fatal shooting of baby in pram in New York",
+    "urduTitle": "Man charged over fatal shooting of baby in pram in New York",
+    "urduSummary": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-04T23:28:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775349360",
+    "originalTitle": "US satellite firm Planet Labs announces blackout on war on Iran images",
+    "urduTitle": "US satellite firm Planet Labs announces blackout on war on Iran images",
+    "urduSummary": "Company says move amid US-Israel war on Iran comes after a request from the US government.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
+    "pubDate": "2026-04-05T01:13:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775343457",
+    "originalTitle": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
+    "urduTitle": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
+    "urduSummary": "Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
+    "pubDate": "2026-04-05T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775340324",
+    "originalTitle": "Car slams into Louisiana Lao New Year parade, injuring about 15 people",
+    "urduTitle": "Car slams into Louisiana Lao New Year parade, injuring about 15 people",
+    "urduSummary": "Authorities in New Iberia, Louisiana, have said the incident does not appear to be an intentional car-ramming.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/4/car-slams-into-louisiana-lao-new-year-parade-injuring-about-15-people?traffic_source=rss",
+    "pubDate": "2026-04-04T23:07:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0le69de645o#0",
     "originalTitle": "Search for missing airman presents serious test for US",
     "urduTitle": "Search for missing airman presents serious test for US",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
     "pubDate": "2026-04-03T04:55:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775191051",
-    "originalTitle": "Donald Trump fires loyalist Attorney General Pam Bondi",
-    "urduTitle": "Donald Trump fires loyalist Attorney General Pam Bondi",
-    "urduSummary": "President Trump has fired Attorney General Pam Bondi, a loyalist and tenacious Trump defender.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss",
-    "pubDate": "2026-04-03T04:43:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crm1vj941x9o#0",
-    "originalTitle": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-    "urduTitle": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-    "urduSummary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-02T16:09:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5ywqky5dd7o#0",
-    "originalTitle": "Iran war could make beer and bottled water pricier for Indians",
-    "urduTitle": "Iran war could make beer and bottled water pricier for Indians",
-    "urduSummary": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-02T23:16:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775170282",
-    "originalTitle": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
-    "urduTitle": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
-    "urduSummary": "US president has said that he will use tariffs to bring down costly medical drugs, but the impact remains uncertain.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
-    "pubDate": "2026-04-02T23:38:53.000Z",
     "category": "world",
     "imageUrl": null
   }
