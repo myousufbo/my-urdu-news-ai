@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-04-06T09:02:49.312Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775458188",
+    "originalTitle": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
+    "urduTitle": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
+    "urduSummary": "Tehran says it will respond 'in kind' to attacks on its infrastructure, accuses Trump of inciting 'war crimes'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed?traffic_source=rss",
+    "pubDate": "2026-04-06T08:31:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775453224",
+    "originalTitle": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+    "urduTitle": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+    "urduSummary": "Tensions continue after Trump's threat on Truth Social for Iran to reopen the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
+    "pubDate": "2026-04-06T08:01:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775376522",
+    "originalTitle": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
+    "urduTitle": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
+    "urduSummary": "Party banks on mix of xenophobic anti-Muslim policies and financial aid schemes aimed at women to retain power in state.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters?traffic_source=rss",
+    "pubDate": "2026-04-06T07:57:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
     "pubDate": "2026-04-04T04:53:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775251737",
-    "originalTitle": "Iran war: What is happening on day 36 of US-Israeli attacks?",
-    "urduTitle": "Iran war: What is happening on day 36 of US-Israeli attacks?",
-    "urduSummary": "Iran claims responsibility for downing two US warplanes, as search under way for missing crewmember.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
-    "pubDate": "2026-04-04T03:51:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775273474",
-    "originalTitle": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
-    "urduTitle": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
-    "urduSummary": "European Parliament member Rima Hassan says she’s facing “genuine judicial and political harassment”.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
-    "pubDate": "2026-04-04T03:35:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0le43jw8e9o#0",
-    "originalTitle": "How elite US teams tackle combat rescue missions",
-    "urduTitle": "How elite US teams tackle combat rescue missions",
-    "urduSummary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-03T20:42:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czd7y1n3jyjo#0",
-    "originalTitle": "After 16 years in power, can Viktor Orban finally be unseated?",
-    "urduTitle": "After 16 years in power, can Viktor Orban finally be unseated?",
-    "urduSummary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-03T23:04:24.000Z",
     "category": "world",
     "imageUrl": null
   }
