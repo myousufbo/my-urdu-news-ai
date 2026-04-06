@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#0",
+    "originalTitle": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+    "urduTitle": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+    "urduSummary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-06T11:48:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775461859",
+    "originalTitle": "How US operation to rescue air officer from Iran unfolded",
+    "urduTitle": "How US operation to rescue air officer from Iran unfolded",
+    "urduSummary": "President Trump says US service member whose fighter jet was shot down over Iran is rescued during two raids.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
+    "pubDate": "2026-04-06T12:42:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775469749",
+    "originalTitle": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
+    "urduTitle": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
+    "urduSummary": "US president says Washington armed Kurdish Iranian opposition groups during the January demonstrations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss",
+    "pubDate": "2026-04-06T11:52:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775468860",
+    "originalTitle": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
+    "urduTitle": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
+    "urduSummary": "If the chokepoint were shut, along with the Strait of Hormuz, a quarter of the world's energy supply would be blocked.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss",
+    "pubDate": "2026-04-06T11:49:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
     "pubDate": "2026-04-04T12:19:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775300407",
-    "originalTitle": "Israel’s unchecked war machine",
-    "urduTitle": "Israel’s unchecked war machine",
-    "urduSummary": "With conflicts on multiple fronts, Israel’s war fever shows no sign of easing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss",
-    "pubDate": "2026-04-04T11:56:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775286778",
-    "originalTitle": "At least four people killed in Russian attacks on Ukraine",
-    "urduTitle": "At least four people killed in Russian attacks on Ukraine",
-    "urduSummary": "At least one person has also died in a Ukrainian attack on Russia's southern Rostov region.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
-    "pubDate": "2026-04-04T10:20:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775281882",
-    "originalTitle": "Afghanistan earthquake kills eight members of same family",
-    "urduTitle": "Afghanistan earthquake kills eight members of same family",
-    "urduSummary": "The household's only survivor was a young boy who was injured in the tremor.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
-    "pubDate": "2026-04-04T07:23:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775278275",
-    "originalTitle": "NASA unveils first images of Earth from Artemis II",
-    "urduTitle": "NASA unveils first images of Earth from Artemis II",
-    "urduSummary": "NASA has unveiled the first images of Earth taken by Artemis II astronauts as they head towards the moon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
-    "pubDate": "2026-04-04T04:53:57.000Z",
     "category": "world",
     "imageUrl": null
   }
