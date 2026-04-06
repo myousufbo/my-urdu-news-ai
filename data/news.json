@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cj0vyzmmy50o#0",
+    "originalTitle": "The 40 minutes when the Artemis crew loses contact with the Earth",
+    "urduTitle": "The 40 minutes when the Artemis crew loses contact with the Earth",
+    "urduSummary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-05T23:02:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775491159",
+    "originalTitle": "Gaza camp offers children a sense of safety",
+    "urduTitle": "Gaza camp offers children a sense of safety",
+    "urduSummary": "The Samir Project is offering children in Gaza a camp where they can learn, heal, and regain some sense of safety.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
+    "pubDate": "2026-04-06T16:06:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775476550",
+    "originalTitle": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
+    "urduTitle": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
+    "urduSummary": "WHO driver Majdi Aslan was killed and a WHO doctor wounded, along with several other Palestinians.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss",
+    "pubDate": "2026-04-06T15:58:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775490099",
+    "originalTitle": "Gaza grandmother loses her family due to Israeli attacks",
+    "urduTitle": "Gaza grandmother loses her family due to Israeli attacks",
+    "urduSummary": "Gaza grandmother loses her family due to Israeli attacks",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-grandmother-loses-her-family-due-to-israeli-attacks?traffic_source=rss",
+    "pubDate": "2026-04-06T15:45:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#0",
     "originalTitle": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
     "urduTitle": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-04T14:00:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775311205",
-    "originalTitle": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-    "urduTitle": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-    "urduSummary": "Follow our live updates, including team news coverage, before our text commentary stream of Spanish top flight match.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-atletico-madrid-vs-barcelona-la-liga?traffic_source=rss",
-    "pubDate": "2026-04-04T16:09:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775317571",
-    "originalTitle": "Iran says US, Israel belong in Stone Age after Tehran university strike",
-    "urduTitle": "Iran says US, Israel belong in Stone Age after Tehran university strike",
-    "urduSummary": "Iranian minister said the US and Israel are the ones that belong in the Stone Age after an attack on Tehran university.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss",
-    "pubDate": "2026-04-04T15:49:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775312332",
-    "originalTitle": "Three suspects ordered to stay in UK custody over Jewish charity attack",
-    "urduTitle": "Three suspects ordered to stay in UK custody over Jewish charity attack",
-    "urduSummary": "The Metropolitan Police said the three men were charged with arson after setting ambulances on fire.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
-    "pubDate": "2026-04-04T15:19:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775302147",
-    "originalTitle": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
-    "urduTitle": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
-    "urduSummary": "Tehran says it is the fourth attack near the nuclear plant amid the US-Israel war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
-    "pubDate": "2026-04-04T12:19:39.000Z",
     "category": "world",
     "imageUrl": null
   }
