@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/crr1jyk0qwjo#0",
+    "originalTitle": "Australia's most-decorated living soldier charged over alleged war crimes",
+    "urduTitle": "Australia's most-decorated living soldier charged over alleged war crimes",
+    "urduSummary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-07T07:19:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775542853",
+    "originalTitle": "Iran releases on bail Japan national jailed amid antigovernment protests",
+    "urduTitle": "Iran releases on bail Japan national jailed amid antigovernment protests",
+    "urduSummary": "The person released is believed to be Japanese broadcaster NHK's Tehran bureau chief, Shinnosuke Kawashima.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/7/japanese-detained-in-iran-believed-to-be-journalist-released-on-bail?traffic_source=rss",
+    "pubDate": "2026-04-07T08:44:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775546135",
+    "originalTitle": "Synagogue in Tehran ‘completely destroyed’ in US-Israeli attack",
+    "urduTitle": "Synagogue in Tehran ‘completely destroyed’ in US-Israeli attack",
+    "urduSummary": "US-Israeli strikes destroy synagogue in Tehran, prompting outrage amid reports of 15 killed across Iran overnight.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/7/synagogue-in-tehran-destroyed-in-us-israeli-strikes-on-iran?traffic_source=rss",
+    "pubDate": "2026-04-07T08:43:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775550955",
+    "originalTitle": "Lebanese firefighters respond to aftermath of Israeli strike",
+    "urduTitle": "Lebanese firefighters respond to aftermath of Israeli strike",
+    "urduSummary": "Video shows Lebanese firefighters trying to put out flames in the southern city of Maarakeh.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/lebanese-firefighters-respond-to-aftermath-of-israeli-strike?traffic_source=rss",
+    "pubDate": "2026-04-07T08:39:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cyv16lq2rp1o#0",
     "originalTitle": "JD Vance due in Hungary to back Orban's re-election bid",
     "urduTitle": "JD Vance due in Hungary to back Orban's re-election bid",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
     "pubDate": "2026-04-05T12:18:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775388458",
-    "originalTitle": "Jeremy Hansen is the first Canadian to head to the moon",
-    "urduTitle": "Jeremy Hansen is the first Canadian to head to the moon",
-    "urduSummary": "Jeremy Hansen is the first Canadian to head to the moon",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
-    "pubDate": "2026-04-05T11:34:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775386206",
-    "originalTitle": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
-    "urduTitle": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
-    "urduSummary": "Drivers lined up for free gas in Chicago as fuel prices surge, driven by the US-Israeli war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
-    "pubDate": "2026-04-05T11:08:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775374470",
-    "originalTitle": "Messi scores as Inter Miami open new stadium with a draw in the MLS",
-    "urduTitle": "Messi scores as Inter Miami open new stadium with a draw in the MLS",
-    "urduSummary": "Miami captain scored his team's first goal after David Beckham said the Nu Stadium was a 'dream come true' for Miami.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/5/messi-scores-as-inter-miami-open-new-stadium-with-a-draw-in-the-mls?traffic_source=rss",
-    "pubDate": "2026-04-05T08:14:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775369012",
-    "originalTitle": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-    "urduTitle": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-    "urduSummary": "Protesters chant against the US and Israel, urging the global community to confront their actions in the Middle East.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/4/5/thousands-rally-in-iraq-against-us-israeli-regional-aggression?traffic_source=rss",
-    "pubDate": "2026-04-05T08:06:38.000Z",
     "category": "world",
     "imageUrl": null
   }
