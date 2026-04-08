@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cwyvp55xrlro#0",
+    "originalTitle": "Iran ceasefire deal a temporary win for Trump - but it comes at a cost",
+    "urduTitle": "Iran ceasefire deal a temporary win for Trump - but it comes at a cost",
+    "urduSummary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-08T00:45:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8r40erdj6mo#0",
+    "originalTitle": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+    "urduTitle": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+    "urduSummary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-08T00:37:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8r40y3rv75o#0",
+    "originalTitle": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+    "urduTitle": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+    "urduSummary": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-08T01:30:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775608179",
+    "originalTitle": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
+    "urduTitle": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
+    "urduSummary": "Investors welcome the possible resumption of oil and gas flows through the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss",
+    "pubDate": "2026-04-08T01:29:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775606832",
+    "originalTitle": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
+    "urduTitle": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
+    "urduSummary": "Tehran says the negotiations will be based on its 10-point proposal, which calls for control over Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss",
+    "pubDate": "2026-04-08T01:06:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775609054",
+    "originalTitle": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+    "urduTitle": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+    "urduSummary": "Iran’s Foreign Minister Abbas Araghchi says ‘if attacks against Iran are halted,’ then Iran agrees to a US ceasefire.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
+    "pubDate": "2026-04-08T01:00:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cx2w0v19gw8o#0",
     "originalTitle": "Tracking recent US-Israeli strikes on Iranian infrastructure",
     "urduTitle": "Tracking recent US-Israeli strikes on Iranian infrastructure",
@@ -481,72 +547,6 @@
     "link": "https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss",
     "pubDate": "2026-04-06T11:52:36.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775468860",
-    "originalTitle": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
-    "urduTitle": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
-    "urduSummary": "If the chokepoint were shut, along with the Strait of Hormuz, a quarter of the world's energy supply would be blocked.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss",
-    "pubDate": "2026-04-06T11:49:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-04-06T09:02:49.312Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775458188",
-    "originalTitle": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
-    "urduTitle": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
-    "urduSummary": "Tehran says it will respond 'in kind' to attacks on its infrastructure, accuses Trump of inciting 'war crimes'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed?traffic_source=rss",
-    "pubDate": "2026-04-06T08:31:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775453224",
-    "originalTitle": "Iran war: What is happening on day 38 of US-Israeli attacks?",
-    "urduTitle": "Iran war: What is happening on day 38 of US-Israeli attacks?",
-    "urduSummary": "Tensions continue after Trump's threat on Truth Social for Iran to reopen the Strait of Hormuz.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
-    "pubDate": "2026-04-06T08:01:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775376522",
-    "originalTitle": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
-    "urduTitle": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
-    "urduSummary": "Party banks on mix of xenophobic anti-Muslim policies and financial aid schemes aimed at women to retain power in state.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters?traffic_source=rss",
-    "pubDate": "2026-04-06T07:57:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-    "pubDate": "2026-04-06T05:56:13.682Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
