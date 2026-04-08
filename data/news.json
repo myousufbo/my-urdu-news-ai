@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1775628826",
+    "originalTitle": "Gulf, Arab nations react to Iran-US ceasefire announcement",
+    "urduTitle": "Gulf, Arab nations react to Iran-US ceasefire announcement",
+    "urduSummary": "Countries in the region welcome the temporary truce and urge negotiations for the war's permanent end.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss",
+    "pubDate": "2026-04-08T08:24:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775631272",
+    "originalTitle": "Romanian football great Mircea Lucescu dies aged 80",
+    "urduTitle": "Romanian football great Mircea Lucescu dies aged 80",
+    "urduSummary": "Lucescu, one of the most successful Romanian football coaches and players, won several European club titles.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/4/8/romanian-football-great-mircea-lucescu-dies-aged-80?traffic_source=rss",
+    "pubDate": "2026-04-08T08:21:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775628898",
+    "originalTitle": "Tehran celebrates as Iran, US agree to two-week ceasefire",
+    "urduTitle": "Tehran celebrates as Iran, US agree to two-week ceasefire",
+    "urduSummary": "Iran hails the pause in hostilities as a 'victory', crediting national unity and patience for the agreement.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/4/8/tehran-celebrates-as-iran-us-agree-to-two-week-ceasefire?traffic_source=rss",
+    "pubDate": "2026-04-08T08:21:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/ce84z6y3ke4o#0",
     "originalTitle": "What we know about the two-week ceasefire between the US and Iran ",
     "urduTitle": "What we know about the two-week ceasefire between the US and Iran ",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss",
     "pubDate": "2026-04-06T20:05:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775505155",
-    "originalTitle": "Video: Trump threatens to jail reporter over Iran airman rescue leak",
-    "urduTitle": "Video: Trump threatens to jail reporter over Iran airman rescue leak",
-    "urduSummary": "Trump demanded the journalist who reported on the rescue of the US airman in Iran reveal their source.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss",
-    "pubDate": "2026-04-06T20:01:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775500922",
-    "originalTitle": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
-    "urduTitle": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
-    "urduSummary": "Israeli forces launched renewed strikes across Lebanon, hitting the south and Beirut’s outskirts, killing civilians.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss",
-    "pubDate": "2026-04-06T19:40:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj0vyzmmy50o#0",
-    "originalTitle": "The 40 minutes when the Artemis crew loses contact with the Earth",
-    "urduTitle": "The 40 minutes when the Artemis crew loses contact with the Earth",
-    "urduSummary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-05T23:02:53.000Z",
     "category": "world",
     "imageUrl": null
   }
