@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1775660077",
+    "originalTitle": "Nobel Prize Committee condemns Russian move to criminalise rights group",
+    "urduTitle": "Nobel Prize Committee condemns Russian move to criminalise rights group",
+    "urduSummary": "Memorial was co-winner of 2022 Peace Prize for its work in documenting human rights abuses in Russia.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/8/nobel-prize-committee-condemns-russian-move-to-criminalise-rights-group?traffic_source=rss",
+    "pubDate": "2026-04-08T16:23:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775635709",
+    "originalTitle": "LIVE: Barcelona vs Atletico Madrid – Champions League quarterfinal",
+    "urduTitle": "LIVE: Barcelona vs Atletico Madrid – Champions League quarterfinal",
+    "urduSummary": "Follow the build-up, analysis and live text commentary of the all-Spanish quarterfinal first leg clash at Camp Nou.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/4/8/live-barcelona-vs-atletico-madrid-champions-league-quarterfinal?traffic_source=rss",
+    "pubDate": "2026-04-08T16:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775652974",
+    "originalTitle": "How Pakistan managed to get the US and Iran to a ceasefire",
+    "urduTitle": "How Pakistan managed to get the US and Iran to a ceasefire",
+    "urduSummary": "Backchannel talks led by Pakistan result in temporary ceasefire after weeks of fighting.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/4/8/how-pakistan-managed-to-get-the-us-and-iran-to-a-ceasefire?traffic_source=rss",
+    "pubDate": "2026-04-08T15:49:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0j6d538l6qo#0",
     "originalTitle": "Israel carries out large wave of air strikes across Lebanon",
     "urduTitle": "Israel carries out large wave of air strikes across Lebanon",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-06T21:55:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czexw94rj5jo#0",
-    "originalTitle": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
-    "urduTitle": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
-    "urduSummary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-06T23:04:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775499380",
-    "originalTitle": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
-    "urduTitle": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
-    "urduSummary": "US vice president's Budapest trip highlights US-Hungary far-right alignment as Orban faces toughest electoral challenge.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss",
-    "pubDate": "2026-04-07T01:18:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775516405",
-    "originalTitle": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
-    "urduTitle": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
-    "urduSummary": "Defense Secretary Pete Hegseth says US forces are carrying out more strikes on Iran than any day since start of war.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
-    "pubDate": "2026-04-07T00:00:00.000Z",
     "category": "world",
     "imageUrl": null
   }
