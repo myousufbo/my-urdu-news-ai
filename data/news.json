@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cj0v119zp19o#0",
+    "originalTitle": "Artemis II mission was a triumph - now comes the hard part",
+    "urduTitle": "Artemis II mission was a triumph - now comes the hard part",
+    "urduSummary": "The mission was almost flawless but there are considerable obstacles ahead before a Moon landing.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-11T00:38:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775888900",
+    "originalTitle": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+    "urduTitle": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+    "urduSummary": "Talks due in Washington as Israeli attacks on Lebanon continue, Iran says ceasefire must include them.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+    "pubDate": "2026-04-11T07:51:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775893594",
+    "originalTitle": "Israeli drone attack kills Palestinians near Gaza mosque",
+    "urduTitle": "Israeli drone attack kills Palestinians near Gaza mosque",
+    "urduSummary": "An Israeli drone attack near a mosque in central Gaza has killed at least 6 people.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+    "pubDate": "2026-04-11T07:51:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775892630",
+    "originalTitle": "Video: Vance arrives in Pakistan for talks with Iran",
+    "urduTitle": "Video: Vance arrives in Pakistan for talks with Iran",
+    "urduSummary": "US Vice President JD Vance has landed in Pakistan for talks with Iranian officials on a deal to end the war on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+    "pubDate": "2026-04-11T07:34:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c20qg3g9554o#0",
     "originalTitle": "Frontrunner for California governor denies sexual assault allegations",
     "urduTitle": "Frontrunner for California governor denies sexual assault allegations",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/9/four-die-dozens-rescued-in-attempted-channel-crossing-from-france-to-uk?traffic_source=rss",
     "pubDate": "2026-04-09T13:02:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775738853",
-    "originalTitle": "Lebanon Latest: Israel kills hundreds in one day",
-    "urduTitle": "Lebanon Latest: Israel kills hundreds in one day",
-    "urduSummary": "Israel launches a wave of strikes in Lebanon that has killed hundreds, despite a US-Iran ceasefire.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/aje-onl-aje_onl_lebanon_wrap-090426?traffic_source=rss",
-    "pubDate": "2026-04-09T12:54:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775730541",
-    "originalTitle": "Global energy crisis is ‘the mother of all crises’: Turkish energy minister",
-    "urduTitle": "Global energy crisis is ‘the mother of all crises’: Turkish energy minister",
-    "urduSummary": "Turkiye is a key regional energy hub due to its investments, location and oil reserves, the minister tells Al Jazeera.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister?traffic_source=rss",
-    "pubDate": "2026-04-09T12:18:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775713280",
-    "originalTitle": "Fury wants boxing clash with Joshua after comeback fight against Makhmudov",
-    "urduTitle": "Fury wants boxing clash with Joshua after comeback fight against Makhmudov",
-    "urduSummary": "Fury, who returns to the ring against Makhmudov on Saturday, says he wants to face his compatriot Joshua next.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/9/fury-wants-boxing-clash-with-joshua-after-comeback-fight-against-makhmudov?traffic_source=rss",
-    "pubDate": "2026-04-09T08:39:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775715344",
-    "originalTitle": "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban",
-    "urduTitle": "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban",
-    "urduSummary": "Around 3,000 worshippers held morning prayers at Al-Aqsa after Israel lifted restrictions.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/9/thousands-of-palestinians-pray-at-al-aqsa-mosque-after-israels-40-day-ban?traffic_source=rss",
-    "pubDate": "2026-04-09T08:09:17.000Z",
     "category": "world",
     "imageUrl": null
   }
