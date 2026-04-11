@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c20qg3g9554o#0",
+    "originalTitle": "Frontrunner for California governor denies sexual assault allegations",
+    "urduTitle": "Frontrunner for California governor denies sexual assault allegations",
+    "urduSummary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-11T03:13:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775864628",
+    "originalTitle": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+    "urduTitle": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+    "urduSummary": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+    "pubDate": "2026-04-11T04:49:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775880582",
+    "originalTitle": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+    "urduTitle": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+    "urduSummary": "Pakistan’s ambassador to the US said weeks of intense diplomatic efforts have led to a shared commitment from all sides.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+    "pubDate": "2026-04-11T04:15:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775880051",
+    "originalTitle": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+    "urduTitle": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+    "urduSummary": "Pakistan’s Prime Minister Shehbaz Sharif has described the upcoming US-Iran talks in Islamabad as “make or break”.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+    "pubDate": "2026-04-11T04:02:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn9qzl12537o#0",
     "originalTitle": "Historic Vance-Ghalibaf talks must bridge deep distrust",
     "urduTitle": "Historic Vance-Ghalibaf talks must bridge deep distrust",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/9/thousands-of-palestinians-pray-at-al-aqsa-mosque-after-israels-40-day-ban?traffic_source=rss",
     "pubDate": "2026-04-09T08:09:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775717563",
-    "originalTitle": "Iran has been bloodied, but it is winning against the US-Israel axis",
-    "urduTitle": "Iran has been bloodied, but it is winning against the US-Israel axis",
-    "urduSummary": "The US and Israel thought they could decimate Iran. But Iran's survival - despite massive human costs - is a victory.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/4/9/iran-has-been-bloodied-but-it-is-winning-against-the-us-israel-axis?traffic_source=rss",
-    "pubDate": "2026-04-09T08:05:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c05d8j9r5ejo#0",
-    "originalTitle": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
-    "urduTitle": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
-    "urduSummary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-09T01:59:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775710409",
-    "originalTitle": "Man rescued after two weeks trapped in collapsed Mexico mine",
-    "urduTitle": "Man rescued after two weeks trapped in collapsed Mexico mine",
-    "urduSummary": "A man trapped for nearly two weeks in a flooded gold mine in Sinaloa, Mexico, has been rescued by military divers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss",
-    "pubDate": "2026-04-09T04:55:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775702343",
-    "originalTitle": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-    "urduTitle": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-    "urduSummary": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
-    "pubDate": "2026-04-09T04:46:54.000Z",
     "category": "world",
     "imageUrl": null
   }
