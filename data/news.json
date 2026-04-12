@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cj0vn30574no#0",
+    "originalTitle": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+    "urduTitle": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+    "urduSummary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-12T04:20:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c7vq0jnn0yro#0",
+    "originalTitle": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+    "urduTitle": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+    "urduSummary": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-12T05:22:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-04-12T05:51:20.863Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775971063",
+    "originalTitle": "Pakistan urges US and Iran to uphold ceasefire after talks end",
+    "urduTitle": "Pakistan urges US and Iran to uphold ceasefire after talks end",
+    "urduSummary": "Pakistani Foreign Minister Ishaq Dar has insisted the US and Iran must uphold their ceasefire agreement.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
+    "pubDate": "2026-04-12T05:25:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775967396",
+    "originalTitle": "US and Iran fail to reach peace deal after marathon talks in Pakistan",
+    "urduTitle": "US and Iran fail to reach peace deal after marathon talks in Pakistan",
+    "urduSummary": "Vice President JD Vance says Iran chose not to accept US terms, while Iran says it did not expect deal in first meeting.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
+    "pubDate": "2026-04-12T05:19:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775969986",
+    "originalTitle": "Musician performs inside melting glacier to highlight climate crisis",
+    "urduTitle": "Musician performs inside melting glacier to highlight climate crisis",
+    "urduSummary": "Swiss musician To Athena has performed inside a cave in a melting glacier to highlight ice loss in the Alps.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/musician-performs-inside-melting-glacier-to-highlight-climate-crisis?traffic_source=rss",
+    "pubDate": "2026-04-12T05:01:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cdxdepjrv95o#0",
     "originalTitle": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
     "urduTitle": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
@@ -480,72 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss",
     "pubDate": "2026-04-10T11:06:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775805143",
-    "originalTitle": "Djibouti votes as long-time leader seeks sixth presidential term",
-    "urduTitle": "Djibouti votes as long-time leader seeks sixth presidential term",
-    "urduSummary": "Politicians scrapped the presidential age limit last year, allowing Ismail Omar Guelleh to run yet again.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
-    "pubDate": "2026-04-10T08:30:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775801920",
-    "originalTitle": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
-    "urduTitle": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
-    "urduSummary": "A Middle Eastern country has for the first time single-handedly checked the war-making capabilities of the US and Israel",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss",
-    "pubDate": "2026-04-10T08:27:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775803553",
-    "originalTitle": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
-    "urduTitle": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
-    "urduSummary": "Moscow and Kyiv signal a short Easter truce as diplomacy stalls and war pressures mount.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss",
-    "pubDate": "2026-04-10T07:54:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775796911",
-    "originalTitle": "Palestinian journalist describes losing prosthetic eye in Israeli prison",
-    "urduTitle": "Palestinian journalist describes losing prosthetic eye in Israeli prison",
-    "urduSummary": "Palestinian journalist Muath Amarne said his prosthetic eye fell out after an infection while in Israeli detention.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss",
-    "pubDate": "2026-04-10T05:00:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775796650",
-    "originalTitle": "Kuwait blames Iran for drone strike, Iran denies responsibility",
-    "urduTitle": "Kuwait blames Iran for drone strike, Iran denies responsibility",
-    "urduSummary": "Kuwait is blaming ‘Iran and its proxies’ for a drone attack on Thursday night, while Iran has denied responsibility.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss",
-    "pubDate": "2026-04-10T04:57:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775790634",
-    "originalTitle": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
-    "urduTitle": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
-    "urduSummary": "As UK PM Keir Starmer arrived in Doha as part of a Gulf tour he discussed efforts to secure the US-Iran ceasefire.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss",
-    "pubDate": "2026-04-10T03:13:44.000Z",
     "category": "world",
     "imageUrl": null
   }
