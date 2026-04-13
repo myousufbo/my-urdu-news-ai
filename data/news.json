@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cp841y07w5xo#0",
+    "originalTitle": "Pope says he has 'no fear' of Trump after scathing criticism",
+    "urduTitle": "Pope says he has 'no fear' of Trump after scathing criticism",
+    "urduSummary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-13T12:50:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776078634",
+    "originalTitle": "At least six killed in Israeli strikes in southern Lebanon",
+    "urduTitle": "At least six killed in Israeli strikes in southern Lebanon",
+    "urduSummary": "Attacks come as Israel says it is close to taking over a major town in the south, and before peace talks in the US.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "2026-04-13T12:39:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776082391",
+    "originalTitle": "Cement company Lafarge found guilty in Syria terrorism financing case",
+    "urduTitle": "Cement company Lafarge found guilty in Syria terrorism financing case",
+    "urduSummary": "A French court has found cement company Lafarge guilty of financing armed groups during the Syrian war.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss",
+    "pubDate": "2026-04-13T12:18:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776074648",
+    "originalTitle": "Israel is trying to change Jerusalem’s religious identity",
+    "urduTitle": "Israel is trying to change Jerusalem’s religious identity",
+    "urduSummary": "Israel is destroying the Status Quo to establish full control over Muslim and Christian religious life at holy sites.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity?traffic_source=rss",
+    "pubDate": "2026-04-13T12:02:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn0wzxqyx17o#0",
     "originalTitle": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
     "urduTitle": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
     "pubDate": "2026-04-11T19:38:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775928362",
-    "originalTitle": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
-    "urduTitle": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
-    "urduSummary": "Deployment under mutual defence pact comes as Islamabad hosts US-Iran ceasefire talks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss",
-    "pubDate": "2026-04-11T19:35:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr51z54d5rpo#0",
-    "originalTitle": "Artemis crew home safely after completing historic mission to the Moon",
-    "urduTitle": "Artemis crew home safely after completing historic mission to the Moon",
-    "urduSummary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-11T07:53:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvge1kdmpzwo#0",
-    "originalTitle": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
-    "urduTitle": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
-    "urduSummary": "Judges handed down sentences ranging from five years to life imprisonment following mass trials.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-11T14:41:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775916201",
-    "originalTitle": "Russia-Ukraine Orthodox Easter ceasefire begins",
-    "urduTitle": "Russia-Ukraine Orthodox Easter ceasefire begins",
-    "urduSummary": "Both sides have agreed to observe the temporary truce, as US-led diplomatic efforts to end the war continue to stall.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
-    "pubDate": "2026-04-11T16:09:51.000Z",
     "category": "world",
     "imageUrl": null
   }
