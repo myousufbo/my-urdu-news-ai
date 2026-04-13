@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cd9vg782kx7o#0",
+    "originalTitle": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+    "urduTitle": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+    "urduSummary": "Viktor Orbán's 16 years in power is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-13T00:32:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776039471",
+    "originalTitle": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
+    "urduTitle": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
+    "urduSummary": "Asian stocks fall as blockade threat injects fresh turmoil into financial markets.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss",
+    "pubDate": "2026-04-13T01:30:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776036700",
+    "originalTitle": "US military threatens to blockade all Iranian ports starting on Monday",
+    "urduTitle": "US military threatens to blockade all Iranian ports starting on Monday",
+    "urduSummary": "Vessels will still be able to transit the Strait of Hormuz to and from non-Iranian ports, says US Central Command.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
+    "pubDate": "2026-04-13T00:32:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776035116",
+    "originalTitle": "Iran war live: US military says it will block Iranian traffic in Hormuz",
+    "urduTitle": "Iran war live: US military says it will block Iranian traffic in Hormuz",
+    "urduSummary": "CENTCOM says the blockade will begin at 14:00 GMT, as Iran warns of even higher prices at the pump.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
+    "pubDate": "2026-04-13T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c8dl5mly2rzo#0",
     "originalTitle": "Trump's blockade threat raises risks and leaves predicaments unchanged",
     "urduTitle": "Trump's blockade threat raises risks and leaves predicaments unchanged",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
     "pubDate": "2026-04-11T07:51:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775892630",
-    "originalTitle": "Video: Vance arrives in Pakistan for talks with Iran",
-    "urduTitle": "Video: Vance arrives in Pakistan for talks with Iran",
-    "urduSummary": "US Vice President JD Vance has landed in Pakistan for talks with Iranian officials on a deal to end the war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
-    "pubDate": "2026-04-11T07:34:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20qg3g9554o#0",
-    "originalTitle": "Frontrunner for California governor denies sexual assault allegations",
-    "urduTitle": "Frontrunner for California governor denies sexual assault allegations",
-    "urduSummary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-11T03:13:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775864628",
-    "originalTitle": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-    "urduTitle": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-    "urduSummary": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-    "pubDate": "2026-04-11T04:49:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775880582",
-    "originalTitle": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-    "urduTitle": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-    "urduSummary": "Pakistan’s ambassador to the US said weeks of intense diplomatic efforts have led to a shared commitment from all sides.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-    "pubDate": "2026-04-11T04:15:59.000Z",
     "category": "world",
     "imageUrl": null
   }
