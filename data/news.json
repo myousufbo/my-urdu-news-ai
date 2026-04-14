@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-04-14T05:57:09.335Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776140549",
+    "originalTitle": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
+    "urduTitle": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
+    "urduSummary": "Relief for global markets comes after Trump says Iranian officials are keen on a deal.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss",
+    "pubDate": "2026-04-14T05:47:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776140904",
+    "originalTitle": "Indonesia, US sign ‘major’ defence cooperation agreement",
+    "urduTitle": "Indonesia, US sign ‘major’ defence cooperation agreement",
+    "urduSummary": "Signing of defence partnership follows reports that US is seeking overflight access in Indonesia for military planes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss",
+    "pubDate": "2026-04-14T05:10:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776112927",
+    "originalTitle": "Three babies born into Sudan war every minute, charity warns",
+    "urduTitle": "Three babies born into Sudan war every minute, charity warns",
+    "urduSummary": "Sudanese children are being born into conditions 'no child should ever face', Save the Children says.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
+    "pubDate": "2026-04-14T04:52:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cr51l794mlyo#0",
     "originalTitle": "Lebanon enters talks with Israel but with no cards to play",
     "urduTitle": "Lebanon enters talks with Israel but with no cards to play",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
     "pubDate": "2026-04-12T08:09:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775971351",
-    "originalTitle": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-    "urduTitle": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-    "urduSummary": "US-Iran talks in Islamabad end without a deal, with each side blaming the other for the failure.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
-    "pubDate": "2026-04-12T08:07:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1775974326",
-    "originalTitle": "Neymar has to prove his fitness for Brazil’s World Cup squad: Ancelotti",
-    "urduTitle": "Neymar has to prove his fitness for Brazil’s World Cup squad: Ancelotti",
-    "urduSummary": "Brazil's coach says Neymar could be in contention for the squad if he attains full fitness in the next two months.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss",
-    "pubDate": "2026-04-12T06:56:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj0vn30574no#0",
-    "originalTitle": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-    "urduTitle": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-    "urduSummary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-12T04:20:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7vq0jnn0yro#0",
-    "originalTitle": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-    "urduTitle": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-    "urduSummary": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-12T05:22:34.000Z",
     "category": "world",
     "imageUrl": null
   }
