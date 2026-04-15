@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1776235633",
+    "originalTitle": "Palestinian leader Barghouti endures ‘violent’ assaults in Israeli prisons",
+    "urduTitle": "Palestinian leader Barghouti endures ‘violent’ assaults in Israeli prisons",
+    "urduSummary": "Recent reports of prison brutality follow an attack last year that resulted in broken ribs and head injuries.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/15/palestinian-leader-barghouti-endures-violent-assaults-in-israeli-prisons?traffic_source=rss",
+    "pubDate": "2026-04-15T08:42:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776234366",
+    "originalTitle": "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced",
+    "urduTitle": "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced",
+    "urduSummary": "Often overlooked in Lebanon's society, the migrant community is filling the gaps of the state by feeding their own.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
+    "pubDate": "2026-04-15T08:21:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776144575",
+    "originalTitle": "Families across Sudan endure years of displacement, hunger, loss",
+    "urduTitle": "Families across Sudan endure years of displacement, hunger, loss",
+    "urduSummary": "More than nine million people remain displaced in Sudan, while nearly 29 million face acute hunger.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss",
+    "pubDate": "2026-04-15T08:02:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c4g66p2q075o#0",
     "originalTitle": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
     "urduTitle": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
     "pubDate": "2026-04-13T12:39:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776082391",
-    "originalTitle": "Cement company Lafarge found guilty in Syria terrorism financing case",
-    "urduTitle": "Cement company Lafarge found guilty in Syria terrorism financing case",
-    "urduSummary": "A French court has found cement company Lafarge guilty of financing armed groups during the Syrian war.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss",
-    "pubDate": "2026-04-13T12:18:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776074648",
-    "originalTitle": "Israel is trying to change Jerusalem’s religious identity",
-    "urduTitle": "Israel is trying to change Jerusalem’s religious identity",
-    "urduSummary": "Israel is destroying the Status Quo to establish full control over Muslim and Christian religious life at holy sites.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity?traffic_source=rss",
-    "pubDate": "2026-04-13T12:02:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn0wzxqyx17o#0",
-    "originalTitle": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-    "urduTitle": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-    "urduSummary": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-13T08:28:35.000Z",
     "category": "world",
     "imageUrl": null
   }
