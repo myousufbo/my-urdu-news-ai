@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/videos/cz67760pq0xo#0",
+    "originalTitle": "Frank Gardner: What is China's role in the Iran war?",
+    "urduTitle": "Frank Gardner: What is China's role in the Iran war?",
+    "urduSummary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-15T18:54:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1775942242",
+    "originalTitle": "Could the US oil blockade snuff out the Cuban cigar?",
+    "urduTitle": "Could the US oil blockade snuff out the Cuban cigar?",
+    "urduSummary": "Since January, the Trump administration has blocked foreign oil to Cuba. Will the island's cigars survive the crisis?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
+    "pubDate": "2026-04-15T20:08:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776272307",
+    "originalTitle": "Hungary’s Magyar urges president to quit, vows to overhaul state media",
+    "urduTitle": "Hungary’s Magyar urges president to quit, vows to overhaul state media",
+    "urduSummary": "Incoming Prime Minister Peter Magyar says his government could be formed by mid-May.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/15/hungarys-magyar-urges-president-to-quit-vows-to-overhaul-state-media?traffic_source=rss",
+    "pubDate": "2026-04-15T19:56:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776282618",
+    "originalTitle": "Guterres urges end to arms flow as Sudan war enters fourth year",
+    "urduTitle": "Guterres urges end to arms flow as Sudan war enters fourth year",
+    "urduSummary": "The flow of weapons to Sudan must stop, UN Secretary-General Antonio Guterres pleaded on the war's third anniversary.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/guterres-urges-end-to-arms-flow-as-sudan-war-enters-fourth?traffic_source=rss",
+    "pubDate": "2026-04-15T19:56:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c9qddrdd8w2o#0",
     "originalTitle": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
     "urduTitle": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-13T23:26:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cwyk8rz1pzyo#0",
-    "originalTitle": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
-    "urduTitle": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
-    "urduSummary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-13T21:29:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd6lzezp4zvo#0",
-    "originalTitle": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-    "urduTitle": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-    "urduSummary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-13T21:28:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776121904",
-    "originalTitle": "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
-    "urduTitle": "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
-    "urduSummary": "Iran accuses US of committing piracy as thousands rally in Tehran against the blockade in the Strait of Hormuz.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss",
-    "pubDate": "2026-04-14T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776113318",
-    "originalTitle": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
-    "urduTitle": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
-    "urduSummary": "Naim Qassem says planned talks in Washington, DC, are a ploy to pressure Hezbollah into laying down its weapons.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss",
-    "pubDate": "2026-04-13T22:46:50.000Z",
     "category": "world",
     "imageUrl": null
   }
