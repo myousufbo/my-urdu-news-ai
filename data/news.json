@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c4g44gj7rgno#0",
+    "originalTitle": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+    "urduTitle": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+    "urduSummary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-15T21:10:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776299221",
+    "originalTitle": "Brazil’s fugitive ex-spy chief freed in the US after ICE detention",
+    "urduTitle": "Brazil’s fugitive ex-spy chief freed in the US after ICE detention",
+    "urduSummary": "Alexandre Ramagem, who fled Brazil following his conviction for plotting a coup, was held by ICE in Florida on Monday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss",
+    "pubDate": "2026-04-16T01:18:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776300646",
+    "originalTitle": "Russian attack on Ukraine’s Kyiv kills 12-year-old child, wounds 10",
+    "urduTitle": "Russian attack on Ukraine’s Kyiv kills 12-year-old child, wounds 10",
+    "urduSummary": "Kyiv's mayor says the attacks hit Podilskyi and Obolonsky districts, causing fires and damage to residential buildings.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/16/russian-attack-on-ukraines-kyiv-kills-12-year-old-child-wounds-10?traffic_source=rss",
+    "pubDate": "2026-04-16T01:06:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776299092",
+    "originalTitle": "Huge crowds greet Pope Leo in Cameroon 20 years after outreach trip",
+    "urduTitle": "Huge crowds greet Pope Leo in Cameroon 20 years after outreach trip",
+    "urduSummary": "Huge crowds have greeted Pope Leo in Cameroon, returning to a country he visited 20 years ago as ‘Father Bob’.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/huge-crowds-greet-pope-leo-in-cameroon-20-years-after-outreach-trip?traffic_source=rss",
+    "pubDate": "2026-04-16T00:32:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/videos/cz67760pq0xo#0",
     "originalTitle": "Frank Gardner: What is China's role in the Iran war?",
     "urduTitle": "Frank Gardner: What is China's role in the Iran war?",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-04-14T05:57:09.335Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776140549",
-    "originalTitle": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
-    "urduTitle": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
-    "urduSummary": "Relief for global markets comes after Trump says Iranian officials are keen on a deal.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss",
-    "pubDate": "2026-04-14T05:47:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776140904",
-    "originalTitle": "Indonesia, US sign ‘major’ defence cooperation agreement",
-    "urduTitle": "Indonesia, US sign ‘major’ defence cooperation agreement",
-    "urduSummary": "Signing of defence partnership follows reports that US is seeking overflight access in Indonesia for military planes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss",
-    "pubDate": "2026-04-14T05:10:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776112927",
-    "originalTitle": "Three babies born into Sudan war every minute, charity warns",
-    "urduTitle": "Three babies born into Sudan war every minute, charity warns",
-    "urduSummary": "Sudanese children are being born into conditions 'no child should ever face', Save the Children says.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
-    "pubDate": "2026-04-14T04:52:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr51l794mlyo#0",
-    "originalTitle": "Lebanon enters talks with Israel but with no cards to play",
-    "urduTitle": "Lebanon enters talks with Israel but with no cards to play",
-    "urduSummary": "The Lebanese government go into peace talks with limited influence over the group.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-13T23:26:46.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
