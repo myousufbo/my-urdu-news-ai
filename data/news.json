@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c20d22ev21wo#0",
+    "originalTitle": "Singer D4vd arrested in connection with death of missing teen girl",
+    "urduTitle": "Singer D4vd arrested in connection with death of missing teen girl",
+    "urduSummary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-17T01:43:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-04-17T02:02:10.345Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776387752",
+    "originalTitle": "Celebrations on the road as people begin returning to southern Lebanon",
+    "urduTitle": "Celebrations on the road as people begin returning to southern Lebanon",
+    "urduSummary": "People celebrate on the roads in southern Lebanon as they drive to their homes after the ceasefire announcement.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss",
+    "pubDate": "2026-04-17T01:07:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776380493",
+    "originalTitle": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
+    "urduTitle": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
+    "urduSummary": "Death toll from Israeli attacks on Lebanon reached 2,196 on Thursday as 10-day ceasefire announced.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss",
+    "pubDate": "2026-04-17T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776379686",
+    "originalTitle": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
+    "urduTitle": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
+    "urduSummary": "Lebanon’s residents say they are wary of trusting that Israel will abide by the ceasefire agreement announced by Trump.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss",
+    "pubDate": "2026-04-16T22:55:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1776368790",
     "originalTitle": "Displaced Lebanese in Beirut uncertain if they can trust ceasefire",
     "urduTitle": "Displaced Lebanese in Beirut uncertain if they can trust ceasefire",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-14T20:42:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy01d1g0rrjo#0",
-    "originalTitle": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
-    "urduTitle": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
-    "urduSummary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-14T23:13:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776229725",
-    "originalTitle": "Candidate calls for new election in Peru, claiming fraud without evidence",
-    "urduTitle": "Candidate calls for new election in Peru, claiming fraud without evidence",
-    "urduSummary": "Peru’s presidential candidate Rafael Lopez Aliaga is urging officials to declare Sunday’s election 'null and void’.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss",
-    "pubDate": "2026-04-15T05:24:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776228038",
-    "originalTitle": "US military says blockade of Iran ports ‘completely’ halts economic trade",
-    "urduTitle": "US military says blockade of Iran ports ‘completely’ halts economic trade",
-    "urduSummary": "US Central Command say more than 10,000 armed forces members, as well as warships and planes, are involved in blockade.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss",
-    "pubDate": "2026-04-15T05:17:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776219655",
-    "originalTitle": "South Africa appoints former apartheid-era negotiator as US ambassador",
-    "urduTitle": "South Africa appoints former apartheid-era negotiator as US ambassador",
-    "urduSummary": "Roelf Meyer will replace the South African ambassador who was expelled from the US by President Donald Trump in 2025.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/15/south-africa-appoints-former-apartheid-era-negotiator-as-us-ambassador?traffic_source=rss",
-    "pubDate": "2026-04-15T04:26:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776213261",
-    "originalTitle": "Israeli attacks kill 11, including two children, in day of strikes on Gaza",
-    "urduTitle": "Israeli attacks kill 11, including two children, in day of strikes on Gaza",
-    "urduSummary": "A three-year-old and a 14-year-old were among those killed in Israel's latest strikes on northern Gaza.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss",
-    "pubDate": "2026-04-15T01:16:20.000Z",
     "category": "world",
     "imageUrl": null
   }
