@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c77my6gnpy4o#0",
+    "originalTitle": "Madonna joins Sabrina Carpenter to surprise Coachella",
+    "urduTitle": "Madonna joins Sabrina Carpenter to surprise Coachella",
+    "urduSummary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-18T10:32:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-04-18T12:51:20.920Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776498458",
+    "originalTitle": "Iran closes Strait of Hormuz again over US blockade of its ports",
+    "urduTitle": "Iran closes Strait of Hormuz again over US blockade of its ports",
+    "urduSummary": "Reports of Iranian gunboats opening fire on tanker after Tehran says it is closing waterway until US lifts its blockade.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports?traffic_source=rss",
+    "pubDate": "2026-04-18T12:03:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776512784",
+    "originalTitle": "Gunfire reported by vessel in Strait of Hormuz",
+    "urduTitle": "Gunfire reported by vessel in Strait of Hormuz",
+    "urduSummary": "A maritime agency reported that a tanker was fired on by gunboats in the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-04-18T11:55:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776509450",
+    "originalTitle": "Displaced Lebanese return as Israeli shelling violates ceasefire in south",
+    "urduTitle": "Displaced Lebanese return as Israeli shelling violates ceasefire in south",
+    "urduSummary": "Al Jazeera correspondents on the ground report that Israeli bulldozers are also continuing home demolitions.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss",
+    "pubDate": "2026-04-18T11:53:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1776493868",
     "originalTitle": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
     "urduTitle": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-16T12:42:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz9025d7jqzo#0",
-    "originalTitle": "Turkish police detain 162 people over online praise for school shootings",
-    "urduTitle": "Turkish police detain 162 people over online praise for school shootings",
-    "urduSummary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-16T11:01:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776336000",
-    "originalTitle": "India plans more seats for women in parliament, links it to ‘delimitation’",
-    "urduTitle": "India plans more seats for women in parliament, links it to ‘delimitation’",
-    "urduSummary": "BJP links implementation of law reserving 33 percent of seats for women to redrawing of parliamentary constituencies.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/16/india-plans-more-seats-for-women-in-parliament-links-it-to-delimitation?traffic_source=rss",
-    "pubDate": "2026-04-16T12:38:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776331203",
-    "originalTitle": "Why the Iran war did not go according to US plans",
-    "urduTitle": "Why the Iran war did not go according to US plans",
-    "urduSummary": "Washington misread Iran, overestimated its own leverage and found itself trapped in a costly 40-day war of attrition.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/4/16/why-the-iran-war-did-not-go-according-to-us-plans?traffic_source=rss",
-    "pubDate": "2026-04-16T12:29:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776341980",
-    "originalTitle": "Israeli strike destroys last working bridge over Lebanon’s Litani River",
-    "urduTitle": "Israeli strike destroys last working bridge over Lebanon’s Litani River",
-    "urduSummary": "An Israeli strike has destroyed the last operational bridge over the Litani River.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-strike-destroys-last-working-bridge-over-lebanons-litani-river?traffic_source=rss",
-    "pubDate": "2026-04-16T12:21:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdxkk1vnp57o#0",
-    "originalTitle": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-    "urduTitle": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-    "urduSummary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-16T08:28:51.000Z",
     "category": "world",
     "imageUrl": null
   }
