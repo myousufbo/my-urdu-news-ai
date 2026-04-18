@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1776493868",
+    "originalTitle": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
+    "urduTitle": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
+    "urduSummary": "Leo is the third pontiff to visit the fossil fuel-rich country after John Paul II in 1992 and Benedict XVI in 2009.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
+    "pubDate": "2026-04-18T08:10:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776494902",
+    "originalTitle": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
+    "urduTitle": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
+    "urduSummary": "Israeli police confiscated and destroyed footballs that were being played with by children around Al-Aqsa mosque.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss",
+    "pubDate": "2026-04-18T06:52:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776492463",
+    "originalTitle": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
+    "urduTitle": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
+    "urduSummary": "US President Donald Trump says the US will “have to start dropping bombs again” if no US-Iran deal is reached.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
+    "pubDate": "2026-04-18T06:10:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1776487001",
     "originalTitle": "Al-Noor centre: A lifeline for blind children in Gaza",
     "urduTitle": "Al-Noor centre: A lifeline for blind children in Gaza",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-16T08:28:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-04-16T09:12:42.171Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776329978",
-    "originalTitle": "Car ploughs into e-bike riders and pedestrians in China",
-    "urduTitle": "Car ploughs into e-bike riders and pedestrians in China",
-    "urduSummary": "Videos show the moment a driver in China rammed into e-bike riders and pedestrians.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/car-ploughs-into-e-bike-riders-and-pedestrians-in-china?traffic_source=rss",
-    "pubDate": "2026-04-16T09:02:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776329513",
-    "originalTitle": "Israeli air attack destroys buildings around south Lebanon hospital",
-    "urduTitle": "Israeli air attack destroys buildings around south Lebanon hospital",
-    "urduSummary": "Israeli strikes in the vicinity of a hospital in southern Lebanon destroyed buildings and several emergency vehicles.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-air-attack-destroys-buildings-around-south-lebanon-hospital?traffic_source=rss",
-    "pubDate": "2026-04-16T08:55:44.000Z",
     "category": "world",
     "imageUrl": null
   }
