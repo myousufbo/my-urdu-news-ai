@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c5yjzy35825o#0",
+    "originalTitle": "Oil prices rise after Trump says Iranian ship seized",
+    "urduTitle": "Oil prices rise after Trump says Iranian ship seized",
+    "urduSummary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-20T02:29:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776614401",
+    "originalTitle": "As barbed wire blocks kids from class, Palestinians stage ‘Freedom School’",
+    "urduTitle": "As barbed wire blocks kids from class, Palestinians stage ‘Freedom School’",
+    "urduSummary": "Children from Umm al-Khair in the occupied West Bank protest after setters erect a fence blocking access to school.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/20/as-barbed-wire-blocks-kids-from-class-palestinians-stage-freedom-school?traffic_source=rss",
+    "pubDate": "2026-04-20T05:44:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776627149",
+    "originalTitle": "To stay or to go? No good options for Lebanon’s displaced",
+    "urduTitle": "To stay or to go? No good options for Lebanon’s displaced",
+    "urduSummary": "Residents of southern Lebanon face a stark choice: stay home and risk being killed, or flee and risk deepening poverty.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/4/20/to-stay-or-to-go-no-good-options-for-lebanon-displaced?traffic_source=rss",
+    "pubDate": "2026-04-20T05:41:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776601463",
+    "originalTitle": "What is really happening in northern Nigeria",
+    "urduTitle": "What is really happening in northern Nigeria",
+    "urduSummary": "There is no US-led conspiracy or a ‘Christian genocide’. There is an insurgency that has adapted.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/4/20/what-is-really-happening-in-northern-nigeria?traffic_source=rss",
+    "pubDate": "2026-04-20T04:24:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c239500dx8ro#0",
     "originalTitle": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
     "urduTitle": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
     "pubDate": "2026-04-18T08:10:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776494902",
-    "originalTitle": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
-    "urduTitle": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
-    "urduSummary": "Israeli police confiscated and destroyed footballs that were being played with by children around Al-Aqsa mosque.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss",
-    "pubDate": "2026-04-18T06:52:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776492463",
-    "originalTitle": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-    "urduTitle": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-    "urduSummary": "US President Donald Trump says the US will “have to start dropping bombs again” if no US-Iran deal is reached.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
-    "pubDate": "2026-04-18T06:10:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776487001",
-    "originalTitle": "Al-Noor centre: A lifeline for blind children in Gaza",
-    "urduTitle": "Al-Noor centre: A lifeline for blind children in Gaza",
-    "urduSummary": "Al-Noor is a UNRWA centre in Gaza providing education and support for visually impaired children.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/al-noor-centre-a-lifeline-for-blind-children-in-gaza?traffic_source=rss",
-    "pubDate": "2026-04-18T04:42:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776486834",
-    "originalTitle": "New Jersey announces $150 transit tickets to reach the World Cup",
-    "urduTitle": "New Jersey announces $150 transit tickets to reach the World Cup",
-    "urduSummary": "Transit fares from New York to MetLife Stadium in New Jersey for World Cup matches will rise to $150.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/new-jersey-announces-150-transit-tickets-to-reach-the-world-cup?traffic_source=rss",
-    "pubDate": "2026-04-18T04:41:38.000Z",
     "category": "world",
     "imageUrl": null
   }
