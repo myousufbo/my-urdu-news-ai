@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1776674814",
+    "originalTitle": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+    "urduTitle": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+    "urduSummary": "Prime Minister Sanae Takaichi says the government has set up a crisis management team following the strong earthquake.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss",
+    "pubDate": "2026-04-20T09:26:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776669680",
+    "originalTitle": "Ukraine claims attack on Russian warships in occupied Crimea",
+    "urduTitle": "Ukraine claims attack on Russian warships in occupied Crimea",
+    "urduSummary": "Ukraine's military intelligence says two large landing ships struck in Sevastopol Bay in Russian-occupied Crimea.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss",
+    "pubDate": "2026-04-20T09:23:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776664601",
+    "originalTitle": "Inside war-hit Sudan’s only functioning hospital curing tropical diseases",
+    "urduTitle": "Inside war-hit Sudan’s only functioning hospital curing tropical diseases",
+    "urduSummary": "Sudan's health ministry says 37 percent of country's health facilities are out of service as war enters its fourth year.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/20/inside-war-hit-sudans-only-functioning-hospital-curing-tropical-diseases?traffic_source=rss",
+    "pubDate": "2026-04-20T09:10:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5yjzy35825o#0",
     "originalTitle": "Oil prices rise after Trump says Iranian ship seized",
     "urduTitle": "Oil prices rise after Trump says Iranian ship seized",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports?traffic_source=rss",
     "pubDate": "2026-04-18T12:03:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776512784",
-    "originalTitle": "Gunfire reported by vessel in Strait of Hormuz",
-    "urduTitle": "Gunfire reported by vessel in Strait of Hormuz",
-    "urduSummary": "A maritime agency reported that a tanker was fired on by gunboats in the Strait of Hormuz.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz?traffic_source=rss",
-    "pubDate": "2026-04-18T11:55:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776509450",
-    "originalTitle": "Displaced Lebanese return as Israeli shelling violates ceasefire in south",
-    "urduTitle": "Displaced Lebanese return as Israeli shelling violates ceasefire in south",
-    "urduSummary": "Al Jazeera correspondents on the ground report that Israeli bulldozers are also continuing home demolitions.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss",
-    "pubDate": "2026-04-18T11:53:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776493868",
-    "originalTitle": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
-    "urduTitle": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
-    "urduSummary": "Leo is the third pontiff to visit the fossil fuel-rich country after John Paul II in 1992 and Benedict XVI in 2009.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
-    "pubDate": "2026-04-18T08:10:17.000Z",
     "category": "world",
     "imageUrl": null
   }
