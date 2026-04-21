@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1776802613",
+    "originalTitle": "Trump announces extending Iran ceasefire but says blockade remains",
+    "urduTitle": "Trump announces extending Iran ceasefire but says blockade remains",
+    "urduSummary": "US president says attacks will be held off until Iranian leaders 'come up with a unified proposal' to end war.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
+    "pubDate": "2026-04-21T20:22:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776802011",
+    "originalTitle": "Germany, Italy block bid to suspend EU-Israel trade agreement",
+    "urduTitle": "Germany, Italy block bid to suspend EU-Israel trade agreement",
+    "urduSummary": "Germany and Italy have blocked the European Union from suspending the bloc’s association agreement with Israel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/germany-italy-block-bid-to-suspend-eu-israel-trade-agreement?traffic_source=rss",
+    "pubDate": "2026-04-21T20:16:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776790756",
+    "originalTitle": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
+    "urduTitle": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
+    "urduSummary": "Kevin Warsh's confirmation hearing shines spotlight on doubts over his independence as Trump pushes again for rate cuts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss",
+    "pubDate": "2026-04-21T20:05:52.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/ce84e31376zo#0",
     "originalTitle": "Iran sees mass redundancies from war with US and Israel",
     "urduTitle": "Iran sees mass redundancies from war with US and Israel",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-19T21:09:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776619239",
-    "originalTitle": "What’s behind the US army’s decision to raise enlistment age to 42?",
-    "urduTitle": "What’s behind the US army’s decision to raise enlistment age to 42?",
-    "urduSummary": "Changes in US Army enlistment standards could be an effort to boost recruitment as numbers have lagged in recent years.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42?traffic_source=rss",
-    "pubDate": "2026-04-20T00:57:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776640348",
-    "originalTitle": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
-    "urduTitle": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
-    "urduSummary": "Attack comes hours after US President Donald Trump announced he is sending his team to Islamabad for possible talks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
-    "pubDate": "2026-04-20T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776638462",
-    "originalTitle": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
-    "urduTitle": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
-    "urduSummary": "Social media users condemn Western silence on attacks on religious symbols and sites by Israeli soldiers and settlers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/19/outrage-after-photo-shows-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
-    "pubDate": "2026-04-19T23:41:57.000Z",
     "category": "world",
     "imageUrl": null
   }
