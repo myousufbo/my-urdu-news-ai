@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/clyx4vlqy4vo#0",
+    "originalTitle": "Japan loosens arms export rules in break from post-WW2 pacifism",
+    "urduTitle": "Japan loosens arms export rules in break from post-WW2 pacifism",
+    "urduSummary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-21T08:05:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-04-21T09:19:47.545Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776704595",
+    "originalTitle": "My dreams in Iran were already dead before the ceasefire came",
+    "urduTitle": "My dreams in Iran were already dead before the ceasefire came",
+    "urduSummary": "The bombs have stopped falling for now. But the damage is done, and my life has been wrecked.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/4/21/my-dreams-in-iran-were-already-dead-before-the-ceasefire-came?traffic_source=rss",
+    "pubDate": "2026-04-21T08:21:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776755414",
+    "originalTitle": "US, Iran exchange threats as fragile ceasefire set to expire",
+    "urduTitle": "US, Iran exchange threats as fragile ceasefire set to expire",
+    "urduSummary": "The US and Iran trade threats as tensions escalate between the countries before their two-week ceasefire ends.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss",
+    "pubDate": "2026-04-21T07:55:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776750368",
+    "originalTitle": "Tennis duo Sabalenka and Alcaraz sweep top Laureus sports honours",
+    "urduTitle": "Tennis duo Sabalenka and Alcaraz sweep top Laureus sports honours",
+    "urduSummary": "Barcelona's Yamal bags Young Sportsperson of the Year accolade a year after winning the Breakthrough award in 2025.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/4/21/tennis-duo-sabalenka-and-alcaraz-sweep-top-laureus-sports-honours?traffic_source=rss",
+    "pubDate": "2026-04-21T07:44:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1776748530",
     "originalTitle": "US veterans arrested in Capitol during protest against the war on Iran",
     "urduTitle": "US veterans arrested in Capitol during protest against the war on Iran",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss",
     "pubDate": "2026-04-19T12:07:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776590924",
-    "originalTitle": "Pope Leo tells Angola during huge Mass to ‘build hope’",
-    "urduTitle": "Pope Leo tells Angola during huge Mass to ‘build hope’",
-    "urduSummary": "On the third leg of his Africa tour, Leo urges Angola to move beyond \"divisions\" created by its war-scarred past.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/19/pope-leo-tells-angola-during-huge-mass-to-build-hope?traffic_source=rss",
-    "pubDate": "2026-04-19T11:45:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776573718",
-    "originalTitle": "Iran war: 10 frequently used words and their meanings",
-    "urduTitle": "Iran war: 10 frequently used words and their meanings",
-    "urduSummary": "The US-Israel war on Iran nears two months.  We break down some of the frequently used terminology in this war.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-10-frequently-used-words-and-their-meanings?traffic_source=rss",
-    "pubDate": "2026-04-19T11:40:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776580906",
-    "originalTitle": "Lionel Messi scores twice as Inter Miami defeat Rapids in MLS",
-    "urduTitle": "Lionel Messi scores twice as Inter Miami defeat Rapids in MLS",
-    "urduSummary": "Argentine forward's brace included the match winner against Colorado Rapids in front of over 75,000 fans in Denver.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls?traffic_source=rss",
-    "pubDate": "2026-04-19T08:05:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776583950",
-    "originalTitle": "Fire engulfs more than 200 homes in Malaysian floating village",
-    "urduTitle": "Fire engulfs more than 200 homes in Malaysian floating village",
-    "urduSummary": "A huge fire tore through the floating village of Kampung Bahagia in Sabah, Malaysia, destroying more than 200 homes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/fire-engulfs-more-than-200-homes-in-malaysian-floating-village?traffic_source=rss",
-    "pubDate": "2026-04-19T07:35:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776438442",
-    "originalTitle": "Cash shortages grip Yemen despite currency stabilisation",
-    "urduTitle": "Cash shortages grip Yemen despite currency stabilisation",
-    "urduSummary": "Cash-strapped Yemenis face rising frustration as exchange firms limit currency conversion amid ongoing liquidity crisis.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/19/cash-shortages-grip-yemen-despite-currency-stabilisation?traffic_source=rss",
-    "pubDate": "2026-04-19T05:51:58.000Z",
     "category": "world",
     "imageUrl": null
   }
