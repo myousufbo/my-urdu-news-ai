@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/czjwz8we1zzo#0",
+    "originalTitle": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+    "urduTitle": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+    "urduSummary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-22T08:35:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776844951",
+    "originalTitle": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
+    "urduTitle": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
+    "urduSummary": "Gaza sees a 140% rise in stillbirths and a doubling of congenital anomalies as the devastating impacts of war linger.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
+    "pubDate": "2026-04-22T09:02:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776842268",
+    "originalTitle": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
+    "urduTitle": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
+    "urduSummary": "Kevin Durant scores 23 for Houston but the Lakers bag a 101-94 win despite a depleted team, with Luka Doncic missing.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/4/22/lebron-james-nets-28-lakers-grab-2-0-lead-on-rockets-in-nba-playoff-series?traffic_source=rss",
+    "pubDate": "2026-04-22T08:34:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776846027",
+    "originalTitle": "Israel’s ‘digital occupation’ of south Lebanon",
+    "urduTitle": "Israel’s ‘digital occupation’ of south Lebanon",
+    "urduSummary": "Al Jazeera’s Linh Nguyen explains Israeli drones above the skies in Lebanon, which critics call a \"digital occupation.\"",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/digital-dilemma/2026/4/22/israels-digital-occupation-of-south-lebanon?traffic_source=rss",
+    "pubDate": "2026-04-22T08:26:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn4vk13wgwwo#0",
     "originalTitle": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
     "urduTitle": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/20/ugandan-and-congolese-forces-rescue-200-from-isil-backed-adf?traffic_source=rss",
     "pubDate": "2026-04-20T16:48:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776691276",
-    "originalTitle": "Iran expands limited internet access but restrictions remain for most",
-    "urduTitle": "Iran expands limited internet access but restrictions remain for most",
-    "urduSummary": "More Iranians being sold 'privilege' of limited internet access, but most remain in the dark.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/20/iran-expands-limited-internet-access-but-restrictions-remain-for-most?traffic_source=rss",
-    "pubDate": "2026-04-20T16:28:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776687926",
-    "originalTitle": "What we know about the US capture of Iranian vessel near Hormuz",
-    "urduTitle": "What we know about the US capture of Iranian vessel near Hormuz",
-    "urduSummary": "US releases video showing the capture of Iranian-flagged ship near Hormuz, Trump says it tried to breach its blockade.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-we-know-about-the-us-capture-of-iranian-vessel-near-hormuz?traffic_source=rss",
-    "pubDate": "2026-04-20T12:43:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776687276",
-    "originalTitle": "Iran says it has ‘no plans’ for negotiations with the US",
-    "urduTitle": "Iran says it has ‘no plans’ for negotiations with the US",
-    "urduSummary": "Iran says it has ‘no plans’ for negotiations with the US",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iran-says-it-has-no-plans-for-negotiations-with-the-us?traffic_source=rss",
-    "pubDate": "2026-04-20T12:21:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776681494",
-    "originalTitle": "Iraq’s ruling Shia bloc races to choose PM as US, Iran watch",
-    "urduTitle": "Iraq’s ruling Shia bloc races to choose PM as US, Iran watch",
-    "urduSummary": "Ismail Qaani's visit came at the request of PM al-Sudani amid internal divisions in the Shia parliamentary bloc.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/20/iraqs-ruling-shia-bloc-races-to-choose-pm-as-us-iran-watch?traffic_source=rss",
-    "pubDate": "2026-04-20T12:15:26.000Z",
     "category": "world",
     "imageUrl": null
   }
