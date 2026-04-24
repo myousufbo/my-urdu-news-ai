@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777001816",
+    "originalTitle": "China’s DeepSeek unveils latest model a year after upending global tech",
+    "urduTitle": "China’s DeepSeek unveils latest model a year after upending global tech",
+    "urduSummary": "Chinese startup says DeepSeek-V4-Pro beats all rival open models for maths and coding.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech?traffic_source=rss",
+    "pubDate": "2026-04-24T05:17:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776989949",
+    "originalTitle": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
+    "urduTitle": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
+    "urduSummary": "Jump in prices comes as Donald Trump says vessels will need permission of US Navy to transit key waterway.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-04-24T02:50:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cgldw5ekrjpo#0",
     "originalTitle": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
     "urduTitle": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
@@ -524,28 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-22T08:35:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776844951",
-    "originalTitle": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
-    "urduTitle": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
-    "urduSummary": "Gaza sees a 140% rise in stillbirths and a doubling of congenital anomalies as the devastating impacts of war linger.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
-    "pubDate": "2026-04-22T09:02:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776842268",
-    "originalTitle": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
-    "urduTitle": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
-    "urduSummary": "Kevin Durant scores 23 for Houston but the Lakers bag a 101-94 win despite a depleted team, with Luka Doncic missing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/22/lebron-james-nets-28-lakers-grab-2-0-lead-on-rockets-in-nba-playoff-series?traffic_source=rss",
-    "pubDate": "2026-04-22T08:34:07.000Z",
     "category": "world",
     "imageUrl": null
   }
