@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777090452",
+    "originalTitle": "What’s at stake for Iran and the US in Islamabad?",
+    "urduTitle": "What’s at stake for Iran and the US in Islamabad?",
+    "urduSummary": "Iran’s foreign minister is in Islamabad, with US envoys also on the way.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
+    "pubDate": "2026-04-25T04:30:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777087068",
+    "originalTitle": "Israel escalates attacks in Gaza, killing 12 people",
+    "urduTitle": "Israel escalates attacks in Gaza, killing 12 people",
+    "urduSummary": "Israeli forces have killed 12 Palestinians, including six police officers, in multiple attacks across Gaza.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
+    "pubDate": "2026-04-25T03:23:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777058051",
+    "originalTitle": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
+    "urduTitle": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
+    "urduSummary": "US envoys Steve Witkoff and Jared Kushner will travel to Pakistan, as Iranian FM Abbas Araghchi arrived in Islamabad.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
+    "pubDate": "2026-04-25T02:58:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cy8103xklreo#0",
     "originalTitle": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
     "urduTitle": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
     "pubDate": "2026-04-23T09:21:18.927Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776793295",
-    "originalTitle": "Gaza’s second front: The battle against disease-carrying rats",
-    "urduTitle": "Gaza’s second front: The battle against disease-carrying rats",
-    "urduSummary": "Palestinian families in Gaza endure daily terror from rats in unsanitary camps, but help is hard to come by.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss",
-    "pubDate": "2026-04-23T09:07:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776931660",
-    "originalTitle": "Lamine Yamal’s World Cup status unclear after Barcelona injury",
-    "urduTitle": "Lamine Yamal’s World Cup status unclear after Barcelona injury",
-    "urduSummary": "Lamine Yamal pulled up injured when scoring the winning goal for Barcelona in their La Liga win against Celta Vigo.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/23/lamine-yamals-world-cup-status-unclear-after-barcelona-injury?traffic_source=rss",
-    "pubDate": "2026-04-23T08:47:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776928796",
-    "originalTitle": "Thunder cruise past Suns again but lose Jalen Williams",
-    "urduTitle": "Thunder cruise past Suns again but lose Jalen Williams",
-    "urduSummary": "Shai Gilgeous-Alexander scores 37 as Oklahoma City beat Phoenix Suns 120–107 in the Western Conference playoff series.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/23/thunder-cruise-past-suns-again-but-lose-jalen-williams?traffic_source=rss",
-    "pubDate": "2026-04-23T08:43:29.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
