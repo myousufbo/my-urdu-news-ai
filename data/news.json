@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777104086",
+    "originalTitle": "Ireland to demand Israel pay for settler demolition of Palestinian school",
+    "urduTitle": "Ireland to demand Israel pay for settler demolition of Palestinian school",
+    "urduSummary": "Ireland will demand that Israeli authorities repay the cost of a school that was demolished by settlers.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
+    "pubDate": "2026-04-25T08:06:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777043659",
+    "originalTitle": "West Bank scepticism as Palestinians doubt local elections will change much",
+    "urduTitle": "West Bank scepticism as Palestinians doubt local elections will change much",
+    "urduSummary": "Frustration with the Palestinian Authority and Israeli occupation fuel voter apathy in local West Bank elections.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
+    "pubDate": "2026-04-25T07:16:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777095734",
+    "originalTitle": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
+    "urduTitle": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
+    "urduSummary": "The Hengli refinery has generated hundreds of millions of dollars for Iran's military, says US Treasury.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
+    "pubDate": "2026-04-25T07:10:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1777090452",
     "originalTitle": "What’s at stake for Iran and the US in Islamabad?",
     "urduTitle": "What’s at stake for Iran and the US in Islamabad?",
@@ -514,39 +547,6 @@
     "link": "https://www.aljazeera.com/news/2026/4/23/us-senate-passes-70bn-funding-plan-for-ice-border-patrol?traffic_source=rss",
     "pubDate": "2026-04-23T13:03:25.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776587527",
-    "originalTitle": "Infiltration from Within: Israelis recruited to spy for enemy countries",
-    "urduTitle": "Infiltration from Within: Israelis recruited to spy for enemy countries",
-    "urduSummary": "Israel’s intelligence exposed - spies, moles and blind spots from early betrayals to October 7 and the war with Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/4/23/infiltration-from-within-israelis-recruited-to-spy-for-enemy-countries?traffic_source=rss",
-    "pubDate": "2026-04-23T13:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgqkw3qk0dlo#0",
-    "originalTitle": "Two trains collide head-on in Denmark, leaving five critically hurt",
-    "urduTitle": "Two trains collide head-on in Denmark, leaving five critically hurt",
-    "urduSummary": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-23T09:03:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-04-23T09:21:18.927Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
