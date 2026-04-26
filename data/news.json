@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c4g6nyvl29po#0",
+    "originalTitle": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+    "urduTitle": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+    "urduSummary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-25T21:34:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777165784",
+    "originalTitle": "Dramatic scenes as Trump rushed from White House gala",
+    "urduTitle": "Dramatic scenes as Trump rushed from White House gala",
+    "urduSummary": "US President Donald Trump was rushed out of the White House Correspondents’ dinner by security after loud bangs.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/dramatic-scenes-as-trump-rushed-from-white-house-gala?traffic_source=rss",
+    "pubDate": "2026-04-26T01:14:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777164160",
+    "originalTitle": "Trump evacuated from White House correspondents’ dinner after shots fired",
+    "urduTitle": "Trump evacuated from White House correspondents’ dinner after shots fired",
+    "urduSummary": "The US president was rushed out of Washington, DC, hotel by Secret Service agents.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss",
+    "pubDate": "2026-04-26T00:47:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777158453",
+    "originalTitle": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+    "urduTitle": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+    "urduSummary": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
+    "pubDate": "2026-04-26T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cx2491we011o#0",
     "originalTitle": "Mexico says US agents killed in crash weren't permitted to operate there",
     "urduTitle": "Mexico says US agents killed in crash weren't permitted to operate there",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss",
     "pubDate": "2026-04-24T08:49:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777001816",
-    "originalTitle": "China’s DeepSeek unveils latest model a year after upending global tech",
-    "urduTitle": "China’s DeepSeek unveils latest model a year after upending global tech",
-    "urduSummary": "Chinese startup says DeepSeek-V4-Pro beats all rival open models for maths and coding.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech?traffic_source=rss",
-    "pubDate": "2026-04-24T05:17:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776989949",
-    "originalTitle": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
-    "urduTitle": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
-    "urduSummary": "Jump in prices comes as Donald Trump says vessels will need permission of US Navy to transit key waterway.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss",
-    "pubDate": "2026-04-24T02:50:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgldw5ekrjpo#0",
-    "originalTitle": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
-    "urduTitle": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
-    "urduSummary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-23T20:45:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cp86g5m8vyyo#0",
-    "originalTitle": "Masked Iranian forces appear to seize ships in staged video",
-    "urduTitle": "Masked Iranian forces appear to seize ships in staged video",
-    "urduSummary": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-23T18:15:28.000Z",
     "category": "world",
     "imageUrl": null
   }
