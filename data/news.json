@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777175169",
+    "originalTitle": "Trump confirms officer shot at White House Correspondents’ gala",
+    "urduTitle": "Trump confirms officer shot at White House Correspondents’ gala",
+    "urduSummary": "US President Donald Trump has called a shooter who tried to rush the White House Correspondents’ gala, ‘a sick person.’",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/trump-confirms-officer-shot-at-white-house-correspondents-gala?traffic_source=rss",
+    "pubDate": "2026-04-26T03:57:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777174183",
+    "originalTitle": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
+    "urduTitle": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
+    "urduSummary": "A bomb-laden bus has exploded, killing at least 14 people on Colombia’s Pan-American Highway to Venezuela.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss",
+    "pubDate": "2026-04-26T03:37:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777168679",
+    "originalTitle": "Trump live: Suspect in custody after shooting at correspondents’ dinner",
+    "urduTitle": "Trump live: Suspect in custody after shooting at correspondents’ dinner",
+    "urduSummary": "Trump says shooter apprehended and that First Lady Melania Trump and Vice President JD Vance are 'in perfect condition'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/26/trump-live-us-president-safe-after-shots-fired-at-correspondents-dinner?traffic_source=rss",
+    "pubDate": "2026-04-26T02:10:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c4g6nyvl29po#0",
     "originalTitle": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
     "urduTitle": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-24T09:01:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777015788",
-    "originalTitle": "India denounces ‘hellhole’ remark shared by Trump",
-    "urduTitle": "India denounces ‘hellhole’ remark shared by Trump",
-    "urduSummary": "India’s Foreign Ministry says comments by US radio host Michael Savage, circulated by Trump, are 'uninformed'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/24/india-denounces-hellhole-remark-shared-by?traffic_source=rss",
-    "pubDate": "2026-04-24T09:04:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1776952349",
-    "originalTitle": "Global hunger report warns of rising malnutrition and famine risks",
-    "urduTitle": "Global hunger report warns of rising malnutrition and famine risks",
-    "urduSummary": "Conflict remains the leading driver of hunger, affecting nearly 150 million people facing acute food shortages.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks?traffic_source=rss",
-    "pubDate": "2026-04-24T09:02:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777020014",
-    "originalTitle": "Why is there a political deadlock in Lebanon?",
-    "urduTitle": "Why is there a political deadlock in Lebanon?",
-    "urduSummary": "The Lebanese government wants Hezbollah to disarm as it aims for a state monopoly on weapons.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss",
-    "pubDate": "2026-04-24T08:49:09.000Z",
     "category": "world",
     "imageUrl": null
   }
