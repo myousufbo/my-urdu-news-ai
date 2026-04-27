@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c04x40d4424o#0",
+    "originalTitle": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+    "urduTitle": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+    "urduSummary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-27T17:32:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777317528",
+    "originalTitle": "King Charles and Queen Camilla arrive for high-profile US state visit",
+    "urduTitle": "King Charles and Queen Camilla arrive for high-profile US state visit",
+    "urduSummary": "The British monarch’s US visit underscores shared history amid strained ties and tensions over the Iran conflict.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
+    "pubDate": "2026-04-27T20:09:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777309602",
+    "originalTitle": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
+    "urduTitle": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
+    "urduSummary": "Iran-linked group reiterates defiance; Israeli defence minister threatens to ‘burn all of Lebanon'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
+    "pubDate": "2026-04-27T19:58:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777310773",
+    "originalTitle": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle",
+    "urduTitle": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle",
+    "urduSummary": "The trial’s outcome could sway the balance of power in AI, and jury selection starts on Monday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/4/27/elon-musk-trial-against-sam-altman-to-reveal-openai-power-struggle?traffic_source=rss",
+    "pubDate": "2026-04-27T19:37:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvg0gxrgklro#0",
     "originalTitle": "Pakistan accused of attacking Afghan university",
     "urduTitle": "Pakistan accused of attacking Afghan university",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss",
     "pubDate": "2026-04-26T00:47:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777158453",
-    "originalTitle": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-    "urduTitle": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-    "urduSummary": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
-    "pubDate": "2026-04-26T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2491we011o#0",
-    "originalTitle": "Mexico says US agents killed in crash weren't permitted to operate there",
-    "urduTitle": "Mexico says US agents killed in crash weren't permitted to operate there",
-    "urduSummary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-25T17:40:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777138090",
-    "originalTitle": "Iran’s authorities project hardened stance with more talks on horizon",
-    "urduTitle": "Iran’s authorities project hardened stance with more talks on horizon",
-    "urduSummary": "Abbas Araghchi met senior Pakistani officials in Islamabad and left for Oman to be later bound for Russia.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss",
-    "pubDate": "2026-04-25T19:54:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777146439",
-    "originalTitle": "Police arrest demonstrators at pro-Palestine rally in Berlin",
-    "urduTitle": "Police arrest demonstrators at pro-Palestine rally in Berlin",
-    "urduSummary": "Video footage shared on social media shows two women being arrested at a pro-Palestine demonstration in Berlin.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss",
-    "pubDate": "2026-04-25T19:51:58.000Z",
     "category": "world",
     "imageUrl": null
   }
