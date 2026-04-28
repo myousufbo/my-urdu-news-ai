@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777343735",
+    "originalTitle": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
+    "urduTitle": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
+    "urduSummary": "Brent crude rises more than 1 percent despite Iran's offer to reopen waterway in exchange for deferral of nuclear talks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/28/oil-prices-rise-despite-irans-proposal-to-reopen-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-04-28T05:13:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777338371",
+    "originalTitle": "Gunmen kill at least 29 in Nigeria’s northeast Adamawa State",
+    "urduTitle": "Gunmen kill at least 29 in Nigeria’s northeast Adamawa State",
+    "urduSummary": "The ISIL affiliate in the region has claimed responsibility for the attack on Guyaku village, which lasted for hours.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/28/gunmen-kill-at-least-29-in-nigerias-northeast-adamawa-state?traffic_source=rss",
+    "pubDate": "2026-04-28T04:43:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777348210",
+    "originalTitle": "Mexican military captures cartel commander Audias Flores",
+    "urduTitle": "Mexican military captures cartel commander Audias Flores",
+    "urduSummary": "The Mexican military released footage of an operation resulting in the capture of Audias Flores.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/mexican-military-captures-cartel-commander-audias-flores?traffic_source=rss",
+    "pubDate": "2026-04-28T03:54:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1777341483",
     "originalTitle": "14 killed in South Sudan plane crash near capital Juba",
     "urduTitle": "14 killed in South Sudan plane crash near capital Juba",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
     "pubDate": "2026-04-26T07:57:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777175169",
-    "originalTitle": "Trump confirms officer shot at White House Correspondents’ gala",
-    "urduTitle": "Trump confirms officer shot at White House Correspondents’ gala",
-    "urduSummary": "US President Donald Trump has called a shooter who tried to rush the White House Correspondents’ gala, ‘a sick person.’",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/trump-confirms-officer-shot-at-white-house-correspondents-gala?traffic_source=rss",
-    "pubDate": "2026-04-26T03:57:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777174183",
-    "originalTitle": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
-    "urduTitle": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
-    "urduSummary": "A bomb-laden bus has exploded, killing at least 14 people on Colombia’s Pan-American Highway to Venezuela.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss",
-    "pubDate": "2026-04-26T03:37:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777168679",
-    "originalTitle": "Trump live: Suspect in custody after shooting at correspondents’ dinner",
-    "urduTitle": "Trump live: Suspect in custody after shooting at correspondents’ dinner",
-    "urduSummary": "Trump says shooter apprehended and that First Lady Melania Trump and Vice President JD Vance are 'in perfect condition'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/26/trump-live-us-president-safe-after-shots-fired-at-correspondents-dinner?traffic_source=rss",
-    "pubDate": "2026-04-26T02:10:00.000Z",
     "category": "world",
     "imageUrl": null
   }
