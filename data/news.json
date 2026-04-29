@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cj4pxr0gr02o#0",
+    "originalTitle": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+    "urduTitle": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+    "urduSummary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-29T16:17:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2p99n35z4o#0",
+    "originalTitle": "New images show suspect taking selfies before Washington press dinner shooting",
+    "urduTitle": "New images show suspect taking selfies before Washington press dinner shooting",
+    "urduSummary": "Prosecutors argue Cole Tomas Allen should remain in custody until trial on a charge of attempted assassination of President Donald Trump.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-29T16:06:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c99l03k0ly4o#0",
+    "originalTitle": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+    "urduTitle": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+    "urduSummary": "The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's ChatGPT activity.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-29T13:50:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777481080",
+    "originalTitle": "Man carries deceased sister into Indian bank amid paperwork difficulty",
+    "urduTitle": "Man carries deceased sister into Indian bank amid paperwork difficulty",
+    "urduSummary": "A man in India was recorded carrying the remains of his deceased sister into a bank after he couldn't access her account",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/man-carries-deceased-sister-into-indian-bank-amid-paperwork-difficulty?traffic_source=rss",
+    "pubDate": "2026-04-29T16:51:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777479272",
+    "originalTitle": "What does Chornobyl look like 40 years later?",
+    "urduTitle": "What does Chornobyl look like 40 years later?",
+    "urduSummary": "An inside look at Chornobyl, 40 years later – where radiation, abandoned cities, and war now collide.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/29/what-does-chornobyl-look-like-40-years-later?traffic_source=rss",
+    "pubDate": "2026-04-29T16:32:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777474344",
+    "originalTitle": "Madagascar detains French ex-serviceman over alleged destabilisation plot",
+    "urduTitle": "Madagascar detains French ex-serviceman over alleged destabilisation plot",
+    "urduSummary": "French national Guy Baret is detained alongside Malagasy army officer over alleged conspiracy to destabilise Madagascar.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/29/madagascar-detains-french-ex-serviceman-over-alleged-destabilisation-plot?traffic_source=rss",
+    "pubDate": "2026-04-29T16:26:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cwy2482pn0lo#0",
     "originalTitle": "Former US officials criticise Pentagon silence on deadly Iran school attack",
     "urduTitle": "Former US officials criticise Pentagon silence on deadly Iran school attack",
@@ -480,72 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-27T15:39:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-04-27T17:16:48.058Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777294200",
-    "originalTitle": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
-    "urduTitle": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
-    "urduSummary": "Bennett and Lapid join forces again in a renewed bid for power that will, analysts warn, mean little for Palestinians.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss",
-    "pubDate": "2026-04-27T16:48:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777298811",
-    "originalTitle": "Suspected pirates steer cargo vessel towards Somalia",
-    "urduTitle": "Suspected pirates steer cargo vessel towards Somalia",
-    "urduSummary": "Hijacking reported as maritime traffic is diverted towards Africa while Strait of Hormuz is essentially closed.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia?traffic_source=rss",
-    "pubDate": "2026-04-27T16:44:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777304084",
-    "originalTitle": "Will the Iran war push millions back into poverty?",
-    "urduTitle": "Will the Iran war push millions back into poverty?",
-    "urduSummary": "US-Israel war on Iran drives up fuel and food costs, putting 32.5 million people at risk of poverty worldwide.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss",
-    "pubDate": "2026-04-27T16:23:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gjger58jzo#0",
-    "originalTitle": "Trump says King will be 'very safe' during US visit after security talks",
-    "urduTitle": "Trump says King will be 'very safe' during US visit after security talks",
-    "urduSummary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-27T09:19:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwyjykv4j9do#0",
-    "originalTitle": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-    "urduTitle": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-    "urduSummary": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-27T11:42:59.000Z",
     "category": "world",
     "imageUrl": null
   }
