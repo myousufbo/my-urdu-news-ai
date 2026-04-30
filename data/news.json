@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
+    "originalTitle": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+    "urduTitle": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+    "urduSummary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-30T06:12:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777459737",
+    "originalTitle": "Can the EU’s Article 42.7 offer Europe NATO-like collective defence?",
+    "urduTitle": "Can the EU’s Article 42.7 offer Europe NATO-like collective defence?",
+    "urduSummary": "Several European leaders have called for a discussion on using the bloc's own mutual assistant clause amid US tensions",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
+    "pubDate": "2026-04-30T05:23:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777521796",
+    "originalTitle": "New Zealand court denies bid by mosque mass shooter to appeal conviction",
+    "urduTitle": "New Zealand court denies bid by mosque mass shooter to appeal conviction",
+    "urduSummary": "Brenton Tarrant shot dead 51 Muslim worshippers, including children, at two Christchurch mosques in 2019.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss",
+    "pubDate": "2026-04-30T04:54:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777523806",
+    "originalTitle": "Marathon record breaker Sabastian Sawe returns to hero’s welcome in Kenya",
+    "urduTitle": "Marathon record breaker Sabastian Sawe returns to hero’s welcome in Kenya",
+    "urduSummary": "Sabastian Sawe returned home to a hero’s welcome in Kenya after being the first to run a marathon in under two hours.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/marathon-record-breaker-sabastian-sawe-returns-to-heros-welcome-in-kenya?traffic_source=rss",
+    "pubDate": "2026-04-30T04:42:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cdjpw0n889yo#0",
     "originalTitle": "Royal commission into Bondi shooting says gun reform should be prioritised",
     "urduTitle": "Royal commission into Bondi shooting says gun reform should be prioritised",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-04-28T00:19:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777369587",
-    "originalTitle": "The Process of Uranium Enrichment",
-    "urduTitle": "The Process of Uranium Enrichment",
-    "urduSummary": "The Process of Uranium Enrichment",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-process-of-uranium-enrichment?traffic_source=rss",
-    "pubDate": "2026-04-28T09:52:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777364299",
-    "originalTitle": "Congressmen call for National Guard to address drone threat at World Cup",
-    "urduTitle": "Congressmen call for National Guard to address drone threat at World Cup",
-    "urduSummary": "Congressmen call for immediate interagency action to secure airspace over ‌the 11 US ​World Cup 2026 host cities.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/28/congressmen-call-for-national-guard-to-address-drone-threat-at-world-cup?traffic_source=rss",
-    "pubDate": "2026-04-28T09:32:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777359543",
-    "originalTitle": "Kashmir seminary declared unlawful under anti-terror law, sparks outcry",
-    "urduTitle": "Kashmir seminary declared unlawful under anti-terror law, sparks outcry",
-    "urduSummary": "Kashmiri political and religious leaders denounced the move as part of a broader pattern of New Delhi’s overreach.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/28/kashmir-seminary-declared-unlawful-under-anti-terror-law-sparks-outcry?traffic_source=rss",
-    "pubDate": "2026-04-28T09:31:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777343735",
-    "originalTitle": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
-    "urduTitle": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
-    "urduSummary": "Brent crude rises more than 1 percent despite Iran's offer to reopen waterway in exchange for deferral of nuclear talks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/28/oil-prices-rise-despite-irans-proposal-to-reopen-strait-of-hormuz?traffic_source=rss",
-    "pubDate": "2026-04-28T05:13:33.000Z",
     "category": "world",
     "imageUrl": null
   }
