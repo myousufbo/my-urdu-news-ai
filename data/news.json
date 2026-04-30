@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/ce3pw5x3z54o#0",
+    "originalTitle": "US House votes to end government shutdown over immigration operations",
+    "urduTitle": "US House votes to end government shutdown over immigration operations",
+    "urduSummary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-04-30T20:53:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777573250",
+    "originalTitle": "US Congress passes bill to resume funding for DHS and end partial shutdown",
+    "urduTitle": "US Congress passes bill to resume funding for DHS and end partial shutdown",
+    "urduSummary": "House approves funding measure, which excludes ICE, ending weeks-long crisis that left many federal workers without pay.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown?traffic_source=rss",
+    "pubDate": "2026-04-30T20:12:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777570129",
+    "originalTitle": "Uganda court sentences man to death for killing four children at nursery",
+    "urduTitle": "Uganda court sentences man to death for killing four children at nursery",
+    "urduSummary": "Christopher Okello Onyum sentenced for fatal stabbing of four children aged between one and three years old.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/30/uganda-court-sentences-man-to-death-for-killing-four-children-at-nursery?traffic_source=rss",
+    "pubDate": "2026-04-30T20:05:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777569767",
+    "originalTitle": "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
+    "urduTitle": "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
+    "urduSummary": "Ruling weakening Voting Rights Act opens door to more states redrawing maps, diluting voting power of minority groups.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling?traffic_source=rss",
+    "pubDate": "2026-04-30T19:39:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cz72j8eex4eo#0",
     "originalTitle": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
     "urduTitle": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss",
     "pubDate": "2026-04-29T05:10:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777436675",
-    "originalTitle": "US Senate blocks bid to stop Trump using military against Cuba",
-    "urduTitle": "US Senate blocks bid to stop Trump using military against Cuba",
-    "urduSummary": "Senator ​Tim Kaine says if anyone did to the US 'what we are doing to Cuba', it would be considered 'an act of war'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss",
-    "pubDate": "2026-04-29T05:06:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgz4rvlem5o#0",
-    "originalTitle": "Comey charged with threatening Trump's life in Instagram post",
-    "urduTitle": "Comey charged with threatening Trump's life in Instagram post",
-    "urduSummary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-29T00:24:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777418151",
-    "originalTitle": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
-    "urduTitle": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
-    "urduSummary": "US president says Iran has reached out and asked Washington to lift its naval blockade on Iranian ports.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss",
-    "pubDate": "2026-04-29T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777416372",
-    "originalTitle": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
-    "urduTitle": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
-    "urduSummary": "A video filmed by an Israeli soldier shows widespread destruction in northern Gaza.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss",
-    "pubDate": "2026-04-28T22:50:30.000Z",
     "category": "world",
     "imageUrl": null
   }
