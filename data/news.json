@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777483080",
+    "originalTitle": "Rise in caesarean section births in Gaza brings danger and infection risks",
+    "urduTitle": "Rise in caesarean section births in Gaza brings danger and infection risks",
+    "urduSummary": "Caesarean Awareness Month is marked in April. Conditions in Gaza can lead to risks for mothers who undergo the procedure",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/4/30/rise-in-caesarean-section-births-in-gaza-brings-danger-and-infection-risks?traffic_source=rss",
+    "pubDate": "2026-04-30T09:46:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777466310",
+    "originalTitle": "Environmental disaster fears grip Russia as Ukraine targets oil refineries",
+    "urduTitle": "Environmental disaster fears grip Russia as Ukraine targets oil refineries",
+    "urduSummary": "Ukrainian forces have hammered one of Russia's largest sites in Tuapse, causing oil spills and black rain.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/30/its-all-very-toxic?traffic_source=rss",
+    "pubDate": "2026-04-30T09:40:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777536898",
+    "originalTitle": "Press freedom worldwide falls to its lowest level in 25 years",
+    "urduTitle": "Press freedom worldwide falls to its lowest level in 25 years",
+    "urduSummary": "Reporters Without Borders warns that 'journalism is increasingly criminalised worldwide'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/4/30/global-press-freedom-falls-to-its-lowest-level-in-25-years?traffic_source=rss",
+    "pubDate": "2026-04-30T09:07:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
     "originalTitle": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
     "urduTitle": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/over-46c-heatwave-grips-northwestern-central-india?traffic_source=rss",
     "pubDate": "2026-04-28T17:16:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777394543",
-    "originalTitle": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
-    "urduTitle": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
-    "urduSummary": "Ukraine targeted a major Russian oil refinery in the Black Sea port city of Tuapse for the third time within two weeks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss",
-    "pubDate": "2026-04-28T16:48:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cew7wez72vxo#0",
-    "originalTitle": "Suspect charged with attempted assassination of Trump at Washington dinner ",
-    "urduTitle": "Suspect charged with attempted assassination of Trump at Washington dinner ",
-    "urduSummary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-28T00:41:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cje4eeyq27lo#0",
-    "originalTitle": "US political violence generates a familiar cycle - this time it's in overdrive",
-    "urduTitle": "US political violence generates a familiar cycle - this time it's in overdrive",
-    "urduSummary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-28T00:19:49.000Z",
     "category": "world",
     "imageUrl": null
   }
