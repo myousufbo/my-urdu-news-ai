@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cd7pn0zywggo#0",
+    "originalTitle": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says ",
+    "urduTitle": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says ",
+    "urduSummary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-02T11:03:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777717440",
+    "originalTitle": "NATO assessing details of US troop withdrawal from Germany",
+    "urduTitle": "NATO assessing details of US troop withdrawal from Germany",
+    "urduSummary": "US says it plans to pull about 5,000 troops out of Germany over next six to 12 months amid feud with European allies.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss",
+    "pubDate": "2026-05-02T11:34:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777712862",
+    "originalTitle": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+    "urduTitle": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+    "urduSummary": "The US president says the ongoing naval blockade of the Strait of Hormuz is 'a very profitable business'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
+    "pubDate": "2026-05-02T11:34:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777716202",
+    "originalTitle": "Ex-Formula One driver turned Paralympic champion Alex Zanardi dies aged 59",
+    "urduTitle": "Ex-Formula One driver turned Paralympic champion Alex Zanardi dies aged 59",
+    "urduSummary": "Zanardi, who lost his legs in a racing crash, was credited with helping transform the perception of disability in Italy.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/2/ex-formula-one-driver-turned-paralympic-champion-alex-zanardi-dies-aged-59?traffic_source=rss",
+    "pubDate": "2026-05-02T10:31:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1777704482",
     "originalTitle": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
     "urduTitle": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/4/30/africa-backing-infantino-for-unique-fourth-term-as-fifa-president?traffic_source=rss",
     "pubDate": "2026-04-30T15:26:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777554714",
-    "originalTitle": "Saudi Arabia to end LIV Golf funding, while league appoints new chairman",
-    "urduTitle": "Saudi Arabia to end LIV Golf funding, while league appoints new chairman",
-    "urduSummary": "League says it wants to move towards an investment model involving multiple partners and team franchises.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing?traffic_source=rss",
-    "pubDate": "2026-04-30T14:59:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777538335",
-    "originalTitle": "Iran, protests, human rights – all to know about the 76th FIFA Congress",
-    "urduTitle": "Iran, protests, human rights – all to know about the 76th FIFA Congress",
-    "urduSummary": "The pre-World Cup congress will be headlined by geopolitical tensions, human rights concerns and logistical issues.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/iran-protests-human-rights-all-to-know-about-the-76th-fifa?traffic_source=rss",
-    "pubDate": "2026-04-30T14:56:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyplg23l30o#0",
-    "originalTitle": "Trump says US studying troop cuts in Germany, after Merz criticises war",
-    "urduTitle": "Trump says US studying troop cuts in Germany, after Merz criticises war",
-    "urduSummary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-30T03:25:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cg4pq3zxnpqo#0",
-    "originalTitle": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-    "urduTitle": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-    "urduSummary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-30T12:24:12.000Z",
     "category": "world",
     "imageUrl": null
   }
