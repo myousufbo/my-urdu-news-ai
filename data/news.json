@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c202m54xp0mo#0",
+    "originalTitle": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+    "urduTitle": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+    "urduSummary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-02T05:02:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777696333",
+    "originalTitle": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+    "urduTitle": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+    "urduSummary": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+    "pubDate": "2026-05-02T04:35:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777695262",
+    "originalTitle": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+    "urduTitle": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+    "urduSummary": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+    "pubDate": "2026-05-02T04:17:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777687838",
+    "originalTitle": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+    "urduTitle": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+    "urduSummary": "The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+    "pubDate": "2026-05-02T04:06:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0729d374mxo#0",
     "originalTitle": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
     "urduTitle": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/4/30/media-organisations-call-on-israel-to-allow-independent-access-to-gaza?traffic_source=rss",
     "pubDate": "2026-04-30T12:52:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777483080",
-    "originalTitle": "Rise in caesarean section births in Gaza brings danger and infection risks",
-    "urduTitle": "Rise in caesarean section births in Gaza brings danger and infection risks",
-    "urduSummary": "Caesarean Awareness Month is marked in April. Conditions in Gaza can lead to risks for mothers who undergo the procedure",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/4/30/rise-in-caesarean-section-births-in-gaza-brings-danger-and-infection-risks?traffic_source=rss",
-    "pubDate": "2026-04-30T09:46:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777466310",
-    "originalTitle": "Environmental disaster fears grip Russia as Ukraine targets oil refineries",
-    "urduTitle": "Environmental disaster fears grip Russia as Ukraine targets oil refineries",
-    "urduSummary": "Ukrainian forces have hammered one of Russia's largest sites in Tuapse, causing oil spills and black rain.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/30/its-all-very-toxic?traffic_source=rss",
-    "pubDate": "2026-04-30T09:40:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777536898",
-    "originalTitle": "Press freedom worldwide falls to its lowest level in 25 years",
-    "urduTitle": "Press freedom worldwide falls to its lowest level in 25 years",
-    "urduSummary": "Reporters Without Borders warns that 'journalism is increasingly criminalised worldwide'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/30/global-press-freedom-falls-to-its-lowest-level-in-25-years?traffic_source=rss",
-    "pubDate": "2026-04-30T09:07:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
-    "originalTitle": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
-    "urduTitle": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
-    "urduSummary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-30T06:12:50.000Z",
     "category": "world",
     "imageUrl": null
   }
