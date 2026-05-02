@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cd9pn541jjlo#0",
+    "originalTitle": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+    "urduTitle": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+    "urduSummary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-02T16:35:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777748488",
+    "originalTitle": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
+    "urduTitle": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
+    "urduSummary": "Studies show extreme rain has become more frequent in country, as Pernambuco and Paraiba states again battered.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
+    "pubDate": "2026-05-02T19:59:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777742281",
+    "originalTitle": "Khartoum drone strike kills five Sudan NGO reports",
+    "urduTitle": "Khartoum drone strike kills five Sudan NGO reports",
+    "urduSummary": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
+    "pubDate": "2026-05-02T19:59:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777738150",
+    "originalTitle": "Ukraine eyes Belarus border activities as Russian strikes persist",
+    "urduTitle": "Ukraine eyes Belarus border activities as Russian strikes persist",
+    "urduSummary": "The role of Belarus in Russia's war on Ukraine has provoked sanctions from Kyiv, which says it is ready to respond.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
+    "pubDate": "2026-05-02T19:54:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c3v2l2qq9qlo#0",
     "originalTitle": "US threatens shipping firms with sanctions if they pay Iran tolls",
     "urduTitle": "US threatens shipping firms with sanctions if they pay Iran tolls",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
     "pubDate": "2026-05-01T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777559822",
-    "originalTitle": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
-    "urduTitle": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
-    "urduSummary": "Arsenal will move six points clear of EPL title rivals Man City, who will have two games in hand, if they beat Fulham.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss",
-    "pubDate": "2026-04-30T21:53:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777584348",
-    "originalTitle": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
-    "urduTitle": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
-    "urduSummary": "Palestine and Israel representatives had been lined up close together at the FIFA Congress in Canada.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
-    "pubDate": "2026-04-30T21:53:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce3pw5x3z54o#0",
-    "originalTitle": "US House votes to end government shutdown over immigration operations",
-    "urduTitle": "US House votes to end government shutdown over immigration operations",
-    "urduSummary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-04-30T20:53:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777573250",
-    "originalTitle": "US Congress passes bill to resume funding for DHS and end partial shutdown",
-    "urduTitle": "US Congress passes bill to resume funding for DHS and end partial shutdown",
-    "urduSummary": "House approves funding measure, which excludes ICE, ending weeks-long crisis that left many federal workers without pay.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown?traffic_source=rss",
-    "pubDate": "2026-04-30T20:12:34.000Z",
     "category": "world",
     "imageUrl": null
   }
