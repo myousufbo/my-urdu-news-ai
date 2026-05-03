@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
+    "pubDate": "2026-05-03T16:41:38.294Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777798375",
+    "originalTitle": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
+    "urduTitle": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
+    "urduSummary": "Gandikota asks Muhamad: What does the military‑industrial machine mean for the sovereignty of the Global South?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss",
+    "pubDate": "2026-05-03T15:58:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777814571",
+    "originalTitle": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+    "urduTitle": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+    "urduSummary": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss",
+    "pubDate": "2026-05-03T15:40:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777806026",
+    "originalTitle": "Zelenskyy has no cards to play against Russia or the West",
+    "urduTitle": "Zelenskyy has no cards to play against Russia or the West",
+    "urduSummary": "The president seems unable to secure for Ukrainian people a gain that can compensate for a painful peace.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/5/3/zelenskyy-has-no-cards-to-play-against-russia-or-the-west?traffic_source=rss",
+    "pubDate": "2026-05-03T15:09:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/clyp41v1n1go#0",
     "originalTitle": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
     "urduTitle": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/5/1/how-can-barcelona-beat-real-madrid-to-la-liga-title-this-weekend?traffic_source=rss",
     "pubDate": "2026-05-01T20:13:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777660625",
-    "originalTitle": "US judge bars Trump from ending protected status for Yemeni nationals",
-    "urduTitle": "US judge bars Trump from ending protected status for Yemeni nationals",
-    "urduSummary": "Trump administration has sought to cancel temporary protections for 13 countries as part of immigration crackdown.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss",
-    "pubDate": "2026-05-01T20:05:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3e283g80n4o#0",
-    "originalTitle": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-    "urduTitle": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-    "urduSummary": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-01T15:12:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777645266",
-    "originalTitle": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
-    "urduTitle": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
-    "urduSummary": "The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
-    "pubDate": "2026-05-01T16:03:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777641909",
-    "originalTitle": "Pentagon announces deal with seven AI companies for classified systems",
-    "urduTitle": "Pentagon announces deal with seven AI companies for classified systems",
-    "urduSummary": "Most recent instance of department integrating with AI comes amid Anthropic standoff, concern over use in Iran war.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss",
-    "pubDate": "2026-05-01T15:57:09.000Z",
     "category": "world",
     "imageUrl": null
   }
