@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777872178",
+    "originalTitle": "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
+    "urduTitle": "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
+    "urduSummary": "Hardie's 4 wickets and 56 runs help secure Peshawar's second PSL title with a five-wicket win over Hyderabad Kingsmen.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/4/all-round-hero-hardie-helps-babar-azams-peshawar-zalmi-win-psl-2026?traffic_source=rss",
+    "pubDate": "2026-05-04T06:20:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777545384",
+    "originalTitle": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
+    "urduTitle": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
+    "urduSummary": "Russia's army faces a desertion crisis as it continues to use waves of soldiers to attack Ukraine's defensive positions.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss",
+    "pubDate": "2026-05-04T06:15:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777870735",
+    "originalTitle": "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
+    "urduTitle": "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
+    "urduSummary": "Inter Milan win their 21st Scudetto, edging Napoli, with three matches remaining in the Italian football league season.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/4/fireworks-in-milan-as-inter-clinch-serie-a-title-with-a-2-0-win-over-parma?traffic_source=rss",
+    "pubDate": "2026-05-04T05:15:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-02T05:02:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777696333",
-    "originalTitle": "Trump says US forces are ‘like pirates’ taking Iranian oil",
-    "urduTitle": "Trump says US forces are ‘like pirates’ taking Iranian oil",
-    "urduSummary": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
-    "pubDate": "2026-05-02T04:35:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777695262",
-    "originalTitle": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
-    "urduTitle": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
-    "urduSummary": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
-    "pubDate": "2026-05-02T04:17:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777687838",
-    "originalTitle": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-    "urduTitle": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-    "urduSummary": "The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
-    "pubDate": "2026-05-02T04:06:01.000Z",
     "category": "world",
     "imageUrl": null
   }
