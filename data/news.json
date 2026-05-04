@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777926370",
+    "originalTitle": "Moscow rehearses V-Day parade marking WWII victory",
+    "urduTitle": "Moscow rehearses V-Day parade marking WWII victory",
+    "urduSummary": "Russia rehearsed its Victory Day parade and declared a ceasefire with Ukraine to cover the May 9 celebrations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/moscow-rehearses-v-day-parade-marking-wwii-victory?traffic_source=rss",
+    "pubDate": "2026-05-04T20:29:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777914398",
+    "originalTitle": "Mali leader Goita takes defence post after minister killed",
+    "urduTitle": "Mali leader Goita takes defence post after minister killed",
+    "urduSummary": "Military leader promotes himself after defence minister killed in attacks linked to al-Qaeda and Tuareg separatists.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed?traffic_source=rss",
+    "pubDate": "2026-05-04T19:42:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777913289",
+    "originalTitle": "Gangland wars killing dozens of bystanders, report Swedish police",
+    "urduTitle": "Gangland wars killing dozens of bystanders, report Swedish police",
+    "urduSummary": "Deaths due to gang violence included people hit by stray bullets, cases of mistaken identity, and relatives of gang members.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police?traffic_source=rss",
+    "pubDate": "2026-05-04T19:12:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/ckgpzgxgz58o#0",
     "originalTitle": "Two killed and many injured after car driven into crowd in German city of Leipzig",
     "urduTitle": "Two killed and many injured after car driven into crowd in German city of Leipzig",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/upfront/2026/5/2/the-rise-of-political-violence-under-trump?traffic_source=rss",
     "pubDate": "2026-05-02T21:25:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd9pn541jjlo#0",
-    "originalTitle": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-    "urduTitle": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-    "urduSummary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-02T16:35:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777748488",
-    "originalTitle": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
-    "urduTitle": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
-    "urduSummary": "Studies show extreme rain has become more frequent in country, as Pernambuco and Paraiba states again battered.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
-    "pubDate": "2026-05-02T19:59:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777742281",
-    "originalTitle": "Khartoum drone strike kills five Sudan NGO reports",
-    "urduTitle": "Khartoum drone strike kills five Sudan NGO reports",
-    "urduSummary": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
-    "pubDate": "2026-05-02T19:59:16.000Z",
     "category": "world",
     "imageUrl": null
   }
