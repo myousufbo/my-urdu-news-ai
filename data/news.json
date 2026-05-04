@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-05-04T02:23:50.502Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777854873",
+    "originalTitle": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+    "urduTitle": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+    "urduSummary": "Tens of thousands of partygoers gathered for an illegal “free party” at a military firing range near Bourges.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss",
+    "pubDate": "2026-05-04T00:40:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777849941",
+    "originalTitle": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
+    "urduTitle": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
+    "urduSummary": "Iran protests as Trump announces 'Project Freedom' to escort stranded ships out of the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
+    "pubDate": "2026-05-04T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777849213",
+    "originalTitle": "Thousands in India’s Manipur mark three years since ethnic clashes began",
+    "urduTitle": "Thousands in India’s Manipur mark three years since ethnic clashes began",
+    "urduSummary": "Thousands of protesters gathered in India’s Manipur state to mark three years since ethnic violence erupted.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss",
+    "pubDate": "2026-05-03T23:04:52.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn0px2x53k2o#0",
     "originalTitle": "Iran says US has responded to its latest peace proposal",
     "urduTitle": "Iran says US has responded to its latest peace proposal",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
     "pubDate": "2026-05-02T04:06:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0729d374mxo#0",
-    "originalTitle": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-    "urduTitle": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-    "urduSummary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-01T22:35:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777676649",
-    "originalTitle": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
-    "urduTitle": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
-    "urduSummary": "White House tells Congress that Iran hostilities have 'terminated' despite continued US troop presence in Middle East.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
-    "pubDate": "2026-05-02T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777671089",
-    "originalTitle": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
-    "urduTitle": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
-    "urduSummary": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
-    "pubDate": "2026-05-01T22:54:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777674197",
-    "originalTitle": "Trump considering option to ‘blast the hell out of’ Iran",
-    "urduTitle": "Trump considering option to ‘blast the hell out of’ Iran",
-    "urduSummary": "US President Donald Trump said he is \"not happy\" with the latest peace proposal from Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
-    "pubDate": "2026-05-01T22:27:26.000Z",
     "category": "world",
     "imageUrl": null
   }
