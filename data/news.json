@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1777873826",
+    "originalTitle": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+    "urduTitle": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+    "urduSummary": "Trump orders new Hormuz mission after Iran says it receives US response to its peace proposal.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
+    "pubDate": "2026-05-04T09:11:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777883010",
+    "originalTitle": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
+    "urduTitle": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
+    "urduSummary": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
+    "pubDate": "2026-05-04T08:27:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1777877360",
+    "originalTitle": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+    "urduTitle": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+    "urduSummary": "President Trump said the US will begin Project Freedom on Monday to guide stranded ships out of the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
+    "pubDate": "2026-05-04T08:20:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1777872178",
     "originalTitle": "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
     "urduTitle": "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
     "pubDate": "2026-05-02T08:09:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777701822",
-    "originalTitle": "UK’s Starmer eyes banning some pro-Palestine protests",
-    "urduTitle": "UK’s Starmer eyes banning some pro-Palestine protests",
-    "urduSummary": "PM Keir Starmer says the phrase 'globalise the Intifada' should be 'completely off limits'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/2/uks-starmer-eyes-banning-some-pro-palestine-protests?traffic_source=rss",
-    "pubDate": "2026-05-02T07:55:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777550948",
-    "originalTitle": "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’",
-    "urduTitle": "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’",
-    "urduSummary": "At 44, Bukele has built the world’s highest imprisonment rate and scrapped presidential term limits. What comes next?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/5/2/who-is-nayib-bukele-el-salvadors-coolest-dictator?traffic_source=rss",
-    "pubDate": "2026-05-02T07:42:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c202m54xp0mo#0",
-    "originalTitle": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
-    "urduTitle": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
-    "urduSummary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-02T05:02:14.000Z",
     "category": "world",
     "imageUrl": null
   }
