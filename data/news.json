@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c1k2jnx8gmlo#0",
+    "originalTitle": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+    "urduTitle": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+    "urduSummary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-06T15:46:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778083496",
+    "originalTitle": "UN demands Israel immediately releases flotilla activists",
+    "urduTitle": "UN demands Israel immediately releases flotilla activists",
+    "urduSummary": "The United Nations has called on Israel to “immediately” release two activists detained on a flotilla bound for Gaza.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss",
+    "pubDate": "2026-05-06T16:09:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778081513",
+    "originalTitle": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
+    "urduTitle": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
+    "urduSummary": "India's government to allow Pakistani athletes to visit but maintains a sports ban on bilateral events like cricket.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss",
+    "pubDate": "2026-05-06T16:08:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778050980",
+    "originalTitle": "The anti-Semitism smear that ruined Corbyn’s Labour now targets the Greens",
+    "urduTitle": "The anti-Semitism smear that ruined Corbyn’s Labour now targets the Greens",
+    "urduSummary": "Zack Polanski must not repeat Jeremy Corbyn’s mistakes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/5/6/the-anti-semitism-smear-that-ruined-corbyns-labour-now-targets-the-greens?traffic_source=rss",
+    "pubDate": "2026-05-06T16:06:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c4g8zejyyr3o#0",
     "originalTitle": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
     "urduTitle": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed?traffic_source=rss",
     "pubDate": "2026-05-04T19:42:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777913289",
-    "originalTitle": "Gangland wars killing dozens of bystanders, report Swedish police",
-    "urduTitle": "Gangland wars killing dozens of bystanders, report Swedish police",
-    "urduSummary": "Deaths due to gang violence included people hit by stray bullets, cases of mistaken identity, and relatives of gang members.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police?traffic_source=rss",
-    "pubDate": "2026-05-04T19:12:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ckgpzgxgz58o#0",
-    "originalTitle": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-    "urduTitle": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-    "urduSummary": "Mayor Burkhard Jung said a suspect was detained and the motive was unclear.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-04T16:24:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cpvpnve1r24o#0",
-    "originalTitle": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
-    "urduTitle": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
-    "urduSummary": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-04T16:27:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777911832",
-    "originalTitle": "Captain warns ‘no ship will be a hero’ by risking Hormuz transit",
-    "urduTitle": "Captain warns ‘no ship will be a hero’ by risking Hormuz transit",
-    "urduSummary": "Captain Raman Kapoor says no vessel will attempt to exit the Strait of Hormuz without assurance of safety.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss",
-    "pubDate": "2026-05-04T16:27:13.000Z",
     "category": "world",
     "imageUrl": null
   }
