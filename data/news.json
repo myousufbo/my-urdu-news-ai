@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-05-06T10:11:29.575Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778045992",
+    "originalTitle": "Colombia tourist jewel plagued by violence",
+    "urduTitle": "Colombia tourist jewel plagued by violence",
+    "urduSummary": "Armed groups’ extortion and turf wars in Colombia’s Sierra Nevada threaten Indigenous communities and tourism boom.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/5/6/colombia-tourist-jewel-plagued-by-violence?traffic_source=rss",
+    "pubDate": "2026-05-06T09:27:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778055139",
+    "originalTitle": "FIFA chief Infantino defends World Cup ticket prices",
+    "urduTitle": "FIFA chief Infantino defends World Cup ticket prices",
+    "urduSummary": "Eye-watering prices reflect demand to watch the World Cup in the US, Infantino says, amid criticism from fans.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/6/fifa-chief-infantino-defends-world-cup-ticket-prices?traffic_source=rss",
+    "pubDate": "2026-05-06T08:54:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778054126",
+    "originalTitle": "US petrol prices 50 percent higher than before war on Iran",
+    "urduTitle": "US petrol prices 50 percent higher than before war on Iran",
+    "urduSummary": "The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
+    "pubDate": "2026-05-06T08:52:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c893xj41zwdo#0",
     "originalTitle": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
     "urduTitle": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/5/4/arsenal-vs-atletico-madrid-champions-league-preview-team-news-start-lineups?traffic_source=rss",
     "pubDate": "2026-05-04T13:15:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777891607",
-    "originalTitle": "War preparations under way in Iran as Hormuz tensions with US escalate",
-    "urduTitle": "War preparations under way in Iran as Hormuz tensions with US escalate",
-    "urduSummary": "Amid stalled talks and sparring over key waterway, Iranian media say US warship struck, but Washington denies incident.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate?traffic_source=rss",
-    "pubDate": "2026-05-04T13:12:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777873826",
-    "originalTitle": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
-    "urduTitle": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
-    "urduSummary": "Trump orders new Hormuz mission after Iran says it receives US response to its peace proposal.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
-    "pubDate": "2026-05-04T09:11:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777883010",
-    "originalTitle": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
-    "urduTitle": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
-    "urduSummary": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
-    "pubDate": "2026-05-04T08:27:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777877360",
-    "originalTitle": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-    "urduTitle": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-    "urduSummary": "President Trump said the US will begin Project Freedom on Monday to guide stranded ships out of the Strait of Hormuz.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
-    "pubDate": "2026-05-04T08:20:54.000Z",
     "category": "world",
     "imageUrl": null
   }
