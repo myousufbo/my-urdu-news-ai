@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cnvpzgn26edo#0",
+    "originalTitle": "Race to trace passengers who left hantavirus cruise ship at island",
+    "urduTitle": "Race to trace passengers who left hantavirus cruise ship at island",
+    "urduSummary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-07T13:33:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778159488",
+    "originalTitle": "Humanoid robot becomes Buddhist monk in South Korea",
+    "urduTitle": "Humanoid robot becomes Buddhist monk in South Korea",
+    "urduSummary": "A Buddhist temple in Seoul introduced South Korea’s first humanoid robot monk.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/humanoid-robot-becomes-buddhist-monk-in-south-korea?traffic_source=rss",
+    "pubDate": "2026-05-07T13:26:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778154937",
+    "originalTitle": "Chad declares national mourning after deadly Boko Haram ambush",
+    "urduTitle": "Chad declares national mourning after deadly Boko Haram ambush",
+    "urduSummary": "The killing of two generals near Lake Chad follows a recent Boko Haram attack in the same region that left dozens dead.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/7/chad-declares-national-mourning-after-deadly-boko-haram-ambush?traffic_source=rss",
+    "pubDate": "2026-05-07T13:21:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778157694",
+    "originalTitle": "Somali pirates abandon hijacked UAE dhow due to dwindling supplies",
+    "urduTitle": "Somali pirates abandon hijacked UAE dhow due to dwindling supplies",
+    "urduSummary": "The lemon-laden Fahad-4, hijacked in late April, was used as a mothership to attack other ships.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss",
+    "pubDate": "2026-05-07T13:16:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y093d5n9ko#0",
     "originalTitle": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
     "urduTitle": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss",
     "pubDate": "2026-05-05T20:42:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778012470",
-    "originalTitle": "Could OPEC break lead to era of energy volatility?",
-    "urduTitle": "Could OPEC break lead to era of energy volatility?",
-    "urduSummary": "How unstable is the global oil market?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss",
-    "pubDate": "2026-05-05T20:23:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm2p186gyp2o#0",
-    "originalTitle": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-    "urduTitle": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-    "urduSummary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-05T16:38:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1e2zjz22p9o#0",
-    "originalTitle": "Russian attacks kill at least 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-    "urduTitle": "Russian attacks kill at least 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-    "urduSummary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-05T16:55:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdxpe02y05go#0",
-    "originalTitle": "Nine coal miners die in gas explosion in Colombia",
-    "urduTitle": "Nine coal miners die in gas explosion in Colombia",
-    "urduSummary": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-05T10:09:23.000Z",
     "category": "world",
     "imageUrl": null
   }
