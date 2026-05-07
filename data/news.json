@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c5y093d5n9ko#0",
+    "originalTitle": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+    "urduTitle": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+    "urduSummary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-07T09:40:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czj2emlv2kjo#0",
+    "originalTitle": "Islamic State-linked women arrive home in Australia from Syria",
+    "urduTitle": "Islamic State-linked women arrive home in Australia from Syria",
+    "urduSummary": "A group of nine women and children has landed in Melbourne while another woman and her child arrived in Sydney.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-07T10:04:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778045533",
+    "originalTitle": "What is China’s anti-sanctions law and how does it work?",
+    "urduTitle": "What is China’s anti-sanctions law and how does it work?",
+    "urduSummary": "Beijing's order blocking US sanctions on five oil refineries marks first invocation of 2021 law.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
+    "pubDate": "2026-05-07T09:50:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778146352",
+    "originalTitle": "Iran’s stance on US war negotiations explained",
+    "urduTitle": "Iran’s stance on US war negotiations explained",
+    "urduSummary": "Iran’s stance on US war negotiations explained",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-stance-on-us-war-negotiations-explained?traffic_source=rss",
+    "pubDate": "2026-05-07T09:37:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778140166",
+    "originalTitle": "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
+    "urduTitle": "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
+    "urduSummary": "Vatican Secretary of State Cardinal Pietro Parolin says the meeting was requested by the US.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss",
+    "pubDate": "2026-05-07T09:22:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1778130865",
     "originalTitle": "Toronto World Cup tickets to be resold for face value on FIFA marketplace",
     "urduTitle": "Toronto World Cup tickets to be resold for face value on FIFA marketplace",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-05T10:09:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777995671",
-    "originalTitle": "Microsoft, Google, xAI give US access to AI models for security testing",
-    "urduTitle": "Microsoft, Google, xAI give US access to AI models for security testing",
-    "urduSummary": "The deal comes days after the Pentagon announces an agreement with seven tech giants to use AI in classified systems",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing?traffic_source=rss",
-    "pubDate": "2026-05-05T16:53:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777991484",
-    "originalTitle": "UAE comes under Iranian attacks for second consecutive day",
-    "urduTitle": "UAE comes under Iranian attacks for second consecutive day",
-    "urduSummary": "The strikes come a day after the Gulf nation was attacked by 15 missiles amid a shaky US-Iran ceasefire.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-    "pubDate": "2026-05-05T16:50:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777999610",
-    "originalTitle": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
-    "urduTitle": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
-    "urduSummary": "Ukraine strikes multiple sites in Moscow, following Russia’s strikes on a Ukrainian gas production facility.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss",
-    "pubDate": "2026-05-05T16:50:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c70vqwengxno#0",
-    "originalTitle": "Explosion at China fireworks factory kills 26 people",
-    "urduTitle": "Explosion at China fireworks factory kills 26 people",
-    "urduSummary": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-05T06:06:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1777972895",
-    "originalTitle": "Macron sings as Armenia’s leader drums in unusual moment at state dinner",
-    "urduTitle": "Macron sings as Armenia’s leader drums in unusual moment at state dinner",
-    "urduSummary": "French President Emmanuel Macron sang ‘La Boheme’ accompanied by Armenian Prime Minister Nikol Pashinyan on the drums.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/macron-sings-as-armenias-leader-drums-in-unusual-moment-at-state-dinner?traffic_source=rss",
-    "pubDate": "2026-05-05T09:24:38.000Z",
     "category": "world",
     "imageUrl": null
   }
