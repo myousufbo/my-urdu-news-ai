@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1778267616",
+    "originalTitle": "Laura Fernandez sworn in as Costa Rica’s new president",
+    "urduTitle": "Laura Fernandez sworn in as Costa Rica’s new president",
+    "urduSummary": "Fernandez enters office with her right-wing party holding an absolute majority in the legislature.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president?traffic_source=rss",
+    "pubDate": "2026-05-08T20:12:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778270040",
+    "originalTitle": "Venice Biennale: The Art of the Unseen",
+    "urduTitle": "Venice Biennale: The Art of the Unseen",
+    "urduSummary": "At this year’s Venice Biennale, the story isn’t just about what’s on display—but what’s missing.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/venice-biennale-the-art-of-the-unseen?traffic_source=rss",
+    "pubDate": "2026-05-08T19:56:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778262569",
+    "originalTitle": "Could Labour and Conservative party dominance in UK politics be ending?",
+    "urduTitle": "Could Labour and Conservative party dominance in UK politics be ending?",
+    "urduSummary": "Britain's prime minister is under pressure to quit after huge losses in local elections.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/8/could-labours-and-the-conservatives-dominance-in-uk-politics-be-ending?traffic_source=rss",
+    "pubDate": "2026-05-08T19:21:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c99lpn9ze8ro#0",
     "originalTitle": "Iran accuses US of 'reckless military adventure'",
     "urduTitle": "Iran accuses US of 'reckless military adventure'",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-06T19:58:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778119616",
-    "originalTitle": "US says Hezbollah is ‘trying to derail talks’ with Israel",
-    "urduTitle": "US says Hezbollah is ‘trying to derail talks’ with Israel",
-    "urduSummary": "US State Department spokesperson says Hezbollah is ‘trying to derail talks’ with Israel.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/us-says-hezbollah-is-trying-to-derail-talks-with-israel?traffic_source=rss",
-    "pubDate": "2026-05-07T02:13:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778116306",
-    "originalTitle": "Rising Fuel costs overshadowing agenda for ASEAN summit in the Philippines",
-    "urduTitle": "Rising Fuel costs overshadowing agenda for ASEAN summit in the Philippines",
-    "urduSummary": "ASEAN leaders have begun meeting in the Philippines as residents say their main concern is living costs.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/rising-fuel-costs-overshadowing-agenda-for-asean-summit-in-the-philippines?traffic_source=rss",
-    "pubDate": "2026-05-07T01:19:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778112465",
-    "originalTitle": "North Korea says it is not bound by any treaty on nuclear non-proliferation",
-    "urduTitle": "North Korea says it is not bound by any treaty on nuclear non-proliferation",
-    "urduSummary": "Pyongyang says its status as nuclear-armed state 'will not change based on external rhetorical claims'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation?traffic_source=rss",
-    "pubDate": "2026-05-07T00:55:08.000Z",
     "category": "world",
     "imageUrl": null
   }
