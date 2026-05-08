@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1778217336",
+    "originalTitle": "Ex-prisoners recount abuse in Israeli detention centres",
+    "urduTitle": "Ex-prisoners recount abuse in Israeli detention centres",
+    "urduSummary": "Former Palestinian detainees are speaking out about torture and sexual violence they faced in Israeli detention.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss",
+    "pubDate": "2026-05-08T05:21:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778214008",
+    "originalTitle": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
+    "urduTitle": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
+    "urduSummary": "US President Donald Trump says the ceasefire with Iran is still in effect, despite clashes in the Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
+    "pubDate": "2026-05-08T04:25:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778202764",
+    "originalTitle": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+    "urduTitle": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+    "urduSummary": "Brent crude rises amid clashes in critical waterway.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-05-08T03:03:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c626zyywxjno#0",
     "originalTitle": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
     "urduTitle": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/gallery/2026/5/6/colombia-tourist-jewel-plagued-by-violence?traffic_source=rss",
     "pubDate": "2026-05-06T09:27:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778055139",
-    "originalTitle": "FIFA chief Infantino defends World Cup ticket prices",
-    "urduTitle": "FIFA chief Infantino defends World Cup ticket prices",
-    "urduSummary": "Eye-watering prices reflect demand to watch the World Cup in the US, Infantino says, amid criticism from fans.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/6/fifa-chief-infantino-defends-world-cup-ticket-prices?traffic_source=rss",
-    "pubDate": "2026-05-06T08:54:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778054126",
-    "originalTitle": "US petrol prices 50 percent higher than before war on Iran",
-    "urduTitle": "US petrol prices 50 percent higher than before war on Iran",
-    "urduSummary": "The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
-    "pubDate": "2026-05-06T08:52:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c893xj41zwdo#0",
-    "originalTitle": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-    "urduTitle": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-    "urduSummary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-06T04:53:31.000Z",
     "category": "world",
     "imageUrl": null
   }
