@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c99lpn9ze8ro#0",
+    "originalTitle": "Iran accuses US of 'reckless military adventure'",
+    "urduTitle": "Iran accuses US of 'reckless military adventure'",
+    "urduSummary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-08T16:11:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778257561",
+    "originalTitle": "Justice for Shireen: The American investigation",
+    "urduTitle": "Justice for Shireen: The American investigation",
+    "urduSummary": "Four years after Shireen Abu Akleh’s killing, her family is still seeking US-backed accountability.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/8/aje-onl-tt_rr_pal_shireeninvest_av_v1-080526?traffic_source=rss",
+    "pubDate": "2026-05-08T16:36:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778254520",
+    "originalTitle": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
+    "urduTitle": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
+    "urduSummary": "Real do not impose sporting sanctions saying 500,000 euro fines concludes the 'internal procedures' against the pair.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss",
+    "pubDate": "2026-05-08T16:19:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778235984",
+    "originalTitle": "South Koreans gear up to roar on football team from rival North",
+    "urduTitle": "South Koreans gear up to roar on football team from rival North",
+    "urduSummary": "Naegohyang Women's FC will play the Suwon FC Women on May 20 in the Asian Champions League in a six-year first.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/8/south-koreans-gear-up-to-roar-on-football-team-from-rival-north?traffic_source=rss",
+    "pubDate": "2026-05-08T15:55:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c202zn5gg0lo#0",
     "originalTitle": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
     "urduTitle": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation?traffic_source=rss",
     "pubDate": "2026-05-07T00:55:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778098424",
-    "originalTitle": "Russia cuts mobile internet in Moscow citing drone security concerns",
-    "urduTitle": "Russia cuts mobile internet in Moscow citing drone security concerns",
-    "urduSummary": "Russia has begun rolling mobile internet shutdowns in Moscow and other cities.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss",
-    "pubDate": "2026-05-06T20:28:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778089293",
-    "originalTitle": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
-    "urduTitle": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
-    "urduSummary": "Fighters attack 'Africa's Alcatraz', which detains high-value prisoners, and disrupt crucial supply chains to capital.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
-    "pubDate": "2026-05-06T19:43:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778096299",
-    "originalTitle": "Infected passengers evacuated from hantavirus cruise ship",
-    "urduTitle": "Infected passengers evacuated from hantavirus cruise ship",
-    "urduSummary": "Three passengers have been evacuated from a cruise ship off the coast of Cape Verde after an outbreak of hantavirus.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/infected-passengers-evacuated-from-hantavirus-cruise-ship?traffic_source=rss",
-    "pubDate": "2026-05-06T19:42:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1k2jnx8gmlo#0",
-    "originalTitle": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-    "urduTitle": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-    "urduSummary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-06T15:46:06.000Z",
     "category": "world",
     "imageUrl": null
   }
