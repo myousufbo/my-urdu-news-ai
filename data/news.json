@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1778326478",
+    "originalTitle": "Australia’s populist One Nation scores first-ever lower house victory",
+    "urduTitle": "Australia’s populist One Nation scores first-ever lower house victory",
+    "urduSummary": "The far-right party's winning candidate, David Farley, has advocated for stricter migration and farming reforms.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/9/australias-populist-one-nation-scores-first-ever-lower-house-victory?traffic_source=rss",
+    "pubDate": "2026-05-09T12:20:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778325505",
+    "originalTitle": "Displaced Lebanese children keep learning amid displacement",
+    "urduTitle": "Displaced Lebanese children keep learning amid displacement",
+    "urduSummary": "A school in Sidon is now home to displaced families from southern Lebanon, but classes are still running.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
+    "pubDate": "2026-05-09T11:33:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778317681",
+    "originalTitle": "US military kills two people in new eastern Pacific Ocean attack",
+    "urduTitle": "US military kills two people in new eastern Pacific Ocean attack",
+    "urduSummary": "The killings mark the third attack in May alone by the US military in the eastern Pacific Ocean.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
+    "pubDate": "2026-05-09T10:32:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c626xjq0q0vo#0",
     "originalTitle": "Putin denounces Nato at scaled back Victory Day parade",
     "urduTitle": "Putin denounces Nato at scaled back Victory Day parade",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss",
     "pubDate": "2026-05-07T13:16:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y093d5n9ko#0",
-    "originalTitle": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
-    "urduTitle": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
-    "urduSummary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-07T09:40:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czj2emlv2kjo#0",
-    "originalTitle": "Islamic State-linked women arrive home in Australia from Syria",
-    "urduTitle": "Islamic State-linked women arrive home in Australia from Syria",
-    "urduSummary": "A group of nine women and children has landed in Melbourne while another woman and her child arrived in Sydney.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-07T10:04:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778045533",
-    "originalTitle": "What is China’s anti-sanctions law and how does it work?",
-    "urduTitle": "What is China’s anti-sanctions law and how does it work?",
-    "urduSummary": "Beijing's order blocking US sanctions on five oil refineries marks first invocation of 2021 law.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
-    "pubDate": "2026-05-07T09:50:50.000Z",
     "category": "world",
     "imageUrl": null
   }
