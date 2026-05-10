@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/clypgz9e5pmo#0",
+    "originalTitle": "Iran sends response to US proposals to end war",
+    "urduTitle": "Iran sends response to US proposals to end war",
+    "urduSummary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-10T14:21:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778424953",
+    "originalTitle": "Food inflation hammers households in war-hit Iran",
+    "urduTitle": "Food inflation hammers households in war-hit Iran",
+    "urduSummary": "Iranians faced with skyrocketing food prices as inflation soars, currency plunges amid US-enforced naval blockade.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
+    "pubDate": "2026-05-10T16:37:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778418525",
+    "originalTitle": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
+    "urduTitle": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
+    "urduSummary": "Follow the build-up, analysis and live text commentary of a crucial Clasico as Barcelona need a point to win La Liga.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss",
+    "pubDate": "2026-05-10T16:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778420992",
+    "originalTitle": "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
+    "urduTitle": "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
+    "urduSummary": "Russia claims Ukraine has committed more than 1,000 violations since the three-day truce came into effect on Saturday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss",
+    "pubDate": "2026-05-10T15:56:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvgzv77ldpdo#0",
     "originalTitle": "Army parachutes onto remote island to help Briton with suspected hantavirus",
     "urduTitle": "Army parachutes onto remote island to help Briton with suspected hantavirus",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
     "pubDate": "2026-05-08T13:19:15.044Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778065442",
-    "originalTitle": "The disaster unfolding on Russia’s Black Sea coast is of its own making",
-    "urduTitle": "The disaster unfolding on Russia’s Black Sea coast is of its own making",
-    "urduSummary": "The pollution spreading across southern Russia exposes environmental collapse under Putin's system.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/5/8/the-disaster-unfolding-on-russias-black-sea-coast-is-of-its-own-making?traffic_source=rss",
-    "pubDate": "2026-05-08T12:29:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778235029",
-    "originalTitle": "Iran claims to have seized ‘offending’ oil tanker in Gulf of Oman",
-    "urduTitle": "Iran claims to have seized ‘offending’ oil tanker in Gulf of Oman",
-    "urduSummary": "State TV releases a video of IRGC forces boarding and detaining the Barbados-flagged vessel, Ocean Koi.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss",
-    "pubDate": "2026-05-08T12:22:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778239665",
-    "originalTitle": "Holders Flamengo see Copa Libertadores match abandoned amid crowd trouble",
-    "urduTitle": "Holders Flamengo see Copa Libertadores match abandoned amid crowd trouble",
-    "urduSummary": "The match in Colombia, hosted by Independiente Medellin, was twice interrupted by violence before being called off.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/8/holders-flamengo-see-copa-libertadores-match-abandoned-amid-crowd-trouble?traffic_source=rss",
-    "pubDate": "2026-05-08T12:17:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c86dp85g59xo#0",
-    "originalTitle": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-    "urduTitle": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-    "urduSummary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-08T08:43:55.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
