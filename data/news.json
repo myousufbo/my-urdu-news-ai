@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cn8p4j2jzwwo#0",
+    "originalTitle": "Putin says he thinks Ukraine conflict 'coming to an end'",
+    "urduTitle": "Putin says he thinks Ukraine conflict 'coming to an end'",
+    "urduSummary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-10T00:46:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn7pzmg8zeno#0",
+    "originalTitle": "Tenerife medics poised for arrival of virus-hit cruise ship",
+    "urduTitle": "Tenerife medics poised for arrival of virus-hit cruise ship",
+    "urduSummary": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-10T01:08:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778375965",
+    "originalTitle": "Satellite images show likely oil slick off Iran’s Kharg Island",
+    "urduTitle": "Satellite images show likely oil slick off Iran’s Kharg Island",
+    "urduSummary": "Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran’s Kharg Island.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+    "pubDate": "2026-05-10T01:23:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778368032",
+    "originalTitle": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+    "urduTitle": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+    "urduSummary": "US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+    "pubDate": "2026-05-10T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778368350",
+    "originalTitle": "WHO chief says Hantavirus outbreak ‘is not COVID’",
+    "urduTitle": "WHO chief says Hantavirus outbreak ‘is not COVID’",
+    "urduSummary": "WHO chief says Hantavirus outbreak ‘is not COVID’",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss",
+    "pubDate": "2026-05-09T23:17:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn4pjegk358o#0",
     "originalTitle": "Lebanon says Israeli strikes killed 39 ",
     "urduTitle": "Lebanon says Israeli strikes killed 39 ",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/are-global-alliances-fracturing?traffic_source=rss",
     "pubDate": "2026-05-07T23:51:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy2d0v3p2po#0",
-    "originalTitle": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-    "urduTitle": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-    "urduSummary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-07T18:13:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-05-07T21:00:25.260Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778184997",
-    "originalTitle": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
-    "urduTitle": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
-    "urduSummary": "Villagers in Kenya are suing British Petroleum, saying oil exploration by Amoco in the 1980s left toxic pollution.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/kenyan-villagers-sue-bp-over-pollution-from-1980s-oil-exploration?traffic_source=rss",
-    "pubDate": "2026-05-07T20:22:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778184102",
-    "originalTitle": "Palestinian boy mourns father killed in Israeli strike on security post",
-    "urduTitle": "Palestinian boy mourns father killed in Israeli strike on security post",
-    "urduSummary": "A Palestinian boy mourns his father, one of three people killed in an Israeli strike on a security post in Gaza.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
-    "pubDate": "2026-05-07T20:10:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778179550",
-    "originalTitle": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
-    "urduTitle": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
-    "urduSummary": "Latest sanctions target military-controlled conglomerate, come as effective US fuel blockade continues.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss",
-    "pubDate": "2026-05-07T20:10:44.000Z",
     "category": "world",
     "imageUrl": null
   }
