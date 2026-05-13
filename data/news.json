@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1778690519",
+    "originalTitle": "Why Louisiana paused its US House primary election amid redistricting push",
+    "urduTitle": "Why Louisiana paused its US House primary election amid redistricting push",
+    "urduSummary": "Louisiana governor suspends vote following Supreme Court ruling; critics say move sows confusion and violates law.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/13/why-louisiana-paused-its-us-house-primary-election-amid-redistricting-push?traffic_source=rss",
+    "pubDate": "2026-05-13T21:00:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778705412",
+    "originalTitle": "Crowds gather in Tehran to send off Iran’s World Cup team",
+    "urduTitle": "Crowds gather in Tehran to send off Iran’s World Cup team",
+    "urduSummary": "Huge crowds gathered in Tehran’s Revolution Square to celebrate and send off Iran’s national football team.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss",
+    "pubDate": "2026-05-13T20:54:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778699455",
+    "originalTitle": "US waives visa bonds of up to $15,000 for FIFA World Cup ticket holders",
+    "urduTitle": "US waives visa bonds of up to $15,000 for FIFA World Cup ticket holders",
+    "urduSummary": "Trump administration's visa bond programme had raised concerns about soaring costs for World Cup travellers to US.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/13/us-waives-visa-bonds-of-up-to-15000-for-fifa-world-cup-ticket-holders?traffic_source=rss",
+    "pubDate": "2026-05-13T20:48:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cedpvnq7wn1o#0",
     "originalTitle": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
     "urduTitle": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/5/12/us-moves-to-release-more-oil-stockpiles-under-iea-agreement?traffic_source=rss",
     "pubDate": "2026-05-12T05:42:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778559079",
-    "originalTitle": "Israel approves law on public trials, death penalty for October 7 detainees",
-    "urduTitle": "Israel approves law on public trials, death penalty for October 7 detainees",
-    "urduSummary": "Rights groups warn that the bill makes the death penalty easier to impose and strips fair trial protections.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss",
-    "pubDate": "2026-05-12T05:03:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778559235",
-    "originalTitle": "Hundreds more displaced as gang violence escalates in Haiti’s capital",
-    "urduTitle": "Hundreds more displaced as gang violence escalates in Haiti’s capital",
-    "urduSummary": "Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss",
-    "pubDate": "2026-05-12T04:16:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ceqprgen1nyo#0",
-    "originalTitle": "How the Trump-Xi summit could set superpower relations for many years to come",
-    "urduTitle": "How the Trump-Xi summit could set superpower relations for many years to come",
-    "urduSummary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-11T23:20:53.000Z",
     "category": "world",
     "imageUrl": null
   }
