@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/videos/c707xn4ew3po#0",
+    "originalTitle": "Watch: What happened on day one of Trump's China visit?",
+    "urduTitle": "Watch: What happened on day one of Trump's China visit?",
+    "urduSummary": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-14T07:13:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778681784",
+    "originalTitle": "World Cup train and shuttle bus ticket prices cut in New York, New Jersey",
+    "urduTitle": "World Cup train and shuttle bus ticket prices cut in New York, New Jersey",
+    "urduSummary": "Round-trip train tickets brought down to $98 from $150, and bus fares to cost $20 instead of $80, state officials say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/14/world-cup-train-and-shuttle-bus-ticket-prices-cut-in-new-york-new-jersey?traffic_source=rss",
+    "pubDate": "2026-05-14T09:43:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778749863",
+    "originalTitle": "Could Iran war trigger a hunger crisis?",
+    "urduTitle": "Could Iran war trigger a hunger crisis?",
+    "urduSummary": "The UN warns disruptions in the Strait of Hormuz could drive up food and fertiliser costs, and worsen global hunger.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+    "pubDate": "2026-05-14T09:28:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778740999",
+    "originalTitle": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
+    "urduTitle": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
+    "urduSummary": "US sanctions imposed on UN expert Francesca Albanese by the Trump administration temporarily ⁠blocked by a judge.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss",
+    "pubDate": "2026-05-14T09:16:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1778737700",
     "originalTitle": "Iran’s US-bound World Cup squad given public sendoff in Tehran",
     "urduTitle": "Iran’s US-bound World Cup squad given public sendoff in Tehran",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-12T13:19:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-05-12T14:07:23.737Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778584093",
-    "originalTitle": "Uganda’s Yoweri Museveni sworn in for seventh term as president",
-    "urduTitle": "Uganda’s Yoweri Museveni sworn in for seventh term as president",
-    "urduSummary": "The 81-year-old, who has been in power since 1986, won a January election amid reports of intimidation and abductions.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/12/ugandas-yoweri-museveni-sworn-in-for-seventh-term-as-president?traffic_source=rss",
-    "pubDate": "2026-05-12T13:42:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778587036",
-    "originalTitle": "Spain reports new hantavirus case in passenger evacuated from cruise ship",
-    "urduTitle": "Spain reports new hantavirus case in passenger evacuated from cruise ship",
-    "urduSummary": "The infected man is one of more than 120 passengers and crew members evacuated from MV Hondius, the ministry says.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/12/spain-reports-new-hantavirus-case-in-passenger-evacuated-from-cruise-ship?traffic_source=rss",
-    "pubDate": "2026-05-12T13:39:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778592683",
-    "originalTitle": "Israel approves law on death penalty for October 7 detainees",
-    "urduTitle": "Israel approves law on death penalty for October 7 detainees",
-    "urduSummary": "Israel approves law on death penalty for October 7 detainees",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss",
-    "pubDate": "2026-05-12T13:35:23.000Z",
     "category": "world",
     "imageUrl": null
   }
