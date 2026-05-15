@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/crrpj0ejxp8o#0",
+    "originalTitle": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
+    "urduTitle": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
+    "urduSummary": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-15T09:17:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cze2wpk7y76o#0",
+    "originalTitle": "New outbreak of Ebola kills 65 in eastern DR Congo",
+    "urduTitle": "New outbreak of Ebola kills 65 in eastern DR Congo",
+    "urduSummary": "Africa's top health agency says around 246 cases have been reported.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-15T08:27:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-05-15T10:15:46.699Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778782340",
+    "originalTitle": "Three years of the West Bank’s ‘third Nakba’",
+    "urduTitle": "Three years of the West Bank’s ‘third Nakba’",
+    "urduSummary": "Displacement and violence haunt Palestinian Bedouins, forced from their homes repeatedly since the Nakba of 1948.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/5/15/three-years-of-the-west-banks-third-nakba?traffic_source=rss",
+    "pubDate": "2026-05-15T09:57:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778834382",
+    "originalTitle": "Trump and Xi move towards business-first relationship after Beijing summit",
+    "urduTitle": "Trump and Xi move towards business-first relationship after Beijing summit",
+    "urduSummary": "The two leaders did not resolve differences on key issues like Iran and Taiwan, despite push to extend truce.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss",
+    "pubDate": "2026-05-15T09:46:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778822328",
+    "originalTitle": "How Xi-Trump summit failed to yield Iran war breakthrough",
+    "urduTitle": "How Xi-Trump summit failed to yield Iran war breakthrough",
+    "urduSummary": "US officials have nudged China to do more on the blocked Hormuz strait. President Xi doesn't appear to have budged.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss",
+    "pubDate": "2026-05-15T09:01:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1778736473",
     "originalTitle": "Why India’s RSS is lobbying the West amid attacks on minorities at home",
     "urduTitle": "Why India’s RSS is lobbying the West amid attacks on minorities at home",
@@ -480,72 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/13/japan-suspends-australian-rugby-coach-jones-for-verbally-abusing-officials?traffic_source=rss",
     "pubDate": "2026-05-13T13:17:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778666801",
-    "originalTitle": "Could South Africa’s Ramaphosa be impeached over ‘cash-in-sofa’ scandal?",
-    "urduTitle": "Could South Africa’s Ramaphosa be impeached over ‘cash-in-sofa’ scandal?",
-    "urduSummary": "South African president came to power on anticorruption mandate - and could go now for stuffing cash in furniture.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/5/13/could-south-africas-ramaphosa-be-impeached-over-cash-in-sofa-scandal?traffic_source=rss",
-    "pubDate": "2026-05-13T13:12:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778587826",
-    "originalTitle": "Trump needs Xi much more than Xi needs Trump",
-    "urduTitle": "Trump needs Xi much more than Xi needs Trump",
-    "urduSummary": "As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
-    "pubDate": "2026-05-13T13:08:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cedpv17gqqzo#0",
-    "originalTitle": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
-    "urduTitle": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
-    "urduSummary": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-13T08:24:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778662122",
-    "originalTitle": "At least eight killed in Israeli drone strikes on highway south of Beirut",
-    "urduTitle": "At least eight killed in Israeli drone strikes on highway south of Beirut",
-    "urduSummary": "There were three strikes on cars on the highway in Jiyeh and the dead included two children.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
-    "pubDate": "2026-05-13T09:53:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778579587",
-    "originalTitle": "The class politics of modern outbreaks",
-    "urduTitle": "The class politics of modern outbreaks",
-    "urduSummary": "The MV Hondius hantavirus scare revived debates about luxury travel, public health and unequal vulnerability to disease.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/5/13/the-class-politics-of-modern-outbreaks?traffic_source=rss",
-    "pubDate": "2026-05-13T09:51:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778660861",
-    "originalTitle": "Series of tremors near Tehran renews concerns over major quake risk",
-    "urduTitle": "Series of tremors near Tehran renews concerns over major quake risk",
-    "urduSummary": "The tremors have been felt in an area close to the Mosha fault, one of Iran’s most active seismic zones.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
-    "pubDate": "2026-05-13T09:35:51.000Z",
     "category": "world",
     "imageUrl": null
   }
