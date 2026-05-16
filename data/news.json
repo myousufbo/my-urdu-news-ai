@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1778933661",
+    "originalTitle": "Moment of deadly train crash in Bangkok",
+    "urduTitle": "Moment of deadly train crash in Bangkok",
+    "urduSummary": "At least eight people have been killed after a freight train crashed into a public bus in Thailand.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss",
+    "pubDate": "2026-05-16T12:21:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778844332",
+    "originalTitle": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
+    "urduTitle": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
+    "urduSummary": "Israeli government faces collapse as coalition parties clash over military draft exemptions for Haredi constituents.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections?traffic_source=rss",
+    "pubDate": "2026-05-16T12:06:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778928223",
+    "originalTitle": "Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology",
+    "urduTitle": "Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology",
+    "urduSummary": "Amid the looming fertiliser crisis, African states should invest in sustainable agriculture to increase yields and food",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/5/16/amid-the-fertiliser-crisis-africa-has-a-chemical-free-option?traffic_source=rss",
+    "pubDate": "2026-05-16T12:05:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cy72p2kpd03o#0",
     "originalTitle": "Senior IS leader killed by US and Nigerian forces",
     "urduTitle": "Senior IS leader killed by US and Nigerian forces",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-14T13:33:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0j296392j1o#0",
-    "originalTitle": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
-    "urduTitle": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
-    "urduSummary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-14T11:44:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-05-14T13:55:24.676Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778764166",
-    "originalTitle": "Iran still waiting for US visas less than a month before World Cup",
-    "urduTitle": "Iran still waiting for US visas less than a month before World Cup",
-    "urduSummary": "Farewell ceremony for Iran's football team in Tehran on Wednesday, but US visas yet to be issued reports media.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss",
-    "pubDate": "2026-05-14T13:37:05.000Z",
     "category": "world",
     "imageUrl": null
   }
