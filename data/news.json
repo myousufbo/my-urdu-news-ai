@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cy72p2kpd03o#0",
+    "originalTitle": "Senior IS leader killed by US and Nigerian forces",
+    "urduTitle": "Senior IS leader killed by US and Nigerian forces",
+    "urduSummary": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-16T09:22:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778914500",
+    "originalTitle": "Russia’s Putin to visit China following Trump’s trip",
+    "urduTitle": "Russia’s Putin to visit China following Trump’s trip",
+    "urduSummary": "Putin and Chinese President Xi Jinping plan to 'further strengthen the comprehensive partnership', the Kremlin says.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
+    "pubDate": "2026-05-16T08:38:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778910532",
+    "originalTitle": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+    "urduTitle": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+    "urduSummary": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+    "pubDate": "2026-05-16T08:02:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778915634",
+    "originalTitle": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+    "urduTitle": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+    "urduSummary": "No group ​claimed responsibility for the raid, which bore the hallmark of the ​Boko Haram group.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss",
+    "pubDate": "2026-05-16T07:58:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1778907257",
     "originalTitle": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
     "urduTitle": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss",
     "pubDate": "2026-05-14T13:37:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778765147",
-    "originalTitle": "Russian drone attack hits Kyiv apartment block during ceasefire",
-    "urduTitle": "Russian drone attack hits Kyiv apartment block during ceasefire",
-    "urduSummary": "Russian drone strikes collapsed a residential building in the Ukrainian capital.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/russian-drone-attack-hits-kyiv-apartment-block-during-ceasefire?traffic_source=rss",
-    "pubDate": "2026-05-14T13:31:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778749672",
-    "originalTitle": "What is on the table during Lebanon-Israel direct negotiations?",
-    "urduTitle": "What is on the table during Lebanon-Israel direct negotiations?",
-    "urduSummary": "Israel and Lebanon will meet for the third time this year to discuss a ceasefire and disarming Hezbollah.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss",
-    "pubDate": "2026-05-14T13:17:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c707xn4ew3po#0",
-    "originalTitle": "Watch: What happened on day one of Trump's China visit?",
-    "urduTitle": "Watch: What happened on day one of Trump's China visit?",
-    "urduSummary": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-14T07:13:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778681784",
-    "originalTitle": "World Cup train and shuttle bus ticket prices cut in New York, New Jersey",
-    "urduTitle": "World Cup train and shuttle bus ticket prices cut in New York, New Jersey",
-    "urduSummary": "Round-trip train tickets brought down to $98 from $150, and bus fares to cost $20 instead of $80, state officials say.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/14/world-cup-train-and-shuttle-bus-ticket-prices-cut-in-new-york-new-jersey?traffic_source=rss",
-    "pubDate": "2026-05-14T09:43:43.000Z",
     "category": "world",
     "imageUrl": null
   }
