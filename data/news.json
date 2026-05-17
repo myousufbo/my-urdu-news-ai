@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1779043847",
+    "originalTitle": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+    "urduTitle": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+    "urduSummary": "The US president has pressured Iran to concede to demands including dismantling nuclear programme and missile stocks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+    "pubDate": "2026-05-17T20:16:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779043955",
+    "originalTitle": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
+    "urduTitle": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
+    "urduSummary": "At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
+    "pubDate": "2026-05-17T20:16:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779048293",
+    "originalTitle": "DRC struggling to contain Ebola outbreak as cases spread",
+    "urduTitle": "DRC struggling to contain Ebola outbreak as cases spread",
+    "urduSummary": "The Democratic Republic of Congo has faced repeated Ebola outbreaks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss",
+    "pubDate": "2026-05-17T20:09:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c9q311nj5r3o#0",
     "originalTitle": "How worrying is the Ebola outbreak in DR Congo?",
     "urduTitle": "How worrying is the Ebola outbreak in DR Congo?",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-15T20:26:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778877286",
-    "originalTitle": "What did Trump and Xi discuss during the China summit?",
-    "urduTitle": "What did Trump and Xi discuss during the China summit?",
-    "urduSummary": "US President Donald Trump concluded a two-day summit in Beijing with Chinese leader Xi Jinping.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
-    "pubDate": "2026-05-15T20:43:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778877426",
-    "originalTitle": "Cuba hit by protests, blackouts amid oil shortage",
-    "urduTitle": "Cuba hit by protests, blackouts amid oil shortage",
-    "urduSummary": "Cubans lit fires in Havana’s streets to protest electricity blackouts.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
-    "pubDate": "2026-05-15T20:40:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778866177",
-    "originalTitle": "Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties",
-    "urduTitle": "Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties",
-    "urduSummary": "Gerardo Merida Sanchez was arrested in Arizona on May 11 before being transferred to New York.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/15/ex-sinaloa-security-chief-in-mexico-arrested-in-us-over-alleged-cartel-ties?traffic_source=rss",
-    "pubDate": "2026-05-15T20:31:24.000Z",
     "category": "world",
     "imageUrl": null
   }
