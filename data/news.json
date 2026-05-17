@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c9q311nj5r3o#0",
+    "originalTitle": "How worrying is the Ebola outbreak in DR Congo?",
+    "urduTitle": "How worrying is the Ebola outbreak in DR Congo?",
+    "urduSummary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-17T13:31:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779013602",
+    "originalTitle": "DRC faces deadly Ebola resurgence amid worsening humanitarian crisis",
+    "urduTitle": "DRC faces deadly Ebola resurgence amid worsening humanitarian crisis",
+    "urduSummary": "The new Ebola outbreak has been reported in the towns of Rwampara, Mongwalu, and Bunia in northeastern DRC",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/5/17/drc-faces-deadly-ebola-resurgence-amid-worsening-humanitarian-crisis?traffic_source=rss",
+    "pubDate": "2026-05-17T16:09:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779032981",
+    "originalTitle": "Iranian civilians get defence training",
+    "urduTitle": "Iranian civilians get defence training",
+    "urduSummary": "Defence training sessions on light weapons were held for Iranian men and women in mosques in several cities.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
+    "pubDate": "2026-05-17T16:08:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778875615",
+    "originalTitle": "US college graduates face harsh job market amid economic uncertainty",
+    "urduTitle": "US college graduates face harsh job market amid economic uncertainty",
+    "urduSummary": "Gov't funding cuts, war, tariffs and AI advancements intensify competition among recent graduates seeking stable jobs.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
+    "pubDate": "2026-05-17T15:41:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5ye480kxpmo#0",
     "originalTitle": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
     "urduTitle": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/15/ex-sinaloa-security-chief-in-mexico-arrested-in-us-over-alleged-cartel-ties?traffic_source=rss",
     "pubDate": "2026-05-15T20:31:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8p61v7l68o#0",
-    "originalTitle": "Trump says he 'made no commitment either way' to Xi on Taiwan",
-    "urduTitle": "Trump says he 'made no commitment either way' to Xi on Taiwan",
-    "urduSummary": "Trump said Xi Jinping had asked directly if the US would defend Taiwan, and he had responded, \"I don't talk about that\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-15T14:13:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y049w8nqwo#0",
-    "originalTitle": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-    "urduTitle": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-    "urduSummary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-15T12:53:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778856129",
-    "originalTitle": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
-    "urduTitle": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
-    "urduSummary": "The Crown Prince of the UAE says the project would help 'meet global demands'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/15/uae-to-accelerate-oil-pipeline-project-to-bypass-hormuz?traffic_source=rss",
-    "pubDate": "2026-05-15T16:48:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778851440",
-    "originalTitle": "BRICS talks end without joint statement as divisions over Iran war deepen",
-    "urduTitle": "BRICS talks end without joint statement as divisions over Iran war deepen",
-    "urduSummary": "Iran's FM had urged member states to condemn 'violations of international law by the United States and Israel'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
-    "pubDate": "2026-05-15T16:39:44.000Z",
     "category": "world",
     "imageUrl": null
   }
