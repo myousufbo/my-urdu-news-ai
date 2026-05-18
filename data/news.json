@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c3v2ngnpgl9o#0",
+    "originalTitle": "Driver of crashed train tested positive for drugs, Thai police say",
+    "urduTitle": "Driver of crashed train tested positive for drugs, Thai police say",
+    "urduSummary": "The freight train collided with a bus in Bangkok, killing eight people and injuring dozens of others.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-18T07:03:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779080415",
+    "originalTitle": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+    "urduTitle": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+    "urduSummary": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
+    "pubDate": "2026-05-18T07:24:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779087270",
+    "originalTitle": "Earthquake hits southern China, toppling buildings",
+    "urduTitle": "Earthquake hits southern China, toppling buildings",
+    "urduSummary": "A magnitude 5.2 earthquake has struck southern China, causing over a dozen buildings to collapse, killing at least two.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings?traffic_source=rss",
+    "pubDate": "2026-05-18T07:03:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778990508",
+    "originalTitle": "Britain faces weeks of leadership limbo in slow-motion coup against Starmer",
+    "urduTitle": "Britain faces weeks of leadership limbo in slow-motion coup against Starmer",
+    "urduSummary": "Keir Starmer battles to retain his authority, critics say he's a 'lame-duck' leader.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/18/britain-faces-weeks-of-leadership-limbo-in-slow-motion-coup-against-starmer?traffic_source=rss",
+    "pubDate": "2026-05-18T06:53:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cd0p4y9y48xo#0",
     "originalTitle": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
     "urduTitle": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss",
     "pubDate": "2026-05-16T07:58:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778907257",
-    "originalTitle": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
-    "urduTitle": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
-    "urduSummary": "Sixty-five people have died in a new Ebola outbreak in DR Congo's Ituri province with 246 suspected cases.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss",
-    "pubDate": "2026-05-16T04:58:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778901919",
-    "originalTitle": "Israel launches deadly air strikes on Gaza City apartment building",
-    "urduTitle": "Israel launches deadly air strikes on Gaza City apartment building",
-    "urduSummary": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
-    "pubDate": "2026-05-16T03:37:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778898607",
-    "originalTitle": "UK artist defends ‘Drawings Against Genocide’ after show cancelled",
-    "urduTitle": "UK artist defends ‘Drawings Against Genocide’ after show cancelled",
-    "urduSummary": "UK artist Matthew Collings says his exhibition “Drawings Against Genocide” has been falsely depicted as anti-Semitic.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/uk-artist-defends-drawings-against-genocide-after-show-cancelled?traffic_source=rss",
-    "pubDate": "2026-05-16T02:36:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgkpnnen5dzo#0",
-    "originalTitle": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-    "urduTitle": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-    "urduSummary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-15T21:17:05.000Z",
     "category": "world",
     "imageUrl": null
   }
