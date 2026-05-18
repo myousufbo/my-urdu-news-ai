@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cd0p4y9y48xo#0",
+    "originalTitle": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+    "urduTitle": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+    "urduSummary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-17T19:23:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779069684",
+    "originalTitle": "Moment of collision between two Navy jets at Idaho air show",
+    "urduTitle": "Moment of collision between two Navy jets at Idaho air show",
+    "urduSummary": "Two US Navy jets collided during an air show at Mountain Home AFB.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/moment-of-collision-between-two-navy-jets-at-idaho-air-show?traffic_source=rss",
+    "pubDate": "2026-05-18T02:11:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779068186",
+    "originalTitle": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
+    "urduTitle": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
+    "urduSummary": "Al Jazeera’s Obaida Hitto reports from Tyre in southern Lebanon on the latest Israeli strikes in the region.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
+    "pubDate": "2026-05-18T01:59:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779017449",
+    "originalTitle": "How ISWAP and Boko Haram are reshaping the Lake Chad Basin",
+    "urduTitle": "How ISWAP and Boko Haram are reshaping the Lake Chad Basin",
+    "urduSummary": "Communities in the Lake Chad Basin face rising violence amid economic hardship and weak governance.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/18/how-iswap-and-boko-haram-are-reshaping-the-lake-chad-basin?traffic_source=rss",
+    "pubDate": "2026-05-18T01:44:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1779043847",
     "originalTitle": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
     "urduTitle": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-15T21:17:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778896598",
-    "originalTitle": "Gaza aid convoy in Libya prepares to head to Gaza",
-    "urduTitle": "Gaza aid convoy in Libya prepares to head to Gaza",
-    "urduSummary": "The \"Soumoud 2\" land convoy is preparing to leave Libya to bring aid to Gaza.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
-    "pubDate": "2026-05-16T01:59:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778885394",
-    "originalTitle": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
-    "urduTitle": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
-    "urduSummary": "Lebanon's Ministry of Health said Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-    "pubDate": "2026-05-16T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778883945",
-    "originalTitle": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
-    "urduTitle": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
-    "urduSummary": "Members of Extinction Rebellion scaled the Eiffel Tower to hang a Palestinian flag for Nakba day.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss",
-    "pubDate": "2026-05-15T22:28:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqlpzzl0d67o#0",
-    "originalTitle": "Israel and Lebanon agree to extend ceasefire, US state department says",
-    "urduTitle": "Israel and Lebanon agree to extend ceasefire, US state department says",
-    "urduSummary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-15T20:26:51.000Z",
     "category": "world",
     "imageUrl": null
   }
