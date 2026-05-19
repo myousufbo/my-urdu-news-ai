@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/ceqp11gn1l8o#0",
+    "originalTitle": "Ebola may be spreading faster than first thought, WHO doctor warns",
+    "urduTitle": "Ebola may be spreading faster than first thought, WHO doctor warns",
+    "urduSummary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-19T10:15:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779179453",
+    "originalTitle": "Spain’s former PM Zapatero faces corruption probe",
+    "urduTitle": "Spain’s former PM Zapatero faces corruption probe",
+    "urduSummary": "High court is investigating Zapatero over airline aid, putting pressure on current PM.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/19/spains-former-pm-zapatero-faces-corruption-probe?traffic_source=rss",
+    "pubDate": "2026-05-19T10:08:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779179683",
+    "originalTitle": "WHO to hold emergency committee meeting as Ebola death toll rises to 131",
+    "urduTitle": "WHO to hold emergency committee meeting as Ebola death toll rises to 131",
+    "urduSummary": "A panel of experts ⁠led by ⁠the WHO is to meet to discuss vaccine ⁠options for new epidemic.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/19/who-to-hold-emergency-committee-meeting-as-ebola-death-toll-rises-to-131?traffic_source=rss",
+    "pubDate": "2026-05-19T10:05:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779177937",
+    "originalTitle": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+    "urduTitle": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+    "urduSummary": "With Iran's local football league suspended since March, most players in the squad have not been in action for months.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+    "pubDate": "2026-05-19T10:00:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1779136929",
     "originalTitle": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
     "urduTitle": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/who-declares-ebola-outbreak-in-drc-a-global-health-emergency?traffic_source=rss",
     "pubDate": "2026-05-17T12:47:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779019074",
-    "originalTitle": "Israel comes second at Eurovision amid boycotts and backlash",
-    "urduTitle": "Israel comes second at Eurovision amid boycotts and backlash",
-    "urduSummary": "Bulgaria won Eurovision, pushing Israel into second place amid boycotts and protests over Israel’s war on Gaza.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss",
-    "pubDate": "2026-05-17T12:05:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778998455",
-    "originalTitle": "WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know",
-    "urduTitle": "WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know",
-    "urduSummary": "DRC outbreak causes more than 80 deaths and spreads to neighbouring Uganda.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-drc-uganda-a-global-emergency-what-to-know?traffic_source=rss",
-    "pubDate": "2026-05-17T11:21:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779000190",
-    "originalTitle": "How Arsenal or Man City can clinch Premier League title with two games left",
-    "urduTitle": "How Arsenal or Man City can clinch Premier League title with two games left",
-    "urduSummary": "Arsenal are two points ahead of City but have a slightly inferior goal difference as the season enters its final week.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/17/how-arsenal-or-man-city-can-clinch-premier-league-title-with-two-games-left?traffic_source=rss",
-    "pubDate": "2026-05-17T09:29:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779004771",
-    "originalTitle": "At least four killed in Ukrainian drone attacks on Russia",
-    "urduTitle": "At least four killed in Ukrainian drone attacks on Russia",
-    "urduSummary": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
-    "pubDate": "2026-05-17T09:14:31.000Z",
     "category": "world",
     "imageUrl": null
   }
