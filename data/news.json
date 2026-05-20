@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1779235101",
+    "originalTitle": "US President Trump and family given immunity from pending tax audits",
+    "urduTitle": "US President Trump and family given immunity from pending tax audits",
+    "urduSummary": "Democrats blast the tax announcement, which follows establishment of a controversial 'Anti-Weaponization Fund'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/20/us-president-trump-and-family-given-immunity-from-pending-tax-audits?traffic_source=rss",
+    "pubDate": "2026-05-20T02:08:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779240872",
+    "originalTitle": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+    "urduTitle": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+    "urduSummary": "US Vice President JD Vance says the US is prepared to take military action if Iran does not agree to a nuclear deal",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
+    "pubDate": "2026-05-20T01:49:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779231168",
+    "originalTitle": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
+    "urduTitle": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
+    "urduSummary": "Vote to advance War Powers Resolution seen as rare rebuke of the president as pressure grows to end US attack on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
+    "pubDate": "2026-05-20T00:49:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvgzj0pqpyyo#0",
     "originalTitle": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
     "urduTitle": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-18T07:03:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779080415",
-    "originalTitle": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
-    "urduTitle": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
-    "urduSummary": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-    "pubDate": "2026-05-18T07:24:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779087270",
-    "originalTitle": "Earthquake hits southern China, toppling buildings",
-    "urduTitle": "Earthquake hits southern China, toppling buildings",
-    "urduSummary": "A magnitude 5.2 earthquake has struck southern China, causing over a dozen buildings to collapse, killing at least two.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings?traffic_source=rss",
-    "pubDate": "2026-05-18T07:03:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778990508",
-    "originalTitle": "Britain faces weeks of leadership limbo in slow-motion coup against Starmer",
-    "urduTitle": "Britain faces weeks of leadership limbo in slow-motion coup against Starmer",
-    "urduSummary": "Keir Starmer battles to retain his authority, critics say he's a 'lame-duck' leader.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/18/britain-faces-weeks-of-leadership-limbo-in-slow-motion-coup-against-starmer?traffic_source=rss",
-    "pubDate": "2026-05-18T06:53:40.000Z",
     "category": "world",
     "imageUrl": null
   }
