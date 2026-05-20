@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c3r219yxl5eo#0",
+    "originalTitle": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+    "urduTitle": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+    "urduSummary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-20T20:11:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-05-20T21:47:03.200Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779302331",
+    "originalTitle": "Bolivian president to reshuffle cabinet amid antigovernment protests",
+    "urduTitle": "Bolivian president to reshuffle cabinet amid antigovernment protests",
+    "urduSummary": "Rodrigo Paz is under pressure from weeks of demonstrations and poor economic conditions.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
+    "pubDate": "2026-05-20T21:07:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779310506",
+    "originalTitle": "Why has the US indicted Cuba’s Raul Castro now?",
+    "urduTitle": "Why has the US indicted Cuba’s Raul Castro now?",
+    "urduSummary": "The indictment of former Cuban President Raul Castro over a 1996 plane shootdown revives a decades-old case.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss",
+    "pubDate": "2026-05-20T20:58:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779310188",
+    "originalTitle": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
+    "urduTitle": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
+    "urduSummary": "Palestinian residents say Israeli settlers burned vehicles, sprayed racist graffiti, and installed new outposts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss",
+    "pubDate": "2026-05-20T20:53:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c8r8me3nlllo#0",
     "originalTitle": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
     "urduTitle": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
@@ -492,61 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-05-19T02:43:07.474Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779151542",
-    "originalTitle": "Two teen gunmen kill three at San Diego mosque in suspected hate crime",
-    "urduTitle": "Two teen gunmen kill three at San Diego mosque in suspected hate crime",
-    "urduSummary": "Two teen gunmen kill three at San Diego mosque in suspected hate crime.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/two-teen-gunmen-kill-three-at-san-diego-mosque-in-suspected-hate-crime?traffic_source=rss",
-    "pubDate": "2026-05-19T00:49:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779145305",
-    "originalTitle": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
-    "urduTitle": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
-    "urduSummary": "Al Jazeera's correspondent in Tehran says Iran's leaders are 'projecting defiance' and rejecting 'pressure' from the US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
-    "pubDate": "2026-05-19T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779143408",
-    "originalTitle": "US suspends joint defence effort with Canada dating back to World War II",
-    "urduTitle": "US suspends joint defence effort with Canada dating back to World War II",
-    "urduSummary": "The Trump administration has frequently accused US allies of failing to live up to mutual defence obligations.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
-    "pubDate": "2026-05-18T23:40:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7079e55zjro#0",
-    "originalTitle": "Trump says he called off new Iran attack at request of Gulf states",
-    "urduTitle": "Trump says he called off new Iran attack at request of Gulf states",
-    "urduSummary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-18T20:25:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779131119",
-    "originalTitle": "Massie race breaks spending record as pro-Israel groups target Trump critic",
-    "urduTitle": "Massie race breaks spending record as pro-Israel groups target Trump critic",
-    "urduSummary": "Pro-Israel groups and donors spend heavily in Kentucky's Republican primary to defeat US Congressman Thomas Massie.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic?traffic_source=rss",
-    "pubDate": "2026-05-18T20:28:01.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
