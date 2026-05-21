@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cp8p2g8yp8do#0",
+    "originalTitle": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+    "urduTitle": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+    "urduSummary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-21T20:12:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779395979",
+    "originalTitle": "Ebola treatment hospital burned down in DRC as outbreak spreads",
+    "urduTitle": "Ebola treatment hospital burned down in DRC as outbreak spreads",
+    "urduSummary": "Protesters set a hospital on fire in the Democratic of Congo, as authorities struggle to contain an Ebola outbreak.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss",
+    "pubDate": "2026-05-21T20:48:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779395556",
+    "originalTitle": "NYC launches lottery for $50 World Cup football tickets",
+    "urduTitle": "NYC launches lottery for $50 World Cup football tickets",
+    "urduSummary": "New York City is launching a lottery for 1,000 discounted World Cup tickets priced at $50.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss",
+    "pubDate": "2026-05-21T20:40:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779395395",
+    "originalTitle": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
+    "urduTitle": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
+    "urduSummary": "Activists from the Global Sumud Flotilla arrived in Istanbul on Thursday and described Israeli violence.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss",
+    "pubDate": "2026-05-21T20:39:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c9d3v2d6p1eo#0",
     "originalTitle": "Gaza flotilla activists deported from Israel as backlash over treatment grows ",
     "urduTitle": "Gaza flotilla activists deported from Israel as backlash over treatment grows ",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/africa-now/2026/5/20/foreign-fishing-vessels-empty-mauritanian-waters?traffic_source=rss",
     "pubDate": "2026-05-20T07:07:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779251143",
-    "originalTitle": "Taiwan’s president says future will not be decided by ‘external forces’",
-    "urduTitle": "Taiwan’s president says future will not be decided by ‘external forces’",
-    "urduSummary": "President Lai says Taiwan's future is up to its people as the island faces Chinese and US headwinds.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/20/taiwans-president-says-future-will-not-be-decided-by-external-forces?traffic_source=rss",
-    "pubDate": "2026-05-20T06:58:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779235101",
-    "originalTitle": "US President Trump and family given immunity from pending tax audits",
-    "urduTitle": "US President Trump and family given immunity from pending tax audits",
-    "urduSummary": "Democrats blast the tax announcement, which follows establishment of a controversial 'Anti-Weaponization Fund'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/20/us-president-trump-and-family-given-immunity-from-pending-tax-audits?traffic_source=rss",
-    "pubDate": "2026-05-20T02:08:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779240872",
-    "originalTitle": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-    "urduTitle": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-    "urduSummary": "US Vice President JD Vance says the US is prepared to take military action if Iran does not agree to a nuclear deal",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
-    "pubDate": "2026-05-20T01:49:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779231168",
-    "originalTitle": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
-    "urduTitle": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
-    "urduSummary": "Vote to advance War Powers Resolution seen as rare rebuke of the president as pressure grows to end US attack on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
-    "pubDate": "2026-05-20T00:49:06.000Z",
     "category": "world",
     "imageUrl": null
   }
