@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c3e2w43lkvzo#0",
+    "originalTitle": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+    "urduTitle": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+    "urduSummary": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-22T09:32:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779442690",
+    "originalTitle": "Real Madrid coach Alvaro Arbeloa says he will leave role after poor season",
+    "urduTitle": "Real Madrid coach Alvaro Arbeloa says he will leave role after poor season",
+    "urduSummary": "Arbeloa says he will not be coaching the team next season, amid reports that Jose Mourinho is returning to the club.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/22/real-madrid-coach-alvaro-arbeloa-says-he-will-leave-role-after-poor-season?traffic_source=rss",
+    "pubDate": "2026-05-22T09:48:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779441779",
+    "originalTitle": "Tuchel leaves Palmer and Foden out of England’s 2026 World Cup squad",
+    "urduTitle": "Tuchel leaves Palmer and Foden out of England’s 2026 World Cup squad",
+    "urduSummary": "Real Madrid's Trent Alexander-Arnold also left out, while Saudi-based Al-Ahli striker Ivan Toney the surprise inclusion.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/22/tuchel-leaves-palmer-and-foden-out-of-englands-2026-world-cup-squad?traffic_source=rss",
+    "pubDate": "2026-05-22T09:34:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779430087",
+    "originalTitle": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
+    "urduTitle": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
+    "urduSummary": "Erratic US policy moves leave European NATO partners increasingly unclear about which areas they should prioritise.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
+    "pubDate": "2026-05-22T08:51:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c232z4yk437o#0",
     "originalTitle": "US pauses $14bn weapons sale to Taiwan due to Iran war",
     "urduTitle": "US pauses $14bn weapons sale to Taiwan due to Iran war",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
     "pubDate": "2026-05-20T17:18:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cjep12qx3xjo#0",
-    "originalTitle": "Xi basks in spotlight as he hosts Putin days after Trump",
-    "urduTitle": "Xi basks in spotlight as he hosts Putin days after Trump",
-    "urduSummary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-20T11:42:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy2g197dp8o#0",
-    "originalTitle": "More die of suspected Ebola as WHO warns that numbers will rise further",
-    "urduTitle": "More die of suspected Ebola as WHO warns that numbers will rise further",
-    "urduSummary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-20T13:52:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779269093",
-    "originalTitle": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
-    "urduTitle": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
-    "urduSummary": "The campaign to unseat Thomas Massie exposed a growing Republican backlash against pro-Israel political influence.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss",
-    "pubDate": "2026-05-20T14:05:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779273351",
-    "originalTitle": "‘Multipolar world’: What Xi and Putin announced after Beijing summit",
-    "urduTitle": "‘Multipolar world’: What Xi and Putin announced after Beijing summit",
-    "urduSummary": "The Russian and Chinese leaders agreed on bilateral cooperation during Putin's visit to China.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/20/multipolar-world-what-xi-and-putin-announced-after-beijing-summit?traffic_source=rss",
-    "pubDate": "2026-05-20T13:55:24.000Z",
     "category": "world",
     "imageUrl": null
   }
