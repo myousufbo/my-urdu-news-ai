@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1779540508",
+    "originalTitle": "Israeli air strike pounds southern Lebanon leaving many injured",
+    "urduTitle": "Israeli air strike pounds southern Lebanon leaving many injured",
+    "urduSummary": "An Israeli air strike has hit the Al-Baqbouq area north of Tyre in southern Lebanon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
+    "pubDate": "2026-05-23T12:54:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779536735",
+    "originalTitle": "The pollution that outlives war",
+    "urduTitle": "The pollution that outlives war",
+    "urduSummary": "Long after fighting is over, the toxic leftovers of war continue to poison communities and the environment.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss",
+    "pubDate": "2026-05-23T12:50:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779538697",
+    "originalTitle": "DR Congo will not change World Cup preparations despite US Ebola warning",
+    "urduTitle": "DR Congo will not change World Cup preparations despite US Ebola warning",
+    "urduSummary": "World Cup cohosts United States have warned Democratic Republic of the Congo team to isolate due to Ebola fears.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning?traffic_source=rss",
+    "pubDate": "2026-05-23T12:37:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1779524378",
     "originalTitle": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
     "urduTitle": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/21/net-migration-to-the-uk-falls-by-nearly-50-percent-amid-tighter-policies?traffic_source=rss",
     "pubDate": "2026-05-21T17:30:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779381449",
-    "originalTitle": "Mayor cuts limited World Cup tickets for New Yorkers to $50 after furore",
-    "urduTitle": "Mayor cuts limited World Cup tickets for New Yorkers to $50 after furore",
-    "urduSummary": "Pricing for 2026 World Cup has been under heavy scrutiny, including in New York where city mayor cuts limited tickets.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/21/mamdani-cuts-limited-world-cup-tickets-for-new-yorkers-to-50-after-furore?traffic_source=rss",
-    "pubDate": "2026-05-21T17:18:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779382491",
-    "originalTitle": "Shocked Maguire posts on Insta that he is not in England’s World Cup squad",
-    "urduTitle": "Shocked Maguire posts on Insta that he is not in England’s World Cup squad",
-    "urduSummary": "Manchester United defender Harry Maguire has announced on social media that he is not going to World Cup 2026.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/21/shocked-maguire-posts-on-insta-that-he-is-not-in-englands-world-cup-squad?traffic_source=rss",
-    "pubDate": "2026-05-21T17:17:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq5py64gvwzo#0",
-    "originalTitle": "Iran steps up claim to control Strait of Hormuz",
-    "urduTitle": "Iran steps up claim to control Strait of Hormuz",
-    "urduSummary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-21T14:37:29.000Z",
     "category": "world",
     "imageUrl": null
   }
