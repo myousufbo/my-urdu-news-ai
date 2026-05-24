@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cvgz05jyrrpo#0",
+    "originalTitle": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+    "urduTitle": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+    "urduSummary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-23T23:34:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce8pn63q771o#0",
+    "originalTitle": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+    "urduTitle": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+    "urduSummary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-23T23:24:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-05-24T02:42:51.481Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779588664",
+    "originalTitle": "Iranian sources lay out Iran-US deal details",
+    "urduTitle": "Iranian sources lay out Iran-US deal details",
+    "urduSummary": "Al Jazeera’s Ali Hashem reveals details of Iran's position on the potential peace agreement with the US.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+    "pubDate": "2026-05-24T02:16:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779576424",
+    "originalTitle": "Secret Service fatally shoots gunman who fired at White House checkpoint",
+    "urduTitle": "Secret Service fatally shoots gunman who fired at White House checkpoint",
+    "urduSummary": "Officers returned fire after suspect pulled weapon from bag as a bystander was also wounded.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss",
+    "pubDate": "2026-05-23T22:52:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779568252",
+    "originalTitle": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+    "urduTitle": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+    "urduSummary": "Funerals were held for paramedics killed by two Israeli air strikes in southern Lebanon on Friday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "2026-05-23T21:14:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/crmp121z3z8o#0",
     "originalTitle": "Iran 'getting a lot closer' to agreement with US, Trump says",
     "urduTitle": "Iran 'getting a lot closer' to agreement with US, Trump says",
@@ -480,72 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-22T00:10:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ckgplwg3xk3o#0",
-    "originalTitle": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
-    "urduTitle": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
-    "urduSummary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-21T18:40:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779411534",
-    "originalTitle": "Malaysia orders TikTok to address ‘defamatory’ content about king",
-    "urduTitle": "Malaysia orders TikTok to address ‘defamatory’ content about king",
-    "urduSummary": "Watchdog instructs social media giant to strengthen moderation following circulation of 'grossly offensive' content.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/5/22/malaysia-orders-tiktok-to-address-defamatory-content-about-king?traffic_source=rss",
-    "pubDate": "2026-05-22T02:32:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779415375",
-    "originalTitle": "Caitriona Graham recounts violent treatment after Gaza flotilla raid",
-    "urduTitle": "Caitriona Graham recounts violent treatment after Gaza flotilla raid",
-    "urduSummary": "Irish activist Caitriona Graham recounts violent treatment after Gaza flotilla raid",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid?traffic_source=rss",
-    "pubDate": "2026-05-22T02:21:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779414308",
-    "originalTitle": "Greenlanders protest opening of new US consulate in Nuuk",
-    "urduTitle": "Greenlanders protest opening of new US consulate in Nuuk",
-    "urduSummary": "Hundreds of demonstrators gathered in Nuuk as the United States opened a new consulate in Greenland’s capital.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/greenlanders-protest-opening-of-new-us-consulate-in-nuuk?traffic_source=rss",
-    "pubDate": "2026-05-22T01:49:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp8p2g8yp8do#0",
-    "originalTitle": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-    "urduTitle": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-    "urduSummary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-21T20:12:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779395979",
-    "originalTitle": "Ebola treatment hospital burned down in DRC as outbreak spreads",
-    "urduTitle": "Ebola treatment hospital burned down in DRC as outbreak spreads",
-    "urduSummary": "Protesters set a hospital on fire in the Democratic of Congo, as authorities struggle to contain an Ebola outbreak.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss",
-    "pubDate": "2026-05-21T20:48:02.000Z",
     "category": "world",
     "imageUrl": null
   }
