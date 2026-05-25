@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1779669268",
+    "originalTitle": "Oil prices fall amid mixed signals on US-Iran peace deal",
+    "urduTitle": "Oil prices fall amid mixed signals on US-Iran peace deal",
+    "urduSummary": "Japan's stock market surges to record high on hopes of an end to US-Israel war on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
+    "pubDate": "2026-05-25T01:55:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779670540",
+    "originalTitle": "Syria holds legislative elections in former Kurdish-controlled areas",
+    "urduTitle": "Syria holds legislative elections in former Kurdish-controlled areas",
+    "urduSummary": "Al Jazeera’s Heidi Pett reports on the Syrian legislative elections in Hasakah and the town of Kobane.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/syria-holds-legislative-elections-in-former-kurdish-controlled-areas?traffic_source=rss",
+    "pubDate": "2026-05-25T01:29:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779663842",
+    "originalTitle": "LIVE: Trump says Iran deal not ‘fully negotiated yet’",
+    "urduTitle": "LIVE: Trump says Iran deal not ‘fully negotiated yet’",
+    "urduSummary": "US president says any potential agreement with Tehran will be 'good and proper' as mediation efforts continue.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss",
+    "pubDate": "2026-05-24T23:58:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/clyp0040x7po#0",
     "originalTitle": "Trump tells US negotiators 'not to rush' into deal with Iran",
     "urduTitle": "Trump tells US negotiators 'not to rush' into deal with Iran",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-22T19:40:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-05-22T21:04:45.113Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779480454",
-    "originalTitle": "US judge dismisses indictment against Kilmar Abrego Garcia",
-    "urduTitle": "US judge dismisses indictment against Kilmar Abrego Garcia",
-    "urduSummary": "Judge says the human smuggling probe was reopened after Salvadoran national filed his lawsuit against his deportation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia?traffic_source=rss",
-    "pubDate": "2026-05-22T20:43:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779472530",
-    "originalTitle": "Bolivia in crisis: Social unrest, demands for president to resign escalate",
-    "urduTitle": "Bolivia in crisis: Social unrest, demands for president to resign escalate",
-    "urduSummary": "Protests have spiraled out of control and President Rodrigo Paz is facing demands to resign.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate?traffic_source=rss",
-    "pubDate": "2026-05-22T20:29:37.000Z",
     "category": "world",
     "imageUrl": null
   }
