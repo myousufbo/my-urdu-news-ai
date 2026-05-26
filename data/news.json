@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1779830026",
+    "originalTitle": "Aftermath of deadly Israeli strikes in southern Lebanon",
+    "urduTitle": "Aftermath of deadly Israeli strikes in southern Lebanon",
+    "urduSummary": "New videos show widespread destruction in Maarakeh following deadly Israeli strikes across southern Lebanon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "2026-05-26T21:22:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779812947",
+    "originalTitle": "Four people killed after minibus collides with train in Belgium",
+    "urduTitle": "Four people killed after minibus collides with train in Belgium",
+    "urduSummary": "The minibus, carrying nine people, drove through closed crossing barriers during the morning rush hour.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
+    "pubDate": "2026-05-26T21:02:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779828730",
+    "originalTitle": "Climber carries kite with Palestinian children’s dreams to Everest summit",
+    "urduTitle": "Climber carries kite with Palestinian children’s dreams to Everest summit",
+    "urduSummary": "Climber carries kite with Palestinian children’s dreams to Everest summit",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
+    "pubDate": "2026-05-26T20:59:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1779814798",
     "originalTitle": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
     "urduTitle": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss",
     "pubDate": "2026-05-24T16:18:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c809m33yjz7o#0",
-    "originalTitle": "BBC at the site of China's worst mining disaster in more than a decade",
-    "urduTitle": "BBC at the site of China's worst mining disaster in more than a decade",
-    "urduSummary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-24T10:34:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779625555",
-    "originalTitle": "Suicide car bombing attack on a train in Pakistan kills dozens",
-    "urduTitle": "Suicide car bombing attack on a train in Pakistan kills dozens",
-    "urduSummary": "A Baloch separatist group has claimed responsibility for an attack on a train carrying soldiers in Quetta, Pakistan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss",
-    "pubDate": "2026-05-24T12:35:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779612267",
-    "originalTitle": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
-    "urduTitle": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
-    "urduSummary": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
-    "pubDate": "2026-05-24T12:19:02.000Z",
     "category": "world",
     "imageUrl": null
   }
