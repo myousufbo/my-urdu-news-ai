@@ -1,5 +1,82 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c4g44yl7q70o#0",
+    "originalTitle": "Iran condemns US strikes as 'gross violation' of ceasefire",
+    "urduTitle": "Iran condemns US strikes as 'gross violation' of ceasefire",
+    "urduSummary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-26T14:44:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c70vvd17rg7o#0",
+    "originalTitle": "Four killed as school minibus collides with train in Belgium",
+    "urduTitle": "Four killed as school minibus collides with train in Belgium",
+    "urduSummary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-26T12:29:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx211rgngp0o#0",
+    "originalTitle": "Eleven killed in Lebanon village as Israel intensifies strikes",
+    "urduTitle": "Eleven killed in Lebanon village as Israel intensifies strikes",
+    "urduSummary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-26T12:44:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-05-26T14:54:28.080Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779806084",
+    "originalTitle": "Iran’s president praises military after US strikes",
+    "urduTitle": "Iran’s president praises military after US strikes",
+    "urduSummary": "President Masoud Pezeshkian praised Iran’s military capabilities after the US carried out ‘self-defence’ strikes on Iran",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss",
+    "pubDate": "2026-05-26T14:38:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779779215",
+    "originalTitle": "India, US strike critical minerals deal: What’s in it, why does it matter?",
+    "urduTitle": "India, US strike critical minerals deal: What’s in it, why does it matter?",
+    "urduSummary": "Agreement is latest US has signed as it seeks to diversify its rare earths supply chain.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/5/26/india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter?traffic_source=rss",
+    "pubDate": "2026-05-26T14:36:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779805485",
+    "originalTitle": "Twitch to politics: Hasan Piker on Gaza and the US right-wing",
+    "urduTitle": "Twitch to politics: Hasan Piker on Gaza and the US right-wing",
+    "urduSummary": "Twitch streamer Hasan Piker tackles politics, Gaza, and culture for nearly 3M viewers.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-tt_rr_usa_piker_av_v1-250526?traffic_source=rss",
+    "pubDate": "2026-05-26T14:36:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cewppdk1187o#0",
     "originalTitle": "Netanyahu says Israel will intensify strikes against Hezbollah",
     "urduTitle": "Netanyahu says Israel will intensify strikes against Hezbollah",
@@ -469,83 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss",
     "pubDate": "2026-05-24T09:20:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779612797",
-    "originalTitle": "Trump says US and Iran deal to end war is ‘largely negotiated’",
-    "urduTitle": "Trump says US and Iran deal to end war is ‘largely negotiated’",
-    "urduSummary": "US President Trump announced that a Memorandum of Understanding on a peace deal with Iran has been ‘largely negotiated'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
-    "pubDate": "2026-05-24T09:10:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779602290",
-    "originalTitle": "Gunman shot dead by Secret Service agents near White House: What we know",
-    "urduTitle": "Gunman shot dead by Secret Service agents near White House: What we know",
-    "urduSummary": "No Secret Service agents sustain injuries, but a bystander is wounded in the exchange of fire.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss",
-    "pubDate": "2026-05-24T09:06:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cjwp82ye4y3o#0",
-    "originalTitle": "Suspect killed after opening fire on Secret Service near White House",
-    "urduTitle": "Suspect killed after opening fire on Secret Service near White House",
-    "urduSummary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-24T06:15:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779599064",
-    "originalTitle": "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven",
-    "urduTitle": "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven",
-    "urduSummary": "The world heavyweight champion is pushed by the former Dutch kickboxer to 11 rounds in Egypt.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss",
-    "pubDate": "2026-05-24T06:26:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1778578039",
-    "originalTitle": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
-    "urduTitle": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
-    "urduSummary": "More and more women and girls are making a mark in the overwhelmingly male sport, locally called 'neza baazi'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss",
-    "pubDate": "2026-05-24T06:05:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779585740",
-    "originalTitle": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
-    "urduTitle": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
-    "urduSummary": "US president makes announcement after mediator Pakistan holds 'highly productive' talks in Tehran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
-    "pubDate": "2026-05-24T05:35:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgz05jyrrpo#0",
-    "originalTitle": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-    "urduTitle": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-    "urduSummary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-23T23:34:33.000Z",
     "category": "world",
     "imageUrl": null
   }
