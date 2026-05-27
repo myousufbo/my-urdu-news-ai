@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cjwppj1yn7go#0",
+    "originalTitle": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
+    "urduTitle": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
+    "urduSummary": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-27T06:24:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779424484",
+    "originalTitle": "Taiwan’s economy is booming thanks to AI. Not everyone sees the benefits",
+    "urduTitle": "Taiwan’s economy is booming thanks to AI. Not everyone sees the benefits",
+    "urduSummary": "Taiwan is experiencing explosive GDP growth due to chip exports, but some Taiwanese feel left out.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/27/taiwans-economy-is-booming-thanks-to-ai-not-everyone-sees-the-benefits?traffic_source=rss",
+    "pubDate": "2026-05-27T07:12:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779798831",
+    "originalTitle": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
+    "urduTitle": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
+    "urduSummary": "EU launches fertiliser plan as Strait of Hormuz disruption fuels food security fears.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+    "pubDate": "2026-05-27T06:52:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779850209",
+    "originalTitle": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+    "urduTitle": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+    "urduSummary": "Israeli strikes kill 31 in Lebanon as attacks intensify and displacement orders spread.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+    "pubDate": "2026-05-27T06:48:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1779792886",
     "originalTitle": "Group of women and children with alleged ISIL ties returns to Australia",
     "urduTitle": "Group of women and children with alleged ISIL ties returns to Australia",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-24T20:26:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c87qwrqre83o#0",
-    "originalTitle": "Turkish riot police storm opposition offices after leaders ousted",
-    "urduTitle": "Turkish riot police storm opposition offices after leaders ousted",
-    "urduSummary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-24T19:49:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779653849",
-    "originalTitle": "‘Trump needs a deal, no matter how bad it is’",
-    "urduTitle": "‘Trump needs a deal, no matter how bad it is’",
-    "urduSummary": "Harlan Ullman argues that US President Donald Trump is chasing any Iran deal to relieve mounting pressure at home.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss",
-    "pubDate": "2026-05-24T20:25:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779652429",
-    "originalTitle": "Ebola spreads in the DRC as authorities struggle to contain outbreak",
-    "urduTitle": "Ebola spreads in the DRC as authorities struggle to contain outbreak",
-    "urduSummary": "The Ebola outbreak in the eastern Democratic Republic of the Congo is spreading as cases been confirmed in Uganda.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss",
-    "pubDate": "2026-05-24T19:57:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779638117",
-    "originalTitle": "How will Iran war fallout impact upcoming US elections?",
-    "urduTitle": "How will Iran war fallout impact upcoming US elections?",
-    "urduSummary": "Trump purges Republican critics, but are the prospects for his party in upcoming elections heading up or down?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-    "pubDate": "2026-05-24T19:30:00.000Z",
     "category": "world",
     "imageUrl": null
   }
