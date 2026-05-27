@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-05-27T21:48:16.913Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779909027",
+    "originalTitle": "Markets rally amid hopes of US-Iran deal",
+    "urduTitle": "Markets rally amid hopes of US-Iran deal",
+    "urduSummary": "Markets betting a deal will reopen the Strait of Hormuz and soothe the deep global economic uncertainty.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
+    "pubDate": "2026-05-27T21:14:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779909768",
+    "originalTitle": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
+    "urduTitle": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
+    "urduSummary": "Sentencing of Kenneth Iwamasa concludes prosecution of five people in connection with Perry's death from drug ketamine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss",
+    "pubDate": "2026-05-27T20:57:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779912733",
+    "originalTitle": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+    "urduTitle": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+    "urduSummary": "Intensification comes while US-Iran indirect talks continue.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
+    "pubDate": "2026-05-27T20:56:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cj3pgrpmlklo#0",
     "originalTitle": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
     "urduTitle": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/25/pope-says-ai-must-be-disarmed-to-prevent-domination-exclusion-and-death?traffic_source=rss",
     "pubDate": "2026-05-25T16:26:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779715893",
-    "originalTitle": "Baloch separatists ‘take advantage’ of Pakistan’s entanglements",
-    "urduTitle": "Baloch separatists ‘take advantage’ of Pakistan’s entanglements",
-    "urduSummary": "Baloch separatists 'take advantage' of Pakistan's entanglements",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/baloch-separatists-take-advantage-of-pakistans-entanglements?traffic_source=rss",
-    "pubDate": "2026-05-25T13:36:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779712796",
-    "originalTitle": "Could Israel sabotage US-Iran deal?",
-    "urduTitle": "Could Israel sabotage US-Iran deal?",
-    "urduSummary": "As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
-    "pubDate": "2026-05-25T13:29:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779711065",
-    "originalTitle": "Iran says deal with US ‘not imminent’ despite progress",
-    "urduTitle": "Iran says deal with US ‘not imminent’ despite progress",
-    "urduSummary": "Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
-    "pubDate": "2026-05-25T13:19:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cglpp2yk336o#0",
-    "originalTitle": "Rubio says 'solid' Iran deal may come on Monday",
-    "urduTitle": "Rubio says 'solid' Iran deal may come on Monday",
-    "urduSummary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-25T06:41:43.000Z",
     "category": "world",
     "imageUrl": null
   }
