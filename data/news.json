@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1779792886",
+    "originalTitle": "Group of women and children with alleged ISIL ties returns to Australia",
+    "urduTitle": "Group of women and children with alleged ISIL ties returns to Australia",
+    "urduSummary": "Australian Federal Police have not made any arrests but say inquiries are ongoing.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/27/group-of-women-and-children-with-alleged-isil-ties-returns-to-australia?traffic_source=rss",
+    "pubDate": "2026-05-27T01:37:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779834439",
+    "originalTitle": "Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+    "urduTitle": "Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+    "urduSummary": "Son of former President Jair Bolsonaro is fighting to recover from a scandal that has rocked his presidential campaign.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/27/brazils-flavio-bolsonaro-meets-with-trump-amid-troubled-presidential-bid?traffic_source=rss",
+    "pubDate": "2026-05-27T01:18:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779840597",
+    "originalTitle": "How decision-making happens in Iran",
+    "urduTitle": "How decision-making happens in Iran",
+    "urduSummary": "Iran’s negotiators follow a mandate set by the Supreme National Security Council and approved by the Supreme Leader.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss",
+    "pubDate": "2026-05-27T00:28:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1779830026",
     "originalTitle": "Aftermath of deadly Israeli strikes in southern Lebanon",
     "urduTitle": "Aftermath of deadly Israeli strikes in southern Lebanon",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
     "pubDate": "2026-05-24T19:30:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779639703",
-    "originalTitle": "Turkish police storm main opposition CHP’s party headquarters",
-    "urduTitle": "Turkish police storm main opposition CHP’s party headquarters",
-    "urduSummary": "Violence erupted after Turkish police stormed the headquarters of the main opposition CHP party in Ankara.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters?traffic_source=rss",
-    "pubDate": "2026-05-24T16:28:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779639750",
-    "originalTitle": "China’s Shenzhou-23 astronauts blast off on space station mission",
-    "urduTitle": "China’s Shenzhou-23 astronauts blast off on space station mission",
-    "urduSummary": "China’s Shenzhou-23 astronauts blast off on space station mission.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/chinas-shenzhou-23-astronauts-blast-off-on-space-station-mission?traffic_source=rss",
-    "pubDate": "2026-05-24T16:26:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779625219",
-    "originalTitle": "Iran recounts historic battles in response to Trump’s talk of agreement",
-    "urduTitle": "Iran recounts historic battles in response to Trump’s talk of agreement",
-    "urduSummary": "Iran cites battles from history in response to Trump's latest comments on an imminent deal between the US and Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss",
-    "pubDate": "2026-05-24T16:18:19.000Z",
     "category": "world",
     "imageUrl": null
   }
