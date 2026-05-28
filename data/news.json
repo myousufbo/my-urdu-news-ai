@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c87qng40wz9o#0",
+    "originalTitle": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+    "urduTitle": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+    "urduSummary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-28T20:28:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780001674",
+    "originalTitle": "Guatemala denies agreeing to US strikes against drug traffickers",
+    "urduTitle": "Guatemala denies agreeing to US strikes against drug traffickers",
+    "urduSummary": "President Bernardo Arevalo's government says it requested security cooperation but did not approve US attacks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers?traffic_source=rss",
+    "pubDate": "2026-05-28T21:42:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780003266",
+    "originalTitle": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
+    "urduTitle": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
+    "urduSummary": "Families in the Lebanese city of Tyre saw their homes destroyed by Israeli bombs just hours after they were ordered evac",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
+    "pubDate": "2026-05-28T21:40:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1779990695",
+    "originalTitle": "US judge rejects immediate block on Trump’s mail-in voting executive order",
+    "urduTitle": "US judge rejects immediate block on Trump’s mail-in voting executive order",
+    "urduSummary": "Judge Carl Nichols says Democrats’ legal challenge is premature as the administration moves to implement the measure.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-judge-rejects-immediate-block-on-trumps-mail-in-voting-executive-order?traffic_source=rss",
+    "pubDate": "2026-05-28T21:24:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn9p40en4ngo#0",
     "originalTitle": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
     "urduTitle": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss",
     "pubDate": "2026-05-27T00:28:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779830026",
-    "originalTitle": "Aftermath of deadly Israeli strikes in southern Lebanon",
-    "urduTitle": "Aftermath of deadly Israeli strikes in southern Lebanon",
-    "urduSummary": "New videos show widespread destruction in Maarakeh following deadly Israeli strikes across southern Lebanon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
-    "pubDate": "2026-05-26T21:22:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779812947",
-    "originalTitle": "Four people killed after minibus collides with train in Belgium",
-    "urduTitle": "Four people killed after minibus collides with train in Belgium",
-    "urduSummary": "The minibus, carrying nine people, drove through closed crossing barriers during the morning rush hour.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
-    "pubDate": "2026-05-26T21:02:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779828730",
-    "originalTitle": "Climber carries kite with Palestinian children’s dreams to Everest summit",
-    "urduTitle": "Climber carries kite with Palestinian children’s dreams to Everest summit",
-    "urduSummary": "Climber carries kite with Palestinian children’s dreams to Everest summit",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
-    "pubDate": "2026-05-26T20:59:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779814798",
-    "originalTitle": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
-    "urduTitle": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
-    "urduSummary": "Ghana's Thomas Partey, who joined Villareal from Arsenal in 2025, has pleaded not guilty to seven rape charges in UK.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/5/26/former-arsenal-midfielder-partey-named-in-ghana-squad-ahead-of-world-cup?traffic_source=rss",
-    "pubDate": "2026-05-26T17:45:39.000Z",
     "category": "world",
     "imageUrl": null
   }
