@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c0r2d40r91qo#0",
+    "originalTitle": "Trump holds meeting to make 'final determination' on Iran deal",
+    "urduTitle": "Trump holds meeting to make 'final determination' on Iran deal",
+    "urduSummary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-29T19:32:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780088925",
+    "originalTitle": "Iran denies ceasefire deal with US is “finalised”",
+    "urduTitle": "Iran denies ceasefire deal with US is “finalised”",
+    "urduSummary": "Iranian Foreign Ministry Spokesman Esmail Baghaei says that an agreement with the US “has not been finalised yet.\"",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
+    "pubDate": "2026-05-29T21:10:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780087953",
+    "originalTitle": "How realistic is Trump’s Iran framework?",
+    "urduTitle": "How realistic is Trump’s Iran framework?",
+    "urduSummary": "Analyst Alex Scheers remains skeptical Tehran will accept Washington’s demands, saying “nothing concrete is in place” ye",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/how-realistic-is-trumps-iran-framework?traffic_source=rss",
+    "pubDate": "2026-05-29T21:10:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780088125",
+    "originalTitle": "Could Alberta trigger Canada’s Brexit moment?",
+    "urduTitle": "Could Alberta trigger Canada’s Brexit moment?",
+    "urduSummary": "Alberta separatists are gaining momentum as Canada faces its biggest unity crisis in decades.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/29/aje-onl-can_albertareferendum_av_v2-290526?traffic_source=rss",
+    "pubDate": "2026-05-29T20:59:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1780075825",
     "originalTitle": "Eight students arrested in deadly Kenyan school dorm fire",
     "urduTitle": "Eight students arrested in deadly Kenyan school dorm fire",
@@ -503,50 +547,6 @@
     "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-28T00:28:45.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779932852",
-    "originalTitle": "Parisians defy swimming ban to cool off as record heat hits Europe",
-    "urduTitle": "Parisians defy swimming ban to cool off as record heat hits Europe",
-    "urduSummary": "Parisians cooled off in the city’s Saint-Martin canal as an unprecedented heatwave pushed temperatures across Europe.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss",
-    "pubDate": "2026-05-28T01:51:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779927125",
-    "originalTitle": "Uganda closes border with DRC in an effort to contain Ebola outbreak",
-    "urduTitle": "Uganda closes border with DRC in an effort to contain Ebola outbreak",
-    "urduSummary": "Uganda has closed its border with neighbouring DR Congo for four weeks in an effort to contain an Ebola outbreak.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak?traffic_source=rss",
-    "pubDate": "2026-05-28T00:15:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779918789",
-    "originalTitle": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-    "urduTitle": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-    "urduSummary": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
-    "pubDate": "2026-05-28T00:03:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-05-27T21:48:16.913Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
