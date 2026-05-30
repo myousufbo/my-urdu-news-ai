@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1780172512",
+    "originalTitle": "Women bear the brunt of DRC’s Ebola outbreak",
+    "urduTitle": "Women bear the brunt of DRC’s Ebola outbreak",
+    "urduSummary": "Women bear the brunt of DRC's Ebola outbreak.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss",
+    "pubDate": "2026-05-30T20:30:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780172377",
+    "originalTitle": "Putin says drone that crashed in Romania likely Ukrainian",
+    "urduTitle": "Putin says drone that crashed in Romania likely Ukrainian",
+    "urduSummary": "Putin says drone that crashed in Romania likely Ukrainian.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss",
+    "pubDate": "2026-05-30T20:23:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780169490",
+    "originalTitle": "Is the war in Ukraine entering a new phase?",
+    "urduTitle": "Is the war in Ukraine entering a new phase?",
+    "urduSummary": "NATO says it is ready to defend allied territory against Russian attacks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
+    "pubDate": "2026-05-30T20:12:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y8wjvd1ypo#0",
     "originalTitle": "US, UK and Australia to develop underwater drone technology",
     "urduTitle": "US, UK and Australia to develop underwater drone technology",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/28/us-judge-rejects-immediate-block-on-trumps-mail-in-voting-executive-order?traffic_source=rss",
     "pubDate": "2026-05-28T21:24:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn9p40en4ngo#0",
-    "originalTitle": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-    "urduTitle": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-    "urduSummary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-28T16:20:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-05-28T18:31:53.554Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1779987233",
-    "originalTitle": "CNN sues Perplexity, alleging unlawful distribution of copyrighted content",
-    "urduTitle": "CNN sues Perplexity, alleging unlawful distribution of copyrighted content",
-    "urduSummary": "Perplexity unlawfully copied thousands of CNN stories, videos and images to power its products, CNN said in its lawsuit.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/5/28/cnn-sues-perplexity-alleging-unlawful-distribution-of-copyrighted-content?traffic_source=rss",
-    "pubDate": "2026-05-28T17:45:08.000Z",
     "category": "world",
     "imageUrl": null
   }
