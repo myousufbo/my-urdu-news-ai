@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1780214115",
+    "originalTitle": "Trump tightens terms on Iran war deal, US media say",
+    "urduTitle": "Trump tightens terms on Iran war deal, US media say",
+    "urduSummary": "US officials indicate Tehran may take days to respond to Trump's tougher terms on a potential peace agreement.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+    "pubDate": "2026-05-31T09:15:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780208212",
+    "originalTitle": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+    "urduTitle": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+    "urduSummary": "Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
+    "pubDate": "2026-05-31T08:49:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780213709",
+    "originalTitle": "The strait may reopen, but global confidence may not return",
+    "urduTitle": "The strait may reopen, but global confidence may not return",
+    "urduSummary": "The next phase of the Strait of Hormuz crisis may be defined less by its closure than by conditional access.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return?traffic_source=rss",
+    "pubDate": "2026-05-31T08:30:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cp8p4ejy8ppo#0",
     "originalTitle": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
     "urduTitle": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
     "pubDate": "2026-05-29T10:37:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780037812",
-    "originalTitle": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
-    "urduTitle": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
-    "urduSummary": "A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
-    "pubDate": "2026-05-29T10:28:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780050045",
-    "originalTitle": "WHO chief visits DRC amidst Ebola crisis",
-    "urduTitle": "WHO chief visits DRC amidst Ebola crisis",
-    "urduSummary": "WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
-    "pubDate": "2026-05-29T10:24:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c93x4nxlkjeo#0",
-    "originalTitle": "Nato condemns Russian 'recklessness' after drone hits Romanian apartment block",
-    "urduTitle": "Nato condemns Russian 'recklessness' after drone hits Romanian apartment block",
-    "urduSummary": "Romania will hold an emergency meeting following the incident, in which two people were injured.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-29T07:09:04.000Z",
     "category": "world",
     "imageUrl": null
   }
