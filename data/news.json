@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1780248228",
+    "originalTitle": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
+    "urduTitle": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
+    "urduSummary": "New Jersey Governor Mikie Sherrill has called for the establishment of protest zones to minimise clashes with police.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
+    "pubDate": "2026-05-31T20:12:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780255212",
+    "originalTitle": "What’s at stake in Ethiopia’s elections?",
+    "urduTitle": "What’s at stake in Ethiopia’s elections?",
+    "urduSummary": "Ethiopia's governing party is seeking to cement its grip on power amid a fragmented electorate.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss",
+    "pubDate": "2026-05-31T19:38:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780255935",
+    "originalTitle": "Explosives store blast kills dozens in Myanmar village",
+    "urduTitle": "Explosives store blast kills dozens in Myanmar village",
+    "urduSummary": "Explosives store blast kills dozens in Myanmar village.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/explosives-store-blast-kills-dozens-in-myanmar-village?traffic_source=rss",
+    "pubDate": "2026-05-31T19:35:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cdep04kzz5wo#0",
     "originalTitle": "Israel seizes castle in Lebanon as it expands ground offensive",
     "urduTitle": "Israel seizes castle in Lebanon as it expands ground offensive",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/5/29/aje-onl-can_albertareferendum_av_v2-290526?traffic_source=rss",
     "pubDate": "2026-05-29T20:59:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780075825",
-    "originalTitle": "Eight students arrested in deadly Kenyan school dorm fire",
-    "urduTitle": "Eight students arrested in deadly Kenyan school dorm fire",
-    "urduSummary": "Kenyan police have arrested eight students on suspicion of arson after a deadly fire ripped through a girls’ school.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eight-students-arrested-in-deadly-kenyan-school-dorm-fire?traffic_source=rss",
-    "pubDate": "2026-05-29T17:34:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780066841",
-    "originalTitle": "EU to release billions in frozen funds for Hungary amid Magyar reforms",
-    "urduTitle": "EU to release billions in frozen funds for Hungary amid Magyar reforms",
-    "urduSummary": "PM Peter Magyar called ​the agreement to unlock funds frozen under former leader Orban a 'historic' breakthrough.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/29/eu-to-release-billions-in-frozen-funds-for-hungary-amid-magyar-reforms?traffic_source=rss",
-    "pubDate": "2026-05-29T17:34:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780071521",
-    "originalTitle": "Trump says ‘final determination’ to be made on possible Iran deal",
-    "urduTitle": "Trump says ‘final determination’ to be made on possible Iran deal",
-    "urduSummary": "Deep mistrust remains between Washington and Tehran as Iran says 'no final agreement' reached with US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss",
-    "pubDate": "2026-05-29T17:10:10.000Z",
     "category": "world",
     "imageUrl": null
   }
