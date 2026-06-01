@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/crlpy8n7pr6o#0",
+    "originalTitle": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+    "urduTitle": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+    "urduSummary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-01T08:57:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c2l2yl7r8r2o#0",
+    "originalTitle": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+    "urduTitle": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+    "urduSummary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-01T05:33:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780291778",
+    "originalTitle": "Iran’s IRGC launches retaliatory strike after US attacks",
+    "urduTitle": "Iran’s IRGC launches retaliatory strike after US attacks",
+    "urduSummary": "Kuwait, which hosts US forces, says its defence systems intercepted missiles and drones amid sirens across the country.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss",
+    "pubDate": "2026-06-01T08:53:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780298853",
+    "originalTitle": "Political commentators Cenk, Piker say UK bars them over Israel remarks",
+    "urduTitle": "Political commentators Cenk, Piker say UK bars them over Israel remarks",
+    "urduSummary": "The US citizens allege that they have been denied entry to Britain due to their outspoken criticism of Israel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/1/political-commentators-cenk-piker-say-uk-bars-them-over-israel-remarks?traffic_source=rss",
+    "pubDate": "2026-06-01T08:40:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780292072",
+    "originalTitle": "Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2",
+    "urduTitle": "Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2",
+    "urduSummary": "Christian Pulisic breaks goal drought as US beat Senegal 3-2 in international friendly ahead of World Cup.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/1/vinicius-brings-maracana-curtain-raiser-to-life-as-brazil-rout-panama-6-2?traffic_source=rss",
+    "pubDate": "2026-06-01T08:39:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c1w2xvwq8g9o#0",
     "originalTitle": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
     "urduTitle": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-30T05:57:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780048342",
-    "originalTitle": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-    "urduTitle": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-    "urduSummary": "Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss",
-    "pubDate": "2026-05-30T06:29:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780113732",
-    "originalTitle": "Frustration in Lebanon as Israel expands invasion",
-    "urduTitle": "Frustration in Lebanon as Israel expands invasion",
-    "urduSummary": "Israel’s ground invasion of Lebanon has moved deeper into sovereign territory, with troops crossing the Litani river.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
-    "pubDate": "2026-05-30T04:36:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-05-30T02:35:29.653Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780093142",
-    "originalTitle": "Louisiana lawmakers pass congressional map favouring Republicans",
-    "urduTitle": "Louisiana lawmakers pass congressional map favouring Republicans",
-    "urduSummary": "Louisiana approves new congressional map eliminating a majority-Black district after an April Supreme Court ruling.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss",
-    "pubDate": "2026-05-30T00:27:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780098706",
-    "originalTitle": "First survivor rescued from flooded cave in Laos",
-    "urduTitle": "First survivor rescued from flooded cave in Laos",
-    "urduSummary": "Divers in Laos have rescued the first of five villagers trapped in a flooded cave for more than a week.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_clip_first-survivor-rescued-from-cave-in-laos-290526?traffic_source=rss",
-    "pubDate": "2026-05-30T00:04:15.000Z",
     "category": "world",
     "imageUrl": null
   }
