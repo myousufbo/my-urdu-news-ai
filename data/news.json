@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c1w2xvwq8g9o#0",
+    "originalTitle": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+    "urduTitle": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+    "urduSummary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-01T01:53:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1w2xve315do#0",
+    "originalTitle": "Trump seeking edits to US-Iran deal, US media report",
+    "urduTitle": "Trump seeking edits to US-Iran deal, US media report",
+    "urduSummary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-05-31T22:54:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780274853",
+    "originalTitle": "US says ban on AI chip shipments applies to Chinese firms outside China",
+    "urduTitle": "US says ban on AI chip shipments applies to Chinese firms outside China",
+    "urduSummary": "Department of Commerce issues guidance on chip restrictions amid concerns about loopholes in export control regime.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china?traffic_source=rss",
+    "pubDate": "2026-06-01T03:01:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1776425788",
+    "originalTitle": "‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?",
+    "urduTitle": "‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?",
+    "urduSummary": "The country has vast reserves of the ore, a source material for aluminium. But citizens still languish in poverty.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/6/1/before-the-land-sustained-us-who-benefits-from-guineas-bauxite-wealth?traffic_source=rss",
+    "pubDate": "2026-06-01T01:08:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780275444",
+    "originalTitle": "Colombia’s outsider candidate defied the polls",
+    "urduTitle": "Colombia’s outsider candidate defied the polls",
+    "urduSummary": "Far-right outsider, Abelardo de la Espriella, will face leftist senator, Ivan Cepeda on June 21.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_qt_guest-jorge-restrepo_colombia-elections-310526?traffic_source=rss",
+    "pubDate": "2026-06-01T01:06:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1780248228",
     "originalTitle": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
     "urduTitle": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_clip_first-survivor-rescued-from-cave-in-laos-290526?traffic_source=rss",
     "pubDate": "2026-05-30T00:04:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780091910",
-    "originalTitle": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-    "urduTitle": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-    "urduSummary": "Israel pushes deeper into Lebanon just days after Israel's prime minister ordered 70 percent of Gaza to be occupied.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
-    "pubDate": "2026-05-30T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0r2d40r91qo#0",
-    "originalTitle": "Trump holds meeting to make 'final determination' on Iran deal",
-    "urduTitle": "Trump holds meeting to make 'final determination' on Iran deal",
-    "urduSummary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-05-29T19:32:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780088925",
-    "originalTitle": "Iran denies ceasefire deal with US is “finalised”",
-    "urduTitle": "Iran denies ceasefire deal with US is “finalised”",
-    "urduSummary": "Iranian Foreign Ministry Spokesman Esmail Baghaei says that an agreement with the US “has not been finalised yet.\"",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
-    "pubDate": "2026-05-29T21:10:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780087953",
-    "originalTitle": "How realistic is Trump’s Iran framework?",
-    "urduTitle": "How realistic is Trump’s Iran framework?",
-    "urduSummary": "Analyst Alex Scheers remains skeptical Tehran will accept Washington’s demands, saying “nothing concrete is in place” ye",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/how-realistic-is-trumps-iran-framework?traffic_source=rss",
-    "pubDate": "2026-05-29T21:10:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780088125",
-    "originalTitle": "Could Alberta trigger Canada’s Brexit moment?",
-    "urduTitle": "Could Alberta trigger Canada’s Brexit moment?",
-    "urduSummary": "Alberta separatists are gaining momentum as Canada faces its biggest unity crisis in decades.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/29/aje-onl-can_albertareferendum_av_v2-290526?traffic_source=rss",
-    "pubDate": "2026-05-29T20:59:57.000Z",
     "category": "world",
     "imageUrl": null
   }
