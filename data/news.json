@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/crkpyj41m15o#0",
+    "originalTitle": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+    "urduTitle": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+    "urduSummary": "The justice department says it  \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-01T23:03:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780387145",
+    "originalTitle": "Hailstorm hits Denver and causes widespread disruption",
+    "urduTitle": "Hailstorm hits Denver and causes widespread disruption",
+    "urduSummary": "A powerful hailstorm swept through the US city of Denver, bringing hailstones reportedly as large as golf balls.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/hailstorm-hits-denver-and-causes-widespread-disruption-2?traffic_source=rss",
+    "pubDate": "2026-06-02T08:06:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780382170",
+    "originalTitle": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
+    "urduTitle": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
+    "urduSummary": "The violence prompted 300 Mozambicans to return home over the weekend.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/2/mozambique-says-5-citizens-killed-in-xenophobic-attacks-in-south-africa?traffic_source=rss",
+    "pubDate": "2026-06-02T07:54:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780385545",
+    "originalTitle": "China opens its markets to African exports. Who benefits?",
+    "urduTitle": "China opens its markets to African exports. Who benefits?",
+    "urduSummary": "China's tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits?traffic_source=rss",
+    "pubDate": "2026-06-02T07:51:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y8nq8ljqwo#0",
     "originalTitle": "Massive overnight Russian strikes hit Ukraine killing at least five",
     "urduTitle": "Massive overnight Russian strikes hit Ukraine killing at least five",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-05-30T21:10:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-05-31T02:52:27.582Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780192660",
-    "originalTitle": "Emotional scenes as more survivors pulled from flooded Laos cave",
-    "urduTitle": "Emotional scenes as more survivors pulled from flooded Laos cave",
-    "urduSummary": "Divers in Laos have rescued four more villagers trapped in a flooded cave. The first survivor was pulled out on Friday.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_more-survivors-pulled-from-flooded-laos-cave-300526?traffic_source=rss",
-    "pubDate": "2026-05-31T02:22:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780184850",
-    "originalTitle": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-    "urduTitle": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-    "urduSummary": "Rescue workers have pulled stranded farmers from flood waters in eastern Syria after the Euphrates burst its banks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
-    "pubDate": "2026-05-31T00:27:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780182920",
-    "originalTitle": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
-    "urduTitle": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
-    "urduSummary": "Lebanese PM describes Israel's attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-    "pubDate": "2026-05-31T00:00:50.000Z",
     "category": "world",
     "imageUrl": null
   }
