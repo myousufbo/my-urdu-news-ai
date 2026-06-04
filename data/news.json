@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cj6pldg39deo#0",
+    "originalTitle": "US House votes to halt Iran war, in rebuke to Trump",
+    "urduTitle": "US House votes to halt Iran war, in rebuke to Trump",
+    "urduSummary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-04T02:24:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780541590",
+    "originalTitle": "UK far-right accused of exploiting killing of Henry Nowak",
+    "urduTitle": "UK far-right accused of exploiting killing of Henry Nowak",
+    "urduSummary": "UK Prime Minister Keir Starmer accused right-wing figures of exploiting the killing of Henry Nowak for political gain.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/uk-far-right-accused-of-exploiting-killing-of-henry-nowak?traffic_source=rss",
+    "pubDate": "2026-06-04T02:59:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780531497",
+    "originalTitle": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
+    "urduTitle": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
+    "urduSummary": "Texas-based rocket company announces plans to sell shares at $135 apiece, aiming to raise approximately $75bn.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo?traffic_source=rss",
+    "pubDate": "2026-06-04T02:38:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780538447",
+    "originalTitle": "Rubio distances himself from Netanyahu’s Gaza plan",
+    "urduTitle": "Rubio distances himself from Netanyahu’s Gaza plan",
+    "urduSummary": "House Democrats question US Secretary of State Marco Rubio about the lack of progress on Trump’s 20 point Gaza plan.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss",
+    "pubDate": "2026-06-04T02:04:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y01pdqvkgo#0",
     "originalTitle": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
     "urduTitle": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-06-01T17:25:57.732Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780304785",
-    "originalTitle": "Can cohosts Canada reach the knockout stages at World Cup 2026?",
-    "urduTitle": "Can cohosts Canada reach the knockout stages at World Cup 2026?",
-    "urduSummary": "Canada are playing only their third World Cup, but have high hopes for a talented squad under coach Jesse Marsch.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/1/canadas-world-cup-2026-team-preview-squad-players-to-watch-group-stage-matches?traffic_source=rss",
-    "pubDate": "2026-06-01T17:03:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780322627",
-    "originalTitle": "International court rejects Rwanda’s claim over UK migration deal",
-    "urduTitle": "International court rejects Rwanda’s claim over UK migration deal",
-    "urduSummary": "Rwanda's $134m claim has been thrown out, which bodes ill for other governments seeking 'return hubs'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/1/international-court-rejects-rwandas-claim-over-uk-migration-deal?traffic_source=rss",
-    "pubDate": "2026-06-01T16:54:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780323193",
-    "originalTitle": "Protest outside Kenya’s planned US Ebola quarantine centre",
-    "urduTitle": "Protest outside Kenya’s planned US Ebola quarantine centre",
-    "urduSummary": "Hundreds rally against plan to send US nationals exposed to the virus to Laikipia Air Base.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/6/1/protest-outside-kenyas-planned-us-ebola-quarantine-centre?traffic_source=rss",
-    "pubDate": "2026-06-01T16:42:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crlpy8n7pr6o#0",
-    "originalTitle": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
-    "urduTitle": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
-    "urduSummary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-01T08:57:08.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
