@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c362618d9e8o#0",
+    "originalTitle": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
+    "urduTitle": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
+    "urduSummary": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-04T18:01:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780605269",
+    "originalTitle": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
+    "urduTitle": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
+    "urduSummary": "Hezbollah has condemned a US-brokered ceasefire framework accepted by Israel and Lebanon",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss",
+    "pubDate": "2026-06-04T21:07:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780601875",
+    "originalTitle": "US defence secretary compares Bolivia protests to government ‘overthrow’",
+    "urduTitle": "US defence secretary compares Bolivia protests to government ‘overthrow’",
+    "urduSummary": "The Trump administration has supported Bolivian President Rodrigo Paz after his electoral victory over left-wing MAS.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss",
+    "pubDate": "2026-06-04T21:01:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780605877",
+    "originalTitle": "What is the UK’s ‘two-tier policing’ debate?",
+    "urduTitle": "What is the UK’s ‘two-tier policing’ debate?",
+    "urduSummary": "The murder of Henry Nowak has sparked a political storm in the UK, with renewed claims of ‘two-tier policing’.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/what-is-the-uks-two-tier-policing-debate?traffic_source=rss",
+    "pubDate": "2026-06-04T20:59:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn0pl0wvvz0o#0",
     "originalTitle": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
     "urduTitle": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/opinions/2026/6/2/is-the-taliban-russia-mou-good-for-afghanistan?traffic_source=rss",
     "pubDate": "2026-06-02T14:57:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crkpyj41m15o#0",
-    "originalTitle": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
-    "urduTitle": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
-    "urduSummary": "The justice department says it  \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-01T23:03:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780387145",
-    "originalTitle": "Hailstorm hits Denver and causes widespread disruption",
-    "urduTitle": "Hailstorm hits Denver and causes widespread disruption",
-    "urduSummary": "A powerful hailstorm swept through the US city of Denver, bringing hailstones reportedly as large as golf balls.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/hailstorm-hits-denver-and-causes-widespread-disruption-2?traffic_source=rss",
-    "pubDate": "2026-06-02T08:06:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780382170",
-    "originalTitle": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
-    "urduTitle": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
-    "urduSummary": "The violence prompted 300 Mozambicans to return home over the weekend.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/2/mozambique-says-5-citizens-killed-in-xenophobic-attacks-in-south-africa?traffic_source=rss",
-    "pubDate": "2026-06-02T07:54:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780385545",
-    "originalTitle": "China opens its markets to African exports. Who benefits?",
-    "urduTitle": "China opens its markets to African exports. Who benefits?",
-    "urduSummary": "China's tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits?traffic_source=rss",
-    "pubDate": "2026-06-02T07:51:40.000Z",
     "category": "world",
     "imageUrl": null
   }
