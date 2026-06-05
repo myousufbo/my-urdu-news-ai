@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cwy2ypyp4x4o#0",
+    "originalTitle": "Zelensky proposes face-to-face talks in open letter to Putin",
+    "urduTitle": "Zelensky proposes face-to-face talks in open letter to Putin",
+    "urduSummary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-04T23:32:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780584162",
+    "originalTitle": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+    "urduTitle": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+    "urduSummary": "Tensions over Somali elections escalate into violence, leaving Mogadishu residents grappling with fear and disruption.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
+    "pubDate": "2026-06-05T01:12:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780613818",
+    "originalTitle": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+    "urduTitle": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+    "urduSummary": "Israel's supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
+    "pubDate": "2026-06-05T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780606797",
+    "originalTitle": "Democrat fails to block US measure to deepen Israel military cooperation",
+    "urduTitle": "Democrat fails to block US measure to deepen Israel military cooperation",
+    "urduSummary": "Congressman Ro Khanna says the integration push only boosts Netanyahu, but his push to revoke the measure fell short.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
+    "pubDate": "2026-06-04T23:28:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c362618d9e8o#0",
     "originalTitle": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
     "urduTitle": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-02T16:04:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-06-02T16:10:19.948Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780407248",
-    "originalTitle": "The Horn of Africa needs reconciliation, not new borders",
-    "urduTitle": "The Horn of Africa needs reconciliation, not new borders",
-    "urduSummary": "Recognising Somaliland would not deliver stability. It would entrench division, in Somalia and well beyond it.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/6/2/the-horn-of-africa-needs-reconciliation-not-new-borders?traffic_source=rss",
-    "pubDate": "2026-06-02T16:05:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780408649",
-    "originalTitle": "Could Trump’s government be influencing Canada’s separatist movement?",
-    "urduTitle": "Could Trump’s government be influencing Canada’s separatist movement?",
-    "urduSummary": "Alberta will vote in a referendum over whether to separate from Canada, but how is the US President involved?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/could-trumps-government-be-influencing-canadas-separatist-movement?traffic_source=rss",
-    "pubDate": "2026-06-02T15:16:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780408888",
-    "originalTitle": "Is the Taliban-Russia MoU good for Afghanistan?",
-    "urduTitle": "Is the Taliban-Russia MoU good for Afghanistan?",
-    "urduSummary": "The recently signed agreement is unlikely to advance the country's long-term national interests.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/6/2/is-the-taliban-russia-mou-good-for-afghanistan?traffic_source=rss",
-    "pubDate": "2026-06-02T14:57:47.000Z",
     "category": "world",
     "imageUrl": null
   }
