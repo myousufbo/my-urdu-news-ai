@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cpqpqx5qe40o#0",
+    "originalTitle": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+    "urduTitle": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+    "urduSummary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-05T18:16:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780692122",
+    "originalTitle": "Iran footballers issued US visas for World Cup, says White House",
+    "urduTitle": "Iran footballers issued US visas for World Cup, says White House",
+    "urduSummary": "Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
+    "pubDate": "2026-06-05T20:49:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780691347",
+    "originalTitle": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
+    "urduTitle": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
+    "urduSummary": "Russian President Vladimir Putin has turned down an offer for in-person talks with the Ukrainian President.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
+    "pubDate": "2026-06-05T20:36:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780691616",
+    "originalTitle": "Trump hails jobs surge, says Iran talks ‘going well’",
+    "urduTitle": "Trump hails jobs surge, says Iran talks ‘going well’",
+    "urduSummary": "Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran \"seem to be going quite well\".",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
+    "pubDate": "2026-06-05T20:36:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y7yryg01mo#0",
     "originalTitle": "Astronauts return to ISS after sheltering during air leak repair attempt",
     "urduTitle": "Astronauts return to ISS after sheltering during air leak repair attempt",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/6/3/fifa-world-cup-2026-stadiums-matches-us-canada-mexico?traffic_source=rss",
     "pubDate": "2026-06-03T15:31:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780484846",
-    "originalTitle": "UK minister condemns violent protests against student’s murder",
-    "urduTitle": "UK minister condemns violent protests against student’s murder",
-    "urduSummary": "Henry Nowak's death has spurred right-wing claims ‘two-tier’ policing disadvantages white people",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/3/uk-minister-condemns-violent-protests-against-students-murder?traffic_source=rss",
-    "pubDate": "2026-06-03T15:31:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780495589",
-    "originalTitle": "Turkiye’s top diplomat, Indonesia’s president discuss $10bn trade goal",
-    "urduTitle": "Turkiye’s top diplomat, Indonesia’s president discuss $10bn trade goal",
-    "urduSummary": "The two discuss a range of sectors, including defence, energy, transportation and the halal food industry.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/3/defence-energy-halal-sectors-top-agenda-in-turkiye-indonesia-talks?traffic_source=rss",
-    "pubDate": "2026-06-03T15:29:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp3peyykxd5o#0",
-    "originalTitle": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
-    "urduTitle": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
-    "urduSummary": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-03T08:23:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780467969",
-    "originalTitle": "Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island",
-    "urduTitle": "Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island",
-    "urduSummary": "Clashes continue as diplomacy between Washington and Tehran shows little progress.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss",
-    "pubDate": "2026-06-03T08:39:47.000Z",
     "category": "world",
     "imageUrl": null
   }
