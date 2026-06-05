@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-06-05T08:01:32.701Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780644652",
+    "originalTitle": "UN envoys call on Trump to stop Israeli annexation",
+    "urduTitle": "UN envoys call on Trump to stop Israeli annexation",
+    "urduSummary": "UN envoys call on Trump to stop Israeli annexation",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/un-envoys-call-on-trump-to-stop-israeli-annexation?traffic_source=rss",
+    "pubDate": "2026-06-05T07:38:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780639433",
+    "originalTitle": "China’s Xi headed to North Korea in bid to shore up ties",
+    "urduTitle": "China’s Xi headed to North Korea in bid to shore up ties",
+    "urduSummary": "The Chinese leader's visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss",
+    "pubDate": "2026-06-05T07:32:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780579120",
+    "originalTitle": "Kushner Island? Why a planned resort has provoked protests in Albania",
+    "urduTitle": "Kushner Island? Why a planned resort has provoked protests in Albania",
+    "urduSummary": "Government hopes the project can boost Albania as a global tourism destination - but environmental concerns are rife.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/5/why-the-kushners-plan-to-build-an-albanian-resort-has-sparked-protests?traffic_source=rss",
+    "pubDate": "2026-06-05T07:14:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cwy2ypyp4x4o#0",
     "originalTitle": "Zelensky proposes face-to-face talks in open letter to Putin",
     "urduTitle": "Zelensky proposes face-to-face talks in open letter to Putin",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-02T19:13:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780429766",
-    "originalTitle": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-    "urduTitle": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-    "urduSummary": "Analysts say 'strategic leaks' aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-    "pubDate": "2026-06-02T21:59:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780437134",
-    "originalTitle": "Drones light up Taipei’s night sky for Computex trade show",
-    "urduTitle": "Drones light up Taipei’s night sky for Computex trade show",
-    "urduSummary": "Drones lit up the evening sky near Taiwan’s Taipei 101 skyscraper in a dazzling display for the Computex trade show.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss",
-    "pubDate": "2026-06-02T21:59:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780435818",
-    "originalTitle": "Trump administration is scrapping the $1.8bn ‘anti-weaponisation fund’",
-    "urduTitle": "Trump administration is scrapping the $1.8bn ‘anti-weaponisation fund’",
-    "urduSummary": "DOJ's agreement with President Donald Trump to bar future audits into his or his family's past tax records will remain.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-    "pubDate": "2026-06-02T21:44:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cjrpwxe82ypo#0",
-    "originalTitle": "British couple lose Iran jail sentence appeal, family says",
-    "urduTitle": "British couple lose Iran jail sentence appeal, family says",
-    "urduSummary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-02T16:04:18.000Z",
     "category": "world",
     "imageUrl": null
   }
