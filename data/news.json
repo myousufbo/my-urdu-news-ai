@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c5y7yryg01mo#0",
+    "originalTitle": "Astronauts return to ISS after sheltering during air leak repair attempt",
+    "urduTitle": "Astronauts return to ISS after sheltering during air leak repair attempt",
+    "urduSummary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-05T16:14:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780671652",
+    "originalTitle": "Germany’s Merz says EU to initiate integration of Western Balkans",
+    "urduTitle": "Germany’s Merz says EU to initiate integration of Western Balkans",
+    "urduSummary": "Alongside Ukraine and Moldova, six Western Balkan nations wish to join the European Union.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/5/germanys-merz-says-eu-to-initiate-integration-of-western-balkans?traffic_source=rss",
+    "pubDate": "2026-06-05T17:40:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780677793",
+    "originalTitle": "Lawsuit challenges US ‘third-country’ deportations to Equatorial Guinea",
+    "urduTitle": "Lawsuit challenges US ‘third-country’ deportations to Equatorial Guinea",
+    "urduSummary": "Complaint filed to African Commission on Human and Peoples' Rights challenges controversial expulsion practice.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/5/lawsuit-challenges-us-third-country-deportations-to-equatorial-guinea?traffic_source=rss",
+    "pubDate": "2026-06-05T17:35:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780227067",
+    "originalTitle": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
+    "urduTitle": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
+    "urduSummary": "Gaza medical and dental students sell ice cream in Khan Younis to fund their studies and keep their dreams alive",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/5/an-ice-cream-parlour-survives-gazas-genocide-and-gives-seven-students-hope?traffic_source=rss",
+    "pubDate": "2026-06-05T17:25:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c707098wkzpo#0",
     "originalTitle": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
     "urduTitle": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss",
     "pubDate": "2026-06-03T08:39:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780473268",
-    "originalTitle": "Can a US president promote stock they’ve invested in",
-    "urduTitle": "Can a US president promote stock they’ve invested in",
-    "urduSummary": "Can a US president promote stock they’ve invested in",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/money-works/2026/6/3/can-a-us-president-promote-stock-theyve-invested-in?traffic_source=rss",
-    "pubDate": "2026-06-03T08:24:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780464747",
-    "originalTitle": "‘Service is the rent we pay’: Muhammad Ali remembered 10 years on",
-    "urduTitle": "‘Service is the rent we pay’: Muhammad Ali remembered 10 years on",
-    "urduSummary": "Ten years after the boxing legend’s death, widow Lonnie Ali urges a 'day of compassion' as US divisions deepen.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/6/3/service-is-the-rent-we-pay-muhammad-ali-remembered-10-years-on?traffic_source=rss",
-    "pubDate": "2026-06-03T07:34:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yx135yg53o#0",
-    "originalTitle": "US and Iran launch new strikes as ceasefire negotiations stall",
-    "urduTitle": "US and Iran launch new strikes as ceasefire negotiations stall",
-    "urduSummary": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US air bases in the Gulf.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-03T01:18:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy82339793go#0",
-    "originalTitle": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-    "urduTitle": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-    "urduSummary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-02T23:33:34.000Z",
     "category": "world",
     "imageUrl": null
   }
