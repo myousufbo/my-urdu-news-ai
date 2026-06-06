@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c802e7jk458o#0",
+    "originalTitle": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+    "urduTitle": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+    "urduSummary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-06T20:32:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780772725",
+    "originalTitle": "US doctor recovers from Ebola in Germany as DRC cases surge to 488",
+    "urduTitle": "US doctor recovers from Ebola in Germany as DRC cases surge to 488",
+    "urduSummary": "Berlin's Charite hospital hailed treatment as a 'significant therapeutic success' as outbreak spreads in DR Congo.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488?traffic_source=rss",
+    "pubDate": "2026-06-06T20:01:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780771022",
+    "originalTitle": "Video shows Israeli soldier and settlers assaulting two Palestinians",
+    "urduTitle": "Video shows Israeli soldier and settlers assaulting two Palestinians",
+    "urduSummary": "A surveillance camera caught a brutal assault by an Israeli soldier and settlers on two men in the occupied West Bank.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss",
+    "pubDate": "2026-06-06T19:48:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780773876",
+    "originalTitle": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
+    "urduTitle": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
+    "urduSummary": "A Palestinian father in Hebron has buried his seven-month-old son after the baby was killed by Israeli gunfire",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
+    "pubDate": "2026-06-06T19:38:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1780759579",
     "originalTitle": "Activists disrupt German military exhibit over arms sales to Israel",
     "urduTitle": "Activists disrupt German military exhibit over arms sales to Israel",
@@ -503,50 +547,6 @@
     "link": "https://www.aljazeera.com/news/longform/2026/6/4/ecuadors-disappeared-inside-one-familys-search-for-answers?traffic_source=rss",
     "pubDate": "2026-06-04T17:11:06.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780585092",
-    "originalTitle": "Trump official-turned-foe John Bolton accepts plea deal in documents case",
-    "urduTitle": "Trump official-turned-foe John Bolton accepts plea deal in documents case",
-    "urduSummary": "Despite serving as Trump's national security adviser, Bolton has emerged as a top critic of the president.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/4/trump-official-turned-foe-john-bolton-accepts-plea-deal-in-documents-case?traffic_source=rss",
-    "pubDate": "2026-06-04T17:04:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780587568",
-    "originalTitle": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
-    "urduTitle": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
-    "urduSummary": "Israel’s Supreme Court rejects government ban on prisoner visits, affirming Red Cross access under international law.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss",
-    "pubDate": "2026-06-04T16:38:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c052343r812o#0",
-    "originalTitle": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-    "urduTitle": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-    "urduSummary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-04T14:31:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-06-04T14:44:36.976Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
