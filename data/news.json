@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cvgzgyjk2weo#0",
+    "originalTitle": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+    "urduTitle": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+    "urduSummary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-06T06:16:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqjpj80qz1ro#0",
+    "originalTitle": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+    "urduTitle": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+    "urduSummary": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-06T02:28:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780722232",
+    "originalTitle": "New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead",
+    "urduTitle": "New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead",
+    "urduSummary": "Spurs in need of an unprecedented comeback when the best-of-seven series shifts to New York for games three and four.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/6/new-york-knicks-hold-off-san-antonio-spurs-105-104-for-2-0-nba-finals-lead?traffic_source=rss",
+    "pubDate": "2026-06-06T05:19:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780721510",
+    "originalTitle": "Israeli soldier shoots Palestinian baby dead near Hebron",
+    "urduTitle": "Israeli soldier shoots Palestinian baby dead near Hebron",
+    "urduSummary": "An Israeli soldier has shot and killed seven-month-old Palestinian infant Sam Abu Haikal.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
+    "pubDate": "2026-06-06T04:58:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1780497194",
     "originalTitle": "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
     "urduTitle": "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-03T21:19:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgz21pq3g6o#0",
-    "originalTitle": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-    "urduTitle": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-    "urduSummary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-03T20:28:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780505635",
-    "originalTitle": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
-    "urduTitle": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
-    "urduSummary": "Hamawy's victory in New Jersey likely to make him a rare US Congress member with firsthand experience in besieged Gaza.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss",
-    "pubDate": "2026-06-03T21:56:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780520225",
-    "originalTitle": "Kuwait labels Iran attack ‘heinous aggression’",
-    "urduTitle": "Kuwait labels Iran attack ‘heinous aggression’",
-    "urduSummary": "Kuwait’s defence ministry has labelled an attack on the country’s international airport as ‘heinous Iranian aggression’.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
-    "pubDate": "2026-06-03T21:16:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780519844",
-    "originalTitle": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
-    "urduTitle": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
-    "urduSummary": "Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
-    "pubDate": "2026-06-03T21:15:45.000Z",
     "category": "world",
     "imageUrl": null
   }
