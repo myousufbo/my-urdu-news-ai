@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1780759579",
+    "originalTitle": "Activists disrupt German military exhibit over arms sales to Israel",
+    "urduTitle": "Activists disrupt German military exhibit over arms sales to Israel",
+    "urduSummary": "Activists disrupt German military exhibit over arms sales to Israel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
+    "pubDate": "2026-06-06T15:34:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780751803",
+    "originalTitle": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+    "urduTitle": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+    "urduSummary": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
+    "pubDate": "2026-06-06T15:30:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780743792",
+    "originalTitle": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+    "urduTitle": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+    "urduSummary": "India's Gen Z Cockroach movement stages its first protest in the capital, demanding education minister's resignation.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital?traffic_source=rss",
+    "pubDate": "2026-06-06T15:27:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cg7498kz808o#0",
     "originalTitle": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
     "urduTitle": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-06-04T14:44:36.976Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780576887",
-    "originalTitle": "Iran footballers describe how war with US-Israel affects their World Cup",
-    "urduTitle": "Iran footballers describe how war with US-Israel affects their World Cup",
-    "urduSummary": "Iran national players Saeid Ezatolahi and Mohammad Ghorbani talk about how war is overshadowing a World Cup dream.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup?traffic_source=rss",
-    "pubDate": "2026-06-04T14:13:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780581558",
-    "originalTitle": "Shark predicts winning start for Brazil at FIFA World Cup",
-    "urduTitle": "Shark predicts winning start for Brazil at FIFA World Cup",
-    "urduSummary": "Shark predicts winning start for Brazil at FIFA World Cup.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/shark-predicts-winning-start-for-brazil-at-fifa-world-cup?traffic_source=rss",
-    "pubDate": "2026-06-04T14:02:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780575127",
-    "originalTitle": "Why is a US Ebola facility in Kenya sparking protests?",
-    "urduTitle": "Why is a US Ebola facility in Kenya sparking protests?",
-    "urduSummary": "The plan has drawn backlash from  Kenyans as well as the country's union of healthcare workers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/4/why-is-a-us-ebola-facility-in-kenya-sparking-protests?traffic_source=rss",
-    "pubDate": "2026-06-04T13:51:55.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
