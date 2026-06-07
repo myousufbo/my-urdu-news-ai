@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c0qyevk8139o#0",
+    "originalTitle": "Israel strikes Beirut suburb days after US-brokered truce",
+    "urduTitle": "Israel strikes Beirut suburb days after US-brokered truce",
+    "urduSummary": "Israel says the attacks on the Lebanese capital were ordered  \"in response to Hezbollah's firing at Israeli territory\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-07T16:42:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-06-07T17:08:39.883Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780848598",
+    "originalTitle": "Police say two suspects have been shot and killed in Israel gun attack",
+    "urduTitle": "Police say two suspects have been shot and killed in Israel gun attack",
+    "urduSummary": "Police say two suspects have been shot and killed in Israel gun attack.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
+    "pubDate": "2026-06-07T16:17:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780848183",
+    "originalTitle": "Al Jazeera reports from Beirut after Israeli attack",
+    "urduTitle": "Al Jazeera reports from Beirut after Israeli attack",
+    "urduSummary": "Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
+    "pubDate": "2026-06-07T16:04:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780843495",
+    "originalTitle": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
+    "urduTitle": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
+    "urduSummary": "Pope Leo XIV hails Spain’s ‘school of faith’ at Madrid Mass, urges unity amid vast Corpus Domini crowds.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
+    "pubDate": "2026-06-07T16:03:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo#0",
     "originalTitle": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
     "urduTitle": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-05T16:14:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780671652",
-    "originalTitle": "Germany’s Merz says EU to initiate integration of Western Balkans",
-    "urduTitle": "Germany’s Merz says EU to initiate integration of Western Balkans",
-    "urduSummary": "Alongside Ukraine and Moldova, six Western Balkan nations wish to join the European Union.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/5/germanys-merz-says-eu-to-initiate-integration-of-western-balkans?traffic_source=rss",
-    "pubDate": "2026-06-05T17:40:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780677793",
-    "originalTitle": "Lawsuit challenges US ‘third-country’ deportations to Equatorial Guinea",
-    "urduTitle": "Lawsuit challenges US ‘third-country’ deportations to Equatorial Guinea",
-    "urduSummary": "Complaint filed to African Commission on Human and Peoples' Rights challenges controversial expulsion practice.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/5/lawsuit-challenges-us-third-country-deportations-to-equatorial-guinea?traffic_source=rss",
-    "pubDate": "2026-06-05T17:35:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780227067",
-    "originalTitle": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
-    "urduTitle": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
-    "urduSummary": "Gaza medical and dental students sell ice cream in Khan Younis to fund their studies and keep their dreams alive",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/5/an-ice-cream-parlour-survives-gazas-genocide-and-gives-seven-students-hope?traffic_source=rss",
-    "pubDate": "2026-06-05T17:25:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c707098wkzpo#0",
-    "originalTitle": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
-    "urduTitle": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
-    "urduSummary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-05T14:21:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1424v7mk8go#0",
-    "originalTitle": "Fury in France after child murder suspect's criminal record released",
-    "urduTitle": "Fury in France after child murder suspect's criminal record released",
-    "urduSummary": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-05T11:32:51.000Z",
     "category": "world",
     "imageUrl": null
   }
