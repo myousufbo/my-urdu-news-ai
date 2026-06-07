@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo#0",
+    "originalTitle": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+    "urduTitle": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+    "urduSummary": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-07T12:09:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780836312",
+    "originalTitle": "Ben-Gvir praises police on killing shooter in central Israel",
+    "urduTitle": "Ben-Gvir praises police on killing shooter in central Israel",
+    "urduSummary": "Israel’s far right minister Itamar Ben-Gvir praised police for killing a Kokhav Yair shooting suspect.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/ben-gvir-praises-police-on-killing-shooter-in-central-israel?traffic_source=rss",
+    "pubDate": "2026-06-07T13:01:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780829890",
+    "originalTitle": "Russian drone strike damages site near Chornobyl nuclear plant",
+    "urduTitle": "Russian drone strike damages site near Chornobyl nuclear plant",
+    "urduSummary": "Ukraine's President Volodymyr Zelenskyy condemns 'extremely vile' attack that did not lead to spike in radiation.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant?traffic_source=rss",
+    "pubDate": "2026-06-07T12:47:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1778387225",
+    "originalTitle": "World Cup 2026 in numbers: Key statistical goals, titles and age records",
+    "urduTitle": "World Cup 2026 in numbers: Key statistical goals, titles and age records",
+    "urduSummary": "The 2026 World Cup has already set records for the most host nations, most matches and the highest prize money.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/7/world-cup-2026-in-numbers-key-statistical-goals-titles-and-age-records?traffic_source=rss",
+    "pubDate": "2026-06-07T12:33:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c4gyejvzx9eo#0",
     "originalTitle": "Huge crowds throng Madrid streets for Pope's open-air mass",
     "urduTitle": "Huge crowds throng Madrid streets for Pope's open-air mass",
@@ -503,50 +547,6 @@
     "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-05T11:32:51.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780665493",
-    "originalTitle": "FIFA cancels World Cup tickets for about 60 fans who got them for free",
-    "urduTitle": "FIFA cancels World Cup tickets for about 60 fans who got them for free",
-    "urduSummary": "Mispriced tickets were sold through the official World Cup site ahead of next week's showpiece event for FIFA.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/fifa-cancels-world-cup-tickets-to-about-60-fans-who-got-them-for-free-due-t?traffic_source=rss",
-    "pubDate": "2026-06-05T13:48:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780658721",
-    "originalTitle": "Israel maintains attacks despite US-brokered deal with Lebanon",
-    "urduTitle": "Israel maintains attacks despite US-brokered deal with Lebanon",
-    "urduSummary": "The Israeli army also issues new forced displacement orders for several towns and villages in southern Lebanon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/5/israel-maintains-attacks-despite-us-brokered-deal-with-lebanon?traffic_source=rss",
-    "pubDate": "2026-06-05T13:43:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780663781",
-    "originalTitle": "Celtic fans oppose Keane as potential manager after Israel role",
-    "urduTitle": "Celtic fans oppose Keane as potential manager after Israel role",
-    "urduSummary": "Ireland's record goalscorer Robbie Keane played for Celtic but his link to manager's job is facing criticism.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/celtic-fans-oppose-potential-keane-appointment-after-israel-role?traffic_source=rss",
-    "pubDate": "2026-06-05T13:36:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-06-05T08:01:32.701Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
