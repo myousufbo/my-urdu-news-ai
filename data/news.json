@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/ce3ez4zzzlvo#0",
+    "originalTitle": "World's largest chipmaker does not rule out price rises as costs increase",
+    "urduTitle": "World's largest chipmaker does not rule out price rises as costs increase",
+    "urduSummary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-09T22:00:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1780985041",
+    "originalTitle": "South Korea’s booming stock market mints a generation of novice investors",
+    "urduTitle": "South Korea’s booming stock market mints a generation of novice investors",
+    "urduSummary": "South Korean stocks are soaring, drawing first-time investors in a nation where property has long reigned supreme.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/6/10/south-koreas-booming-stock-market-mints-a-generation-of-novice-investors?traffic_source=rss",
+    "pubDate": "2026-06-10T01:54:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781045835",
+    "originalTitle": "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
+    "urduTitle": "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
+    "urduSummary": "Last year, for the first time in a decade, Cuban asylum applications exceeded Venezuelan ones in sign of growing strain.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss",
+    "pubDate": "2026-06-10T00:18:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781045093",
+    "originalTitle": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+    "urduTitle": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+    "urduSummary": "Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+    "pubDate": "2026-06-10T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c20y6966xqzo#0",
     "originalTitle": "Inside Myanmar, rebels are losing ground as military forces men into army",
     "urduTitle": "Inside Myanmar, rebels are losing ground as military forces men into army",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-08T01:33:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780899106",
-    "originalTitle": "Israel and Iran exchange attacks as ceasefire falters",
-    "urduTitle": "Israel and Iran exchange attacks as ceasefire falters",
-    "urduSummary": "In effort to contain escalation, US President Donald Trump spoke with Israel's Benjamin Netanyahu, US media reported.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters?traffic_source=rss",
-    "pubDate": "2026-06-08T07:55:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780478909",
-    "originalTitle": "‘Homes turned into ovens’: Millions of Yemenis swelter amid heat, blackouts",
-    "urduTitle": "‘Homes turned into ovens’: Millions of Yemenis swelter amid heat, blackouts",
-    "urduSummary": "Millions of Yemenis grapple with a heatwave as power cuts add to the suffering of people in the war-torn nation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/6/8/homes-turned-into-ovens-millions-of-yemenis-swelter-amid-heat-blackouts?traffic_source=rss",
-    "pubDate": "2026-06-08T07:42:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1780898902",
-    "originalTitle": "Secret Service-level security for NBA Finals with Trump attending Game 3",
-    "urduTitle": "Secret Service-level security for NBA Finals with Trump attending Game 3",
-    "urduSummary": "Watch party bans, road closures and bag bans in place as US President Trump plans to attend Game 3 with Knicks in lead.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/8/secret-service-level-security-for-nba-finals-with-trump-attending-game-3?traffic_source=rss",
-    "pubDate": "2026-06-08T07:38:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdep497r256o#0",
-    "originalTitle": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
-    "urduTitle": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
-    "urduSummary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-07T22:02:31.000Z",
     "category": "world",
     "imageUrl": null
   }
