@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c2ly928xz8go#0",
+    "originalTitle": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
+    "urduTitle": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
+    "urduSummary": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-11T20:26:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781208705",
+    "originalTitle": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
+    "urduTitle": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
+    "urduSummary": "Murder of Melissa and Mark Hortman by man disguised as police officer prompted concerns about political violence in US.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss",
+    "pubDate": "2026-06-11T21:37:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781211828",
+    "originalTitle": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
+    "urduTitle": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
+    "urduSummary": "World Cup 2026 cohosts Mexico open the tournament with 2-0 win against South Africa, who were reduced to nine men.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/11/jimenez-and-quinones-net-as-mexico-beat-south-africa-in-world-cup-opener?traffic_source=rss",
+    "pubDate": "2026-06-11T21:22:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781211742",
+    "originalTitle": "World Cup mania at Mexico’s Zocalo Square",
+    "urduTitle": "World Cup mania at Mexico’s Zocalo Square",
+    "urduSummary": "Jubilant football fans at Mexico City’s Zocalo Square are ready for the World Cup Opener at the city’s centre.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/world-cup-mania-at-mexicos-zocalo-square?traffic_source=rss",
+    "pubDate": "2026-06-11T21:04:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c70yeee2jvqo#0",
     "originalTitle": "Deadly Sudan drone strike targets funeral procession",
     "urduTitle": "Deadly Sudan drone strike targets funeral procession",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss",
     "pubDate": "2026-06-09T21:01:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cze9359gglyo#0",
-    "originalTitle": "Trump says Iran shot down US helicopter and vows to respond",
-    "urduTitle": "Trump says Iran shot down US helicopter and vows to respond",
-    "urduSummary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-09T17:32:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c36y16nkr5no#0",
-    "originalTitle": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-    "urduTitle": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-    "urduSummary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-09T17:47:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781016340",
-    "originalTitle": "After Nagorno-Karabakh, Armenians vote for peace over nationalism",
-    "urduTitle": "After Nagorno-Karabakh, Armenians vote for peace over nationalism",
-    "urduSummary": "Nikol Pashinyan's victory suggests Russia's influence in the country is waning.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/6/9/after-karabakh-armenians-vote-for-peace-over-nationalism?traffic_source=rss",
-    "pubDate": "2026-06-09T17:04:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781023393",
-    "originalTitle": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
-    "urduTitle": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
-    "urduSummary": "US president says although the pilots were rescued, Washington 'must, of necessity, respond to this attack'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
-    "pubDate": "2026-06-09T16:54:15.000Z",
     "category": "world",
     "imageUrl": null
   }
