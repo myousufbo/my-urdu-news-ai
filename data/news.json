@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cnv93899vzqo#0",
+    "originalTitle": "More time needed for deadly Air India crash inquiry, officials say",
+    "urduTitle": "More time needed for deadly Air India crash inquiry, officials say",
+    "urduSummary": "A statement said \"significant progress\" had been made into investigating the crash which left 260 people dead a year ago.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-12T13:58:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-06-12T14:45:10.617Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781272135",
+    "originalTitle": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
+    "urduTitle": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
+    "urduSummary": "Trump decries 'dishonorable people' after reports Iran made few concession in deal US has said could be soon signed.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss",
+    "pubDate": "2026-06-12T14:24:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781266956",
+    "originalTitle": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+    "urduTitle": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+    "urduSummary": "Ukraine says its 'lockdown' strategy is working as it disrupts Russian supply lines.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
+    "pubDate": "2026-06-12T13:34:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781264942",
+    "originalTitle": "Indonesian students protest gov’t policies amid economic strain",
+    "urduTitle": "Indonesian students protest gov’t policies amid economic strain",
+    "urduSummary": "Scuffles broke out as some demonstrators attempted to break through the police lines and metal barricades.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss",
+    "pubDate": "2026-06-12T13:33:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c78y6w78828o#0",
     "originalTitle": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near ",
     "urduTitle": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near ",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-irans-water-facilities-why-thats-so-significant?traffic_source=rss",
     "pubDate": "2026-06-10T13:27:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781064254",
-    "originalTitle": "Mexico vs South Africa: World Cup group match – teams, start and lineups",
-    "urduTitle": "Mexico vs South Africa: World Cup group match – teams, start and lineups",
-    "urduSummary": "As the tournament kicks off, cohosts Mexico face South Africa in a replay of the 2010 edition's opening game.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football?traffic_source=rss",
-    "pubDate": "2026-06-10T13:06:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0q2jgkwk0no#0",
-    "originalTitle": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-    "urduTitle": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-    "urduSummary": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-10T05:02:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781076920",
-    "originalTitle": "Explosion in Bahrain as Iran attacks US bases",
-    "urduTitle": "Explosion in Bahrain as Iran attacks US bases",
-    "urduSummary": "CCTV footage shows an explosion in Bahrain’s capital Manama after what authorities say was an Iranian missile strike.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss",
-    "pubDate": "2026-06-10T07:40:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781072107",
-    "originalTitle": "Messi comes off the bench to score in Argentina’s final World Cup warm-up",
-    "urduTitle": "Messi comes off the bench to score in Argentina’s final World Cup warm-up",
-    "urduSummary": "Argentina ease past Iceland in their final friendly before the World Cup, winning 3-0 in Auburn, Alabama.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/10/messi-comes-off-the-bench-to-score-in-argentinas-final-world-cup-warm-up?traffic_source=rss",
-    "pubDate": "2026-06-10T07:39:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781070276",
-    "originalTitle": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
-    "urduTitle": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
-    "urduSummary": "The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss",
-    "pubDate": "2026-06-10T07:22:22.000Z",
     "category": "world",
     "imageUrl": null
   }
