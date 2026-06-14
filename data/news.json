@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/czj83zlx1vjo#0",
+    "originalTitle": "Lebanon says three killed in Israeli strike on Beirut suburb",
+    "urduTitle": "Lebanon says three killed in Israeli strike on Beirut suburb",
+    "urduSummary": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-14T15:34:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8623n5pq2vo#0",
+    "originalTitle": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+    "urduTitle": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+    "urduSummary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-14T14:08:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781448033",
+    "originalTitle": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+    "urduTitle": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+    "urduSummary": "Activists rally in Geneva to denounce policies of G7 countries ahead of group's annual meeting this week in France.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
+    "pubDate": "2026-06-14T16:49:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781455655",
+    "originalTitle": "Al Jazeera reports from Israeli attack site in southern Beirut",
+    "urduTitle": "Al Jazeera reports from Israeli attack site in southern Beirut",
+    "urduSummary": "Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
+    "pubDate": "2026-06-14T16:49:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781454606",
+    "originalTitle": "Knicks fans set bus alight during celebrations",
+    "urduTitle": "Knicks fans set bus alight during celebrations",
+    "urduSummary": "Footage shows a World Cup shuttle bus set into flames amid chaotic celebrations following Knicks NBA win.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/knicks-fans-set-bus-alight-during-celebrations?traffic_source=rss",
+    "pubDate": "2026-06-14T16:35:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c20ygjem17zo#0",
     "originalTitle": "Swiss voters reject 10 million population cap, early projections say",
     "urduTitle": "Swiss voters reject 10 million population cap, early projections say",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
     "pubDate": "2026-06-12T16:38:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cnv93899vzqo#0",
-    "originalTitle": "More time needed for deadly Air India crash inquiry, officials say",
-    "urduTitle": "More time needed for deadly Air India crash inquiry, officials say",
-    "urduSummary": "A statement said \"significant progress\" had been made into investigating the crash which left 260 people dead a year ago.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-12T13:58:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-06-12T14:45:10.617Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781272135",
-    "originalTitle": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
-    "urduTitle": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
-    "urduSummary": "Trump decries 'dishonorable people' after reports Iran made few concession in deal US has said could be soon signed.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss",
-    "pubDate": "2026-06-12T14:24:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781266956",
-    "originalTitle": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
-    "urduTitle": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
-    "urduSummary": "Ukraine says its 'lockdown' strategy is working as it disrupts Russian supply lines.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
-    "pubDate": "2026-06-12T13:34:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781264942",
-    "originalTitle": "Indonesian students protest gov’t policies amid economic strain",
-    "urduTitle": "Indonesian students protest gov’t policies amid economic strain",
-    "urduSummary": "Scuffles broke out as some demonstrators attempted to break through the police lines and metal barricades.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss",
-    "pubDate": "2026-06-12T13:33:54.000Z",
     "category": "world",
     "imageUrl": null
   }
