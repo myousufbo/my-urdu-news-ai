@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-06-14T21:04:26.048Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781470350",
+    "originalTitle": "Gaza mourns four killed in Israeli strike",
+    "urduTitle": "Gaza mourns four killed in Israeli strike",
+    "urduSummary": "Cries of grief echoed through Gaza City for four Palestinians killed near the Jabalia refugee camp in northern Gaza.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+    "pubDate": "2026-06-14T20:57:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781468262",
+    "originalTitle": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+    "urduTitle": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+    "urduSummary": "Violence erupts during anti-G7 protests in Geneva on eve of summit.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss",
+    "pubDate": "2026-06-14T20:45:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781468343",
+    "originalTitle": "Swiss right-wing plan to cap population rejected by narrow margins",
+    "urduTitle": "Swiss right-wing plan to cap population rejected by narrow margins",
+    "urduSummary": "Swiss voters reject a proposed population cap that would cap the country’s population at 10 million.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/swiss-right-wing-plan-to-cap-population-rejected-by-narrow-margins?traffic_source=rss",
+    "pubDate": "2026-06-14T20:30:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/czj83zlx1vjo#0",
     "originalTitle": "Lebanon says three killed in Israeli strike on Beirut suburb",
     "urduTitle": "Lebanon says three killed in Israeli strike on Beirut suburb",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-12T16:19:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cjeg9p1xqdwo#0",
-    "originalTitle": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-    "urduTitle": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-    "urduSummary": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-12T15:55:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781279786",
-    "originalTitle": "US to cut air and naval assets deployed for NATO operations in Europe",
-    "urduTitle": "US to cut air and naval assets deployed for NATO operations in Europe",
-    "urduSummary": "Reported plans expand the",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe?traffic_source=rss",
-    "pubDate": "2026-06-12T17:13:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781277685",
-    "originalTitle": "US judge extends block on Trump’s $1.8bn ‘anti-weaponisation’ fund",
-    "urduTitle": "US judge extends block on Trump’s $1.8bn ‘anti-weaponisation’ fund",
-    "urduSummary": "Justice Department had walked back controversial plan after meeting backlash from lawmakers and lawsuits.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/12/us-judge-extends-block-on-trumps-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-    "pubDate": "2026-06-12T16:46:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781281980",
-    "originalTitle": "US, Iran say deal closer than ever, as Pakistan signals final terms are set",
-    "urduTitle": "US, Iran say deal closer than ever, as Pakistan signals final terms are set",
-    "urduSummary": "Statement comes as US, Iran officials caution against media reports on terms of possible agreement.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
-    "pubDate": "2026-06-12T16:38:40.000Z",
     "category": "world",
     "imageUrl": null
   }
