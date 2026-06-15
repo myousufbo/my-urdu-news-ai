@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/ce8mv6l6eezo#0",
+    "originalTitle": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+    "urduTitle": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+    "urduSummary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-15T20:33:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781557018",
+    "originalTitle": "Journalist hit by Israeli strike while reporting in Lebanon",
+    "urduTitle": "Journalist hit by Israeli strike while reporting in Lebanon",
+    "urduSummary": "A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
+    "pubDate": "2026-06-15T21:36:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781557154",
+    "originalTitle": "Egypt draw 1–1 with Belgium at World Cup group game",
+    "urduTitle": "Egypt draw 1–1 with Belgium at World Cup group game",
+    "urduSummary": "Emam Ashour's first international goal gave Egypt the lead, before veteran Romelu Lukaku forced an own goal to equalise.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
+    "pubDate": "2026-06-15T21:23:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781547785",
+    "originalTitle": "Iran vs New Zealand live: World Cup 2026",
+    "urduTitle": "Iran vs New Zealand live: World Cup 2026",
+    "urduSummary": "Follow our live build-up, protest news, score, team sheets, score, photos and text commentary stream from Los Angeles.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
+    "pubDate": "2026-06-15T21:06:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cdr4x3vg347o#0",
     "originalTitle": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
     "urduTitle": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss",
     "pubDate": "2026-06-13T13:14:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781354175",
-    "originalTitle": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
-    "urduTitle": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
-    "urduSummary": "Henry Ensher says the US–Iran agreement is not a final settlement but only the start of a process that can go wrong.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
-    "pubDate": "2026-06-13T12:43:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781348027",
-    "originalTitle": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-    "urduTitle": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-    "urduSummary": "Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
-    "pubDate": "2026-06-13T12:11:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx23kz7e76po#0",
-    "originalTitle": "Switzerland to vote on plan to cap population at 10 million",
-    "urduTitle": "Switzerland to vote on plan to cap population at 10 million",
-    "urduSummary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-12T23:02:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clypy0ndvjlo#0",
-    "originalTitle": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-    "urduTitle": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-    "urduSummary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-13T05:00:04.000Z",
     "category": "world",
     "imageUrl": null
   }
