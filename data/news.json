@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1781654734",
+    "originalTitle": "Trump administration seeks to halt air pollution lawsuit against xAI data",
+    "urduTitle": "Trump administration seeks to halt air pollution lawsuit against xAI data",
+    "urduSummary": "US Department of Justice claims NAACP lawsuit threatens 'national, economic, and energy security'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/6/17/trump-administration-seeks-to-halt-air-pollution-lawsuit-against-xai-data?traffic_source=rss",
+    "pubDate": "2026-06-17T03:14:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781665110",
+    "originalTitle": "Russian drone strikes residential building in Ukraine",
+    "urduTitle": "Russian drone strikes residential building in Ukraine",
+    "urduSummary": "A suspected Russian drone attack on a residential building in Ukraine has injured at least seven people.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-drone-strikes-residential-building-in-ukraine?traffic_source=rss",
+    "pubDate": "2026-06-17T03:02:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781662570",
+    "originalTitle": "Messi hat-trick fires holders Argentina to win over Algeria at World Cup",
+    "urduTitle": "Messi hat-trick fires holders Argentina to win over Algeria at World Cup",
+    "urduSummary": "Argentina open defence of their World Cup crown with a Lionel Messi-inspired 3-0 win against Algeria in 2026 edition.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/17/messi-fires-argentina-to-win-against-algeria-in-world-cup-defence-opener?traffic_source=rss",
+    "pubDate": "2026-06-17T03:00:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
     "pubDate": "2026-06-14T16:49:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781454606",
-    "originalTitle": "Knicks fans set bus alight during celebrations",
-    "urduTitle": "Knicks fans set bus alight during celebrations",
-    "urduSummary": "Footage shows a World Cup shuttle bus set into flames amid chaotic celebrations following Knicks NBA win.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/knicks-fans-set-bus-alight-during-celebrations?traffic_source=rss",
-    "pubDate": "2026-06-14T16:35:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20ygjem17zo#0",
-    "originalTitle": "Swiss voters reject 10 million population cap, early projections say",
-    "urduTitle": "Swiss voters reject 10 million population cap, early projections say",
-    "urduSummary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-14T11:31:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781442261",
-    "originalTitle": "Sexual Violence in Israeli Prisons: What History Tells Us",
-    "urduTitle": "Sexual Violence in Israeli Prisons: What History Tells Us",
-    "urduSummary": "Sexual violence against Palestinians in Israeli custody is often framed as a post-October 7 issue. But historical record",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/2026/6/14/sexual-violence-in-israeli-prisons-what-history-tells-us?traffic_source=rss",
-    "pubDate": "2026-06-14T13:06:52.000Z",
     "category": "world",
     "imageUrl": null
   }
