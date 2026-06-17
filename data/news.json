@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1781731022",
+    "originalTitle": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+    "urduTitle": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+    "urduSummary": "Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
+    "pubDate": "2026-06-17T21:34:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781718934",
+    "originalTitle": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
+    "urduTitle": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
+    "urduSummary": "CFO Meng Wanzhou said in 2021 that Huawei illegally conducted business in Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
+    "pubDate": "2026-06-17T21:32:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781730520",
+    "originalTitle": "Thieves with bulldozer carry out ATM heist in 4 minutes",
+    "urduTitle": "Thieves with bulldozer carry out ATM heist in 4 minutes",
+    "urduSummary": "CCTV footage released by police shows thieves using a bulldozer to tear an ATM from the front of a bank.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thieves-with-bulldozer-carry-out-atm-heist-in-4-minutes?traffic_source=rss",
+    "pubDate": "2026-06-17T21:11:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cpq37yxexd9o#0",
     "originalTitle": "Iran sends tankers loaded with oil past US military blockade",
     "urduTitle": "Iran sends tankers loaded with oil past US military blockade",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-15T09:44:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gy037gjz3o#0",
-    "originalTitle": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-    "urduTitle": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-    "urduSummary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-15T09:39:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781507744",
-    "originalTitle": "Seafarers’ advocates welcome US-Iran deal after months-long limbo in Gulf",
-    "urduTitle": "Seafarers’ advocates welcome US-Iran deal after months-long limbo in Gulf",
-    "urduSummary": "Some 20,000 crew members have been stranded for months amid the closure of the Strait of Hormuz.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/6/15/seafarers-advocates-welcome-us-iran-deal-after-months-long-limbo-in-gulf?traffic_source=rss",
-    "pubDate": "2026-06-15T09:13:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781506038",
-    "originalTitle": "Pakistani police mistakenly open fire on Australian family, killing child",
-    "urduTitle": "Pakistani police mistakenly open fire on Australian family, killing child",
-    "urduSummary": "Fatal shooting of nine-year-old Hania Ahmed by Punjab Police officer causes furore.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/15/pakistani-police-mistakenly-open-fire-on-australian-family-killing-child?traffic_source=rss",
-    "pubDate": "2026-06-15T08:54:49.000Z",
     "category": "world",
     "imageUrl": null
   }
