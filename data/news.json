@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c8r2eejdd35o#0",
+    "originalTitle": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+    "urduTitle": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+    "urduSummary": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-18T21:34:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781811603",
+    "originalTitle": "Are prices really dropping in the US, as Trump claims?",
+    "urduTitle": "Are prices really dropping in the US, as Trump claims?",
+    "urduSummary": "Donald Trump boasts on social media that since signing of MoU for peace deal, oil is flowing and prices are dropping.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
+    "pubDate": "2026-06-18T21:30:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781812037",
+    "originalTitle": "Cuba’s Communist Party approves opening economy in unprecedented move",
+    "urduTitle": "Cuba’s Communist Party approves opening economy in unprecedented move",
+    "urduSummary": "The emergency economic package comes amid an ongoing US pressure campaign that has left the island nation reeling.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
+    "pubDate": "2026-06-18T21:28:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781816034",
+    "originalTitle": "Myanmar military airstrike kills seven civilians in Rakhine state",
+    "urduTitle": "Myanmar military airstrike kills seven civilians in Rakhine state",
+    "urduSummary": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
+    "pubDate": "2026-06-18T21:15:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/clyegr2mp8jo#0",
     "originalTitle": "Bowen: US-Iran deal raises inescapable question of what the war was for",
     "urduTitle": "Bowen: US-Iran deal raises inescapable question of what the war was for",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-16T16:38:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn4rwzxvl8ko#0",
-    "originalTitle": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-    "urduTitle": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-    "urduSummary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-16T15:31:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgepl5gdp1o#0",
-    "originalTitle": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-    "urduTitle": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-    "urduSummary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-16T16:20:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-06-16T16:42:13.464Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781617421",
-    "originalTitle": "Nearly all children globally exposed to at least one climate hazard: Report",
-    "urduTitle": "Nearly all children globally exposed to at least one climate hazard: Report",
-    "urduSummary": "Report highlights the growing threats posed by climate change and calls for the green transition to be accelerated.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report?traffic_source=rss",
-    "pubDate": "2026-06-16T16:08:58.000Z",
     "category": "world",
     "imageUrl": null
   }
