@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cdx7krkdqeno#0",
+    "originalTitle": "Gunfire heard at Niger capital's airport",
+    "urduTitle": "Gunfire heard at Niger capital's airport",
+    "urduSummary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-18T08:30:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781719031",
+    "originalTitle": "Is the G7 hearing the Global South?",
+    "urduTitle": "Is the G7 hearing the Global South?",
+    "urduSummary": "The G7, BRICS and emerging powers are competing for influence in a changing global order.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss",
+    "pubDate": "2026-06-18T08:14:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781763925",
+    "originalTitle": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+    "urduTitle": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+    "urduSummary": "Russia's oil refineries have been heavily targeted, damaging its energy facilities and the country’s fuel crisis.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
+    "pubDate": "2026-06-18T08:11:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781743180",
+    "originalTitle": "World Cup predictions: Mexico vs South Korea, Canada vs Qatar and more",
+    "urduTitle": "World Cup predictions: Mexico vs South Korea, Canada vs Qatar and more",
+    "urduSummary": "World Cup Day 8 featuring Mexico vs South Korea, Canada vs Qatar and the latest tournament talking points.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/18/world-cup-predictions-mexico-vs-south-korea-canada-vs-qatar-and-more?traffic_source=rss",
+    "pubDate": "2026-06-18T08:09:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvgmqzr6p9mo#0",
     "originalTitle": "What's in the US-Iran agreement?",
     "urduTitle": "What's in the US-Iran agreement?",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/6/16/saudi-arabia-draw-1-1-against-uruguay-in-world-cup-opening?traffic_source=rss",
     "pubDate": "2026-06-16T02:02:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8mv6l6eezo#0",
-    "originalTitle": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-    "urduTitle": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-    "urduSummary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-15T20:33:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781557018",
-    "originalTitle": "Journalist hit by Israeli strike while reporting in Lebanon",
-    "urduTitle": "Journalist hit by Israeli strike while reporting in Lebanon",
-    "urduSummary": "A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
-    "pubDate": "2026-06-15T21:36:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781557154",
-    "originalTitle": "Egypt draw 1–1 with Belgium at World Cup group game",
-    "urduTitle": "Egypt draw 1–1 with Belgium at World Cup group game",
-    "urduSummary": "Emam Ashour's first international goal gave Egypt the lead, before veteran Romelu Lukaku forced an own goal to equalise.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
-    "pubDate": "2026-06-15T21:23:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781547785",
-    "originalTitle": "Iran vs New Zealand live: World Cup 2026",
-    "urduTitle": "Iran vs New Zealand live: World Cup 2026",
-    "urduSummary": "Follow our live build-up, protest news, score, team sheets, score, photos and text commentary stream from Los Angeles.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
-    "pubDate": "2026-06-15T21:06:03.000Z",
     "category": "world",
     "imageUrl": null
   }
