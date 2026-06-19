@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cdr457lxr71o#0",
+    "originalTitle": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+    "urduTitle": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+    "urduSummary": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-19T17:02:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781882028",
+    "originalTitle": "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
+    "urduTitle": "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
+    "urduSummary": "The Italian prime minister has accused Trump of making up a story that she 'begged' him for a photo at G7 in France.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/19/italys-top-diplomat-nixes-us-trip-after-meloni-says-trump-fabricated-story?traffic_source=rss",
+    "pubDate": "2026-06-19T16:38:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781885992",
+    "originalTitle": "How is China using AI in the classroom?",
+    "urduTitle": "How is China using AI in the classroom?",
+    "urduSummary": "How will teaching artificial intelligence help China take on a high-tech future?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/19/how-is-china-using-ai-in-the-classroom?traffic_source=rss",
+    "pubDate": "2026-06-19T16:22:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781876932",
+    "originalTitle": "Israeli air strikes hit Lebanon minutes after new ceasefire",
+    "urduTitle": "Israeli air strikes hit Lebanon minutes after new ceasefire",
+    "urduSummary": "Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israeli-air-strikes-hit-lebanon-minutes-after-new-ceasefire?traffic_source=rss",
+    "pubDate": "2026-06-19T16:04:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c20y1ygn707o#0",
     "originalTitle": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
     "urduTitle": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/6/17/luigi-mangione-to-use-psychiatric-defence-in-healthcare-ceo-murder-case?traffic_source=rss",
     "pubDate": "2026-06-17T17:15:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781710903",
-    "originalTitle": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-    "urduTitle": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-    "urduSummary": "More than 1,000 people in Gaza have been killed since a US-brokered 'ceasefire' between Hamas and Israel was agreed.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
-    "pubDate": "2026-06-17T17:14:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781714273",
-    "originalTitle": "Young Palestinian women learn AI to tell stories of war on Gaza",
-    "urduTitle": "Young Palestinian women learn AI to tell stories of war on Gaza",
-    "urduSummary": "Young Palestinian women learn AI to tell stories of war on Gaza.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss",
-    "pubDate": "2026-06-17T16:58:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7vyn17g832o#0",
-    "originalTitle": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-    "urduTitle": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-    "urduSummary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-17T10:01:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy0nlv90jno#0",
-    "originalTitle": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-    "urduTitle": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-    "urduSummary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-17T09:13:34.000Z",
     "category": "world",
     "imageUrl": null
   }
