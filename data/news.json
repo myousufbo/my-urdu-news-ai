@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-06-19T03:43:49.579Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781822622",
+    "originalTitle": "Andy Burnham wins key UK by-election, paving way to challenge Keir Starmer",
+    "urduTitle": "Andy Burnham wins key UK by-election, paving way to challenge Keir Starmer",
+    "urduSummary": "Greater Manchester mayor's victory in Makerfield clears path for bid to unseat Starmer as prime minister.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss",
+    "pubDate": "2026-06-19T02:11:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781826643",
+    "originalTitle": "Canada vs Qatar World Cup: 3 goals for David, 2 red cards, 1 injured Kone",
+    "urduTitle": "Canada vs Qatar World Cup: 3 goals for David, 2 red cards, 1 injured Kone",
+    "urduSummary": "BC Place was a battlefield as Kone was stretchered off, Qatar got two red cards, and both teams brawled after full-time.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/19/canada-vs-qatar-world-cup-3-goals-for-david-2-red-cards-1-injured-kone?traffic_source=rss",
+    "pubDate": "2026-06-19T01:14:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781830922",
+    "originalTitle": "Obama opens presidential centre with call for unity",
+    "urduTitle": "Obama opens presidential centre with call for unity",
+    "urduSummary": "Former US President Barack Obama opened his presidential centre in Chicago, using the occasion to call for unity.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/obama-opens-presidential-centre-with-call-for-unity?traffic_source=rss",
+    "pubDate": "2026-06-19T01:12:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c8r2eejdd35o#0",
     "originalTitle": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
     "urduTitle": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-06-16T22:06:40.048Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781645333",
-    "originalTitle": "Somaliland president visits Israeli Knesset on tour",
-    "urduTitle": "Somaliland president visits Israeli Knesset on tour",
-    "urduSummary": "Somaliland’s President is on a ‘historic’ tour of Israel, where he’s opened an embassy and visited the Knesset.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss",
-    "pubDate": "2026-06-16T21:51:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781641149",
-    "originalTitle": "Ghana’s Partey loses appeal to overturn Canadian visa refusal for World Cup",
-    "urduTitle": "Ghana’s Partey loses appeal to overturn Canadian visa refusal for World Cup",
-    "urduSummary": "Thomas Partey will not be able to enter Canada for Ghana's first World Cup match against Panama on Wednesday.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/16/ghanas-partey-loses-appeal-to-overturn-canadian-visa-refusal-for-world-cup?traffic_source=rss",
-    "pubDate": "2026-06-16T21:39:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781644770",
-    "originalTitle": "Mbappe brace fires France to 3-1 win over Senegal in World Cup 2026 opener",
-    "urduTitle": "Mbappe brace fires France to 3-1 win over Senegal in World Cup 2026 opener",
-    "urduSummary": "Mbappe becomes France's all-time top scorer with 58 goals and is two goals off record World Cup scorer Miroslav Klose.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/16/mbappe-brace-fires-france-to-3-1-win-over-senegal-in-world-cup-2026-opener?traffic_source=rss",
-    "pubDate": "2026-06-16T21:33:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20yzm84r7lo#0",
-    "originalTitle": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-    "urduTitle": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-    "urduSummary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-16T16:38:55.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
