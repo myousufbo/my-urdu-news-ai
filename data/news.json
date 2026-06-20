@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cwylx1vq18zo#0",
+    "originalTitle": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+    "urduTitle": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+    "urduSummary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+    "source": "BBC World",
+    "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-20T17:40:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781988079",
+    "originalTitle": "Bolivia declares state of emergency to clear protest blockades",
+    "urduTitle": "Bolivia declares state of emergency to clear protest blockades",
+    "urduSummary": "Bolivia declares state of emergency to clear protest blockades",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
+    "pubDate": "2026-06-20T20:42:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781984277",
+    "originalTitle": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+    "urduTitle": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+    "urduSummary": "Overplaying Strait of Hormuz card will turn Iran into a pariah state.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
+    "pubDate": "2026-06-20T19:43:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781982528",
+    "originalTitle": "Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win",
+    "urduTitle": "Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win",
+    "urduSummary": "The Dutch have four points after bagging their first win in Houston; Sweden are second with three points in Group F.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup?traffic_source=rss",
+    "pubDate": "2026-06-20T19:42:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cwyekkwm1mmo#0",
     "originalTitle": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
     "urduTitle": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
     "pubDate": "2026-06-18T21:30:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781812037",
-    "originalTitle": "Cuba’s Communist Party approves opening economy in unprecedented move",
-    "urduTitle": "Cuba’s Communist Party approves opening economy in unprecedented move",
-    "urduSummary": "The emergency economic package comes amid an ongoing US pressure campaign that has left the island nation reeling.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
-    "pubDate": "2026-06-18T21:28:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781816034",
-    "originalTitle": "Myanmar military airstrike kills seven civilians in Rakhine state",
-    "urduTitle": "Myanmar military airstrike kills seven civilians in Rakhine state",
-    "urduSummary": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
-    "pubDate": "2026-06-18T21:15:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyegr2mp8jo#0",
-    "originalTitle": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-    "urduTitle": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-    "urduSummary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-18T15:53:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c932yqz8lggo#0",
-    "originalTitle": "Why Iran believes deal with US leaves it stronger than before",
-    "urduTitle": "Why Iran believes deal with US leaves it stronger than before",
-    "urduSummary": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-18T15:38:18.000Z",
     "category": "world",
     "imageUrl": null
   }
