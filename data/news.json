@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o#0",
+    "originalTitle": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+    "urduTitle": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+    "urduSummary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-24T03:57:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782260990",
+    "originalTitle": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+    "urduTitle": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+    "urduSummary": "Iran and the US clash over nuclear inspections and Hormuz as negotiators push for a final deal within 60 days.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
+    "pubDate": "2026-06-24T07:04:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781866305",
+    "originalTitle": "Diabetes patients in Gaza face survival battle amid war shortages",
+    "urduTitle": "Diabetes patients in Gaza face survival battle amid war shortages",
+    "urduSummary": "Insulin and equipment shortages in Gaza pose fatal risks, leading to critical health complications.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
+    "pubDate": "2026-06-24T06:04:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782279723",
+    "originalTitle": "Deadly heatwave grips Europe as temperatures soar across continent",
+    "urduTitle": "Deadly heatwave grips Europe as temperatures soar across continent",
+    "urduSummary": "A blistering heatwave has swept across Europe triggering the highest-level red heat warnings in Britain and France.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
+    "pubDate": "2026-06-24T05:57:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1782266002",
     "originalTitle": "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon",
     "urduTitle": "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon",
@@ -503,50 +547,6 @@
     "link": "https://www.aljazeera.com/sports/2026/6/22/lamine-yamal-spain-star-dazzles-with-world-cup-goal?traffic_source=rss",
     "pubDate": "2026-06-22T08:56:08.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782098081",
-    "originalTitle": "Crimea halts fuel sales after Ukraine strikes cause shortages",
-    "urduTitle": "Crimea halts fuel sales after Ukraine strikes cause shortages",
-    "urduSummary": "Gas sales in Russian-controlled Crimea have halted after Ukrainian drone strikes on the peninsula’s supply route.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/crimea-halts-fuel-sales-after-ukraine-strikes-cause-shortages?traffic_source=rss",
-    "pubDate": "2026-06-22T03:18:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782097884",
-    "originalTitle": "Japanese fans clean up stands after celebrating World Cup win",
-    "urduTitle": "Japanese fans clean up stands after celebrating World Cup win",
-    "urduSummary": "Japanese fans stayed behind after celebrating their 4-0 victory over Tunisia, by collecting rubbish from the stands.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/japanese-fans-clean-up-stands-after-celebrating-world-cup-win?traffic_source=rss",
-    "pubDate": "2026-06-22T03:14:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782096008",
-    "originalTitle": "Colombia’s De La Espriella claims victory on preliminary results",
-    "urduTitle": "Colombia’s De La Espriella claims victory on preliminary results",
-    "urduSummary": "Right-wing candidate Abelardo de la Espriella has claimed victory in Colombia's presidential election.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/colombias-de-la-espriella-claims-victory-on-preliminary-results?traffic_source=rss",
-    "pubDate": "2026-06-22T02:45:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-    "pubDate": "2026-06-21T21:08:08.574Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
