@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-06-24T17:49:23.837Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782321625",
+    "originalTitle": "Did Brexit actually work?",
+    "urduTitle": "Did Brexit actually work?",
+    "urduSummary": "A vote that changed Britain forever. Ten years after Brexit, the UK is still grappling with its consequences.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/did-brexit-actually-work?traffic_source=rss",
+    "pubDate": "2026-06-24T17:34:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782321989",
+    "originalTitle": "Iran’s president awarded honorary doctorate in Pakistan",
+    "urduTitle": "Iran’s president awarded honorary doctorate in Pakistan",
+    "urduSummary": "Iran’s President Masoud Pezeshkian was awarded an honorary medical fellowship in cardiac surgery.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/irans-president-awarded-honorary-doctorate-in-pakistan?traffic_source=rss",
+    "pubDate": "2026-06-24T17:33:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782321140",
+    "originalTitle": "The children Gaza lost",
+    "urduTitle": "The children Gaza lost",
+    "urduSummary": "What does a new UN report documenting the killing and suffering of Palestinian children in Gaza reveal?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/24/the-children-gaza-lost?traffic_source=rss",
+    "pubDate": "2026-06-24T17:19:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o#0",
     "originalTitle": "Air conditioning creates political divide as France records hottest day",
     "urduTitle": "Air conditioning creates political divide as France records hottest day",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/6/22/hungarys-pm-launches-drive-to-free-country-from-orbans-mafia?traffic_source=rss",
     "pubDate": "2026-06-22T21:23:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782161001",
-    "originalTitle": "Czech public media staff strike, citing government threat to independence",
-    "urduTitle": "Czech public media staff strike, citing government threat to independence",
-    "urduSummary": "Plan to put funding under direct control has sparked widespread opposition, with critics fearing political interference.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
-    "pubDate": "2026-06-22T21:21:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782156373",
-    "originalTitle": "US judge blocks Trump administration subpoena against Minnesota officials",
-    "urduTitle": "US judge blocks Trump administration subpoena against Minnesota officials",
-    "urduSummary": "Ruling represents setback for investigation that targeted state Democratic officials who criticised immigration raids.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/22/us-judge-blocks-trump-administration-subpoena-against-minnesota-officials?traffic_source=rss",
-    "pubDate": "2026-06-22T21:20:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3vy3nr63gxo#0",
-    "originalTitle": "Vance says Iran will allow nuclear inspectors back into the country",
-    "urduTitle": "Vance says Iran will allow nuclear inspectors back into the country",
-    "urduSummary": "The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-22T14:18:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy05llpjpno#0",
-    "originalTitle": "At least 13 killed and dozens injured after Qatar gas explosion",
-    "urduTitle": "At least 13 killed and dozens injured after Qatar gas explosion",
-    "urduSummary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
-    "source": "BBC World",
-    "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-22T15:15:42.000Z",
     "category": "world",
     "imageUrl": null
   }
