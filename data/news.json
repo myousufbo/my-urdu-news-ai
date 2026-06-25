@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/videos/c78y1e3606vo#0",
+    "originalTitle": "People flee as building collapses on Caracas outskirts",
+    "urduTitle": "People flee as building collapses on Caracas outskirts",
+    "urduSummary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-25T12:08:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782404243",
+    "originalTitle": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
+    "urduTitle": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
+    "urduSummary": "More than 100,000 plaintiffs had filed cases in US state and federal courts alleging cancer link to weedkiller Roundup.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
+    "pubDate": "2026-06-25T17:15:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782401595",
+    "originalTitle": "Ukrainian attack on Crimea kills five, Russian officials say",
+    "urduTitle": "Ukrainian attack on Crimea kills five, Russian officials say",
+    "urduSummary": "Attacks continue on the ground as Moscow expels Romania’s consul general in a tit-for-tat move.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
+    "pubDate": "2026-06-25T17:12:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782302937",
+    "originalTitle": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+    "urduTitle": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+    "urduSummary": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+    "pubDate": "2026-06-25T17:11:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o#0",
     "originalTitle": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
     "urduTitle": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-23T16:47:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o#0",
-    "originalTitle": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-    "urduTitle": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-    "urduSummary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-23T14:55:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782233475",
-    "originalTitle": "EU hosts Taliban officials for the first time in talks on deportations",
-    "urduTitle": "EU hosts Taliban officials for the first time in talks on deportations",
-    "urduSummary": "The Taliban government is not recognised by any European country, despite this meeting in Brussels with EU officials.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss",
-    "pubDate": "2026-06-23T17:26:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782228413",
-    "originalTitle": "US appeals court says Trump can proceed with fast-track deportation efforts",
-    "urduTitle": "US appeals court says Trump can proceed with fast-track deportation efforts",
-    "urduSummary": "A panel of judges has overturned a previous ruling that found measures violated constitutional right to due process.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/23/us-appeals-court-says-trump-can-proceed-with-fast-track-deportation-efforts?traffic_source=rss",
-    "pubDate": "2026-06-23T17:19:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782207537",
-    "originalTitle": "The weight of the Three Lions: Football, colonialism, diaspora",
-    "urduTitle": "The weight of the Three Lions: Football, colonialism, diaspora",
-    "urduSummary": "England vs Ghana exposes football’s tangled histories of empire, diaspora and belonging.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/6/23/the-weight-of-the-three-lions-football-colonialism-diaspora?traffic_source=rss",
-    "pubDate": "2026-06-23T16:50:49.000Z",
     "category": "world",
     "imageUrl": null
   }
