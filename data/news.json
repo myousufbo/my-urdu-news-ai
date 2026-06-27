@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1782558250",
+    "originalTitle": "Three killed as Ukraine and Russia trade attacks overnight",
+    "urduTitle": "Three killed as Ukraine and Russia trade attacks overnight",
+    "urduSummary": "Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+    "pubDate": "2026-06-27T11:58:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781370427",
+    "originalTitle": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
+    "urduTitle": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
+    "urduSummary": "A Delhi family is trapped between a stalled legal system, fraught family ties, and the struggle to protect their child.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss",
+    "pubDate": "2026-06-27T11:36:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782435771",
+    "originalTitle": "Exclusive: Infiltrating Myanmar’s scam syndicates",
+    "urduTitle": "Exclusive: Infiltrating Myanmar’s scam syndicates",
+    "urduSummary": "101 East goes undercover to expose the playbook of Myanmar’s notorious scam industry.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss",
+    "pubDate": "2026-06-27T11:30:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1782526602",
     "originalTitle": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions",
     "urduTitle": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-25T13:09:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno#0",
-    "originalTitle": "Europe's heatwave shifts east as France raises health alert to highest level",
-    "urduTitle": "Europe's heatwave shifts east as France raises health alert to highest level",
-    "urduSummary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-25T13:51:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782300576",
-    "originalTitle": "Norway vs France at World Cup 2026: Mbappe vs Haaland, team news, lineups",
-    "urduTitle": "Norway vs France at World Cup 2026: Mbappe vs Haaland, team news, lineups",
-    "urduSummary": "Norway and France face off in final Group I match with top spot in the group to be decided in Boston Stadium.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/25/norway-vs-france-at-world-cup-2026-mbappe-vs-haaland-team-news-lineups?traffic_source=rss",
-    "pubDate": "2026-06-25T13:48:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782394235",
-    "originalTitle": "Haitians reflect on first World Cup experience in 52 years",
-    "urduTitle": "Haitians reflect on first World Cup experience in 52 years",
-    "urduSummary": "Haitian diaspora reflects after Haiti participated in the World Cup for the first time in 52 years.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/haitians-reflect-on-first-world-cup-experience-in-52-years?traffic_source=rss",
-    "pubDate": "2026-06-25T13:38:25.000Z",
     "category": "world",
     "imageUrl": null
   }
