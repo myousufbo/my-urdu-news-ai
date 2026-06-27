@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cp8l451420zo#0",
+    "originalTitle": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+    "urduTitle": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+    "urduSummary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-27T19:18:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782589545",
+    "originalTitle": "Donald Trump nominates Lance Schroyer to serve as ICE director",
+    "urduTitle": "Donald Trump nominates Lance Schroyer to serve as ICE director",
+    "urduSummary": "The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump's first term.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
+    "pubDate": "2026-06-27T20:34:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782560926",
+    "originalTitle": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
+    "urduTitle": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
+    "urduSummary": "Follow updates as the top two teams in Group K face off - including the build-up, analysis and live text commentary.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/27/colombia-vs-portugal-live-fifa-world-cup-2026?traffic_source=rss",
+    "pubDate": "2026-06-27T20:30:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782580344",
+    "originalTitle": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
+    "urduTitle": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
+    "urduSummary": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss",
+    "pubDate": "2026-06-27T20:23:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o#0",
     "originalTitle": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
     "urduTitle": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/hundreds-trapped-beneath-buildings-a-day-after-venezuelas-twin-earthquakes?traffic_source=rss",
     "pubDate": "2026-06-26T02:13:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782418637",
-    "originalTitle": "Economic losses mount as Venezuela earthquake death toll grows",
-    "urduTitle": "Economic losses mount as Venezuela earthquake death toll grows",
-    "urduSummary": "Initial forecasts suggest damage could cost as much as 7 percent of the South American nation's GDP.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
-    "pubDate": "2026-06-25T21:12:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782414134",
-    "originalTitle": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-    "urduTitle": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-    "urduSummary": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
-    "pubDate": "2026-06-25T20:55:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782420532",
-    "originalTitle": "Venezuela quake leaves La Guaira in almost total devastation",
-    "urduTitle": "Venezuela quake leaves La Guaira in almost total devastation",
-    "urduSummary": "La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss",
-    "pubDate": "2026-06-25T20:50:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c78y1e3606vo#0",
-    "originalTitle": "People flee as building collapses on Caracas outskirts",
-    "urduTitle": "People flee as building collapses on Caracas outskirts",
-    "urduSummary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-25T12:08:30.000Z",
     "category": "world",
     "imageUrl": null
   }
