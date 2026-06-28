@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1782637489",
+    "originalTitle": "Iraq security forces arrest several officials in anticorruption crackdown",
+    "urduTitle": "Iraq security forces arrest several officials in anticorruption crackdown",
+    "urduSummary": "Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
+    "pubDate": "2026-06-28T10:05:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782596135",
+    "originalTitle": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
+    "urduTitle": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
+    "urduSummary": "Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
+    "pubDate": "2026-06-28T09:33:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782624313",
+    "originalTitle": "Iran attacks Kuwait and Bahrain in response to US strikes",
+    "urduTitle": "Iran attacks Kuwait and Bahrain in response to US strikes",
+    "urduSummary": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
+    "pubDate": "2026-06-28T08:39:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1781972143",
     "originalTitle": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
     "urduTitle": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
@@ -514,39 +547,6 @@
     "link": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran?traffic_source=rss",
     "pubDate": "2026-06-26T10:25:20.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782469221",
-    "originalTitle": "Baby pulled alive from rubble after Venezuela earthquake",
-    "urduTitle": "Baby pulled alive from rubble after Venezuela earthquake",
-    "urduSummary": "Baby pulled alive from rubble after Venezuela earthquake",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/baby-pulled-alive-from-rubble-after-venezuela-earthquake?traffic_source=rss",
-    "pubDate": "2026-06-26T10:23:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782461339",
-    "originalTitle": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
-    "urduTitle": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
-    "urduSummary": "The drone attack is one of Kyiv's biggest of the war, sustaining pressure on Russia as it struggles with fuel shortages.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
-    "pubDate": "2026-06-26T10:12:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-06-26T07:44:10.054Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
