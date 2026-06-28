@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo#0",
+    "originalTitle": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+    "urduTitle": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+    "urduSummary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-28T16:38:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782664435",
+    "originalTitle": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+    "urduTitle": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+    "urduSummary": "Drone footage from Venezuela's La Guaira shows widespread destruction after twin earthquakes devastated the region.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss",
+    "pubDate": "2026-06-28T16:38:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782662195",
+    "originalTitle": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
+    "urduTitle": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
+    "urduSummary": "George Russell's victory over Max Verstappen further reduces teammate Kimi Antonelli’s lead in the drivers' title race.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss",
+    "pubDate": "2026-06-28T16:12:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782658250",
+    "originalTitle": "Israel strikes Lebanon, testing days-old peace deal",
+    "urduTitle": "Israel strikes Lebanon, testing days-old peace deal",
+    "urduSummary": "Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+    "pubDate": "2026-06-28T15:53:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o#0",
     "originalTitle": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
     "urduTitle": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-06-26T17:42:21.678Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782486836",
-    "originalTitle": "DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’",
-    "urduTitle": "DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’",
-    "urduSummary": "Kinshasa takes Kigali to UN's top court over 30 years of alleged massacres, sexual violence, and forced displacement.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/26/dr-congo-files-case-against-rwanda-at-icj-over-decades-of-alleged-abuses?traffic_source=rss",
-    "pubDate": "2026-06-26T16:54:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782492514",
-    "originalTitle": "How did Colombia’s election split a nation in two?",
-    "urduTitle": "How did Colombia’s election split a nation in two?",
-    "urduSummary": "Colombia elected its first right-wing president in years by a razor-thin margin.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/26/how-did-colombias-election-split-a-nation-in-two?traffic_source=rss",
-    "pubDate": "2026-06-26T16:50:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782482854",
-    "originalTitle": "‘This time’: The World Cup commercials capturing Egypt’s soaring hopes",
-    "urduTitle": "‘This time’: The World Cup commercials capturing Egypt’s soaring hopes",
-    "urduSummary": "The advertisements play on Egypt's poor World Cup record — and the belief that 2026 is different. So far, they ring true",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/26/this-time-the-world-cup-commercials-capturing-egypts-soaring-hopes?traffic_source=rss",
-    "pubDate": "2026-06-26T16:32:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo#0",
-    "originalTitle": "Aerial footage reveals destruction in coastal Venezuela",
-    "urduTitle": "Aerial footage reveals destruction in coastal Venezuela",
-    "urduSummary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-26T05:13:22.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
