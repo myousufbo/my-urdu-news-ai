@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1781972143",
+    "originalTitle": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+    "urduTitle": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+    "urduSummary": "Suffering of Gaza's children continues unabated due to Israeli attacks despite 'ceasefire' reached in October 2025.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
+    "pubDate": "2026-06-28T07:39:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782628450",
+    "originalTitle": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
+    "urduTitle": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
+    "urduSummary": "Austria's 3-3 draw with Algeria ultimately decides Iran's fate as Team Melli crash out of the 2026 World Cup.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time?traffic_source=rss",
+    "pubDate": "2026-06-28T07:23:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782627113",
+    "originalTitle": "Polls open in New Caledonia’s first provincial elections since 2019",
+    "urduTitle": "Polls open in New Caledonia’s first provincial elections since 2019",
+    "urduSummary": "The New Zealand public broadcaster reports that about 2,500 police officers were deployed to secure and monitor polling stations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss",
+    "pubDate": "2026-06-28T07:12:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o#0",
     "originalTitle": "US launches strikes on Iran after second shipping attack",
     "urduTitle": "US launches strikes on Iran after second shipping attack",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-06-26T07:44:10.054Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782451311",
-    "originalTitle": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-    "urduTitle": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-    "urduSummary": "Israeli and Lebanese delegations will continue their talks on Friday.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
-    "pubDate": "2026-06-26T07:07:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782450199",
-    "originalTitle": "US ends deportation protections (TPS) for Haitians and Syrians",
-    "urduTitle": "US ends deportation protections (TPS) for Haitians and Syrians",
-    "urduSummary": "The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
-    "pubDate": "2026-06-26T05:25:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782445370",
-    "originalTitle": "Turkiye beat US with stoppage-time goal in World Cup dead rubber",
-    "urduTitle": "Turkiye beat US with stoppage-time goal in World Cup dead rubber",
-    "urduSummary": "Kaan Ayhan scored the winner late in stoppage time as Turkiye handed the US their first defeat of 2026 FIFA World Cup.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/26/turkiye-usa-fifa-world-cup-2026-ayhan-guler-yilmaz-trusty-berhalter-pulisic?traffic_source=rss",
-    "pubDate": "2026-06-26T04:44:06.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
