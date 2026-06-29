@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo#0",
+    "originalTitle": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+    "urduTitle": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+    "urduSummary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-29T20:00:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782766684",
+    "originalTitle": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+    "urduTitle": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+    "urduSummary": "Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
+    "pubDate": "2026-06-29T21:01:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782762762",
+    "originalTitle": "What’s behind the anti-corruption crackdown in Iraq?",
+    "urduTitle": "What’s behind the anti-corruption crackdown in Iraq?",
+    "urduSummary": "A number of senior politicians have been detained in a wave of arrests.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
+    "pubDate": "2026-06-29T20:24:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782760775",
+    "originalTitle": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
+    "urduTitle": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
+    "urduSummary": "Martinelli's stoppage-time goal in Houston takes the five-time champions to the Round of 16, breaking Japanese hearts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss",
+    "pubDate": "2026-06-29T19:33:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1782753881",
     "originalTitle": "UK’s prime minister-in-waiting vows to shake up politics",
     "urduTitle": "UK’s prime minister-in-waiting vows to shake up politics",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-06-27T14:22:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782577719",
-    "originalTitle": "Lebanon divided over framework agreement signed in Washington",
-    "urduTitle": "Lebanon divided over framework agreement signed in Washington",
-    "urduSummary": "Lebanon divided over framework agreement signed in Washington",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss",
-    "pubDate": "2026-06-27T16:31:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782571618",
-    "originalTitle": "Israeli drone attack kills young girl in Gaza safe zone",
-    "urduTitle": "Israeli drone attack kills young girl in Gaza safe zone",
-    "urduSummary": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
-    "pubDate": "2026-06-27T15:53:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782570401",
-    "originalTitle": "Bosnia: The lilies and dragons of the World Cup",
-    "urduTitle": "Bosnia: The lilies and dragons of the World Cup",
-    "urduSummary": "Football is bringing out in our nation what the corrupt elite would not like to see.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/6/27/bosnia-the-lilies-and-dragons-of-the-world?traffic_source=rss",
-    "pubDate": "2026-06-27T15:49:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782558250",
-    "originalTitle": "Three killed as Ukraine and Russia trade attacks overnight",
-    "urduTitle": "Three killed as Ukraine and Russia trade attacks overnight",
-    "urduSummary": "Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
-    "pubDate": "2026-06-27T11:58:54.000Z",
     "category": "world",
     "imageUrl": null
   }
