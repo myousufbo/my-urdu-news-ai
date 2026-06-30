@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/videos/c621d53wqw0o#0",
+    "originalTitle": "Americans react to Supreme Court upholding birthright citizenship",
+    "urduTitle": "Americans react to Supreme Court upholding birthright citizenship",
+    "urduSummary": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-30T19:36:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-06-30T21:23:15.353Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782853417",
+    "originalTitle": "Emergency crews search rubble after Athens building collapse",
+    "urduTitle": "Emergency crews search rubble after Athens building collapse",
+    "urduSummary": "Rescue teams in Greece are combing through the rubble for survivors after a four-story apartment building in Athens.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
+    "pubDate": "2026-06-30T21:07:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782848345",
+    "originalTitle": "More than 30 students remain missing after Nigeria school attack",
+    "urduTitle": "More than 30 students remain missing after Nigeria school attack",
+    "urduSummary": "The attacks targeted a secondary school in the northeastern town of Lassa, in Borno State.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss",
+    "pubDate": "2026-06-30T20:55:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782850822",
+    "originalTitle": "Rescuers find more bodies under rubble as Venezuela death toll rises",
+    "urduTitle": "Rescuers find more bodies under rubble as Venezuela death toll rises",
+    "urduSummary": "International and local emergency teams are continuing to recover the bodies of victims under the rubble",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
+    "pubDate": "2026-06-30T20:50:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro#0",
     "originalTitle": "Supreme Court's birthright ruling is major blow to Trump",
     "urduTitle": "Supreme Court's birthright ruling is major blow to Trump",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_ig_thumb1-280626?traffic_source=rss",
     "pubDate": "2026-06-29T01:51:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782681665",
-    "originalTitle": "Praise pours in for ‘true Canadian heroes’ after last-minute World Cup win",
-    "urduTitle": "Praise pours in for ‘true Canadian heroes’ after last-minute World Cup win",
-    "urduSummary": "From the prime minister to sport celebrities and fans on social media, Canadians have revelled in their team's win.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/29/praise-pours-in-for-true-canadian-heroes-after-last-minute-world-cup-win?traffic_source=rss",
-    "pubDate": "2026-06-29T01:20:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782692972",
-    "originalTitle": "Pakistan says its security forces killed 29 fighters along Afghan border",
-    "urduTitle": "Pakistan says its security forces killed 29 fighters along Afghan border",
-    "urduSummary": "Strikes come a day after fighters armed with guns and explosives killed three soldiers in Karachi.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border?traffic_source=rss",
-    "pubDate": "2026-06-29T01:06:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782678358",
-    "originalTitle": "Protesters in Serbia doubt Vucic resignation will bring change",
-    "urduTitle": "Protesters in Serbia doubt Vucic resignation will bring change",
-    "urduSummary": "Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
-    "pubDate": "2026-06-28T20:29:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782677904",
-    "originalTitle": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
-    "urduTitle": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
-    "urduSummary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
-    "pubDate": "2026-06-28T20:21:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782662960",
-    "originalTitle": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-    "urduTitle": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-    "urduSummary": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
-    "pubDate": "2026-06-28T19:54:39.000Z",
     "category": "world",
     "imageUrl": null
   }
