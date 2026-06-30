@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo#0",
+    "originalTitle": "Angry Venezuelans accuse government of negligence over earthquake response",
+    "urduTitle": "Angry Venezuelans accuse government of negligence over earthquake response",
+    "urduSummary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-30T03:53:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy4eq1l184po#0",
+    "originalTitle": "Heavy security deployed in South Africa ahead of anti-migrant protests",
+    "urduTitle": "Heavy security deployed in South Africa ahead of anti-migrant protests",
+    "urduSummary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-06-30T07:18:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782795532",
+    "originalTitle": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+    "urduTitle": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+    "urduSummary": "Outbreak spreads to a fourth province, Haut-Uele, bordering South Sudan and the CAR, according to a media report.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss",
+    "pubDate": "2026-06-30T07:32:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782735134",
+    "originalTitle": "Social media calculator: How much of your life is spent on social media?",
+    "urduTitle": "Social media calculator: How much of your life is spent on social media?",
+    "urduSummary": "The average user spends roughly two hours, 39 minutes on social media daily, adding up to more than 40 days a year.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/30/social-media-calculator-how-much-of-your-life-is-spent-on-social-media?traffic_source=rss",
+    "pubDate": "2026-06-30T07:26:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782799096",
+    "originalTitle": "WhatsApp to let users go by usernames, not phone numbers",
+    "urduTitle": "WhatsApp to let users go by usernames, not phone numbers",
+    "urduSummary": "WhatsApp says the feature is designed to give its three billion users a new layer of control over who can contact them.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/6/30/whatsapp-to-let-users-go-by-usernames-not-phone-numbers?traffic_source=rss",
+    "pubDate": "2026-06-30T06:54:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o#0",
     "originalTitle": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
     "urduTitle": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss",
     "pubDate": "2026-06-28T07:12:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o#0",
-    "originalTitle": "US launches strikes on Iran after second shipping attack",
-    "urduTitle": "US launches strikes on Iran after second shipping attack",
-    "urduSummary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-28T01:22:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782610238",
-    "originalTitle": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
-    "urduTitle": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
-    "urduSummary": "Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal?traffic_source=rss",
-    "pubDate": "2026-06-28T01:52:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782604820",
-    "originalTitle": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
-    "urduTitle": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
-    "urduSummary": "Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
-    "pubDate": "2026-06-28T00:09:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782601643",
-    "originalTitle": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
-    "urduTitle": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
-    "urduSummary": "US president threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-    "pubDate": "2026-06-28T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp8l451420zo#0",
-    "originalTitle": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-    "urduTitle": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-    "urduSummary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-27T19:18:57.000Z",
     "category": "world",
     "imageUrl": null
   }
