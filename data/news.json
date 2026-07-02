@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo#0",
+    "originalTitle": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+    "urduTitle": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+    "urduSummary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-02T00:26:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c70yk07vq0po#0",
+    "originalTitle": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+    "urduTitle": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+    "urduSummary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-01T22:36:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782951392",
+    "originalTitle": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+    "urduTitle": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+    "urduSummary": "Explosions heard across Ukraine's capital as forces defend against ballistic missiles and drones targeting the city.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+    "pubDate": "2026-07-02T02:15:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782957143",
+    "originalTitle": "Ocean temperatures hit record highs as El Niño looms",
+    "urduTitle": "Ocean temperatures hit record highs as El Niño looms",
+    "urduSummary": "The world’s oceans are under heat stress, with average sea surface temperatures hitting 21°C.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/ocean-temperatures-hit-record-highs-as-el-nino-looms?traffic_source=rss",
+    "pubDate": "2026-07-02T01:57:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782949754",
+    "originalTitle": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+    "urduTitle": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+    "urduSummary": "Aid workers fear disease outbreaks in temporary shelters amid overcrowding, lack of access to clean water, sanitation.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
+    "pubDate": "2026-07-02T01:24:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo#0",
     "originalTitle": "Ukrainian charged in Germany over Nord Stream blasts",
     "urduTitle": "Ukrainian charged in Germany over Nord Stream blasts",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
     "pubDate": "2026-06-30T10:09:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782807101",
-    "originalTitle": "Advocacy groups file complaint against Ghana over Trump deportations",
-    "urduTitle": "Advocacy groups file complaint against Ghana over Trump deportations",
-    "urduSummary": "The deportees were sent to Ghana, then to their home countries, despite earlier rulings by US judges that it was unsafe.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/30/advocacy-groups-file-complaint-against-ghana-over-trump-deportations?traffic_source=rss",
-    "pubDate": "2026-06-30T10:03:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782804880",
-    "originalTitle": "The next British PM should steer clear of Starmer’s shameful legacy",
-    "urduTitle": "The next British PM should steer clear of Starmer’s shameful legacy",
-    "urduSummary": "The outgoing PM succeeded in enabling genocide and failed miserably at improving the lives of ordinary Brits.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/6/30/the-next-british-pm-should-steer-clear-of-starmers-shameful-legacy?traffic_source=rss",
-    "pubDate": "2026-06-30T09:41:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo#0",
-    "originalTitle": "Angry Venezuelans accuse government of negligence over earthquake response",
-    "urduTitle": "Angry Venezuelans accuse government of negligence over earthquake response",
-    "urduSummary": "People in areas devastated by twin earthquakes say they need more support from the government.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-30T03:53:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy4eq1l184po#0",
-    "originalTitle": "Heavy security deployed in South Africa ahead of anti-migrant protests",
-    "urduTitle": "Heavy security deployed in South Africa ahead of anti-migrant protests",
-    "urduSummary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-30T07:18:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782795532",
-    "originalTitle": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
-    "urduTitle": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
-    "urduSummary": "Outbreak spreads to a fourth province, Haut-Uele, bordering South Sudan and the CAR, according to a media report.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss",
-    "pubDate": "2026-06-30T07:32:54.000Z",
     "category": "world",
     "imageUrl": null
   }
