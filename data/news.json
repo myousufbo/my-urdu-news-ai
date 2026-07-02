@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783004740",
+    "originalTitle": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+    "urduTitle": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+    "urduSummary": "The blast near Damascus's main courthouse killed five and wounded 16 as Syria's new state battles to enforce security.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
+    "pubDate": "2026-07-02T17:22:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783000906",
+    "originalTitle": "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
+    "urduTitle": "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
+    "urduSummary": "Syrian Foreign Minister al-Shaibani met Hezbollah ally Berri during visit, as Trump calls for Syria to disarm group.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/2/us-wants-intervention-syria-signals-diplomacy-after-fm-lebanon-trip?traffic_source=rss",
+    "pubDate": "2026-07-02T17:20:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782999549",
+    "originalTitle": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+    "urduTitle": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+    "urduSummary": "Former Ukrainian soldier accused of 'war crime' and leading a team of divers to blow up Nord Stream pipelines.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss",
+    "pubDate": "2026-07-02T16:46:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/ce375v12z0qo#0",
     "originalTitle": "Rescuers inch closer to quake survivor after eight days - and he's cheering them on",
     "urduTitle": "Rescuers inch closer to quake survivor after eight days - and he's cheering them on",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-06-30T21:23:15.353Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782853417",
-    "originalTitle": "Emergency crews search rubble after Athens building collapse",
-    "urduTitle": "Emergency crews search rubble after Athens building collapse",
-    "urduSummary": "Rescue teams in Greece are combing through the rubble for survivors after a four-story apartment building in Athens.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
-    "pubDate": "2026-06-30T21:07:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782848345",
-    "originalTitle": "More than 30 students remain missing after Nigeria school attack",
-    "urduTitle": "More than 30 students remain missing after Nigeria school attack",
-    "urduSummary": "The attacks targeted a secondary school in the northeastern town of Lassa, in Borno State.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss",
-    "pubDate": "2026-06-30T20:55:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782850822",
-    "originalTitle": "Rescuers find more bodies under rubble as Venezuela death toll rises",
-    "urduTitle": "Rescuers find more bodies under rubble as Venezuela death toll rises",
-    "urduSummary": "International and local emergency teams are continuing to recover the bodies of victims under the rubble",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
-    "pubDate": "2026-06-30T20:50:00.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
