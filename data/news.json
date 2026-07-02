@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo#0",
+    "originalTitle": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+    "urduTitle": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+    "urduSummary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-02T17:56:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783018384",
+    "originalTitle": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+    "urduTitle": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+    "urduSummary": "Andy Burnham says the UK must take the defence investment plan 'very seriously' despite 4.7bn-pound funding hole.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
+    "pubDate": "2026-07-02T20:34:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783020867",
+    "originalTitle": "Trump administration aims to cut regulations on US commercial fishing",
+    "urduTitle": "Trump administration aims to cut regulations on US commercial fishing",
+    "urduSummary": "Scallop fishing had been banned in the New England waters since 1994 on account of overfishing.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
+    "pubDate": "2026-07-02T20:20:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783015461",
+    "originalTitle": "UK culture minister quits X over ‘abuse and misinformation’",
+    "urduTitle": "UK culture minister quits X over ‘abuse and misinformation’",
+    "urduSummary": "UK Department of Culture, Media and Sport will also stop using social media platform.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/2/uk-culture-minister-quits-x-over-abuse-and-misinformation?traffic_source=rss",
+    "pubDate": "2026-07-02T20:15:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1783004740",
     "originalTitle": "What’s behind the deadly bombing of a crowded Damascus cafe?",
     "urduTitle": "What’s behind the deadly bombing of a crowded Damascus cafe?",
@@ -503,50 +547,6 @@
     "link": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
     "pubDate": "2026-07-01T02:16:34.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781590636",
-    "originalTitle": "Southeast Asia’s homegrown artists are knocking K-pop off its pedestal",
-    "urduTitle": "Southeast Asia’s homegrown artists are knocking K-pop off its pedestal",
-    "urduSummary": "Drawing lessons from the global success of K-Pop, the region is finding its own voice in a new generation of artists.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/1/southeast-asias-homegrown-artists-are-knocking-k-pop-off-its-pedestal?traffic_source=rss",
-    "pubDate": "2026-07-01T01:59:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782858890",
-    "originalTitle": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
-    "urduTitle": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
-    "urduSummary": "Argentina's Messi is level on goals with France's Mbappe as World Cup favourites look to power through the knockouts.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/1/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award?traffic_source=rss",
-    "pubDate": "2026-07-01T01:56:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c621d53wqw0o#0",
-    "originalTitle": "Americans react to Supreme Court upholding birthright citizenship",
-    "urduTitle": "Americans react to Supreme Court upholding birthright citizenship",
-    "urduSummary": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-30T19:36:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-06-30T21:23:15.353Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
