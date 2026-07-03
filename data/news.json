@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783106750",
+    "originalTitle": "Is China’s new ethnic unity law a step towards forced assimilation?",
+    "urduTitle": "Is China’s new ethnic unity law a step towards forced assimilation?",
+    "urduSummary": "The government says the law will help forge a shared national identity.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
+    "pubDate": "2026-07-03T19:59:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783104715",
+    "originalTitle": "Mamdani calls for unity on America’s 250th birthday",
+    "urduTitle": "Mamdani calls for unity on America’s 250th birthday",
+    "urduSummary": "New York City Mayor Zohran Mamdani marked the US's 250th birthday by reflecting on the nation's founding ideals.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/mamdani-calls-for-unity-on-americas-250th-birthday?traffic_source=rss",
+    "pubDate": "2026-07-03T19:58:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783096259",
+    "originalTitle": "US heatwave raises alarms over AI data centre energy demands",
+    "urduTitle": "US heatwave raises alarms over AI data centre energy demands",
+    "urduSummary": "US heatwave exposes critical strain on power grids from growing energy demands of AI data centres.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands?traffic_source=rss",
+    "pubDate": "2026-07-03T19:48:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo#0",
     "originalTitle": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
     "urduTitle": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/ocean-temperatures-hit-record-highs-as-el-nino-looms?traffic_source=rss",
     "pubDate": "2026-07-02T01:57:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782949754",
-    "originalTitle": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
-    "urduTitle": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
-    "urduSummary": "Aid workers fear disease outbreaks in temporary shelters amid overcrowding, lack of access to clean water, sanitation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
-    "pubDate": "2026-07-02T01:24:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo#0",
-    "originalTitle": "Ukrainian charged in Germany over Nord Stream blasts",
-    "urduTitle": "Ukrainian charged in Germany over Nord Stream blasts",
-    "urduSummary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-01T18:19:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo#0",
-    "originalTitle": "US blocks long-term renewal of North American trade deal",
-    "urduTitle": "US blocks long-term renewal of North American trade deal",
-    "urduSummary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-01T18:56:36.000Z",
     "category": "world",
     "imageUrl": null
   }
