@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783079680",
+    "originalTitle": "Interpol names Ukrainian woman as suspect in Monaco bombing",
+    "urduTitle": "Interpol names Ukrainian woman as suspect in Monaco bombing",
+    "urduSummary": "Anastasiia Berezovska is named as the chief suspect responsible for injuring Ukrainian tycoon Vadym Yermolaiev.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/3/interpol-names-ukrainian-woman-as-suspect-in-monaco-bombing?traffic_source=rss",
+    "pubDate": "2026-07-03T13:25:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783059306",
+    "originalTitle": "Canada vs Morocco: World Cup Round of 16: Saibari, prediction, schedule",
+    "urduTitle": "Canada vs Morocco: World Cup Round of 16: Saibari, prediction, schedule",
+    "urduSummary": "World Cup cohosts Canada face mighty Morocco in their first-ever last-16 appearance at the FIFA World Cup.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule?traffic_source=rss",
+    "pubDate": "2026-07-03T12:52:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783082333",
+    "originalTitle": "Video: The Cape Verde effect",
+    "urduTitle": "Video: The Cape Verde effect",
+    "urduSummary": "Cape Verde's World Cup run has become about more than football.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/video-the-cape-verde-effect?traffic_source=rss",
+    "pubDate": "2026-07-03T12:50:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c3ry307rxqro#0",
     "originalTitle": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
     "urduTitle": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-01T16:10:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-07-01T17:49:07.424Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782919167",
-    "originalTitle": "What military capabilities does Iran possess as it negotiates with US?",
-    "urduTitle": "What military capabilities does Iran possess as it negotiates with US?",
-    "urduSummary": "US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-    "pubDate": "2026-07-01T17:19:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782917523",
-    "originalTitle": "The Iran talks expose the collapse of US diplomacy",
-    "urduTitle": "The Iran talks expose the collapse of US diplomacy",
-    "urduSummary": "In the Trump era, American diplomacy is being led not by impartial diplomats, but by real estate investors.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
-    "pubDate": "2026-07-01T17:05:20.000Z",
     "category": "world",
     "imageUrl": null
   }
