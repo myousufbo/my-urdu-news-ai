@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-07-03T02:24:39.644Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783042319",
+    "originalTitle": "Powerful explosion as firefighters probe smoke at Tacoma apartment",
+    "urduTitle": "Powerful explosion as firefighters probe smoke at Tacoma apartment",
+    "urduSummary": "Powerful explosion as firefighters probe smoke at Tacoma apartment.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/powerful-explosion-as-firefighters-probe-smoke-at-tacoma-apartment?traffic_source=rss",
+    "pubDate": "2026-07-03T01:37:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783040494",
+    "originalTitle": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
+    "urduTitle": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
+    "urduSummary": "Cristiano Ronaldo pulls Portugal level before Gonzalo Ramos wins it late on; Croatia have further goal ruled offside.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var?traffic_source=rss",
+    "pubDate": "2026-07-03T01:33:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783037803",
+    "originalTitle": "Relief efforts shift as Venezuela quake survivors seek aid",
+    "urduTitle": "Relief efforts shift as Venezuela quake survivors seek aid",
+    "urduSummary": "Emergency relief is becoming the focus in Venezuela’s La Guaira state as aid stations distribute food.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
+    "pubDate": "2026-07-03T00:20:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo#0",
     "originalTitle": "Bomb blast at Damascus cafe kills six, Syrian state media say",
     "urduTitle": "Bomb blast at Damascus cafe kills six, Syrian state media say",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
     "pubDate": "2026-07-01T05:01:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo#0",
-    "originalTitle": "Trump made more than $1bn from crypto in first year back in office",
-    "urduTitle": "Trump made more than $1bn from crypto in first year back in office",
-    "urduSummary": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-01T01:45:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o#0",
-    "originalTitle": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-    "urduTitle": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-    "urduSummary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-30T21:30:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo#0",
-    "originalTitle": "US Supreme Court upholds birthright citizenship in blow to Trump",
-    "urduTitle": "US Supreme Court upholds birthright citizenship in blow to Trump",
-    "urduSummary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-06-30T18:28:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1782869586",
-    "originalTitle": "US lifts restrictions on powerful AI models Fable, Mythos, Anthropic says",
-    "urduTitle": "US lifts restrictions on powerful AI models Fable, Mythos, Anthropic says",
-    "urduSummary": "AI firm says it will begin restoring access to Claude Fable 5 and Mythos 5  after removal of export controls.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
-    "pubDate": "2026-07-01T02:16:34.000Z",
     "category": "world",
     "imageUrl": null
   }
