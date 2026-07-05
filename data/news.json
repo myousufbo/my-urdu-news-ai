@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783201434",
+    "originalTitle": "This immigrant served in the US military. Now he faces deportation",
+    "urduTitle": "This immigrant served in the US military. Now he faces deportation",
+    "urduSummary": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
+    "pubDate": "2026-07-05T00:49:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783209302",
+    "originalTitle": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+    "urduTitle": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+    "urduSummary": "Hundreds of masked white nationalists marched on Washington DC ahead of Freedom 250.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+    "pubDate": "2026-07-05T00:08:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783206786",
+    "originalTitle": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+    "urduTitle": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+    "urduSummary": "Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+    "pubDate": "2026-07-05T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1783189928",
     "originalTitle": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
     "urduTitle": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/powerful-explosion-as-firefighters-probe-smoke-at-tacoma-apartment?traffic_source=rss",
     "pubDate": "2026-07-03T01:37:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783040494",
-    "originalTitle": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
-    "urduTitle": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
-    "urduSummary": "Cristiano Ronaldo pulls Portugal level before Gonzalo Ramos wins it late on; Croatia have further goal ruled offside.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var?traffic_source=rss",
-    "pubDate": "2026-07-03T01:33:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783037803",
-    "originalTitle": "Relief efforts shift as Venezuela quake survivors seek aid",
-    "urduTitle": "Relief efforts shift as Venezuela quake survivors seek aid",
-    "urduSummary": "Emergency relief is becoming the focus in Venezuela’s La Guaira state as aid stations distribute food.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
-    "pubDate": "2026-07-03T00:20:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo#0",
-    "originalTitle": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-    "urduTitle": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-    "urduSummary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-02T17:56:18.000Z",
     "category": "world",
     "imageUrl": null
   }
