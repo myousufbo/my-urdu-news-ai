@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o#0",
+    "originalTitle": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+    "urduTitle": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+    "urduSummary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-07T14:08:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783424998",
+    "originalTitle": "Mbappe slams racism by Paraguay’s Amarilla at World Cup: What we know",
+    "urduTitle": "Mbappe slams racism by Paraguay’s Amarilla at World Cup: What we know",
+    "urduSummary": "Footballers of African descent are often subjected to racist abuse on and off the pitch.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/7/mbappe-slams-racism-by-paraguays-amarilla-at-world-cup-what-we-know?traffic_source=rss",
+    "pubDate": "2026-07-07T13:44:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783429948",
+    "originalTitle": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
+    "urduTitle": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
+    "urduSummary": "Two Palestinian mothers believe a viral image of a bound Gaza detainee shows their missing son.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss",
+    "pubDate": "2026-07-07T13:16:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783420254",
+    "originalTitle": "At least nine police officers killed in southwestern Pakistan attack",
+    "urduTitle": "At least nine police officers killed in southwestern Pakistan attack",
+    "urduSummary": "Shahid Rind, a spokesman for the Balochistan government, says 15 assailants killed in 'clearance operations'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss",
+    "pubDate": "2026-07-07T13:08:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1783418888",
     "originalTitle": "Syria’s capital rocked by blasts during Macron visit",
     "urduTitle": "Syria’s capital rocked by blasts during Macron visit",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/indonesian-army-recovers-us-pilots-body-from-papua?traffic_source=rss",
     "pubDate": "2026-07-05T12:00:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783241425",
-    "originalTitle": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-    "urduTitle": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-    "urduSummary": "Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
-    "pubDate": "2026-07-05T11:24:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo#0",
-    "originalTitle": "Evacuations in Guam as super typhoon Bavi approaches",
-    "urduTitle": "Evacuations in Guam as super typhoon Bavi approaches",
-    "urduSummary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-05T09:26:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-07-05T10:06:00.654Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783229694",
-    "originalTitle": "FIFA World Cup round of 16: Bracket, schedule, predictions and latest news",
-    "urduTitle": "FIFA World Cup round of 16: Bracket, schedule, predictions and latest news",
-    "urduSummary": "Second round of knockout matches features Brazil vs Norway, Mexico vs England. We have predictions and the latest news.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/5/fifa-world-cup-round-of-16-bracket-schedule-predictions-latest-news?traffic_source=rss",
-    "pubDate": "2026-07-05T09:18:34.000Z",
     "category": "world",
     "imageUrl": null
   }
