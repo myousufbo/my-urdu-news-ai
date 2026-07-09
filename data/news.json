@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c621k5r8764o#0",
+    "originalTitle": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+    "urduTitle": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+    "urduSummary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-09T14:41:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-07-09T17:49:57.649Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783611529",
+    "originalTitle": "Is this France’s far-right National Rally’s best chance to take power?",
+    "urduTitle": "Is this France’s far-right National Rally’s best chance to take power?",
+    "urduSummary": "A court ruling clears the way for Marine Le Pen to run for president next year.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-this-frances-far-right-national-rallys-best-chance-to-take-power?traffic_source=rss",
+    "pubDate": "2026-07-09T16:53:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783612087",
+    "originalTitle": "Will NATO get involved in securing Strait of Hormuz?",
+    "urduTitle": "Will NATO get involved in securing Strait of Hormuz?",
+    "urduSummary": "Iran war overshadows defence alliance's summit in Turkiye.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/9/will-nato-get-involved-in-securing-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-07-09T16:52:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783612951",
+    "originalTitle": "LIVE: France vs Morocco – FIFA World Cup 2026 quarterfinal",
+    "urduTitle": "LIVE: France vs Morocco – FIFA World Cup 2026 quarterfinal",
+    "urduSummary": "Live coverage, text updates and build-up from our full text commentary stream as Mbappe's France face Morocco.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/7/9/live-france-vs-morocco-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
+    "pubDate": "2026-07-09T16:37:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo#0",
     "originalTitle": "At least 28 killed in China shoe factory fire, state media reports",
     "urduTitle": "At least 28 killed in China shoe factory fire, state media reports",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_argentina-fans-hurl-beer-at-egypt-supporters-070726?traffic_source=rss",
     "pubDate": "2026-07-08T01:21:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783473035",
-    "originalTitle": "US strikes Iran despite promised pause for Khamenei funeral",
-    "urduTitle": "US strikes Iran despite promised pause for Khamenei funeral",
-    "urduSummary": "The US launches new strikes on Iran despite a promise by US President Donald Trump to pause attacks.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/us-strikes-iran-despite-promised-pause-for-khamenei-funeral?traffic_source=rss",
-    "pubDate": "2026-07-08T01:13:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo#0",
-    "originalTitle": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-    "urduTitle": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-    "urduSummary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-07T19:55:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo#0",
-    "originalTitle": "Trump looms large as Nato grapples with challenge of rearming Europe",
-    "urduTitle": "Trump looms large as Nato grapples with challenge of rearming Europe",
-    "urduSummary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-07T18:56:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783455282",
-    "originalTitle": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-    "urduTitle": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-    "urduSummary": "SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss",
-    "pubDate": "2026-07-07T20:50:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783456052",
-    "originalTitle": "Venezuela buries earthquake victims as death toll reaches 3,535",
-    "urduTitle": "Venezuela buries earthquake victims as death toll reaches 3,535",
-    "urduSummary": "Mass burials have begun at La Esperanza Cemetery in Venezuela's La Guaira",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-    "pubDate": "2026-07-07T20:30:06.000Z",
     "category": "world",
     "imageUrl": null
   }
