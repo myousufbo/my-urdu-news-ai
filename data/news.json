@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo#0",
+    "originalTitle": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+    "urduTitle": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+    "urduSummary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-10T13:53:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1782053495",
+    "originalTitle": "Death, silence, and survival inside New Jersey State Prison",
+    "urduTitle": "Death, silence, and survival inside New Jersey State Prison",
+    "urduSummary": "A firsthand account shows how isolation and neglect can make incarceration a slow form of death in U.S. prisons.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/longform/2026/7/10/death-silence-and-survival-inside-new-jersey-state-prison?traffic_source=rss",
+    "pubDate": "2026-07-10T13:38:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783678366",
+    "originalTitle": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
+    "urduTitle": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
+    "urduSummary": "Likely incoming UK PM hints at policy shifts towards Israel's genocidal war on Gaza. But analysts are wary.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss",
+    "pubDate": "2026-07-10T13:38:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783685085",
+    "originalTitle": "Police probe donations to Britain’s far-right Reform party",
+    "urduTitle": "Police probe donations to Britain’s far-right Reform party",
+    "urduSummary": "Reform UK's finances draw police scrutiny as Farage fights to reclaim his seat in a by-election.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/10/police-probe-donations-to-britains-far-right-reform-party?traffic_source=rss",
+    "pubDate": "2026-07-10T13:25:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwylznzjk04o#0",
     "originalTitle": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "urduTitle": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/8/trump-ordered-to-pay-e-jean-carroll-5-8m-after-failed-appeal?traffic_source=rss",
     "pubDate": "2026-07-08T19:58:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o#0",
-    "originalTitle": "German doctor jailed for murder of 15 patients and suspected of more",
-    "urduTitle": "German doctor jailed for murder of 15 patients and suspected of more",
-    "urduSummary": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-08T14:25:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783520551",
-    "originalTitle": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-    "urduTitle": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-    "urduSummary": "The fate of the strait is directly linked to what happens next to the world economy.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
-    "pubDate": "2026-07-08T16:48:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783517977",
-    "originalTitle": "US charges Indian crime leader in Sikh activist’s assassination",
-    "urduTitle": "US charges Indian crime leader in Sikh activist’s assassination",
-    "urduSummary": "US indicts Indian crime boss, links him to Sikh leader's killing that strained India-Canada relations.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-    "pubDate": "2026-07-08T16:44:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783525626",
-    "originalTitle": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-    "urduTitle": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-    "urduSummary": "Egyptian football officials have reportedly lodged a complaint with FIFA against the referees in their last-16 match.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-    "pubDate": "2026-07-08T16:41:58.000Z",
     "category": "world",
     "imageUrl": null
   }
