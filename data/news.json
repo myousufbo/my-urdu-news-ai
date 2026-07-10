@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783715007",
+    "originalTitle": "Lebanon historic sites destroyed by Israeli strikes",
+    "urduTitle": "Lebanon historic sites destroyed by Israeli strikes",
+    "urduSummary": "Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
+    "pubDate": "2026-07-10T20:33:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783656048",
+    "originalTitle": "How Wong Kim Ark’s legacy reignited the fight for birthright citizenship",
+    "urduTitle": "How Wong Kim Ark’s legacy reignited the fight for birthright citizenship",
+    "urduSummary": "Sandra Wong did not know her great-grandfather growing up. But his legacy would catapult her into the public eye.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/longform/2026/7/10/how-wong-kim-arks-legacy-reignited-the-fight-for-birthright-citizenship?traffic_source=rss",
+    "pubDate": "2026-07-10T20:24:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783714760",
+    "originalTitle": "Ukrainian attacks cause chaos at fuel stations across Russia",
+    "urduTitle": "Ukrainian attacks cause chaos at fuel stations across Russia",
+    "urduSummary": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
+    "pubDate": "2026-07-10T20:23:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo#0",
     "originalTitle": "Zulu king expresses regret after video captures tirade against his wife",
     "urduTitle": "Zulu king expresses regret after video captures tirade against his wife",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/9/us-senate-nominee-platner-halts-campaign-after-assault-allegations?traffic_source=rss",
     "pubDate": "2026-07-09T02:02:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783555381",
-    "originalTitle": "Confirmed Ebola deaths in DR Congo hit 600",
-    "urduTitle": "Confirmed Ebola deaths in DR Congo hit 600",
-    "urduSummary": "The number of deaths comes as healthcare workers threaten to walk off the job over a delay in payments.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss",
-    "pubDate": "2026-07-09T01:48:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783551979",
-    "originalTitle": "Trump to ask US Supreme Court for new hearing on birthright citizenship",
-    "urduTitle": "Trump to ask US Supreme Court for new hearing on birthright citizenship",
-    "urduSummary": "In June, the Supreme Court ruled against Trump’s order to end birthright citizenship for individuals born in the US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss",
-    "pubDate": "2026-07-09T00:54:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o#0",
-    "originalTitle": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
-    "urduTitle": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
-    "urduSummary": "Explosions have been reported by Iranian state media in parts of the country's south.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-08T20:56:36.000Z",
     "category": "world",
     "imageUrl": null
   }
