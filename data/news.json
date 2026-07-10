@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo#0",
+    "originalTitle": "Zulu king expresses regret after video captures tirade against his wife",
+    "urduTitle": "Zulu king expresses regret after video captures tirade against his wife",
+    "urduSummary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-10T16:42:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783699205",
+    "originalTitle": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+    "urduTitle": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+    "urduSummary": "Ukrainian official says Russia's attack on Kramatorsk kills four, including a teenager, and injures nine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss",
+    "pubDate": "2026-07-10T17:21:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?p=4757328",
+    "originalTitle": "Hundreds give hero’s welcome to Egypt after best World Cup run",
+    "urduTitle": "Hundreds give hero’s welcome to Egypt after best World Cup run",
+    "urduSummary": "Supporters waved Egyptian and Palestinian flags in support of Gaza as the Pharaohs boarded an open-top bus for a parade.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss",
+    "pubDate": "2026-07-10T17:08:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783694589",
+    "originalTitle": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+    "urduTitle": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+    "urduSummary": "Iran has not responded to Trump's latest claim, which comes as new attacks threaten the full resumption of war.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
+    "pubDate": "2026-07-10T16:30:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo#0",
     "originalTitle": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
     "urduTitle": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-08T20:56:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ce8klree690o#0",
-    "originalTitle": "Ukraine to get licence to produce Patriot missiles, Trump says",
-    "urduTitle": "Ukraine to get licence to produce Patriot missiles, Trump says",
-    "urduSummary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-08T17:18:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783529734",
-    "originalTitle": "US summer travel slumps under rising fares and fuel expenses",
-    "urduTitle": "US summer travel slumps under rising fares and fuel expenses",
-    "urduSummary": "US summer trips decline as 45 percent of Americans skip holidays due to soaring airfares and car travel expenses.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
-    "pubDate": "2026-07-08T20:15:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783540925",
-    "originalTitle": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
-    "urduTitle": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
-    "urduSummary": "A French court ruling has reopened Marine Le Pen’s path to the 2027 presidential election.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
-    "pubDate": "2026-07-08T20:06:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783537209",
-    "originalTitle": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
-    "urduTitle": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
-    "urduSummary": "Trump ordered to pay $5.8m after the US Supreme Court rejected his appeal in the Carroll defamation and abuse case.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/8/trump-ordered-to-pay-e-jean-carroll-5-8m-after-failed-appeal?traffic_source=rss",
-    "pubDate": "2026-07-08T19:58:00.000Z",
     "category": "world",
     "imageUrl": null
   }
