@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783760256",
+    "originalTitle": "Cuba suffers second nationwide blackout in five days",
+    "urduTitle": "Cuba suffers second nationwide blackout in five days",
+    "urduSummary": "Cuba suffers second nationwide blackout in five days",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss",
+    "pubDate": "2026-07-11T09:00:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783754872",
+    "originalTitle": "Russian missile attacks wound 11 in Kyiv",
+    "urduTitle": "Russian missile attacks wound 11 in Kyiv",
+    "urduSummary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+    "pubDate": "2026-07-11T08:53:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783752391",
+    "originalTitle": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+    "urduTitle": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+    "urduSummary": "Police seized 74kg of gold bars and $20m cash in various currencies.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss",
+    "pubDate": "2026-07-11T08:43:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo#0",
     "originalTitle": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
     "urduTitle": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/9/shes-extremely-dangerous-frances-le-pen-eyes-the-elysee?traffic_source=rss",
     "pubDate": "2026-07-09T14:06:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783598503",
-    "originalTitle": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
-    "urduTitle": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
-    "urduSummary": "Iranians gather in sweltering heat for Ayatollah Ali Khamenei’s funeral in his hometown of Mashhad.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/7/9/photos-iran-to-bury-slain-supreme-leader-in-culmination-of-mass-funeral?traffic_source=rss",
-    "pubDate": "2026-07-09T13:42:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783585662",
-    "originalTitle": "UN probe finds mass killings, gang rapes by Sudan’s RSF amount to genocide",
-    "urduTitle": "UN probe finds mass killings, gang rapes by Sudan’s RSF amount to genocide",
-    "urduSummary": "UN Fact-Finding Mission found that the paramilitary's systematic campaign of violence in Darfur amounted to genocide.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss",
-    "pubDate": "2026-07-09T10:19:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783591550",
-    "originalTitle": "Australia to begin selling uranium to India for peaceful purposes",
-    "urduTitle": "Australia to begin selling uranium to India for peaceful purposes",
-    "urduSummary": "Australia to begin selling uranium to India for peaceful purposes",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/australia-to-begin-selling-uranium-to-india-for-peaceful-purposes?traffic_source=rss",
-    "pubDate": "2026-07-09T10:09:03.000Z",
     "category": "world",
     "imageUrl": null
   }
