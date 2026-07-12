@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783874134",
+    "originalTitle": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
+    "urduTitle": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
+    "urduSummary": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss",
+    "pubDate": "2026-07-12T16:38:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783870938",
+    "originalTitle": "Iran war: US strategic success or diplomatic failure?",
+    "urduTitle": "Iran war: US strategic success or diplomatic failure?",
+    "urduSummary": "Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
+    "pubDate": "2026-07-12T16:34:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783873588",
+    "originalTitle": "FIFA World Cup 2026: Day 31",
+    "urduTitle": "FIFA World Cup 2026: Day 31",
+    "urduSummary": "Al Jazeera’s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31?traffic_source=rss",
+    "pubDate": "2026-07-12T16:30:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cx2x7441762o#0",
     "originalTitle": "Badly burned British couple rescued from ravine during Spain wildfires, reports say ",
     "urduTitle": "Badly burned British couple rescued from ravine during Spain wildfires, reports say ",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-10T16:42:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783699205",
-    "originalTitle": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
-    "urduTitle": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
-    "urduSummary": "Ukrainian official says Russia's attack on Kramatorsk kills four, including a teenager, and injures nine.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss",
-    "pubDate": "2026-07-10T17:21:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?p=4757328",
-    "originalTitle": "Hundreds give hero’s welcome to Egypt after best World Cup run",
-    "urduTitle": "Hundreds give hero’s welcome to Egypt after best World Cup run",
-    "urduSummary": "Supporters waved Egyptian and Palestinian flags in support of Gaza as the Pharaohs boarded an open-top bus for a parade.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss",
-    "pubDate": "2026-07-10T17:08:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783694589",
-    "originalTitle": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-    "urduTitle": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-    "urduSummary": "Iran has not responded to Trump's latest claim, which comes as new attacks threaten the full resumption of war.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
-    "pubDate": "2026-07-10T16:30:19.000Z",
     "category": "world",
     "imageUrl": null
   }
