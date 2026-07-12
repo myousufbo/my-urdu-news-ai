@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo#0",
+    "originalTitle": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+    "urduTitle": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+    "urduSummary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-12T09:01:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-07-12T09:46:30.684Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783834269",
+    "originalTitle": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
+    "urduTitle": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
+    "urduSummary": "After Sheikh Hamad's death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
+    "pubDate": "2026-07-12T09:40:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783840886",
+    "originalTitle": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+    "urduTitle": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+    "urduSummary": "Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
+    "pubDate": "2026-07-12T09:13:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1781430352",
+    "originalTitle": "Watch World Cup: England beats Norway to set up semifinal against Argentina",
+    "urduTitle": "Watch World Cup: England beats Norway to set up semifinal against Argentina",
+    "urduSummary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights?traffic_source=rss",
+    "pubDate": "2026-07-12T08:10:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/10/police-probe-donations-to-britains-far-right-reform-party?traffic_source=rss",
     "pubDate": "2026-07-10T13:25:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwylznzjk04o#0",
-    "originalTitle": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-    "urduTitle": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-    "urduSummary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-09T21:04:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783674324",
-    "originalTitle": "Fall in funding cuts aid to 1 million women: UN",
-    "urduTitle": "Fall in funding cuts aid to 1 million women: UN",
-    "urduSummary": "The US was the first to slash billions in foreign assistance in 2025, but other major donors have followed suit.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss",
-    "pubDate": "2026-07-10T10:14:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783677961",
-    "originalTitle": "How Hamas Governed Gaza",
-    "urduTitle": "How Hamas Governed Gaza",
-    "urduSummary": "Hamas is dissolving its government and handing power over to a new technocratic administration.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/how-hamas-governed-gaza?traffic_source=rss",
-    "pubDate": "2026-07-10T10:11:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783659268",
-    "originalTitle": "India is becoming a shaping power",
-    "urduTitle": "India is becoming a shaping power",
-    "urduSummary": "Modi’s tour of Indonesia, Australia and New Zealand reveals a broader Asia Pacific strategy.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/10/india-is-becoming-a-shaping-power?traffic_source=rss",
-    "pubDate": "2026-07-10T10:07:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#0",
-    "originalTitle": "At least 11 die in Spain wildfire as heatwave continues in Southern Europe",
-    "urduTitle": "At least 11 die in Spain wildfire as heatwave continues in Southern Europe",
-    "urduSummary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-10T07:18:58.000Z",
     "category": "world",
     "imageUrl": null
   }
