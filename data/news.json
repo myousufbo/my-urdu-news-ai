@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1783905408",
+    "originalTitle": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+    "urduTitle": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+    "urduSummary": "At least 27 people were killed and 63 injured, many critically, after a fire ripped through a popular pub in Bangkok.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
+    "pubDate": "2026-07-13T01:27:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783491778",
+    "originalTitle": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
+    "urduTitle": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
+    "urduSummary": "Japanese baby product manufacturers are turning their attention to the pet market amid collapsing birthrate.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
+    "pubDate": "2026-07-13T01:20:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783612920",
+    "originalTitle": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+    "urduTitle": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+    "urduSummary": "Military manufacturing may be growing, but defence sovereignty depends on far more than production.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
+    "pubDate": "2026-07-13T00:54:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c24yev53q06o#0",
     "originalTitle": "At least 27 killed in Bangkok bar fire, Thai authorities say",
     "urduTitle": "At least 27 killed in Bangkok bar fire, Thai authorities say",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-10T23:03:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783731970",
-    "originalTitle": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
-    "urduTitle": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
-    "urduSummary": "Emergency crews are searching for survivors after a Russian air strike on the Ukrainian city of Zaporizhzhia.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
-    "pubDate": "2026-07-11T01:12:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783727848",
-    "originalTitle": "Why the new US housing bill won’t fix the crisis",
-    "urduTitle": "Why the new US housing bill won’t fix the crisis",
-    "urduSummary": "Why the new US housing bill won't fix the crisis.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
-    "pubDate": "2026-07-11T00:41:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783718994",
-    "originalTitle": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-    "urduTitle": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-    "urduSummary": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-    "pubDate": "2026-07-11T00:00:00.000Z",
     "category": "world",
     "imageUrl": null
   }
