@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cly8yjnw822o#0",
+    "originalTitle": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+    "urduTitle": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+    "urduSummary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-14T09:40:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo#0",
+    "originalTitle": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+    "urduTitle": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+    "urduSummary": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-14T10:02:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-07-14T13:19:27.477Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784023988",
+    "originalTitle": "WHO warns DR Congo Ebola outbreak may be double the official tally",
+    "urduTitle": "WHO warns DR Congo Ebola outbreak may be double the official tally",
+    "urduSummary": "UN health agency says cases are underreported while doctors at outbreak epicentre threaten to go on strike.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/14/who-warns-dr-congo-ebola-outbreak-may-be-double-the-official-tally?traffic_source=rss",
+    "pubDate": "2026-07-14T13:07:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784033634",
+    "originalTitle": "Israel launches new illegal settlement expansion plan",
+    "urduTitle": "Israel launches new illegal settlement expansion plan",
+    "urduSummary": "Israel launches new illegal settlement expansion plan",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/israel-launches-new-illegal-settlement-expansion-plan?traffic_source=rss",
+    "pubDate": "2026-07-14T12:55:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784023338",
+    "originalTitle": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
+    "urduTitle": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
+    "urduSummary": "Ukraine says drones hit 11 Russian vessels in the Azov Sea, targeting tankers, dry cargo ships, and a tugboat overnight.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks?traffic_source=rss",
+    "pubDate": "2026-07-14T12:14:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -480,72 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss",
     "pubDate": "2026-07-12T16:38:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783870938",
-    "originalTitle": "Iran war: US strategic success or diplomatic failure?",
-    "urduTitle": "Iran war: US strategic success or diplomatic failure?",
-    "urduSummary": "Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
-    "pubDate": "2026-07-12T16:34:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783873588",
-    "originalTitle": "FIFA World Cup 2026: Day 31",
-    "urduTitle": "FIFA World Cup 2026: Day 31",
-    "urduSummary": "Al Jazeera’s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31?traffic_source=rss",
-    "pubDate": "2026-07-12T16:30:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2x7441762o#0",
-    "originalTitle": "Badly burned British couple rescued from ravine during Spain wildfires, reports say ",
-    "urduTitle": "Badly burned British couple rescued from ravine during Spain wildfires, reports say ",
-    "urduSummary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-12T11:23:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783849116",
-    "originalTitle": "FIFA World Cup 2026: Biggest takeaways from the quarterfinals",
-    "urduTitle": "FIFA World Cup 2026: Biggest takeaways from the quarterfinals",
-    "urduSummary": "The quarterfinals are now behind us with plenty of key moments and incidents as the tournament enters the final four.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-2026-biggest-takeaways-from-the-quarterfinals?traffic_source=rss",
-    "pubDate": "2026-07-12T12:20:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783857966",
-    "originalTitle": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-    "urduTitle": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-    "urduSummary": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatar-mourns-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss",
-    "pubDate": "2026-07-12T12:10:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783851507",
-    "originalTitle": "British police make new arrest in Ann Widdecombe murder investigation",
-    "urduTitle": "British police make new arrest in Ann Widdecombe murder investigation",
-    "urduSummary": "Police arrest 28-year-old suspect in South Yorkshire in connection with the murder of former MP Ann Widdecombe.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/12/british-police-make-new-arrest-in-ann-widdecombe-murder-investigation?traffic_source=rss",
-    "pubDate": "2026-07-12T12:08:44.000Z",
     "category": "world",
     "imageUrl": null
   }
