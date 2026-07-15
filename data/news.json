@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo#0",
+    "originalTitle": "Iran threatens to block more trade routes as US launches fresh strikes",
+    "urduTitle": "Iran threatens to block more trade routes as US launches fresh strikes",
+    "urduSummary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-15T12:26:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784110740",
+    "originalTitle": "As the US restarts war on Iran, is its weapons stockpile running low?",
+    "urduTitle": "As the US restarts war on Iran, is its weapons stockpile running low?",
+    "urduSummary": "The US has expended a significant number of munitions since the war began in February.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/15/as-the-us-restarts-war-on-iran-is-its-weapons-stockpile-running-low?traffic_source=rss",
+    "pubDate": "2026-07-15T12:55:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784117496",
+    "originalTitle": "Utah man arrested after allegedly targeting Muslim kiosk worker in stabbing",
+    "urduTitle": "Utah man arrested after allegedly targeting Muslim kiosk worker in stabbing",
+    "urduSummary": "Rights groups condemn the attack and warn against recent anti-immigration rhetoric.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/15/utah-man-arrested-after-allegedly-targeting-muslim-kiosk-worker-in-stabbing?traffic_source=rss",
+    "pubDate": "2026-07-15T12:49:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784116331",
+    "originalTitle": "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
+    "urduTitle": "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
+    "urduSummary": "It might in the short term, but not in the long term.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/7/15/will-lindsey-grahams-death-affect-israels-standing-in-washington?traffic_source=rss",
+    "pubDate": "2026-07-15T12:38:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1784102439",
     "originalTitle": "Sheikh Hamad bin Khalifa Al Thani and Al Jazeera",
     "urduTitle": "Sheikh Hamad bin Khalifa Al Thani and Al Jazeera",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
     "pubDate": "2026-07-13T20:40:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783974802",
-    "originalTitle": "Artist sews names of Gaza children killed by Israel into gown",
-    "urduTitle": "Artist sews names of Gaza children killed by Israel into gown",
-    "urduSummary": "Welsh artist Diana Williams stitched the names of 300 babies killed by Israel’s genocidal war on Gaza into a gown.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
-    "pubDate": "2026-07-13T20:35:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783939743",
-    "originalTitle": "Bangkok pub fire kills 27, wounds dozens: What we know",
-    "urduTitle": "Bangkok pub fire kills 27, wounds dozens: What we know",
-    "urduSummary": "The blaze – one of Thailand’s worst in recent history – also injured more than 70 people, many of them critically.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/13/bangkok-pub-fire-kills-27-wounds-dozens-what-we-know?traffic_source=rss",
-    "pubDate": "2026-07-13T16:50:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783954047",
-    "originalTitle": "EU unveils $1bn fund for Gaza war recovery",
-    "urduTitle": "EU unveils $1bn fund for Gaza war recovery",
-    "urduSummary": "The scheme falls critically short of the $71bn reportedly needed for Gaza's recovery over the next 10 years.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
-    "pubDate": "2026-07-13T16:28:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783954559",
-    "originalTitle": "Person killed in shooting involving ICE agents in US state of Maine",
-    "urduTitle": "Person killed in shooting involving ICE agents in US state of Maine",
-    "urduSummary": "State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss",
-    "pubDate": "2026-07-13T16:11:38.000Z",
     "category": "world",
     "imageUrl": null
   }
