@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#0",
+    "originalTitle": "French MPs approve assisted dying law with strict rules after years of argument",
+    "urduTitle": "French MPs approve assisted dying law with strict rules after years of argument",
+    "urduSummary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-15T17:29:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784144445",
+    "originalTitle": "Russia pounds Ukraine with missile, drone strikes",
+    "urduTitle": "Russia pounds Ukraine with missile, drone strikes",
+    "urduSummary": "Footage shows firefighters extinguishing a massive fire after Russia launched air strikes on Ukraine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+    "pubDate": "2026-07-15T19:59:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784141826",
+    "originalTitle": "French Parliament approves landmark assisted-dying bill",
+    "urduTitle": "French Parliament approves landmark assisted-dying bill",
+    "urduSummary": "Parliament adopted the text by 291 votes to 241, though it still needs approval from the Constitutional Council.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
+    "pubDate": "2026-07-15T19:58:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784145337",
+    "originalTitle": "Ukraine strikes 20 Russian vessels",
+    "urduTitle": "Ukraine strikes 20 Russian vessels",
+    "urduSummary": "Ukraine released video of strikes on 20 Russian vessels in the Black Sea, including 17 oil tankers.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
+    "pubDate": "2026-07-15T19:58:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1784128387",
     "originalTitle": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
     "urduTitle": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
     "pubDate": "2026-07-14T01:37:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783985511",
-    "originalTitle": "Record El Niño threatens to unleash floods across East Africa and Asia",
-    "urduTitle": "Record El Niño threatens to unleash floods across East Africa and Asia",
-    "urduSummary": "Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
-    "pubDate": "2026-07-14T01:27:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1783913170",
-    "originalTitle": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
-    "urduTitle": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
-    "urduSummary": "Authorities say Nadiem Makarim abused his authority to favour Google in the procurement of laptops for school kids.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
-    "pubDate": "2026-07-14T00:53:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
-    "originalTitle": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-    "urduTitle": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-    "urduSummary": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-13T20:06:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo#0",
-    "originalTitle": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-    "urduTitle": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-    "urduSummary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-13T17:31:54.000Z",
     "category": "world",
     "imageUrl": null
   }
