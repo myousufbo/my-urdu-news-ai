@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cp305dx493do#0",
+    "originalTitle": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+    "urduTitle": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+    "urduSummary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-16T13:08:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-07-16T17:07:42.600Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784212632",
+    "originalTitle": "Ex-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse",
+    "urduTitle": "Ex-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse",
+    "urduSummary": "In all, 32 convicted and 25 acquitted or cleared by statute ‌of limitations over 2018 Morandi bridge disaster.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/16/ex-ceo-of-italian-motorway-sentenced-to-12-years-for-genoa-bridge-collapse?traffic_source=rss",
+    "pubDate": "2026-07-16T16:43:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784214236",
+    "originalTitle": "US to impose new 25 percent tariffs on some Brazilian imports",
+    "urduTitle": "US to impose new 25 percent tariffs on some Brazilian imports",
+    "urduSummary": "Beef, coffee, and rare-earth materials escaped US tariffs amid trade tensions with Brazil over alleged unfair practices.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss",
+    "pubDate": "2026-07-16T16:27:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784214712",
+    "originalTitle": "Trump limits length of visas for students, exchange visitors, journalists",
+    "urduTitle": "Trump limits length of visas for students, exchange visitors, journalists",
+    "urduSummary": "New rule ends open-ended stays and requires extensions after fixed visa periods for students and foreign media.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/16/trump-limits-length-of-visas-for-students-exchange-visitors-journalists?traffic_source=rss",
+    "pubDate": "2026-07-16T16:25:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o#0",
     "originalTitle": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
     "urduTitle": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
     "pubDate": "2026-07-14T20:17:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro#0",
-    "originalTitle": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "urduTitle": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "urduSummary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-14T13:46:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo#0",
-    "originalTitle": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-    "urduTitle": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-    "urduSummary": "Production will stop for two years at the mine which employs more than 4,000 people.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-14T13:22:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784043740",
-    "originalTitle": "Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say",
-    "urduTitle": "Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say",
-    "urduSummary": "Investigators are looking into what motivated the killing and how much preparation was involved.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/14/murder-of-uk-politician-ann-widdecombe-was-targeted-attack-police-say?traffic_source=rss",
-    "pubDate": "2026-07-14T16:45:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784046776",
-    "originalTitle": "World leaders travel to Qatar to honour Father Emir",
-    "urduTitle": "World leaders travel to Qatar to honour Father Emir",
-    "urduSummary": "Leaders from around the world have been in Qatar to offer condolences to Emir Sheikh Tamim.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/world-leaders-travel-to-qatar-to-honour-father-emir?traffic_source=rss",
-    "pubDate": "2026-07-14T16:36:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784033443",
-    "originalTitle": "Mexico: Football Without Fear",
-    "urduTitle": "Mexico: Football Without Fear",
-    "urduSummary": "As Mexico cohosts the World Cup, a mother confronts gender violence and seeks safety for her daughter through football.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/witness/2026/7/14/mexico-football-without-fear?traffic_source=rss",
-    "pubDate": "2026-07-14T16:30:00.000Z",
     "category": "world",
     "imageUrl": null
   }
