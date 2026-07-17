@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784299684",
+    "originalTitle": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
+    "urduTitle": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
+    "urduSummary": "The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
+    "pubDate": "2026-07-17T16:40:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784302631",
+    "originalTitle": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
+    "urduTitle": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
+    "urduSummary": "Landslide has buried homes and forced more than 1,100 people to evacuate.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss",
+    "pubDate": "2026-07-17T16:37:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784302202",
+    "originalTitle": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
+    "urduTitle": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
+    "urduSummary": "Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
+    "pubDate": "2026-07-17T16:26:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1784215723",
     "originalTitle": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
     "urduTitle": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/15/zelenskyy-backs-state-energy-company-chief-koretskyi-for-new-pm?traffic_source=rss",
     "pubDate": "2026-07-15T16:48:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784131341",
-    "originalTitle": "Norway’s Waerenskjold wins fastest Tour de France stage in history",
-    "urduTitle": "Norway’s Waerenskjold wins fastest Tour de France stage in history",
-    "urduSummary": "At an average speed of 50.91kph, Soren Waerenskjold's sprint was the fastest road stage in the 113 editions of the Tour.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/15/norways-waerenskjold-wins-fastest-tour-de-france-stage-in-history?traffic_source=rss",
-    "pubDate": "2026-07-15T16:46:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784125777",
-    "originalTitle": "Starmer bids MPs goodbye as British PM and pledges to support his successor",
-    "urduTitle": "Starmer bids MPs goodbye as British PM and pledges to support his successor",
-    "urduSummary": "Andy Burnham, who is set to formally replace Starmer on Monday, will become the UK’s seventh prime minister in a decade.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/15/starmer-bids-mps-goodbye-as-british-pm-and-pledges-to-support-his-successor?traffic_source=rss",
-    "pubDate": "2026-07-15T16:30:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo#0",
-    "originalTitle": "Iran threatens to block more trade routes as US launches fresh strikes",
-    "urduTitle": "Iran threatens to block more trade routes as US launches fresh strikes",
-    "urduSummary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-15T12:26:38.000Z",
     "category": "world",
     "imageUrl": null
   }
