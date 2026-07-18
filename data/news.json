@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/clyxlm877p2o#0",
+    "originalTitle": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+    "urduTitle": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+    "urduSummary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-18T11:55:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784374285",
+    "originalTitle": "Europe should look to Africa for heatwave solutions",
+    "urduTitle": "Europe should look to Africa for heatwave solutions",
+    "urduSummary": "African communities have spent decades developing practical, tested ways to live with extreme heat.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/7/18/europe-should-look-to-africa-for-heatwave-solutions?traffic_source=rss",
+    "pubDate": "2026-07-18T12:19:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784365889",
+    "originalTitle": "India achieves milestone with launch of first private-sector orbital rocket",
+    "urduTitle": "India achieves milestone with launch of first private-sector orbital rocket",
+    "urduSummary": "PM Narendra Modi says successful launch will 'encourage countless youngsters to dream bigger and innovate fearlessly'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss",
+    "pubDate": "2026-07-18T11:50:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784248489",
+    "originalTitle": "India’s salt workers: The human cost of the world’s most popular seasoning",
+    "urduTitle": "India’s salt workers: The human cost of the world’s most popular seasoning",
+    "urduSummary": "101 East investigates the supply chain behind India’s booming salt industry.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/101-east/2026/7/18/indias-salt-workers-the-human-cost-of-the-worlds-most-popular-seasoning?traffic_source=rss",
+    "pubDate": "2026-07-18T11:30:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-07-16T13:28:49.467Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784196102",
-    "originalTitle": "US hosts global meet on ‘far-left terror’: Who’s attending, why it matters",
-    "urduTitle": "US hosts global meet on ‘far-left terror’: Who’s attending, why it matters",
-    "urduSummary": "More than 65 countries expected to address 'renewed threats' from 'far-left political violence and terrorism'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/16/us-hosts-global-meet-on-far-left-terror-whos-attending-why-it-matters?traffic_source=rss",
-    "pubDate": "2026-07-16T12:42:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784190148",
-    "originalTitle": "John Esposito, pioneering scholar of Islam in the US, dies aged 86",
-    "urduTitle": "John Esposito, pioneering scholar of Islam in the US, dies aged 86",
-    "urduSummary": "Georgetown scholar and author spent decades building bridges between the Islamic and Western worlds.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/7/16/john-esposito-pioneering-scholar-of-islam-in-the-us-dies-aged-86?traffic_source=rss",
-    "pubDate": "2026-07-16T12:41:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784204867",
-    "originalTitle": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
-    "urduTitle": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
-    "urduSummary": "Palestinians are inspecting the damage in Nuseirat after Israeli strikes reduced their homes to rubble.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
-    "pubDate": "2026-07-16T12:31:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo#0",
-    "originalTitle": "Iran targets military bases as US launches wave of strikes",
-    "urduTitle": "Iran targets military bases as US launches wave of strikes",
-    "urduSummary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-16T08:50:02.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
