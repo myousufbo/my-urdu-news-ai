@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo#0",
+    "originalTitle": "Russia launches major ballistic missile attack on Kyiv",
+    "urduTitle": "Russia launches major ballistic missile attack on Kyiv",
+    "urduSummary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-19T08:37:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784445075",
+    "originalTitle": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+    "urduTitle": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+    "urduSummary": "The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
+    "pubDate": "2026-07-19T09:08:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784438377",
+    "originalTitle": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+    "urduTitle": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+    "urduSummary": "US strikes target Iran's IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+    "pubDate": "2026-07-19T08:49:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784439589",
+    "originalTitle": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+    "urduTitle": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+    "urduSummary": "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+    "pubDate": "2026-07-19T08:46:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cgk417jp83po#0",
     "originalTitle": "US and Iran exchange strikes after two US deaths in Jordan attack",
     "urduTitle": "US and Iran exchange strikes after two US deaths in Jordan attack",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/17/offer-he-cant-refuse-is-italys-mafia-law-breaking-crime-or-families?traffic_source=rss",
     "pubDate": "2026-07-17T13:09:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784271396",
-    "originalTitle": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
-    "urduTitle": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
-    "urduSummary": "Berlin warns against a 'security vacuum' in Lebanon's south once UNIFIL mandate expires at year's end.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
-    "pubDate": "2026-07-17T09:24:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784278600",
-    "originalTitle": "US strikes destroy key bridges, tower in southern Iran",
-    "urduTitle": "US strikes destroy key bridges, tower in southern Iran",
-    "urduSummary": "US strikes destroy key bridges, tower in southern Iran",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
-    "pubDate": "2026-07-17T08:57:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1781430352",
-    "originalTitle": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
-    "urduTitle": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
-    "urduSummary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights?traffic_source=rss",
-    "pubDate": "2026-07-17T08:30:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo#0",
-    "originalTitle": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-    "urduTitle": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-    "urduSummary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-17T04:08:27.000Z",
     "category": "world",
     "imageUrl": null
   }
