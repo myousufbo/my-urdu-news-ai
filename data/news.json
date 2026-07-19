@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cgk417jp83po#0",
+    "originalTitle": "US and Iran exchange strikes after two US deaths in Jordan attack",
+    "urduTitle": "US and Iran exchange strikes after two US deaths in Jordan attack",
+    "urduSummary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-19T05:10:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784424272",
+    "originalTitle": "US bombs Iran for eighth-straight night",
+    "urduTitle": "US bombs Iran for eighth-straight night",
+    "urduSummary": "The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+    "pubDate": "2026-07-19T05:08:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784435725",
+    "originalTitle": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+    "urduTitle": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+    "urduSummary": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
+    "pubDate": "2026-07-19T04:36:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784434555",
+    "originalTitle": "At least one killed as Russian ballistic missiles hit Kyiv",
+    "urduTitle": "At least one killed as Russian ballistic missiles hit Kyiv",
+    "urduSummary": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+    "pubDate": "2026-07-19T04:32:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwymly9yd33o#0",
     "originalTitle": "Tate brothers arrested in US after more charges laid against them in UK",
     "urduTitle": "Tate brothers arrested in US after more charges laid against them in UK",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-17T04:08:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr59n096mrmo#0",
-    "originalTitle": "More than 500 Rohingya vanished at sea - what happened?",
-    "urduTitle": "More than 500 Rohingya vanished at sea - what happened?",
-    "urduSummary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-17T03:07:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784255900",
-    "originalTitle": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-    "urduTitle": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-    "urduSummary": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss",
-    "pubDate": "2026-07-17T05:22:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784264939",
-    "originalTitle": "Texas floods ravage through southwestern areas of state",
-    "urduTitle": "Texas floods ravage through southwestern areas of state",
-    "urduSummary": "At least 2 people are dead, and over 200 were rescued in catastrophic floods in the Texas Hill Country region.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss",
-    "pubDate": "2026-07-17T05:12:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784252559",
-    "originalTitle": "Key takeaways from Donald Trump’s controversial speech on election security",
-    "urduTitle": "Key takeaways from Donald Trump’s controversial speech on election security",
-    "urduSummary": "The president claimed China and 'deep state' actors had deceived US voters, but critics say his claims were misleading.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
-    "pubDate": "2026-07-17T04:58:58.000Z",
     "category": "world",
     "imageUrl": null
   }
