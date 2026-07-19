@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784477066",
+    "originalTitle": "Israeli settlers torch homes and mosque in Masafer Yatta",
+    "urduTitle": "Israeli settlers torch homes and mosque in Masafer Yatta",
+    "urduSummary": "Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss",
+    "pubDate": "2026-07-19T16:06:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784476148",
+    "originalTitle": "5.6 magnitude earthquake hits Peru",
+    "urduTitle": "5.6 magnitude earthquake hits Peru",
+    "urduSummary": "Footage shows firefighters looking for a missing person amongst the rubble of a collapsed building in Pumpunya, Peru.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/5-6-magnitude-earthquake-hits-peru?traffic_source=rss",
+    "pubDate": "2026-07-19T15:54:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784472184",
+    "originalTitle": "Israel uses law to destroy Palestinian education in East Jerusalem",
+    "urduTitle": "Israel uses law to destroy Palestinian education in East Jerusalem",
+    "urduSummary": "Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
+    "pubDate": "2026-07-19T15:46:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1784447714",
     "originalTitle": "Indian court rejects bid to release hunger-striking activist from hospital",
     "urduTitle": "Indian court rejects bid to release hunger-striking activist from hospital",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss",
     "pubDate": "2026-07-17T19:39:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784299684",
-    "originalTitle": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
-    "urduTitle": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
-    "urduSummary": "The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
-    "pubDate": "2026-07-17T16:40:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784302631",
-    "originalTitle": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
-    "urduTitle": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
-    "urduSummary": "Landslide has buried homes and forced more than 1,100 people to evacuate.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss",
-    "pubDate": "2026-07-17T16:37:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784302202",
-    "originalTitle": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-    "urduTitle": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-    "urduSummary": "Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
-    "pubDate": "2026-07-17T16:26:34.000Z",
     "category": "world",
     "imageUrl": null
   }
