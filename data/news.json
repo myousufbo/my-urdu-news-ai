@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo#0",
+    "originalTitle": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+    "urduTitle": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+    "urduSummary": "Some protesters demanding education reforms said they werew injured in clashes with police who banned the march.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-20T12:31:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784553095",
+    "originalTitle": "Israeli ministers and settlers call for return to Gaza settlements",
+    "urduTitle": "Israeli ministers and settlers call for return to Gaza settlements",
+    "urduSummary": "‘Gaza is ours.’",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+    "pubDate": "2026-07-20T13:29:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784549578",
+    "originalTitle": "Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism",
+    "urduTitle": "Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism",
+    "urduSummary": "Digital inclusion and civil liberties campaigners welcome the U-turn — for different reasons. But some are unhappy.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/20/burnhams-move-to-scrap-uks-digital-id-plans-earns-cheers-and-criticism?traffic_source=rss",
+    "pubDate": "2026-07-20T13:24:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784553522",
+    "originalTitle": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+    "urduTitle": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+    "urduSummary": "Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
+    "pubDate": "2026-07-20T13:21:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o#0",
     "originalTitle": "Boy, 13, dies during World Cup celebrations in Spain ",
     "urduTitle": "Boy, 13, dies during World Cup celebrations in Spain ",
@@ -503,50 +547,6 @@
     "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-18T11:55:54.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784374285",
-    "originalTitle": "Europe should look to Africa for heatwave solutions",
-    "urduTitle": "Europe should look to Africa for heatwave solutions",
-    "urduSummary": "African communities have spent decades developing practical, tested ways to live with extreme heat.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/18/europe-should-look-to-africa-for-heatwave-solutions?traffic_source=rss",
-    "pubDate": "2026-07-18T12:19:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784365889",
-    "originalTitle": "India achieves milestone with launch of first private-sector orbital rocket",
-    "urduTitle": "India achieves milestone with launch of first private-sector orbital rocket",
-    "urduSummary": "PM Narendra Modi says successful launch will 'encourage countless youngsters to dream bigger and innovate fearlessly'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss",
-    "pubDate": "2026-07-18T11:50:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784248489",
-    "originalTitle": "India’s salt workers: The human cost of the world’s most popular seasoning",
-    "urduTitle": "India’s salt workers: The human cost of the world’s most popular seasoning",
-    "urduSummary": "101 East investigates the supply chain behind India’s booming salt industry.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/101-east/2026/7/18/indias-salt-workers-the-human-cost-of-the-worlds-most-popular-seasoning?traffic_source=rss",
-    "pubDate": "2026-07-18T11:30:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-07-18T09:18:02.893Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
