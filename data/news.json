@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0",
+    "originalTitle": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+    "urduTitle": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+    "urduSummary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-21T09:41:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784625814",
+    "originalTitle": "Huge fire at Ukraine shopping centre after Russian drone strike",
+    "urduTitle": "Huge fire at Ukraine shopping centre after Russian drone strike",
+    "urduSummary": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
+    "pubDate": "2026-07-21T09:52:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784623273",
+    "originalTitle": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
+    "urduTitle": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
+    "urduSummary": "Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss",
+    "pubDate": "2026-07-21T09:48:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784625376",
+    "originalTitle": "Philippine Foreign Secretary says ASEAN must work together",
+    "urduTitle": "Philippine Foreign Secretary says ASEAN must work together",
+    "urduSummary": "Philippine Foreign Secretary says ASEAN must work together",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss",
+    "pubDate": "2026-07-21T09:18:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players?traffic_source=rss",
     "pubDate": "2026-07-19T12:29:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784450306",
-    "originalTitle": "India’s cockroach politics is no joke",
-    "urduTitle": "India’s cockroach politics is no joke",
-    "urduSummary": "The Cockroach Janta Party has crept onto the political scene at a time when Indian democracy is struggling.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke?traffic_source=rss",
-    "pubDate": "2026-07-19T11:57:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo#0",
-    "originalTitle": "Russia launches major ballistic missile attack on Kyiv",
-    "urduTitle": "Russia launches major ballistic missile attack on Kyiv",
-    "urduSummary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-19T08:37:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784445075",
-    "originalTitle": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
-    "urduTitle": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
-    "urduSummary": "The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
-    "pubDate": "2026-07-19T09:08:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784438377",
-    "originalTitle": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-    "urduTitle": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-    "urduSummary": "US strikes target Iran's IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
-    "pubDate": "2026-07-19T08:49:56.000Z",
     "category": "world",
     "imageUrl": null
   }
