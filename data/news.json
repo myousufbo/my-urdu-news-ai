@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784675760",
+    "originalTitle": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
+    "urduTitle": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
+    "urduSummary": "US officials claim evidence points to lettuce grown in Mexico, which Mexico's Health Ministry disputes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
+    "pubDate": "2026-07-22T02:01:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784684485",
+    "originalTitle": "Desperate families search rubble weeks after Venezuela earthquakes",
+    "urduTitle": "Desperate families search rubble weeks after Venezuela earthquakes",
+    "urduSummary": "Families in Venezuela search through the rubble of their homes, weeks after the 7.2 and 7.5 magnitude earthquakes hit.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss",
+    "pubDate": "2026-07-22T01:45:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784682081",
+    "originalTitle": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
+    "urduTitle": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
+    "urduSummary": "Gavito: Israel will likely keep pushing limits in Lebanon, making a full withdrawal unlikely amid security concerns.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
+    "pubDate": "2026-07-22T01:21:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cyvl35z3917o#0",
     "originalTitle": "Zelensky sacks Ukraine's top army commander after days of protests",
     "urduTitle": "Zelensky sacks Ukraine's top army commander after days of protests",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-20T01:11:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784516417",
-    "originalTitle": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
-    "urduTitle": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
-    "urduSummary": "Hundreds of demonstrators in Texas city demand justice in fatal shooting of 52-year-old Mexican man.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
-    "pubDate": "2026-07-20T05:01:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784522486",
-    "originalTitle": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
-    "urduTitle": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
-    "urduSummary": "US President Donald Trump said the latest strikes on Iran were carried out 'in honour' of killed US military personnel.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
-    "pubDate": "2026-07-20T04:52:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784522220",
-    "originalTitle": "US releases footage of ninth consecutive night of strikes on Iran",
-    "urduTitle": "US releases footage of ninth consecutive night of strikes on Iran",
-    "urduSummary": "The US military carried out its ninth consecutive night of strikes on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
-    "pubDate": "2026-07-20T04:38:16.000Z",
     "category": "world",
     "imageUrl": null
   }
