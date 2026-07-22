@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784726430",
+    "originalTitle": "Israeli strike leaves two Palestinians burnt beyond recognition",
+    "urduTitle": "Israeli strike leaves two Palestinians burnt beyond recognition",
+    "urduSummary": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
+    "pubDate": "2026-07-22T13:23:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784724972",
+    "originalTitle": "The Indian football tournament where goats replace trophies",
+    "urduTitle": "The Indian football tournament where goats replace trophies",
+    "urduSummary": "GOATs are not players, but prizes at this football tournament in eastern India.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/the-indian-football-tournament-where-goats-replace-trophies?traffic_source=rss",
+    "pubDate": "2026-07-22T13:19:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784724046",
+    "originalTitle": "English FA charges Southampton coach Tonda Eckert over ‘spygate’ scandal",
+    "urduTitle": "English FA charges Southampton coach Tonda Eckert over ‘spygate’ scandal",
+    "urduSummary": "Allegations of spying on rivals led to Southampton's expulsion from the Championship playoff final.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/22/english-fa-charges-southampton-coach-tonda-eckert-over-spygate-scandal?traffic_source=rss",
+    "pubDate": "2026-07-22T13:15:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo#0",
     "originalTitle": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
     "urduTitle": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss",
     "pubDate": "2026-07-20T17:05:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784565877",
-    "originalTitle": "Spain team arrives home after winning the World Cup",
-    "urduTitle": "Spain team arrives home after winning the World Cup",
-    "urduSummary": "World champions Spain have landed home carrying the World Cup trophy a day after defeating Argentina in the final.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/spain-team-arrives-home-after-winning-the-world-cup?traffic_source=rss",
-    "pubDate": "2026-07-20T16:47:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784565762",
-    "originalTitle": "Israeli air strike injures 14 in Gaza City",
-    "urduTitle": "Israeli air strike injures 14 in Gaza City",
-    "urduSummary": "An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
-    "pubDate": "2026-07-20T16:45:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo#0",
-    "originalTitle": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-    "urduTitle": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-    "urduSummary": "Some protesters demanding education reforms said they werew injured in clashes with police who banned the march.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-20T12:31:10.000Z",
     "category": "world",
     "imageUrl": null
   }
