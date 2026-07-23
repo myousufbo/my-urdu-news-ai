@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784733133",
+    "originalTitle": "Spain and France battle raging wildfires, face high risk of more",
+    "urduTitle": "Spain and France battle raging wildfires, face high risk of more",
+    "urduSummary": "A wildfire in Spain's Guadalajara region has burned 32,000 hectares, in one of the country's largest recorded blazes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/spain-and-france-battle-raging-wildfires-face-high-risk-of-more?traffic_source=rss",
+    "pubDate": "2026-07-23T01:23:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784757609",
+    "originalTitle": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+    "urduTitle": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+    "urduSummary": "With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+    "pubDate": "2026-07-23T01:20:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784754571",
+    "originalTitle": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+    "urduTitle": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+    "urduSummary": "Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+    "pubDate": "2026-07-23T00:29:52.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-07-21T02:04:51.472Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784593414",
-    "originalTitle": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
-    "urduTitle": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
-    "urduSummary": "Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
-    "pubDate": "2026-07-21T01:47:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784595593",
-    "originalTitle": "Why protests are growing in Ukraine over defence leadership and dismissals",
-    "urduTitle": "Why protests are growing in Ukraine over defence leadership and dismissals",
-    "urduSummary": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
-    "pubDate": "2026-07-21T01:27:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784595352",
-    "originalTitle": "Tate brothers vow to fight extradition as they appear at court in Miami",
-    "urduTitle": "Tate brothers vow to fight extradition as they appear at court in Miami",
-    "urduSummary": "Controversial ‘manosphere’ influencers Andrew and Tristan Tate appeared at a federal court hearing in Miami.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss",
-    "pubDate": "2026-07-21T00:58:10.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
