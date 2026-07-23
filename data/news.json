@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o#0",
+    "originalTitle": "Oil prices hit $100 for the first time since May",
+    "urduTitle": "Oil prices hit $100 for the first time since May",
+    "urduSummary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-23T15:31:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784796850",
+    "originalTitle": "Yemen faces a new challenge amid prospects of confrontation",
+    "urduTitle": "Yemen faces a new challenge amid prospects of confrontation",
+    "urduSummary": "What is the military balance of power in Yemen and the likelihood of confrontation between the government and Houthis?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss",
+    "pubDate": "2026-07-23T16:17:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784817473",
+    "originalTitle": "US House votes to limit Iran war for first time since ceasefire breakdown",
+    "urduTitle": "US House votes to limit Iran war for first time since ceasefire breakdown",
+    "urduSummary": "The Senate was also expected to vote on War Powers resolution, in largely symbolic move attempting to reign in Trump.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
+    "pubDate": "2026-07-23T16:12:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784796913",
+    "originalTitle": "The missing half of mediation",
+    "urduTitle": "The missing half of mediation",
+    "urduSummary": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss",
+    "pubDate": "2026-07-23T16:08:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo#0",
     "originalTitle": "Saudis must recognise Israel for nuclear deal, says Trump ",
     "urduTitle": "Saudis must recognise Israel for nuclear deal, says Trump ",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
     "pubDate": "2026-07-21T20:17:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c7vgel8374yo#0",
-    "originalTitle": "Row escalates in Ukraine over army chief's future",
-    "urduTitle": "Row escalates in Ukraine over army chief's future",
-    "urduSummary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-21T12:33:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784649588",
-    "originalTitle": "External review finds no wrongdoing in Gates Foundation–Epstein links",
-    "urduTitle": "External review finds no wrongdoing in Gates Foundation–Epstein links",
-    "urduSummary": "Report notes foundation's interaction with US sex offender Epstein on donor fund and grant, but rules out wrongdoing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/21/external-review-finds-no-wrongdoing-in-gates-foundation-epstein?traffic_source=rss",
-    "pubDate": "2026-07-21T16:46:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784638486",
-    "originalTitle": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
-    "urduTitle": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
-    "urduSummary": "Increasing use of long-range missiles and drones against targets far from the front line is worsening the civilian toll.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss",
-    "pubDate": "2026-07-21T16:31:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784646635",
-    "originalTitle": "US appeals court overturns ruling that freed Columbia activist Mahdawi",
-    "urduTitle": "US appeals court overturns ruling that freed Columbia activist Mahdawi",
-    "urduSummary": "The decision is the latest court victory for US President Donald Trump’s campaign targeting foreign student protesters.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/us-appeals-court-overturns-ruling-that-freed-columbia-activist-mahdawi?traffic_source=rss",
-    "pubDate": "2026-07-21T16:16:40.000Z",
     "category": "world",
     "imageUrl": null
   }
