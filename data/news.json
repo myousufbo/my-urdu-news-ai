@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784836437",
+    "originalTitle": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+    "urduTitle": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+    "urduSummary": "This is a breaking news story.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
+    "pubDate": "2026-07-23T19:58:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784831903",
+    "originalTitle": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+    "urduTitle": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+    "urduSummary": "Judge says that long sentence is merited for slaying of state Democratic lawmaker Melissa Hortman and her husband Mark.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
+    "pubDate": "2026-07-23T19:50:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784834989",
+    "originalTitle": "Journalist killed in Mexico after years of exposing corruption",
+    "urduTitle": "Journalist killed in Mexico after years of exposing corruption",
+    "urduSummary": "Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
+    "pubDate": "2026-07-23T19:40:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o#0",
     "originalTitle": "Oil prices hit $100 for the first time since May",
     "urduTitle": "Oil prices hit $100 for the first time since May",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-21T19:57:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784648219",
-    "originalTitle": "Deposed Turkish opposition leader plans new party",
-    "urduTitle": "Deposed Turkish opposition leader plans new party",
-    "urduSummary": "Ozgur Ozel hopes to launch new main opposition after court removed him as leader of the CHP.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
-    "pubDate": "2026-07-21T20:23:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784654660",
-    "originalTitle": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
-    "urduTitle": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
-    "urduSummary": "Relations between Canada and its largest trading partner have been tested by Trump's repeated jibes, threats and tariffs",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
-    "pubDate": "2026-07-21T20:17:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784654111",
-    "originalTitle": "Spain battles latest in series of major wildfires near Madrid",
-    "urduTitle": "Spain battles latest in series of major wildfires near Madrid",
-    "urduSummary": "Fire breaks out amid Spain's third heatwave of the summer, with temperatures forecast to rise above 40C.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-    "pubDate": "2026-07-21T20:17:04.000Z",
     "category": "world",
     "imageUrl": null
   }
