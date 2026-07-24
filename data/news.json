@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784861001",
+    "originalTitle": "Ukraine beheads its military as its performance begins to soar",
+    "urduTitle": "Ukraine beheads its military as its performance begins to soar",
+    "urduSummary": "An unprecedented simultaneous replacement of the top defence and military brass comes amid a debate over strategy.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss",
+    "pubDate": "2026-07-24T05:20:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784868452",
+    "originalTitle": "Trillion dollar US defence bill would deepen military ties with Israel",
+    "urduTitle": "Trillion dollar US defence bill would deepen military ties with Israel",
+    "urduSummary": "A $1.15 trillion US defence bill passed by the House includes plans to expand military cooperation with Israel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
+    "pubDate": "2026-07-24T05:01:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784863875",
+    "originalTitle": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
+    "urduTitle": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
+    "urduSummary": "Israeli attacks come amid ongoing talks with Lebanese officials to implement framework for peace between two countries.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss",
+    "pubDate": "2026-07-24T04:39:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o#0",
     "originalTitle": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
     "urduTitle": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-22T03:05:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o#0",
-    "originalTitle": "France passes law banning under-15s from social media",
-    "urduTitle": "France passes law banning under-15s from social media",
-    "urduSummary": "The law will require social media platforms in France to verify all users age from January.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-22T03:50:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784526983",
-    "originalTitle": "Goats of football: Indian village holds tournament with an indigenous twist",
-    "urduTitle": "Goats of football: Indian village holds tournament with an indigenous twist",
-    "urduSummary": "In a remote district surrounded by forests and hills, teams from tribal villages compete for football glory - and goats.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss",
-    "pubDate": "2026-07-22T05:19:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784695970",
-    "originalTitle": "US expands strikes on 11th straight night of attacks",
-    "urduTitle": "US expands strikes on 11th straight night of attacks",
-    "urduSummary": "The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
-    "pubDate": "2026-07-22T05:05:25.000Z",
     "category": "world",
     "imageUrl": null
   }
