@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1784969476",
+    "originalTitle": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
+    "urduTitle": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
+    "urduSummary": "This is a breaking news story.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
+    "pubDate": "2026-07-25T08:54:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784910163",
+    "originalTitle": "Dodging snipers, housing crisis forces Yemenis to live on front line",
+    "urduTitle": "Dodging snipers, housing crisis forces Yemenis to live on front line",
+    "urduSummary": "Living near Taiz's front line forces families to make difficult choices amid sniper threats and economic hardships.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
+    "pubDate": "2026-07-25T08:09:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784958200",
+    "originalTitle": "Wildfires in Spain and France force evacuation of 200,000 people",
+    "urduTitle": "Wildfires in Spain and France force evacuation of 200,000 people",
+    "urduSummary": "France has appealed for international help, while Spain has declared a national emergency.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
+    "pubDate": "2026-07-25T07:41:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-07-23T10:14:13.569Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784799710",
-    "originalTitle": "Thai sailors sue owners of cargo ship hit in Hormuz",
-    "urduTitle": "Thai sailors sue owners of cargo ship hit in Hormuz",
-    "urduSummary": "Thai sailors sue owners of cargo ship hit in Hormuz",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
-    "pubDate": "2026-07-23T09:45:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784784065",
-    "originalTitle": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-    "urduTitle": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-    "urduSummary": "With the Houthi naval blockade, shipping disruptions now impact the Bab al-Mandeb strait in addition to Hormuz.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
-    "pubDate": "2026-07-23T09:20:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784789949",
-    "originalTitle": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
-    "urduTitle": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
-    "urduSummary": "For 12 years, Modi and his party have dominated Indian social media. Now, youth use the same platforms against him.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss",
-    "pubDate": "2026-07-23T09:20:04.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
