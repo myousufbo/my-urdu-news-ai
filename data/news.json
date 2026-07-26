@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1785065603",
+    "originalTitle": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
+    "urduTitle": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
+    "urduSummary": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
+    "pubDate": "2026-07-26T12:34:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785061265",
+    "originalTitle": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+    "urduTitle": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+    "urduSummary": "US lawmakers introduce a bill aimed at giving the government power to order companies to shut down 'rogue' AI systems.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work?traffic_source=rss",
+    "pubDate": "2026-07-26T12:30:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785062591",
+    "originalTitle": "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
+    "urduTitle": "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
+    "urduSummary": "Casemiro plays, Messi sits out during his post-World Cup rest, and Suarez scores to give Miami a sixth straight MLS win.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/26/casemiro-makes-inter-miami-debut-despite-mls-investigation-into-transfer?traffic_source=rss",
+    "pubDate": "2026-07-26T12:20:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cevmdxz4872o#0",
     "originalTitle": "What we know so far about the Berlin Pride ramming attack",
     "urduTitle": "What we know so far about the Berlin Pride ramming attack",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
     "pubDate": "2026-07-24T12:49:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784890857",
-    "originalTitle": "Bangladesh President Mohammed Shahabuddin resigns",
-    "urduTitle": "Bangladesh President Mohammed Shahabuddin resigns",
-    "urduSummary": "Shahabuddin, 76, cited health reasons for leaving two years before his five-year term was meant to expire.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/bangladesh-president-mohammed-shahabuddin-resigns?traffic_source=rss",
-    "pubDate": "2026-07-24T12:35:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784895147",
-    "originalTitle": "Spain declares national emergency over wildfires",
-    "urduTitle": "Spain declares national emergency over wildfires",
-    "urduSummary": "At least 10,000 people have been evacuated following wildfires in the central region of Madrid.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/spain-declares-national-emergency-over-wildfires?traffic_source=rss",
-    "pubDate": "2026-07-24T12:15:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do#0",
-    "originalTitle": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-    "urduTitle": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-    "urduSummary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-24T09:22:11.000Z",
     "category": "world",
     "imageUrl": null
   }
