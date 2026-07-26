@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo#0",
+    "originalTitle": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+    "urduTitle": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+    "urduSummary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-26T10:26:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785083719",
+    "originalTitle": "Heatwave drives major wildfires across North Africa",
+    "urduTitle": "Heatwave drives major wildfires across North Africa",
+    "urduSummary": "Extreme heat is fuelling wildfires across North Africa, with major fires burning in Tunisia, Algeria and Morocco.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss",
+    "pubDate": "2026-07-26T16:39:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785074358",
+    "originalTitle": "Darfur: Weaponising Identity",
+    "urduTitle": "Darfur: Weaponising Identity",
+    "urduSummary": "How land conflict, state neglect and racist ideology have driven Darfur towards alleged genocide.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+    "pubDate": "2026-07-26T16:20:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785082394",
+    "originalTitle": "Typhoon Noul batters Southeast China",
+    "urduTitle": "Typhoon Noul batters Southeast China",
+    "urduSummary": "Footage shows the aftermath of Typhoon Noul after it battered southern China's coastal regions.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/typhoon-noul-batters-southeast-china?traffic_source=rss",
+    "pubDate": "2026-07-26T16:19:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1785065603",
     "originalTitle": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
     "urduTitle": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
     "pubDate": "2026-07-24T20:27:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784905083",
-    "originalTitle": "Romanian jet fighter shoots down suspected Russian drone",
-    "urduTitle": "Romanian jet fighter shoots down suspected Russian drone",
-    "urduSummary": "The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-    "pubDate": "2026-07-24T16:53:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784909271",
-    "originalTitle": "US records 2,318 measles cases, already surpassing 2025 total",
-    "urduTitle": "US records 2,318 measles cases, already surpassing 2025 total",
-    "urduSummary": "Scientists warn that falling vaccination rates leave vulnerable groups such as young children more exposed to disease.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
-    "pubDate": "2026-07-24T16:52:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784885657",
-    "originalTitle": "Life without refrigerators: Gaza residents fight heat and food spoilage",
-    "urduTitle": "Life without refrigerators: Gaza residents fight heat and food spoilage",
-    "urduSummary": "Gaza families endure scorching summers without refrigerators, struggling to preserve food, medicine and basics.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
-    "pubDate": "2026-07-24T16:32:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784894589",
-    "originalTitle": "US summons Malaysia envoy over Israel policy",
-    "urduTitle": "US summons Malaysia envoy over Israel policy",
-    "urduSummary": "Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
-    "pubDate": "2026-07-24T12:49:27.000Z",
     "category": "world",
     "imageUrl": null
   }
