@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c62eg899l99o#0",
+    "originalTitle": "Berlin Pride attack suspect shot and killed during police operation",
+    "urduTitle": "Berlin Pride attack suspect shot and killed during police operation",
+    "urduSummary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-26T19:21:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785097002",
+    "originalTitle": "Houthis claim Saudi drone downed over northwestern Yemen",
+    "urduTitle": "Houthis claim Saudi drone downed over northwestern Yemen",
+    "urduSummary": "Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
+    "pubDate": "2026-07-26T20:19:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785084425",
+    "originalTitle": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+    "urduTitle": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+    "urduSummary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+    "pubDate": "2026-07-26T19:31:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785093759",
+    "originalTitle": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
+    "urduTitle": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
+    "urduSummary": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+    "pubDate": "2026-07-26T19:27:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo#0",
     "originalTitle": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
     "urduTitle": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-24T18:51:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgjenp4680o#0",
-    "originalTitle": "Trump vows to investigate EU over fining of US tech companies",
-    "urduTitle": "Trump vows to investigate EU over fining of US tech companies",
-    "urduSummary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-24T20:23:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784925097",
-    "originalTitle": "Israeli settlers escalate attacks on Palestinians near Nablus",
-    "urduTitle": "Israeli settlers escalate attacks on Palestinians near Nablus",
-    "urduSummary": "Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
-    "pubDate": "2026-07-24T20:40:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784921230",
-    "originalTitle": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
-    "urduTitle": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
-    "urduSummary": "Announcement comes as Venezuela has hewed close to Trump administration, who has pledged to'disable' international court.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
-    "pubDate": "2026-07-24T20:32:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784924142",
-    "originalTitle": "Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media",
-    "urduTitle": "Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media",
-    "urduSummary": "This is a breaking news story.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-    "pubDate": "2026-07-24T20:27:16.000Z",
     "category": "world",
     "imageUrl": null
   }
