@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1785114789",
+    "originalTitle": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+    "urduTitle": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+    "urduSummary": "Lebanon's army has accused Israel of bulldozing homes and hindering its efforts to escort residents to 'pilot zones'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss",
+    "pubDate": "2026-07-27T01:40:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785112819",
+    "originalTitle": "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
+    "urduTitle": "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
+    "urduSummary": "UN Secretary-General Antonio Guterres toured the notorious former ‘Assad prison’ in Sednaya.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss",
+    "pubDate": "2026-07-27T00:48:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785105685",
+    "originalTitle": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+    "urduTitle": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+    "urduSummary": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
+    "pubDate": "2026-07-27T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c62eg899l99o#0",
     "originalTitle": "Berlin Pride attack suspect shot and killed during police operation",
     "urduTitle": "Berlin Pride attack suspect shot and killed during police operation",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
     "pubDate": "2026-07-25T01:30:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784919754",
-    "originalTitle": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-    "urduTitle": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-    "urduSummary": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
-    "pubDate": "2026-07-25T01:09:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784939664",
-    "originalTitle": "GLP-1s are changing US healthcare, should everyone be on them?",
-    "urduTitle": "GLP-1s are changing US healthcare, should everyone be on them?",
-    "urduSummary": "GLP-1 drugs, originally developed to treat diabetes and now widely used for obesity, are reshaping healthcare in the US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/glp-1s-are-changing-us-healthcare-should-everyone-be-on-them?traffic_source=rss",
-    "pubDate": "2026-07-25T00:40:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko#0",
-    "originalTitle": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "urduTitle": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "urduSummary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-24T18:51:17.000Z",
     "category": "world",
     "imageUrl": null
   }
