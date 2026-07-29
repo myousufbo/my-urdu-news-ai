@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo#0",
+    "originalTitle": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+    "urduTitle": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+    "urduSummary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-29T06:10:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno#0",
+    "originalTitle": "Russia charges Telegram founder Durov with facilitating terrorism",
+    "urduTitle": "Russia charges Telegram founder Durov with facilitating terrorism",
+    "urduSummary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-07-29T10:23:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-07-29T10:32:40.675Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785307993",
+    "originalTitle": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+    "urduTitle": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+    "urduSummary": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+    "pubDate": "2026-07-29T10:19:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785310294",
+    "originalTitle": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+    "urduTitle": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+    "urduSummary": "Russia's FSB says Telegram has not pulled content used by Ukrainian intelligence and 'terrorist' groups to plan attacks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
+    "pubDate": "2026-07-29T10:18:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785218741",
+    "originalTitle": "How has the Indian government responded to ‘Cockroach’ protests?",
+    "urduTitle": "How has the Indian government responded to ‘Cockroach’ protests?",
+    "urduSummary": "The BJP government's response so far has been a measured crackdown as it also attempts to woo the youth.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss",
+    "pubDate": "2026-07-29T09:52:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1785282672",
     "originalTitle": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
     "urduTitle": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
@@ -480,72 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-27T15:59:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo#0",
-    "originalTitle": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-    "urduTitle": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-    "urduSummary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-27T16:33:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785172332",
-    "originalTitle": "India suspends police officer for firing AK-47 at student protesters",
-    "urduTitle": "India suspends police officer for firing AK-47 at student protesters",
-    "urduSummary": "An Indian police officer has been suspended after firing an AK-47 rifle at students protesting over leaked exam papers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/india-suspends-police-officer-for-firing-ak-47-at-student-protesters?traffic_source=rss",
-    "pubDate": "2026-07-27T17:21:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785165291",
-    "originalTitle": "Chad to join raft of withdrawals from International Criminal Court",
-    "urduTitle": "Chad to join raft of withdrawals from International Criminal Court",
-    "urduSummary": "Chad becomes the fifth country to withdraw from the ICC recently, amid rising US pressure and accusations of bias.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/27/chad-to-join-raft-of-withdrawals-from-international-criminal-court?traffic_source=rss",
-    "pubDate": "2026-07-27T17:20:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785168306",
-    "originalTitle": "Iran: Currently no negotiations with the US",
-    "urduTitle": "Iran: Currently no negotiations with the US",
-    "urduSummary": "Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
-    "pubDate": "2026-07-27T16:08:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o#0",
-    "originalTitle": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-    "urduTitle": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-    "urduSummary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-27T12:33:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo#0",
-    "originalTitle": "More than 600 US military service members injured since Iran War began in February",
-    "urduTitle": "More than 600 US military service members injured since Iran War began in February",
-    "urduSummary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-27T13:31:57.000Z",
     "category": "world",
     "imageUrl": null
   }
