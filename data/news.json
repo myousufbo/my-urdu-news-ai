@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1785282672",
+    "originalTitle": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+    "urduTitle": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+    "urduSummary": "Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+    "pubDate": "2026-07-29T05:43:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1783668045",
+    "originalTitle": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+    "urduTitle": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+    "urduSummary": "New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
+    "pubDate": "2026-07-29T05:22:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785302185",
+    "originalTitle": "Latest images of damage as death toll from Japan’s Kyushu quake rises",
+    "urduTitle": "Latest images of damage as death toll from Japan’s Kyushu quake rises",
+    "urduSummary": "The death toll from Japan’s Kyushu island quake rises to 13.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss",
+    "pubDate": "2026-07-29T05:18:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo#0",
     "originalTitle": "Watch: The moment quake hit Japan",
     "urduTitle": "Watch: The moment quake hit Japan",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-27T13:31:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-07-27T14:18:01.498Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785155849",
-    "originalTitle": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-    "urduTitle": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-    "urduSummary": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
-    "pubDate": "2026-07-27T14:04:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785157077",
-    "originalTitle": "Five years after Saied’s power grab, Tunisians are no better off",
-    "urduTitle": "Five years after Saied’s power grab, Tunisians are no better off",
-    "urduSummary": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
-    "pubDate": "2026-07-27T14:03:09.000Z",
     "category": "world",
     "imageUrl": null
   }
