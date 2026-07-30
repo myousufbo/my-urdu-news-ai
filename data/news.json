@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1785418206",
+    "originalTitle": "Islamabad residents rally in solidarity with Kashmir protests",
+    "urduTitle": "Islamabad residents rally in solidarity with Kashmir protests",
+    "urduSummary": "A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
+    "pubDate": "2026-07-30T13:35:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785416952",
+    "originalTitle": "Sudan’s RSF vows to return to Khartoum",
+    "urduTitle": "Sudan’s RSF vows to return to Khartoum",
+    "urduSummary": "Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
+    "pubDate": "2026-07-30T13:26:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785397238",
+    "originalTitle": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
+    "urduTitle": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
+    "urduSummary": "What do the charges brought against Argentina's FA, their players and their fans mean, and what action could FIFA take?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/30/world-cup-what-have-fifa-charged-argentina-with-what-could-punishment-be?traffic_source=rss",
+    "pubDate": "2026-07-30T13:15:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
     "originalTitle": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
     "urduTitle": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-07-28T16:14:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o#0",
-    "originalTitle": "Uefa reacts with fury to Infantino World Cup plan",
-    "urduTitle": "Uefa reacts with fury to Infantino World Cup plan",
-    "urduSummary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-28T15:36:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo#0",
-    "originalTitle": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-    "urduTitle": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-    "urduSummary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-28T16:37:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785258710",
-    "originalTitle": "War on Iran: Phase II: Day 17",
-    "urduTitle": "War on Iran: Phase II: Day 17",
-    "urduSummary": "Political déjà vu as US President Donald Trump says negotiations with Iran are back on.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss",
-    "pubDate": "2026-07-28T17:15:20.000Z",
     "category": "world",
     "imageUrl": null
   }
