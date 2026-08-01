@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o#0",
+    "originalTitle": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+    "urduTitle": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+    "urduSummary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-01T12:43:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o#0",
+    "originalTitle": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+    "urduTitle": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+    "urduSummary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-01T09:51:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785585253",
+    "originalTitle": "Iran warns against ‘fire of war’ amid US strike threats on energy sites",
+    "urduTitle": "Iran warns against ‘fire of war’ amid US strike threats on energy sites",
+    "urduSummary": "Iranian media say retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+    "pubDate": "2026-08-01T12:44:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785496324",
+    "originalTitle": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+    "urduTitle": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+    "urduSummary": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
+    "pubDate": "2026-08-01T12:40:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785567943",
+    "originalTitle": "FIFA World Cup crisis: Who could replace Infantino as president?",
+    "urduTitle": "FIFA World Cup crisis: Who could replace Infantino as president?",
+    "urduSummary": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
+    "pubDate": "2026-08-01T11:58:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1785572708",
     "originalTitle": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
     "urduTitle": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss",
     "pubDate": "2026-07-30T16:30:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785421770",
-    "originalTitle": "NATO jets scramble as Russian missile detonates in Poland",
-    "urduTitle": "NATO jets scramble as Russian missile detonates in Poland",
-    "urduSummary": "The growing series of NATO airspace violations is raising concern that Russia's war on Ukraine could escalate.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
-    "pubDate": "2026-07-30T16:28:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785418206",
-    "originalTitle": "Islamabad residents rally in solidarity with Kashmir protests",
-    "urduTitle": "Islamabad residents rally in solidarity with Kashmir protests",
-    "urduSummary": "A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
-    "pubDate": "2026-07-30T13:35:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785416952",
-    "originalTitle": "Sudan’s RSF vows to return to Khartoum",
-    "urduTitle": "Sudan’s RSF vows to return to Khartoum",
-    "urduSummary": "Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
-    "pubDate": "2026-07-30T13:26:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785397238",
-    "originalTitle": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
-    "urduTitle": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
-    "urduSummary": "What do the charges brought against Argentina's FA, their players and their fans mean, and what action could FIFA take?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/30/world-cup-what-have-fifa-charged-argentina-with-what-could-punishment-be?traffic_source=rss",
-    "pubDate": "2026-07-30T13:15:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
-    "originalTitle": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-    "urduTitle": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-    "urduSummary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-30T09:56:06.000Z",
     "category": "world",
     "imageUrl": null
   }
