@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-08-01T02:12:09.581Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785545131",
+    "originalTitle": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+    "urduTitle": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+    "urduSummary": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+    "pubDate": "2026-08-01T01:10:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785544535",
+    "originalTitle": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+    "urduTitle": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+    "urduSummary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+    "pubDate": "2026-08-01T00:48:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785536746",
+    "originalTitle": "Trump administration to dismiss Reflecting Pool charges against David Hearn",
+    "urduTitle": "Trump administration to dismiss Reflecting Pool charges against David Hearn",
+    "urduSummary": "US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of 'botched installation'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss",
+    "pubDate": "2026-08-01T00:02:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
     "pubDate": "2026-07-30T04:55:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785373187",
-    "originalTitle": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
-    "urduTitle": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
-    "urduSummary": "US President Donald Trump has again signalled support for selling F-35 fighter jets to Turkiye.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss",
-    "pubDate": "2026-07-30T01:04:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785365767",
-    "originalTitle": "Trump cuts WHO off from Gavi vaccine alliance funding",
-    "urduTitle": "Trump cuts WHO off from Gavi vaccine alliance funding",
-    "urduSummary": "Decision follows long-running feud between Trump and UN group.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
-    "pubDate": "2026-07-30T00:26:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785366811",
-    "originalTitle": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
-    "urduTitle": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
-    "urduSummary": "Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
-    "pubDate": "2026-07-30T00:23:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#0",
-    "originalTitle": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-    "urduTitle": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-    "urduSummary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-29T18:41:31.000Z",
     "category": "world",
     "imageUrl": null
   }
