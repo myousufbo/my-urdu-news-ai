@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo#0",
+    "originalTitle": "Five dead, 41 missing, after Indonesia ferry catches fire",
+    "urduTitle": "Five dead, 41 missing, after Indonesia ferry catches fire",
+    "urduSummary": "The vessel with at least 250 people on board caught fire off Madura island.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-02T11:49:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785653282",
+    "originalTitle": "South Korea has hottest day on record amid extreme weather globally",
+    "urduTitle": "South Korea has hottest day on record amid extreme weather globally",
+    "urduSummary": "Scientists say the climate crisis driven by human activity is making heatwaves more frequent.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
+    "pubDate": "2026-08-02T12:34:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785673125",
+    "originalTitle": "At least five dead, 41 missing after ferry catches fire off Indonesia",
+    "urduTitle": "At least five dead, 41 missing after ferry catches fire off Indonesia",
+    "urduSummary": "The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss",
+    "pubDate": "2026-08-02T12:33:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785661936",
+    "originalTitle": "Why has EU called an emergency meeting on Spain migrant surge?",
+    "urduTitle": "Why has EU called an emergency meeting on Spain migrant surge?",
+    "urduSummary": "In joint letter, 22 member states call for 'strengthening of external borders' after nearly 60,000 migrants enter Ceuta.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss",
+    "pubDate": "2026-08-02T12:32:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1785590902",
     "originalTitle": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
     "urduTitle": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss",
     "pubDate": "2026-07-31T13:06:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785502636",
-    "originalTitle": "Palestinians in Gaza react to latest ceasefire deal",
-    "urduTitle": "Palestinians in Gaza react to latest ceasefire deal",
-    "urduSummary": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
-    "pubDate": "2026-07-31T12:59:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o#0",
-    "originalTitle": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
-    "urduTitle": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
-    "urduSummary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-07-31T09:51:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-07-31T10:31:42.483Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785490069",
-    "originalTitle": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
-    "urduTitle": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
-    "urduSummary": "Franco Baresi, who won the World Cup with Italy and was regarded as one of football's finest defenders, dies aged 66.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss",
-    "pubDate": "2026-07-31T09:55:24.000Z",
     "category": "world",
     "imageUrl": null
   }
