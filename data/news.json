@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o#0",
+    "originalTitle": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+    "urduTitle": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+    "urduSummary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-03T18:04:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785779109",
+    "originalTitle": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+    "urduTitle": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+    "urduSummary": "Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
+    "pubDate": "2026-08-03T20:24:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785785203",
+    "originalTitle": "Survivors reach port after deadly Indonesia ferry fire",
+    "urduTitle": "Survivors reach port after deadly Indonesia ferry fire",
+    "urduSummary": "Survivors reach port after deadly Indonesia ferry fire",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+    "pubDate": "2026-08-03T19:55:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785786637",
+    "originalTitle": "Clergy members arrested while protesting at Senate office",
+    "urduTitle": "Clergy members arrested while protesting at Senate office",
+    "urduSummary": "Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+    "pubDate": "2026-08-03T19:53:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#0",
     "originalTitle": "Rhine falls to record low levels as drought strains Europe's rivers",
     "urduTitle": "Rhine falls to record low levels as drought strains Europe's rivers",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
     "pubDate": "2026-08-02T00:49:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz7d17r455go#0",
-    "originalTitle": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-    "urduTitle": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-    "urduSummary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-01T20:09:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c70g132erlko#0",
-    "originalTitle": "Tourist plane crashes in Peru, killing 13 ",
-    "urduTitle": "Tourist plane crashes in Peru, killing 13 ",
-    "urduSummary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-01T20:36:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785614756",
-    "originalTitle": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-    "urduTitle": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-    "urduSummary": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
-    "pubDate": "2026-08-01T20:10:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785604776",
-    "originalTitle": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
-    "urduTitle": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
-    "urduSummary": "The US president pushes back after a federal prosecutor says damage caused by 'botched' installation, not vandalism.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
-    "pubDate": "2026-08-01T19:08:12.000Z",
     "category": "world",
     "imageUrl": null
   }
