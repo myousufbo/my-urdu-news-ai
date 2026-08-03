@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#0",
+    "originalTitle": "Rhine falls to record low levels as drought strains Europe's rivers",
+    "urduTitle": "Rhine falls to record low levels as drought strains Europe's rivers",
+    "urduSummary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-03T16:27:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o#0",
+    "originalTitle": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "urduTitle": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "urduSummary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-03T15:57:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785773354",
+    "originalTitle": "Republicans say they will back Blanche after US Justice Department order",
+    "urduTitle": "Republicans say they will back Blanche after US Justice Department order",
+    "urduSummary": "Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss",
+    "pubDate": "2026-08-03T17:39:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785771073",
+    "originalTitle": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+    "urduTitle": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+    "urduSummary": "Trump demands \"Total Surrender\" amid escalating naval blockade in the crucial Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+    "pubDate": "2026-08-03T17:38:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785776626",
+    "originalTitle": "New illegal Israeli outpost spotted in occupied West Bank",
+    "urduTitle": "New illegal Israeli outpost spotted in occupied West Bank",
+    "urduSummary": "Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
+    "pubDate": "2026-08-03T17:07:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1785742489",
     "originalTitle": "Why does Spain have ‘enclaves’ in North Africa?",
     "urduTitle": "Why does Spain have ‘enclaves’ in North Africa?",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
     "pubDate": "2026-08-01T19:08:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785605836",
-    "originalTitle": "Palestinian children among those detained in Israeli West Bank raids",
-    "urduTitle": "Palestinian children among those detained in Israeli West Bank raids",
-    "urduSummary": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
-    "pubDate": "2026-08-01T18:51:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785590823",
-    "originalTitle": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
-    "urduTitle": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
-    "urduSummary": "The outspoken artist was detained in mid-July for ‘insulting a constitutional institution'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss",
-    "pubDate": "2026-08-01T16:15:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785594498",
-    "originalTitle": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-    "urduTitle": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-    "urduSummary": "Attacks kill four as Gaza Health Ministry condemns 'heinous' strike on medicine stores, days after disarmament deal.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
-    "pubDate": "2026-08-01T16:07:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785594751",
-    "originalTitle": "At least 11 wounded by Colombia car bomb days before presidential election",
-    "urduTitle": "At least 11 wounded by Colombia car bomb days before presidential election",
-    "urduSummary": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
-    "pubDate": "2026-08-01T15:48:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o#0",
-    "originalTitle": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-    "urduTitle": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-    "urduSummary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-01T12:43:21.000Z",
     "category": "world",
     "imageUrl": null
   }
