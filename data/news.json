@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1785821446",
+    "originalTitle": "Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect",
+    "urduTitle": "Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect",
+    "urduSummary": "The large storm is forecast to cause strong winds and rainfall in parts of Japan, China and Taiwan.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/4/typhoon-dolphin-hurtles-towards-japan-tracker-updates-and-what-to-expect?traffic_source=rss",
+    "pubDate": "2026-08-04T13:26:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785847824",
+    "originalTitle": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
+    "urduTitle": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
+    "urduSummary": "Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss",
+    "pubDate": "2026-08-04T12:58:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785838928",
+    "originalTitle": "More than 150 people rescued in English Channel after boat catches fire",
+    "urduTitle": "More than 150 people rescued in English Channel after boat catches fire",
+    "urduSummary": "Rescue boats from both France and the UK took part in the operation to evacuate passengers from the stricken vessel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
+    "pubDate": "2026-08-04T12:47:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0",
     "originalTitle": "More than 150 migrants rescued after boat catches fire in Channel",
     "urduTitle": "More than 150 migrants rescued after boat catches fire in Channel",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
     "pubDate": "2026-08-02T15:36:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785674686",
-    "originalTitle": "How to end the ‘Hormuz war’",
-    "urduTitle": "How to end the ‘Hormuz war’",
-    "urduSummary": "The least bad option for the US is to let the MoU Article 5 play out.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
-    "pubDate": "2026-08-02T15:33:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo#0",
-    "originalTitle": "Five dead, 41 missing, after Indonesia ferry catches fire",
-    "urduTitle": "Five dead, 41 missing, after Indonesia ferry catches fire",
-    "urduSummary": "The vessel with at least 250 people on board caught fire off Madura island.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-02T11:49:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785653282",
-    "originalTitle": "South Korea has hottest day on record amid extreme weather globally",
-    "urduTitle": "South Korea has hottest day on record amid extreme weather globally",
-    "urduSummary": "Scientists say the climate crisis driven by human activity is making heatwaves more frequent.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
-    "pubDate": "2026-08-02T12:34:35.000Z",
     "category": "world",
     "imageUrl": null
   }
