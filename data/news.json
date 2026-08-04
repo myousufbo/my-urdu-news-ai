@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-08-04T21:04:52.914Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785870725",
+    "originalTitle": "US court deals blow to Trump’s bid to scrap climate grant programme",
+    "urduTitle": "US court deals blow to Trump’s bid to scrap climate grant programme",
+    "urduSummary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+    "pubDate": "2026-08-04T20:35:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785866595",
+    "originalTitle": "How much of a challenge are wildfires to Europe?",
+    "urduTitle": "How much of a challenge are wildfires to Europe?",
+    "urduSummary": "Rapidly spreading blazes are scorching the continent.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss",
+    "pubDate": "2026-08-04T20:34:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785865327",
+    "originalTitle": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+    "urduTitle": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+    "urduSummary": "Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+    "pubDate": "2026-08-04T20:32:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cn4n03xg981o#0",
     "originalTitle": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
     "urduTitle": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss",
     "pubDate": "2026-08-03T01:57:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785716991",
-    "originalTitle": "Japan and US confirm rare joint intervention to prop up yen",
-    "urduTitle": "Japan and US confirm rare joint intervention to prop up yen",
-    "urduSummary": "US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
-    "pubDate": "2026-08-03T01:34:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785716180",
-    "originalTitle": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
-    "urduTitle": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
-    "urduSummary": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
-    "pubDate": "2026-08-03T00:18:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785699651",
-    "originalTitle": "Venezuela and the Dominican Republic say they will work to restore ties",
-    "urduTitle": "Venezuela and the Dominican Republic say they will work to restore ties",
-    "urduSummary": "Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
-    "pubDate": "2026-08-02T20:29:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785694082",
-    "originalTitle": "Is Washington dictating the agenda for talks in Venezuela?",
-    "urduTitle": "Is Washington dictating the agenda for talks in Venezuela?",
-    "urduSummary": "Venezuela's government and a section of the opposition plan to hold talks, backed by the US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
-    "pubDate": "2026-08-02T20:01:21.000Z",
     "category": "world",
     "imageUrl": null
   }
