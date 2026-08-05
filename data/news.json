@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo#0",
+    "originalTitle": "Russian ballistic missile strike on Kyiv kills one and injures others",
+    "urduTitle": "Russian ballistic missile strike on Kyiv kills one and injures others",
+    "urduSummary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-05T01:35:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785888799",
+    "originalTitle": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+    "urduTitle": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+    "urduSummary": "Loaded pistol and rifle among items found in suspect's pocket, car and home following arrest, police say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+    "pubDate": "2026-08-05T01:29:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785848861",
+    "originalTitle": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+    "urduTitle": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+    "urduSummary": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+    "pubDate": "2026-08-05T01:21:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785891224",
+    "originalTitle": "Ukrainian man chased by exploding drone recounts his terror",
+    "urduTitle": "Ukrainian man chased by exploding drone recounts his terror",
+    "urduSummary": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
+    "pubDate": "2026-08-05T00:56:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-08-03T06:53:55.418Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785687260",
-    "originalTitle": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
-    "urduTitle": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
-    "urduSummary": "The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
-    "pubDate": "2026-08-03T06:09:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785728506",
-    "originalTitle": "Grid failure plunges Cuba into nationwide blackout",
-    "urduTitle": "Grid failure plunges Cuba into nationwide blackout",
-    "urduSummary": "Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
-    "pubDate": "2026-08-03T04:35:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785725886",
-    "originalTitle": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-    "urduTitle": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-    "urduSummary": "A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-    "pubDate": "2026-08-03T03:26:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785652518",
-    "originalTitle": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
-    "urduTitle": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
-    "urduSummary": "Court cases over new lodges have raised questions about protecting one of Africa’s greatest wildlife spectacles.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss",
-    "pubDate": "2026-08-03T01:57:58.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
