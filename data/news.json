@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo#0",
+    "originalTitle": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+    "urduTitle": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+    "urduSummary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-06T05:00:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o#0",
+    "originalTitle": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+    "urduTitle": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+    "urduSummary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-06T09:49:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786004068",
+    "originalTitle": "South Korea police raid football association over Hong appointment process",
+    "urduTitle": "South Korea police raid football association over Hong appointment process",
+    "urduSummary": "Hong Myung-bo's appointment under scrutiny amid raids with lack of proper interview process previously alleged.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss",
+    "pubDate": "2026-08-06T09:34:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786002285",
+    "originalTitle": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
+    "urduTitle": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
+    "urduSummary": "More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss",
+    "pubDate": "2026-08-06T09:28:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785930186",
+    "originalTitle": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+    "urduTitle": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+    "urduSummary": "Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
+    "pubDate": "2026-08-06T09:17:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo#0",
     "originalTitle": "Infantino sorry for errors but stays Fifa president",
     "urduTitle": "Infantino sorry for errors but stays Fifa president",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss",
     "pubDate": "2026-08-04T16:41:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785859037",
-    "originalTitle": "Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title",
-    "urduTitle": "Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title",
-    "urduSummary": "Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss",
-    "pubDate": "2026-08-04T16:40:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785821446",
-    "originalTitle": "Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect",
-    "urduTitle": "Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect",
-    "urduSummary": "The large storm is forecast to cause strong winds and rainfall in parts of Japan, China and Taiwan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/4/typhoon-dolphin-hurtles-towards-japan-tracker-updates-and-what-to-expect?traffic_source=rss",
-    "pubDate": "2026-08-04T13:26:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785847824",
-    "originalTitle": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
-    "urduTitle": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
-    "urduSummary": "Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss",
-    "pubDate": "2026-08-04T12:58:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785838928",
-    "originalTitle": "More than 150 people rescued in English Channel after boat catches fire",
-    "urduTitle": "More than 150 people rescued in English Channel after boat catches fire",
-    "urduSummary": "Rescue boats from both France and the UK took part in the operation to evacuate passengers from the stricken vessel.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
-    "pubDate": "2026-08-04T12:47:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0",
-    "originalTitle": "More than 150 migrants rescued after boat catches fire in Channel",
-    "urduTitle": "More than 150 migrants rescued after boat catches fire in Channel",
-    "urduSummary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-04T10:23:51.000Z",
     "category": "world",
     "imageUrl": null
   }
