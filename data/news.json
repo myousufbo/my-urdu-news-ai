@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo#0",
+    "originalTitle": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+    "urduTitle": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+    "urduSummary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-06T01:19:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785979377",
+    "originalTitle": "Mexican influencer shot dead during livestream",
+    "urduTitle": "Mexican influencer shot dead during livestream",
+    "urduSummary": "24-year-old TikToker Cesar Gastelum, was shot dead while livestreaming with friends outside a fast-food restaurant.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
+    "pubDate": "2026-08-06T01:28:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785973802",
+    "originalTitle": "Meta’s AI model follows rivals in revealing hacks of outside systems",
+    "urduTitle": "Meta’s AI model follows rivals in revealing hacks of outside systems",
+    "urduSummary": "Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
+    "pubDate": "2026-08-06T00:40:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1785970091",
+    "originalTitle": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
+    "urduTitle": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
+    "urduSummary": "Air traffic controllers had failed to pause commercial flights during Marine One’s departure, sources say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss",
+    "pubDate": "2026-08-06T00:31:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#0",
     "originalTitle": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
     "urduTitle": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss",
     "pubDate": "2026-08-04T09:47:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro#0",
-    "originalTitle": "EU calls for stronger borders after Ceuta migrant crossings",
-    "urduTitle": "EU calls for stronger borders after Ceuta migrant crossings",
-    "urduSummary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-03T21:43:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785792558",
-    "originalTitle": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-    "urduTitle": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-    "urduSummary": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a 'breakthrough'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-    "pubDate": "2026-08-04T06:00:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785807692",
-    "originalTitle": "Why are the Washington wildfires so severe? Spokane fires explained",
-    "urduTitle": "Why are the Washington wildfires so severe? Spokane fires explained",
-    "urduSummary": "Why Spokane's wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
-    "pubDate": "2026-08-04T05:03:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785817202",
-    "originalTitle": "Bodycam video shows firefighters battling blaze in Spokane, US",
-    "urduTitle": "Bodycam video shows firefighters battling blaze in Spokane, US",
-    "urduSummary": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
-    "pubDate": "2026-08-04T04:22:28.000Z",
     "category": "world",
     "imageUrl": null
   }
