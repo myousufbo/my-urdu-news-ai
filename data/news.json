@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-08-07T05:30:32.488Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786078596",
+    "originalTitle": "Record-high heat soars through South Korea",
+    "urduTitle": "Record-high heat soars through South Korea",
+    "urduSummary": "A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss",
+    "pubDate": "2026-08-07T05:00:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786069607",
+    "originalTitle": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+    "urduTitle": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+    "urduSummary": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
+    "pubDate": "2026-08-07T04:43:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786074956",
+    "originalTitle": "One killed, four injured in Thailand school shooting, officials say",
+    "urduTitle": "One killed, four injured in Thailand school shooting, officials say",
+    "urduSummary": "Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
+    "pubDate": "2026-08-07T04:23:52.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#0",
     "originalTitle": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
     "urduTitle": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss",
     "pubDate": "2026-08-05T05:48:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785355303",
-    "originalTitle": "Return of goods to markets in Gaza doesn’t mean people can afford them",
-    "urduTitle": "Return of goods to markets in Gaza doesn’t mean people can afford them",
-    "urduSummary": "Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss",
-    "pubDate": "2026-08-05T05:46:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785906327",
-    "originalTitle": "Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor",
-    "urduTitle": "Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor",
-    "urduSummary": "The Egyptian forward has been linked with a move to Turkiye since announcing he was leaving Liverpool.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/5/salah-in-with-trabzonspor-as-egypt-forward-set-for-turkiye-move?traffic_source=rss",
-    "pubDate": "2026-08-05T05:40:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo#0",
-    "originalTitle": "Russian ballistic missile strike on Kyiv kills one and injures others",
-    "urduTitle": "Russian ballistic missile strike on Kyiv kills one and injures others",
-    "urduSummary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-05T01:35:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785888799",
-    "originalTitle": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
-    "urduTitle": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
-    "urduSummary": "Loaded pistol and rifle among items found in suspect's pocket, car and home following arrest, police say.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
-    "pubDate": "2026-08-05T01:29:01.000Z",
     "category": "world",
     "imageUrl": null
   }
