@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
+    "originalTitle": "Trump again tries to limit US birthright citizenship with new executive orders",
+    "urduTitle": "Trump again tries to limit US birthright citizenship with new executive orders",
+    "urduSummary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-07T00:34:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786087260",
+    "originalTitle": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+    "urduTitle": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+    "urduSummary": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA's Gianni Infantino.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+    "pubDate": "2026-08-07T07:44:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786088460",
+    "originalTitle": "Earthquake strikes as doctors perform surgery",
+    "urduTitle": "Earthquake strikes as doctors perform surgery",
+    "urduSummary": "A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
+    "pubDate": "2026-08-07T07:43:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1784634040",
+    "originalTitle": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+    "urduTitle": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+    "urduSummary": "Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
+    "pubDate": "2026-08-07T06:29:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-08-05T10:28:23.144Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785920845",
-    "originalTitle": "South Africa’s le Clos says home destroyed during Commonwealth record run",
-    "urduTitle": "South Africa’s le Clos says home destroyed during Commonwealth record run",
-    "urduSummary": "Olympic swimming champion Chad le Clos says his home was destroyed in a fire while he was at the Commonwealth Games.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss",
-    "pubDate": "2026-08-05T09:53:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785910707",
-    "originalTitle": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-    "urduTitle": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-    "urduSummary": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-    "pubDate": "2026-08-05T09:16:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785912366",
-    "originalTitle": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
-    "urduTitle": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
-    "urduSummary": "Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
-    "pubDate": "2026-08-05T09:16:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785855876",
-    "originalTitle": "The yearly mild weather spell that brings Yemen’s coast back to life",
-    "urduTitle": "The yearly mild weather spell that brings Yemen’s coast back to life",
-    "urduSummary": "Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss",
-    "pubDate": "2026-08-05T05:48:42.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
