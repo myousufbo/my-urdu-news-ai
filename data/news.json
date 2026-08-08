@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o#0",
+    "originalTitle": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+    "urduTitle": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+    "urduSummary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-08T19:18:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786216177",
+    "originalTitle": "At least 200 people evacuated as wildfire rages near Lake Garda",
+    "urduTitle": "At least 200 people evacuated as wildfire rages near Lake Garda",
+    "urduSummary": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+    "pubDate": "2026-08-08T19:13:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786210436",
+    "originalTitle": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+    "urduTitle": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+    "urduSummary": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+    "pubDate": "2026-08-08T19:00:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786211374",
+    "originalTitle": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+    "urduTitle": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+    "urduSummary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+    "pubDate": "2026-08-08T18:57:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
     "originalTitle": "US offers $1bn to Colombia on new right-wing president's first day of office",
     "urduTitle": "US offers $1bn to Colombia on new right-wing president's first day of office",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-06T16:11:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785946072",
-    "originalTitle": "After the floods, hunger: Mozambique’s second disaster",
-    "urduTitle": "After the floods, hunger: Mozambique’s second disaster",
-    "urduSummary": "Lost harvests and disrupted supply routes have pushed many families deeper into food insecurity.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
-    "pubDate": "2026-08-07T00:12:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786055020",
-    "originalTitle": "Trump says war can’t ‘go much longer’, Hormuz deal close",
-    "urduTitle": "Trump says war can’t ‘go much longer’, Hormuz deal close",
-    "urduSummary": "The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
-    "pubDate": "2026-08-07T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785573815",
-    "originalTitle": "Travel restrictions – from Israel and Europe – trap students in Gaza",
-    "urduTitle": "Travel restrictions – from Israel and Europe – trap students in Gaza",
-    "urduSummary": "Blockades and bureaucracy turn education into an uphill journey for talented Gaza students seeking a brighter future.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
-    "pubDate": "2026-08-06T23:49:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwymv212xrxo#0",
-    "originalTitle": "Ukraine hits two oil refineries deep in Russian territory",
-    "urduTitle": "Ukraine hits two oil refineries deep in Russian territory",
-    "urduSummary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-06T12:18:48.000Z",
     "category": "world",
     "imageUrl": null
   }
