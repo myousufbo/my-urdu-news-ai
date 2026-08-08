@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0",
+    "originalTitle": "Child among three killed in Russian missile attacks near Kyiv",
+    "urduTitle": "Child among three killed in Russian missile attacks near Kyiv",
+    "urduSummary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-08T04:23:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786158578",
+    "originalTitle": "Russian strikes near Ukrainian capital kill three, including child",
+    "urduTitle": "Russian strikes near Ukrainian capital kill three, including child",
+    "urduSummary": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+    "pubDate": "2026-08-08T04:18:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786156615",
+    "originalTitle": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+    "urduTitle": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+    "urduSummary": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+    "pubDate": "2026-08-08T03:42:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786159023",
+    "originalTitle": "US Senate passes Russia sanctions that could hurt India and China",
+    "urduTitle": "US Senate passes Russia sanctions that could hurt India and China",
+    "urduSummary": "The US Senate approved its strongest move against Russia under Trump.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+    "pubDate": "2026-08-08T03:20:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0",
     "originalTitle": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
     "urduTitle": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
     "pubDate": "2026-08-06T05:05:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785979482",
-    "originalTitle": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-    "urduTitle": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-    "urduSummary": "Eight leading shipping organisations sign letter opposing fees in critical waterway.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
-    "pubDate": "2026-08-06T05:05:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785988189",
-    "originalTitle": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
-    "urduTitle": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
-    "urduSummary": "US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.'",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss",
-    "pubDate": "2026-08-06T04:02:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo#0",
-    "originalTitle": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-    "urduTitle": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-    "urduSummary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-06T01:19:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785979377",
-    "originalTitle": "Mexican influencer shot dead during livestream",
-    "urduTitle": "Mexican influencer shot dead during livestream",
-    "urduSummary": "24-year-old TikToker Cesar Gastelum, was shot dead while livestreaming with friends outside a fast-food restaurant.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
-    "pubDate": "2026-08-06T01:28:53.000Z",
     "category": "world",
     "imageUrl": null
   }
