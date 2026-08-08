@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
+    "originalTitle": "US offers $1bn to Colombia on new right-wing president's first day of office",
+    "urduTitle": "US offers $1bn to Colombia on new right-wing president's first day of office",
+    "urduSummary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-08T16:19:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786200808",
+    "originalTitle": "UNRWA has been with me since birth, I cannot imagine a future without it",
+    "urduTitle": "UNRWA has been with me since birth, I cannot imagine a future without it",
+    "urduSummary": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+    "pubDate": "2026-08-08T15:52:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786195959",
+    "originalTitle": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+    "urduTitle": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+    "urduSummary": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
+    "pubDate": "2026-08-08T15:42:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786198150",
+    "originalTitle": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "urduTitle": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "urduSummary": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+    "pubDate": "2026-08-08T15:01:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cewr898jy8go#0",
     "originalTitle": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
     "urduTitle": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-06T12:18:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1m18158my9o#0",
-    "originalTitle": "US Senate committee votes to hold Fauci in contempt ",
-    "urduTitle": "US Senate committee votes to hold Fauci in contempt ",
-    "urduSummary": "The committee will now refer him for potential prosecution following his refusal to answer questions at a Congressional hearing last week.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-06T13:36:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786014897",
-    "originalTitle": "Indian court sentences high-profile journalist to 10 years for rape",
-    "urduTitle": "Indian court sentences high-profile journalist to 10 years for rape",
-    "urduSummary": "Tarun Tejpal, 63, says that he will appeal the conviction at the Supreme Court.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/6/indian-court-sentences-high-profile-journalist-to-10-years-for-rape?traffic_source=rss",
-    "pubDate": "2026-08-06T13:33:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786022422",
-    "originalTitle": "Senate panel votes to hold former official Fauci in contempt of Congress",
-    "urduTitle": "Senate panel votes to hold former official Fauci in contempt of Congress",
-    "urduSummary": "This is a breaking news story.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/6/senate-panel-votes-to-hold-former-official-fauci-in-contempt-of-congress?traffic_source=rss",
-    "pubDate": "2026-08-06T13:28:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1785999777",
-    "originalTitle": "‘There is no money’: Is Iraq entering a phase of lean years?",
-    "urduTitle": "‘There is no money’: Is Iraq entering a phase of lean years?",
-    "urduSummary": "Iraqi government needs approximately $8.24bn a month to pay state salaries and cover basic obligations.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/6/there-is-no-money-is-iraq-entering-a-phase-of-lean-years?traffic_source=rss",
-    "pubDate": "2026-08-06T13:19:37.000Z",
     "category": "world",
     "imageUrl": null
   }
