@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o#0",
+    "originalTitle": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+    "urduTitle": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+    "urduSummary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-10T19:17:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786409474",
+    "originalTitle": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+    "urduTitle": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+    "urduSummary": "Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
+    "pubDate": "2026-08-11T00:55:09.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786362353",
+    "originalTitle": "Seventy years after South Africa’s women’s march, the struggle is not over",
+    "urduTitle": "Seventy years after South Africa’s women’s march, the struggle is not over",
+    "urduSummary": "Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
+    "pubDate": "2026-08-11T00:26:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786405615",
+    "originalTitle": "Can Netanyahu defy Trump on his Gaza peace plan?",
+    "urduTitle": "Can Netanyahu defy Trump on his Gaza peace plan?",
+    "urduSummary": "Can Netanyahu risk continuing to defy Trump?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+    "pubDate": "2026-08-11T00:00:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1786385380",
     "originalTitle": "Russia bars only party opposing war in Ukraine from parliamentary vote",
     "urduTitle": "Russia bars only party opposing war in Ukraine from parliamentary vote",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
     "pubDate": "2026-08-09T04:32:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786248551",
-    "originalTitle": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-    "urduTitle": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-    "urduSummary": "Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-    "pubDate": "2026-08-09T04:12:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786113493",
-    "originalTitle": "Ghana’s cashew apples get a second life",
-    "urduTitle": "Ghana’s cashew apples get a second life",
-    "urduSummary": "A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
-    "pubDate": "2026-08-09T04:07:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786231445",
-    "originalTitle": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-    "urduTitle": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-    "urduSummary": "Andras Baka, a strong advocate for judicial independence, becomes governing party's pick for Hungary's next president.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
-    "pubDate": "2026-08-09T00:41:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786230920",
-    "originalTitle": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
-    "urduTitle": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
-    "urduSummary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-    "pubDate": "2026-08-09T00:00:00.000Z",
     "category": "world",
     "imageUrl": null
   }
