@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo#0",
+    "originalTitle": "Trump says he switched planes after Nato summit because of possible threat ",
+    "urduTitle": "Trump says he switched planes after Nato summit because of possible threat ",
+    "urduSummary": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-12T03:44:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-08-12T05:25:59.935Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786507574",
+    "originalTitle": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
+    "urduTitle": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
+    "urduSummary": "Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
+    "pubDate": "2026-08-12T05:01:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786492931",
+    "originalTitle": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+    "urduTitle": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+    "urduSummary": "Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+    "pubDate": "2026-08-12T04:59:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786510217",
+    "originalTitle": "Did Trump flee an Iranian assassination plot on a catering truck?",
+    "urduTitle": "Did Trump flee an Iranian assassination plot on a catering truck?",
+    "urduSummary": "New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
+    "pubDate": "2026-08-12T04:52:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o#0",
     "originalTitle": "Trump's dramatic plane swap hints at personal stakes of Iran war",
     "urduTitle": "Trump's dramatic plane swap hints at personal stakes of Iran war",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
     "pubDate": "2026-08-10T11:51:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o#0",
-    "originalTitle": "China evacuates one million from homes as massive storm arrives",
-    "urduTitle": "China evacuates one million from homes as massive storm arrives",
-    "urduSummary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-10T07:23:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1784532133",
-    "originalTitle": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
-    "urduTitle": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
-    "urduSummary": "They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
-    "pubDate": "2026-08-10T09:09:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786351208",
-    "originalTitle": "China evacuates a million from homes as Typhoon Dolphin arrives",
-    "urduTitle": "China evacuates a million from homes as Typhoon Dolphin arrives",
-    "urduSummary": "China evacuates a million from homes as Typhoon Dolphin arrives",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
-    "pubDate": "2026-08-10T08:44:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786347397",
-    "originalTitle": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
-    "urduTitle": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
-    "urduSummary": "Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss",
-    "pubDate": "2026-08-10T08:39:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786337054",
-    "originalTitle": "Wildfires bear down on homes in Canada’s Okanagan region",
-    "urduTitle": "Wildfires bear down on homes in Canada’s Okanagan region",
-    "urduSummary": "A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
-    "pubDate": "2026-08-10T04:49:42.000Z",
     "category": "world",
     "imageUrl": null
   }
