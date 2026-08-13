@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo#0",
+    "originalTitle": "More troops to be sent to West Bank village besieged by Israeli settlers",
+    "urduTitle": "More troops to be sent to West Bank village besieged by Israeli settlers",
+    "urduSummary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-13T08:12:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786605505",
+    "originalTitle": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
+    "urduTitle": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
+    "urduSummary": "Colombian rescuers battle time to save lives after deadly 7.4 earthquake, as hopes dwindle in search for survivors.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/8/13/photos-hope-fades-in-colombia-as-teams-dig-for-earthquake-survivors?traffic_source=rss",
+    "pubDate": "2026-08-13T08:46:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786606330",
+    "originalTitle": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+    "urduTitle": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+    "urduSummary": "Israeli settlers have blocked the homes of three Palestinian families in Qusra, cutting them off from food and supplies.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
+    "pubDate": "2026-08-13T08:38:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786604461",
+    "originalTitle": "How to stay safe during an earthquake: A visual guide",
+    "urduTitle": "How to stay safe during an earthquake: A visual guide",
+    "urduSummary": "Earthquakes can happen suddenly, but knowing what to do before, during and after one can reduce the risk of injury.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss",
+    "pubDate": "2026-08-13T08:28:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko#0",
     "originalTitle": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
     "urduTitle": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-11T09:39:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o#0",
-    "originalTitle": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-    "urduTitle": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-    "urduSummary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-11T10:43:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-08-11T12:50:20.171Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786449956",
-    "originalTitle": "Final phase of voting in Pakistan-administered Kashmir, despite security fe",
-    "urduTitle": "Final phase of voting in Pakistan-administered Kashmir, despite security fe",
-    "urduSummary": "Final phase of voting in Pakistan-administered Kashmir, despite security fears",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss",
-    "pubDate": "2026-08-11T12:08:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786050882",
-    "originalTitle": "What to watch in Wisconsin’s high-stakes primary",
-    "urduTitle": "What to watch in Wisconsin’s high-stakes primary",
-    "urduSummary": "US Democrats face another test after Michigan as voters choose nominees for governor and Congress.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss",
-    "pubDate": "2026-08-11T12:05:54.000Z",
     "category": "world",
     "imageUrl": null
   }
