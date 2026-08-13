@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx256pp33l3o#0",
+    "originalTitle": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+    "urduTitle": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+    "urduSummary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-12T23:19:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786579169",
+    "originalTitle": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+    "urduTitle": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+    "urduSummary": "Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
+    "pubDate": "2026-08-13T00:05:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786572842",
+    "originalTitle": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+    "urduTitle": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+    "urduSummary": "President Trump again insists US has 'total control' of strait, while Tehran resolute that the US must meet its demands.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
+    "pubDate": "2026-08-13T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786571269",
+    "originalTitle": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+    "urduTitle": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+    "urduSummary": "Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+    "pubDate": "2026-08-12T23:23:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno#0",
     "originalTitle": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
     "urduTitle": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-11T04:06:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo#0",
-    "originalTitle": "Canada flight cancelled after child refuses to wear seat belt",
-    "urduTitle": "Canada flight cancelled after child refuses to wear seat belt",
-    "urduSummary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-10T21:06:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o#0",
-    "originalTitle": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-    "urduTitle": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-    "urduSummary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-10T20:45:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786422599",
-    "originalTitle": "China’s Long March 7A rocket explodes after lift-off",
-    "urduTitle": "China’s Long March 7A rocket explodes after lift-off",
-    "urduSummary": "China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
-    "pubDate": "2026-08-11T04:34:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786421251",
-    "originalTitle": "Fire rages after drone strikes Libya’s largest oil refinery",
-    "urduTitle": "Fire rages after drone strikes Libya’s largest oil refinery",
-    "urduSummary": "A drone attack ignited gasoline at Libya's Zawiya oil refinery, the country's largest operational facility.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-    "pubDate": "2026-08-11T04:09:10.000Z",
     "category": "world",
     "imageUrl": null
   }
