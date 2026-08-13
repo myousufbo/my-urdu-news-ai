@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#0",
+    "originalTitle": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+    "urduTitle": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+    "urduSummary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-13T19:46:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786637808",
+    "originalTitle": "Sudan army says RSF advance on key town bordering Ethiopia",
+    "urduTitle": "Sudan army says RSF advance on key town bordering Ethiopia",
+    "urduSummary": "Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
+    "pubDate": "2026-08-13T19:53:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786650376",
+    "originalTitle": "Passenger train derails, injuring several in southern England",
+    "urduTitle": "Passenger train derails, injuring several in southern England",
+    "urduSummary": "A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss",
+    "pubDate": "2026-08-13T19:48:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786644068",
+    "originalTitle": "Israeli forces order families to evacuate homes in Qusra",
+    "urduTitle": "Israeli forces order families to evacuate homes in Qusra",
+    "urduSummary": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
+    "pubDate": "2026-08-13T19:36:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1786633459",
     "originalTitle": "China and Indonesia’s joint naval drills anger Taiwan",
     "urduTitle": "China and Indonesia’s joint naval drills anger Taiwan",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
     "pubDate": "2026-08-12T00:39:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786487407",
-    "originalTitle": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
-    "urduTitle": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
-    "urduSummary": "US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
-    "pubDate": "2026-08-12T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786492386",
-    "originalTitle": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-    "urduTitle": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-    "urduSummary": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
-    "pubDate": "2026-08-11T23:57:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
-    "originalTitle": "Rescuers scramble for survivors with 180 dead in Colombia earthquake ",
-    "urduTitle": "Rescuers scramble for survivors with 180 dead in Colombia earthquake ",
-    "urduSummary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-11T19:09:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo#0",
-    "originalTitle": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-    "urduTitle": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-    "urduSummary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-11T20:04:11.000Z",
     "category": "world",
     "imageUrl": null
   }
