@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#0",
+    "originalTitle": "Morocco detains dozens of migrants trying to cross into Ceuta",
+    "urduTitle": "Morocco detains dozens of migrants trying to cross into Ceuta",
+    "urduSummary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-15T19:16:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786815966",
+    "originalTitle": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+    "urduTitle": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+    "urduSummary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+    "pubDate": "2026-08-15T19:46:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786815598",
+    "originalTitle": "Death toll from Zimbabwe ferry disaster rises to 72",
+    "urduTitle": "Death toll from Zimbabwe ferry disaster rises to 72",
+    "urduSummary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+    "pubDate": "2026-08-15T19:10:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786779850",
+    "originalTitle": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+    "urduTitle": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+    "urduSummary": "Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+    "pubDate": "2026-08-15T18:19:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#0",
     "originalTitle": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
     "urduTitle": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
     "pubDate": "2026-08-14T05:02:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786673774",
-    "originalTitle": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
-    "urduTitle": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
-    "urduSummary": "Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
-    "pubDate": "2026-08-14T04:52:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786667592",
-    "originalTitle": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
-    "urduTitle": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
-    "urduSummary": "Israel’s Defence Minister Israel Katz praised radical Hilltop Youth settlers for ‘holding onto’ Palestinian land.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss",
-    "pubDate": "2026-08-14T00:39:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786663704",
-    "originalTitle": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-    "urduTitle": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-    "urduSummary": "No injuries were reported in the attack, which the UAE called 'piracy' and a threat to global energy security.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
-    "pubDate": "2026-08-14T00:33:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786659361",
-    "originalTitle": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-    "urduTitle": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-    "urduSummary": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
-    "pubDate": "2026-08-14T00:02:22.000Z",
     "category": "world",
     "imageUrl": null
   }
