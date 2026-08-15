@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#0",
+    "originalTitle": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+    "urduTitle": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+    "urduSummary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-15T16:02:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-08-15T16:16:27.293Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786801337",
+    "originalTitle": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+    "urduTitle": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+    "urduSummary": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+    "pubDate": "2026-08-15T15:50:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786808770",
+    "originalTitle": "Israeli settlers besiege Palestinian families in occupied West Bank",
+    "urduTitle": "Israeli settlers besiege Palestinian families in occupied West Bank",
+    "urduSummary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+    "pubDate": "2026-08-15T15:48:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786524029",
+    "originalTitle": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+    "urduTitle": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+    "urduSummary": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+    "pubDate": "2026-08-15T15:25:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cd69ely319eo#0",
     "originalTitle": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
     "urduTitle": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
     "pubDate": "2026-08-14T00:02:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#0",
-    "originalTitle": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-    "urduTitle": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-    "urduSummary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-13T19:46:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786637808",
-    "originalTitle": "Sudan army says RSF advance on key town bordering Ethiopia",
-    "urduTitle": "Sudan army says RSF advance on key town bordering Ethiopia",
-    "urduSummary": "Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
-    "pubDate": "2026-08-13T19:53:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786650376",
-    "originalTitle": "Passenger train derails, injuring several in southern England",
-    "urduTitle": "Passenger train derails, injuring several in southern England",
-    "urduSummary": "A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss",
-    "pubDate": "2026-08-13T19:48:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786644068",
-    "originalTitle": "Israeli forces order families to evacuate homes in Qusra",
-    "urduTitle": "Israeli forces order families to evacuate homes in Qusra",
-    "urduSummary": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
-    "pubDate": "2026-08-13T19:36:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786633459",
-    "originalTitle": "China and Indonesia’s joint naval drills anger Taiwan",
-    "urduTitle": "China and Indonesia’s joint naval drills anger Taiwan",
-    "urduSummary": "Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
-    "pubDate": "2026-08-13T16:44:27.000Z",
     "category": "world",
     "imageUrl": null
   }
