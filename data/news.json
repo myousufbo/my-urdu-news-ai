@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cd69ely319eo#0",
+    "originalTitle": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+    "urduTitle": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+    "urduSummary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-15T00:01:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786720175",
+    "originalTitle": "Afghan refugees face an uncertain future as Europe shifts to the right",
+    "urduTitle": "Afghan refugees face an uncertain future as Europe shifts to the right",
+    "urduSummary": "With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
+    "pubDate": "2026-08-15T12:14:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786601499",
+    "originalTitle": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+    "urduTitle": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+    "urduSummary": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+    "pubDate": "2026-08-15T11:30:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786785195",
+    "originalTitle": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+    "urduTitle": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+    "urduSummary": "The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+    "pubDate": "2026-08-15T11:27:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0",
     "originalTitle": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
     "urduTitle": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
@@ -503,50 +547,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
     "pubDate": "2026-08-13T16:44:27.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786626778",
-    "originalTitle": "Reports of US sailors in Middle East trying to jump ship spark outcry",
-    "urduTitle": "Reports of US sailors in Middle East trying to jump ship spark outcry",
-    "urduSummary": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
-    "pubDate": "2026-08-13T16:44:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786547758",
-    "originalTitle": "Is Russia’s economy cracking despite the Iran war windfall?",
-    "urduTitle": "Is Russia’s economy cracking despite the Iran war windfall?",
-    "urduSummary": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-    "pubDate": "2026-08-13T16:40:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn0npn249qvo#0",
-    "originalTitle": "UK defends seizing shadow fleet tanker after Putin threat",
-    "urduTitle": "UK defends seizing shadow fleet tanker after Putin threat",
-    "urduSummary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-13T11:05:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-08-13T12:55:32.318Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
