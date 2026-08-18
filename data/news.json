@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-08-18T00:52:06.533Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787005697",
+    "originalTitle": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+    "urduTitle": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+    "urduSummary": "US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-08-18T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786997469",
+    "originalTitle": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+    "urduTitle": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+    "urduSummary": "Trump's son-in-law and envoy says US will not 'restrict Israel's right to defend itself' as strikes on Gaza continue.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+    "pubDate": "2026-08-17T23:25:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1786995188",
+    "originalTitle": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+    "urduTitle": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+    "urduSummary": "A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+    "pubDate": "2026-08-17T22:26:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo#0",
     "originalTitle": "Russia's prominent anti-war politician jailed for 11 years",
     "urduTitle": "Russia's prominent anti-war politician jailed for 11 years",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
     "pubDate": "2026-08-15T23:27:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786832215",
-    "originalTitle": "At least five reported dead amid flooding in US state of Indiana",
-    "urduTitle": "At least five reported dead amid flooding in US state of Indiana",
-    "urduSummary": "Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-    "pubDate": "2026-08-15T23:19:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#0",
-    "originalTitle": "Morocco detains dozens of migrants trying to cross into Ceuta",
-    "urduTitle": "Morocco detains dozens of migrants trying to cross into Ceuta",
-    "urduSummary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-15T19:16:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786815966",
-    "originalTitle": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-    "urduTitle": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-    "urduSummary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
-    "pubDate": "2026-08-15T19:46:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786815598",
-    "originalTitle": "Death toll from Zimbabwe ferry disaster rises to 72",
-    "urduTitle": "Death toll from Zimbabwe ferry disaster rises to 72",
-    "urduSummary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-    "pubDate": "2026-08-15T19:10:06.000Z",
     "category": "world",
     "imageUrl": null
   }
