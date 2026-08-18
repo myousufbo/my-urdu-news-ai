@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo#0",
+    "originalTitle": "Earthquake rocks Spain's historic Granada, injuring three",
+    "urduTitle": "Earthquake rocks Spain's historic Granada, injuring three",
+    "urduSummary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-18T17:15:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787063658",
+    "originalTitle": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+    "urduTitle": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+    "urduSummary": "Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+    "pubDate": "2026-08-18T19:56:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787081978",
+    "originalTitle": "Turkish politician Melih Meric stabbed",
+    "urduTitle": "Turkish politician Melih Meric stabbed",
+    "urduSummary": "Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
+    "pubDate": "2026-08-18T19:51:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787077765",
+    "originalTitle": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+    "urduTitle": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+    "urduSummary": "Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+    "pubDate": "2026-08-18T19:46:39.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo#0",
     "originalTitle": "Inside secret police warehouse as Germany targets small boats gangs",
     "urduTitle": "Inside secret police warehouse as Germany targets small boats gangs",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-16T19:58:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
-    "originalTitle": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-    "urduTitle": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-    "urduSummary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-16T19:50:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786908311",
-    "originalTitle": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-    "urduTitle": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-    "urduSummary": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
-    "pubDate": "2026-08-16T19:29:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786902800",
-    "originalTitle": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-    "urduTitle": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-    "urduSummary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-    "pubDate": "2026-08-16T19:23:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786907781",
-    "originalTitle": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-    "urduTitle": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-    "urduSummary": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-    "pubDate": "2026-08-16T19:18:24.000Z",
     "category": "world",
     "imageUrl": null
   }
