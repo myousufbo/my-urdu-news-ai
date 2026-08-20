@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-08-20T04:30:50.863Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787185559",
+    "originalTitle": "Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections",
+    "urduTitle": "Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections",
+    "urduSummary": "At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+    "pubDate": "2026-08-20T02:50:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787192000",
+    "originalTitle": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+    "urduTitle": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+    "urduSummary": "Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
+    "pubDate": "2026-08-20T02:16:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787185455",
+    "originalTitle": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+    "urduTitle": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+    "urduSummary": "Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+    "pubDate": "2026-08-20T01:56:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cp87g29r718o#0",
     "originalTitle": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
     "urduTitle": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
     "pubDate": "2026-08-18T07:46:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1786185501",
-    "originalTitle": "Israel’s siege on Gaza is creating a breast cancer crisis",
-    "urduTitle": "Israel’s siege on Gaza is creating a breast cancer crisis",
-    "urduSummary": "Al Jazeera looks at the devastating impact that Israel's war and siege on Gaza are having on women with breast cancer.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-    "pubDate": "2026-08-18T07:43:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
-    "originalTitle": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-    "urduTitle": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-    "urduSummary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-18T02:06:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0",
-    "originalTitle": "Russia warns UK over supplying drones to Ukraine",
-    "urduTitle": "Russia warns UK over supplying drones to Ukraine",
-    "urduSummary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-18T01:16:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787025680",
-    "originalTitle": "Hichilema wins second second term as president of copper-rich Zambia",
-    "urduTitle": "Hichilema wins second second term as president of copper-rich Zambia",
-    "urduSummary": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
-    "pubDate": "2026-08-18T04:07:13.000Z",
     "category": "world",
     "imageUrl": null
   }
