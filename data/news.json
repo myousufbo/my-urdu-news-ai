@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
+    "originalTitle": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+    "urduTitle": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+    "urduSummary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-21T05:00:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787298949",
+    "originalTitle": "Israeli settlers set fire to Palestinian home while family asleep",
+    "urduTitle": "Israeli settlers set fire to Palestinian home while family asleep",
+    "urduSummary": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+    "pubDate": "2026-08-21T07:58:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787289962",
+    "originalTitle": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+    "urduTitle": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+    "urduSummary": "The 'unacceptable' E1 plan carries 'legal and reputational consequences' for those participating, European nations warn.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+    "pubDate": "2026-08-21T07:56:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787294130",
+    "originalTitle": "Australian Hussey open to Ashes Test role as England make approach",
+    "urduTitle": "Australian Hussey open to Ashes Test role as England make approach",
+    "urduSummary": "Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+    "pubDate": "2026-08-21T07:37:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#0",
     "originalTitle": "El Niño set to be 'strongest in living memory', says Met Office",
     "urduTitle": "El Niño set to be 'strongest in living memory', says Met Office",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
     "pubDate": "2026-08-19T11:47:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787125818",
-    "originalTitle": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
-    "urduTitle": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
-    "urduSummary": "Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss",
-    "pubDate": "2026-08-19T11:45:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787055389",
-    "originalTitle": "South Africa to Australia: Why coal profits are surging during Iran war",
-    "urduTitle": "South Africa to Australia: Why coal profits are surging during Iran war",
-    "urduSummary": "Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
-    "pubDate": "2026-08-19T06:27:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787119881",
-    "originalTitle": "Scaling back US-South Korea drills may fail to woo Kim away from China",
-    "urduTitle": "Scaling back US-South Korea drills may fail to woo Kim away from China",
-    "urduSummary": "Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
-    "pubDate": "2026-08-19T06:16:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787103536",
-    "originalTitle": "Ukraine’s ousted defence minister calls for elections during war",
-    "urduTitle": "Ukraine’s ousted defence minister calls for elections during war",
-    "urduSummary": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
-    "pubDate": "2026-08-19T05:59:44.000Z",
     "category": "world",
     "imageUrl": null
   }
