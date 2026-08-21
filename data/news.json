@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
+    "originalTitle": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+    "urduTitle": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+    "urduSummary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-21T19:49:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787336163",
+    "originalTitle": "US Supreme Court allows Trump’s ballroom project to continue for now",
+    "urduTitle": "US Supreme Court allows Trump’s ballroom project to continue for now",
+    "urduSummary": "The Trump administration has argued the $400m White House ballroom is needed for national security purposes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
+    "pubDate": "2026-08-21T19:52:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787332662",
+    "originalTitle": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+    "urduTitle": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+    "urduSummary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
+    "pubDate": "2026-08-21T19:42:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787327765",
+    "originalTitle": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
+    "urduTitle": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
+    "urduSummary": "Court cuts Infowars founder's penalty for false claims that school shooting was a 'hoax' from $50m to $1.5m.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
+    "pubDate": "2026-08-21T19:29:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1787326179",
     "originalTitle": "Israeli settlers set fire to heavy machinery at West Bank quarry",
     "urduTitle": "Israeli settlers set fire to heavy machinery at West Bank quarry",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
     "pubDate": "2026-08-20T00:06:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787178339",
-    "originalTitle": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-    "urduTitle": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-    "urduSummary": "Trump says Washington may resume talks with Tehran 'at some point'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-    "pubDate": "2026-08-20T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly50gn1e54o#0",
-    "originalTitle": "Israel opens up bids for highly-sensitive West Bank settlement project",
-    "urduTitle": "Israel opens up bids for highly-sensitive West Bank settlement project",
-    "urduSummary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-19T17:16:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787165123",
-    "originalTitle": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-    "urduTitle": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-    "urduSummary": "Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
-    "pubDate": "2026-08-19T19:53:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787167408",
-    "originalTitle": "582 skeletons, including children discovered in Sri Lanka mass grave",
-    "urduTitle": "582 skeletons, including children discovered in Sri Lanka mass grave",
-    "urduSummary": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
-    "pubDate": "2026-08-19T19:26:58.000Z",
     "category": "world",
     "imageUrl": null
   }
