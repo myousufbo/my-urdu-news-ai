@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1787456392",
+    "originalTitle": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+    "urduTitle": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+    "urduSummary": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+    "pubDate": "2026-08-23T03:42:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787236740",
+    "originalTitle": "In rural Chad, solar kiosks bring healthcare closer",
+    "urduTitle": "In rural Chad, solar kiosks bring healthcare closer",
+    "urduSummary": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+    "pubDate": "2026-08-23T03:21:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787454635",
+    "originalTitle": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+    "urduTitle": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+    "urduSummary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+    "pubDate": "2026-08-23T03:16:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-21T00:33:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787280340",
-    "originalTitle": "Hong Kong Tiananmen activists found guilty of national security charges",
-    "urduTitle": "Hong Kong Tiananmen activists found guilty of national security charges",
-    "urduSummary": "Activist group says the 'twisted' Hong Kong judicial system had long ago decided that the pair were guilty.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
-    "pubDate": "2026-08-21T03:50:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787226998",
-    "originalTitle": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-    "urduTitle": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-    "urduSummary": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
-    "pubDate": "2026-08-21T02:11:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787271861",
-    "originalTitle": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-    "urduTitle": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-    "urduSummary": "The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
-    "pubDate": "2026-08-21T01:38:37.000Z",
     "category": "world",
     "imageUrl": null
   }
