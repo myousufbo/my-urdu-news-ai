@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-08-23T00:57:05.446Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787440033",
+    "originalTitle": "Iran war live: Tehran warns neighbours against joining US economic war",
+    "urduTitle": "Iran war live: Tehran warns neighbours against joining US economic war",
+    "urduSummary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+    "pubDate": "2026-08-23T00:00:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787441973",
+    "originalTitle": "Iran threatens countries that join US ‘economic D-Day’",
+    "urduTitle": "Iran threatens countries that join US ‘economic D-Day’",
+    "urduSummary": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+    "pubDate": "2026-08-22T23:56:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787434848",
+    "originalTitle": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+    "urduTitle": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+    "urduSummary": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+    "pubDate": "2026-08-22T23:26:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
     "pubDate": "2026-08-21T01:38:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro#0",
-    "originalTitle": "How much could Trump's 'economic D-Day' hurt Iran? ",
-    "urduTitle": "How much could Trump's 'economic D-Day' hurt Iran? ",
-    "urduSummary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-20T23:16:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787260696",
-    "originalTitle": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-    "urduTitle": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-    "urduSummary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
-    "pubDate": "2026-08-21T00:12:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787263705",
-    "originalTitle": "Iran war live: US vows toughest Iran sanctions, urges China support",
-    "urduTitle": "Iran war live: US vows toughest Iran sanctions, urges China support",
-    "urduSummary": "US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian government.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-    "pubDate": "2026-08-21T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787264938",
-    "originalTitle": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-    "urduTitle": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-    "urduSummary": "Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-    "pubDate": "2026-08-20T23:19:56.000Z",
     "category": "world",
     "imageUrl": null
   }
