@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
+    "originalTitle": "Guinea rubbish landfill collapse kills 30",
+    "urduTitle": "Guinea rubbish landfill collapse kills 30",
+    "urduSummary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-23T18:17:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787509778",
+    "originalTitle": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+    "urduTitle": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+    "urduSummary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+    "pubDate": "2026-08-23T19:52:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787513577",
+    "originalTitle": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+    "urduTitle": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+    "urduSummary": "Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+    "pubDate": "2026-08-23T19:40:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787513080",
+    "originalTitle": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+    "urduTitle": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+    "urduSummary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+    "pubDate": "2026-08-23T19:27:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo#0",
     "originalTitle": "DR Congo and M23 rebels agree roadmap for peace talks",
     "urduTitle": "DR Congo and M23 rebels agree roadmap for peace talks",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-21T19:49:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787336163",
-    "originalTitle": "US Supreme Court allows Trump’s ballroom project to continue for now",
-    "urduTitle": "US Supreme Court allows Trump’s ballroom project to continue for now",
-    "urduSummary": "The Trump administration has argued the $400m White House ballroom is needed for national security purposes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-    "pubDate": "2026-08-21T19:52:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787332662",
-    "originalTitle": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-    "urduTitle": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-    "urduSummary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-    "pubDate": "2026-08-21T19:42:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787327765",
-    "originalTitle": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
-    "urduTitle": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
-    "urduSummary": "Court cuts Infowars founder's penalty for false claims that school shooting was a 'hoax' from $50m to $1.5m.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
-    "pubDate": "2026-08-21T19:29:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787326179",
-    "originalTitle": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-    "urduTitle": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-    "urduSummary": "Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
-    "pubDate": "2026-08-21T16:00:02.000Z",
     "category": "world",
     "imageUrl": null
   }
