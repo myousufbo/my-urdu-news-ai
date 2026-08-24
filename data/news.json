@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1787595306",
+    "originalTitle": "Washington Post ordered to rehire columnist fired over Charlie Kirk posts",
+    "urduTitle": "Washington Post ordered to rehire columnist fired over Charlie Kirk posts",
+    "urduSummary": "Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
+    "pubDate": "2026-08-24T20:00:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787589999",
+    "originalTitle": "Mexico’s president condemns governor’s brief return to office",
+    "urduTitle": "Mexico’s president condemns governor’s brief return to office",
+    "urduSummary": "President Sheinbaum criticises Governor Rocha's return amid US drug charges, calling it 'reckless' and 'inappropriate'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
+    "pubDate": "2026-08-24T19:46:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787594645",
+    "originalTitle": "Yemen’s Houthis report attack on Saudi ship",
+    "urduTitle": "Yemen’s Houthis report attack on Saudi ship",
+    "urduSummary": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+    "pubDate": "2026-08-24T19:44:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "originalTitle": "",
     "urduTitle": "",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-08-22T20:14:48.662Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787422614",
-    "originalTitle": "Why is Israel building new illegal settlements?",
-    "urduTitle": "Why is Israel building new illegal settlements?",
-    "urduSummary": "Israel opens construction bids for new illegal housing units in the occupied West Bank.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-    "pubDate": "2026-08-22T19:40:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787426668",
-    "originalTitle": "More than 200,000 newly displaced in Sudan’s Kordofan region",
-    "urduTitle": "More than 200,000 newly displaced in Sudan’s Kordofan region",
-    "urduSummary": "Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
-    "pubDate": "2026-08-22T19:29:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787419197",
-    "originalTitle": "Israeli strikes kill two and injure others as Gaza attacks continue",
-    "urduTitle": "Israeli strikes kill two and injure others as Gaza attacks continue",
-    "urduSummary": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-    "pubDate": "2026-08-22T19:24:51.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
