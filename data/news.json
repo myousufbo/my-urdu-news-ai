@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
+    "pubDate": "2026-08-25T04:32:30.036Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787629857",
+    "originalTitle": "Rare tornado near Carcassonne in France causes damage and injuries",
+    "urduTitle": "Rare tornado near Carcassonne in France causes damage and injuries",
+    "urduSummary": "Footage shows a rare tornado making its way through southern France.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss",
+    "pubDate": "2026-08-25T03:56:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787614213",
+    "originalTitle": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+    "urduTitle": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+    "urduSummary": "Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
+    "pubDate": "2026-08-25T02:54:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787626180",
+    "originalTitle": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
+    "urduTitle": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
+    "urduSummary": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
+    "pubDate": "2026-08-25T02:53:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
     "originalTitle": "US removes Syria from list of state sponsors of terrorism",
     "urduTitle": "US removes Syria from list of state sponsors of terrorism",
@@ -503,50 +547,6 @@
     "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
     "pubDate": "2026-08-23T08:03:41.000Z",
     "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787456392",
-    "originalTitle": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-    "urduTitle": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-    "urduSummary": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
-    "pubDate": "2026-08-23T03:42:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787236740",
-    "originalTitle": "In rural Chad, solar kiosks bring healthcare closer",
-    "urduTitle": "In rural Chad, solar kiosks bring healthcare closer",
-    "urduSummary": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
-    "pubDate": "2026-08-23T03:21:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787454635",
-    "originalTitle": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
-    "urduTitle": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
-    "urduSummary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
-    "pubDate": "2026-08-23T03:16:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-    "pubDate": "2026-08-23T00:57:05.446Z",
-    "category": "tech",
     "imageUrl": null
   }
 ]
