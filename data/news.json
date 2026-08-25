@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o#0",
+    "originalTitle": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+    "urduTitle": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+    "urduSummary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-25T19:50:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787686322",
+    "originalTitle": "Dolly Parton, beloved US country music icon, dies at 80",
+    "urduTitle": "Dolly Parton, beloved US country music icon, dies at 80",
+    "urduSummary": "Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
+    "pubDate": "2026-08-25T20:14:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787687532",
+    "originalTitle": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
+    "urduTitle": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
+    "urduSummary": "Youth-led movement plans more demonstrations for next month.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
+    "pubDate": "2026-08-25T20:08:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1787685649",
+    "originalTitle": "Trump administration: Kennedy Center may be demolished if repairs not made",
+    "urduTitle": "Trump administration: Kennedy Center may be demolished if repairs not made",
+    "urduSummary": "Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+    "pubDate": "2026-08-25T20:08:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#0",
     "originalTitle": "Brain disease in dead NFL players 'higher than previously shown'",
     "urduTitle": "Brain disease in dead NFL players 'higher than previously shown'",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
     "pubDate": "2026-08-24T04:02:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787531262",
-    "originalTitle": "Large forest fire burns close to residential areas in Ankara",
-    "urduTitle": "Large forest fire burns close to residential areas in Ankara",
-    "urduSummary": "A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
-    "pubDate": "2026-08-24T00:30:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787530079",
-    "originalTitle": "Tokayev allies head for landslide victory in Kazakhstan elections",
-    "urduTitle": "Tokayev allies head for landslide victory in Kazakhstan elections",
-    "urduSummary": "Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
-    "pubDate": "2026-08-24T00:12:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787527071",
-    "originalTitle": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-    "urduTitle": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-    "urduSummary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-    "pubDate": "2026-08-24T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
-    "originalTitle": "Guinea rubbish landfill collapse kills 30",
-    "urduTitle": "Guinea rubbish landfill collapse kills 30",
-    "urduSummary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-23T18:17:37.000Z",
     "category": "world",
     "imageUrl": null
   }
