@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#0",
+    "originalTitle": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+    "urduTitle": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+    "urduSummary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-30T21:15:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-08-30T22:17:54.867Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788094632",
+    "originalTitle": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+    "urduTitle": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+    "urduSummary": "Teenager struggled in Barca's La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss",
+    "pubDate": "2026-08-30T21:28:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788123576",
+    "originalTitle": "Israeli strike kills 3-year-old child in Gaza",
+    "urduTitle": "Israeli strike kills 3-year-old child in Gaza",
+    "urduSummary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+    "pubDate": "2026-08-30T21:02:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788122859",
+    "originalTitle": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+    "urduTitle": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+    "urduSummary": "World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+    "pubDate": "2026-08-30T20:50:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0",
     "originalTitle": "Eight killed and others missing after ferry capsizes off northern Cyprus",
     "urduTitle": "Eight killed and others missing after ferry capsizes off northern Cyprus",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-27T09:50:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd948kn02e5o#0",
-    "originalTitle": "What we know about deadly Nepal-Tibet floods",
-    "urduTitle": "What we know about deadly Nepal-Tibet floods",
-    "urduSummary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-27T09:55:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o#0",
-    "originalTitle": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-    "urduTitle": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-    "urduSummary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-27T17:05:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787853744",
-    "originalTitle": "PSG to face Barcelona, Man City and Villa in Champions League as draw made",
-    "urduTitle": "PSG to face Barcelona, Man City and Villa in Champions League as draw made",
-    "urduSummary": "Last season's runners-up Arsenal, will play the likes of Real Madrid, Borussia Dortmund and Lille in the league phase.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/27/psg-to-face-barcelona-man-city-and-villa-in-champions-league-as-draw-made?traffic_source=rss",
-    "pubDate": "2026-08-27T18:10:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787845429",
-    "originalTitle": "Russian military serviceman killed in St Petersburg car blast",
-    "urduTitle": "Russian military serviceman killed in St Petersburg car blast",
-    "urduSummary": "This is the latest in a series of blasts targeting military personnel and others linked to Russia's war on Ukraine.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/27/russian-military-serviceman-killed-in-st-petersburg-car-blast?traffic_source=rss",
-    "pubDate": "2026-08-27T17:51:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787842070",
-    "originalTitle": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
-    "urduTitle": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
-    "urduSummary": "Officials review efforts being made to reduce war escalation and create 'appropriate conditions' for dialogue, Doha says",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume?traffic_source=rss",
-    "pubDate": "2026-08-27T17:47:16.000Z",
     "category": "world",
     "imageUrl": null
   }
