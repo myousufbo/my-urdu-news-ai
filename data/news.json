@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0",
+    "originalTitle": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+    "urduTitle": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+    "urduSummary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-08-30T18:31:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788114195",
+    "originalTitle": "First images of Maduro in US custody released since his abduction",
+    "urduTitle": "First images of Maduro in US custody released since his abduction",
+    "urduSummary": "Former Venezuelan President Nicolas Maduro has appeared in the first photos from US custody since his January abduction.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/first-images-of-maduro-in-us-custody-released-since-his-abduction?traffic_source=rss",
+    "pubDate": "2026-08-30T18:28:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788108786",
+    "originalTitle": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
+    "urduTitle": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
+    "urduSummary": "Foreign, defence ministers and military chiefs from three countries to meet for first time since signing Mecca pact.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
+    "pubDate": "2026-08-30T18:19:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788112327",
+    "originalTitle": "Nepal’s flood survivors search for missing loved ones",
+    "urduTitle": "Nepal’s flood survivors search for missing loved ones",
+    "urduSummary": "A young girl is pulled alive from the rubble as rescuers search for survivors and families for missing loved ones.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/nepals-flood-survivors-search-for-missing-loved-ones?traffic_source=rss",
+    "pubDate": "2026-08-30T17:57:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c70le8ed1plo#0",
     "originalTitle": "Iceland votes against restarting EU membership talks",
     "urduTitle": "Iceland votes against restarting EU membership talks",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume?traffic_source=rss",
     "pubDate": "2026-08-27T17:47:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-08-27T06:41:40.561Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787745980",
-    "originalTitle": "Palestinian children return to school under threat of Israel demolition",
-    "urduTitle": "Palestinian children return to school under threat of Israel demolition",
-    "urduSummary": "As new school year begins, children in West Bank's Masafer Yatta face threat that their schools may not remain standing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/27/palestinian-children-return-to-school-under-threat-of-israel-demolition?traffic_source=rss",
-    "pubDate": "2026-08-27T06:01:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787748580",
-    "originalTitle": "Sunken ship sparks fight on Israel’s right over militia’s violent legacy",
-    "urduTitle": "Sunken ship sparks fight on Israel’s right over militia’s violent legacy",
-    "urduSummary": "Altalena wreck fuels Netanyahu-Ben-Gvir rivalry, with each claiming to be heir of Irgun militia.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/27/sunken-ship-sparks-fight-on-israels-right-over-militias-violent-legacy?traffic_source=rss",
-    "pubDate": "2026-08-27T06:00:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787807025",
-    "originalTitle": "Czech pair Karolina Muchova and Jakub Mensik win US Open mixed doubles",
-    "urduTitle": "Czech pair Karolina Muchova and Jakub Mensik win US Open mixed doubles",
-    "urduSummary": "Duo secure first Grand Slam trophy as a team after defeating Switzerland’s Belinda Bencic and Flavio Cobolli of Italy.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/27/czech-pair-karolina-muchova-and-jakub-mensik-win-us-open-mixed-doubles?traffic_source=rss",
-    "pubDate": "2026-08-27T05:47:46.000Z",
     "category": "world",
     "imageUrl": null
   }
