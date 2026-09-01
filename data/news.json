@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0",
+    "originalTitle": "US launches more strikes on Iran as state media reports explosions",
+    "urduTitle": "US launches more strikes on Iran as state media reports explosions",
+    "urduSummary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-01T17:54:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788286901",
+    "originalTitle": "UN food agency cuts aid in West Bank amid funding crisis",
+    "urduTitle": "UN food agency cuts aid in West Bank amid funding crisis",
+    "urduSummary": "UN food agency cuts aid in West Bank amid funding crisis",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+    "pubDate": "2026-09-01T18:23:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788271670",
+    "originalTitle": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+    "urduTitle": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+    "urduSummary": "Water quality in embattled Palestinian enclave already poor; flooding will exacerbate threat to health, says UN agency.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+    "pubDate": "2026-09-01T18:22:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788275621",
+    "originalTitle": "Vanuatu pushes France to accept ICJ jurisdiction in Pacific islands dispute",
+    "urduTitle": "Vanuatu pushes France to accept ICJ jurisdiction in Pacific islands dispute",
+    "urduSummary": "Vanuatu says French control of islands is relic of colonial past, as France’s far right uses case as a political weapon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/1/vanuatu-pushes-france-to-accept-icj-jurisdiction-in-pacific-islands-dispute?traffic_source=rss",
+    "pubDate": "2026-09-01T18:21:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#0",
     "originalTitle": "Germany says Russia behind Leipzig airport drone attack",
     "urduTitle": "Germany says Russia behind Leipzig airport drone attack",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-08-30T09:15:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788080900",
-    "originalTitle": "Delcy Rodriguez says Venezuela ‘retains sovereignty’ despite US oil deal",
-    "urduTitle": "Delcy Rodriguez says Venezuela ‘retains sovereignty’ despite US oil deal",
-    "urduSummary": "Venezuela’s interim President has given a televised address to defend a deal of Venezuelan oil for the United States.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/delcy-rodriguez-says-venezuela-retains-sovereignty-despite-us-oil-deal?traffic_source=rss",
-    "pubDate": "2026-08-30T09:32:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788068601",
-    "originalTitle": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
-    "urduTitle": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
-    "urduSummary": "Over 3,000 people remain missing days after a glacier collapse triggered devastating floods near China-Nepal border.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/30/nepal-china-flood-disaster-whats-the-latest-toll-how-many-are-missing?traffic_source=rss",
-    "pubDate": "2026-08-30T09:24:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788080482",
-    "originalTitle": "Syria sandstorm blankets Homs in eerie orange haze",
-    "urduTitle": "Syria sandstorm blankets Homs in eerie orange haze",
-    "urduSummary": "Syria sandstorm blankets Homs in eerie orange haze",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/syria-sandstorm-blankets-homs-in-eerie-orange-haze?traffic_source=rss",
-    "pubDate": "2026-08-30T09:02:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788053446",
-    "originalTitle": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
-    "urduTitle": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
-    "urduSummary": "A memorial display in Berlin has recreated the scene of the killing of six-year-old Palestinian girl Hind Rajab.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
-    "pubDate": "2026-08-30T01:43:52.000Z",
     "category": "world",
     "imageUrl": null
   }
