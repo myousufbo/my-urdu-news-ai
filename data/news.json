@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o#0",
+    "originalTitle": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+    "urduTitle": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+    "urduSummary": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-01T02:30:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788211452",
+    "originalTitle": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+    "urduTitle": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+    "urduSummary": "Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
+    "pubDate": "2026-09-01T02:23:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788222925",
+    "originalTitle": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
+    "urduTitle": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
+    "urduSummary": "Respiratory illnesses surge as smoke settles over Malaysia's Sarawak in the region's worst haze crisis in a decade.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
+    "pubDate": "2026-09-01T02:06:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788225308",
+    "originalTitle": "New York police kill knife-wielding woman in Times Square",
+    "urduTitle": "New York police kill knife-wielding woman in Times Square",
+    "urduSummary": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+    "pubDate": "2026-09-01T01:19:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/crr451lpl4no#0",
     "originalTitle": "US singer D4vd's celebrity lawyers withdraw from murder case",
     "urduTitle": "US singer D4vd's celebrity lawyers withdraw from murder case",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
     "pubDate": "2026-08-29T14:19:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
-    "originalTitle": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-    "urduTitle": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-    "urduSummary": "The attack sparked a series of explosions, prompting an investigation into whether ammunition was being stored on site.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-29T10:28:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787990650",
-    "originalTitle": "Norway mourns King Harald as new era begins under Haakon VIII",
-    "urduTitle": "Norway mourns King Harald as new era begins under Haakon VIII",
-    "urduSummary": "King Harald, Europe's oldest monarch, was viewed as a reformer who embraced inclusivity.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
-    "pubDate": "2026-08-29T09:45:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787994205",
-    "originalTitle": "US revokes visa of former Iraqi minister after watchlist listing",
-    "urduTitle": "US revokes visa of former Iraqi minister after watchlist listing",
-    "urduSummary": "The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
-    "pubDate": "2026-08-29T09:05:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1787988951",
-    "originalTitle": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
-    "urduTitle": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
-    "urduSummary": "Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
-    "pubDate": "2026-08-29T08:51:07.000Z",
     "category": "world",
     "imageUrl": null
   }
