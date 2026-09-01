@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#0",
+    "originalTitle": "Germany says Russia behind Leipzig airport drone attack",
+    "urduTitle": "Germany says Russia behind Leipzig airport drone attack",
+    "urduSummary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-01T15:50:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788277171",
+    "originalTitle": "Six days of Russian strikes push Kyiv residents to consider leaving",
+    "urduTitle": "Six days of Russian strikes push Kyiv residents to consider leaving",
+    "urduSummary": "Russia has launched strikes almost continuously on Kyiv and surrounding areas for six straight days.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
+    "pubDate": "2026-09-01T15:45:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788275639",
+    "originalTitle": "Bank of America vice president identified as victim in Times Square attack",
+    "urduTitle": "Bank of America vice president identified as victim in Times Square attack",
+    "urduSummary": "Erin Piacenti identified as one of two victims in day-light stabbing at iconic New York City thoroughfare.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/1/bank-of-america-vice-president-identified-as-killed-in-times-square-attack?traffic_source=rss",
+    "pubDate": "2026-09-01T15:41:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788275568",
+    "originalTitle": "Mansouri rocked by Israeli strikes as residents flee again",
+    "urduTitle": "Mansouri rocked by Israeli strikes as residents flee again",
+    "urduSummary": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss",
+    "pubDate": "2026-09-01T15:36:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
     "originalTitle": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
     "urduTitle": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
     "pubDate": "2026-08-30T01:43:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788053581",
-    "originalTitle": "Isolated by raging floodwaters, Nepal’s miracle home amid the devastation",
-    "urduTitle": "Isolated by raging floodwaters, Nepal’s miracle home amid the devastation",
-    "urduSummary": "Footage shows a house surrounded by raging floodwaters at the Nepal-Tibet border, with people trapped on rooftops.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/isolated-by-raging-floodwaters-nepals-miracle-home-amid-the-devastation?traffic_source=rss",
-    "pubDate": "2026-08-30T01:35:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788042277",
-    "originalTitle": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
-    "urduTitle": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
-    "urduSummary": "Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
-    "pubDate": "2026-08-30T00:16:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#0",
-    "originalTitle": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-    "urduTitle": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-    "urduSummary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-08-29T17:52:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788036939",
-    "originalTitle": "Anger mounts in Nepal over the government’s response to flash flood",
-    "urduTitle": "Anger mounts in Nepal over the government’s response to flash flood",
-    "urduSummary": "Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
-    "pubDate": "2026-08-29T20:58:25.000Z",
     "category": "world",
     "imageUrl": null
   }
