@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1788550464",
+    "originalTitle": "Costa Rican president signals openness to domestic US military operations",
+    "urduTitle": "Costa Rican president signals openness to domestic US military operations",
+    "urduSummary": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+    "pubDate": "2026-09-04T21:45:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788556366",
+    "originalTitle": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+    "urduTitle": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+    "urduSummary": "Jose Mourinho's winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+    "pubDate": "2026-09-04T21:37:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788557116",
+    "originalTitle": "US regulator opens safety investigation as Tesla launches driverless taxis",
+    "urduTitle": "US regulator opens safety investigation as Tesla launches driverless taxis",
+    "urduSummary": "The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
+    "pubDate": "2026-09-04T21:27:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/videos/cd79vp91321o#0",
     "originalTitle": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
     "urduTitle": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-09-02T17:33:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-09-02T19:09:01.034Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788354714",
-    "originalTitle": "USS Abraham Lincoln reaches Thailand after 9 months at sea",
-    "urduTitle": "USS Abraham Lincoln reaches Thailand after 9 months at sea",
-    "urduSummary": "The port visit comes amid reports of severe emotional strain and poor conditions on board following nine months at sea.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/2/uss-abraham-lincoln-reaches-thailand-after-9-months-at-sea?traffic_source=rss",
-    "pubDate": "2026-09-02T18:51:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788374696",
-    "originalTitle": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
-    "urduTitle": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
-    "urduSummary": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
-    "pubDate": "2026-09-02T18:51:07.000Z",
     "category": "world",
     "imageUrl": null
   }
