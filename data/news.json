@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
+    "originalTitle": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks ",
+    "urduTitle": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks ",
+    "urduSummary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-04T22:48:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-09-05T02:28:37.751Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788568036",
+    "originalTitle": "Ecuador defends US sinking of vessels as joint anti-drug operation",
+    "urduTitle": "Ecuador defends US sinking of vessels as joint anti-drug operation",
+    "urduSummary": "Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss",
+    "pubDate": "2026-09-05T01:46:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788571321",
+    "originalTitle": "Asylum seekers caught in US immigration crackdown",
+    "urduTitle": "Asylum seekers caught in US immigration crackdown",
+    "urduSummary": "Dree Collopy argues it could make people who lawfully enter the US more vulnerable to arrest and deportation.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss",
+    "pubDate": "2026-09-05T01:27:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788570015",
+    "originalTitle": "Judge declares mistrial in Lindsay Clancy children’s murder case",
+    "urduTitle": "Judge declares mistrial in Lindsay Clancy children’s murder case",
+    "urduSummary": "Lindsay Clancy’s high-profile trial for the murder of her three children has ended in a mistrial.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/judge-declares-mistrial-in-lindsay-clancy-childrens-murder-case?traffic_source=rss",
+    "pubDate": "2026-09-05T01:02:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1788550464",
     "originalTitle": "Costa Rican president signals openness to domestic US military operations",
     "urduTitle": "Costa Rican president signals openness to domestic US military operations",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
     "pubDate": "2026-09-03T01:45:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o#0",
-    "originalTitle": "Protests in Spain over government's handling of Ceuta migrant crisis",
-    "urduTitle": "Protests in Spain over government's handling of Ceuta migrant crisis",
-    "urduSummary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-02T21:34:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788377063",
-    "originalTitle": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-    "urduTitle": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-    "urduSummary": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-    "pubDate": "2026-09-02T21:37:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788384097",
-    "originalTitle": "Israeli PM says Israel is working to overthrow Iran’s government",
-    "urduTitle": "Israeli PM says Israel is working to overthrow Iran’s government",
-    "urduSummary": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-    "pubDate": "2026-09-02T21:23:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788383860",
-    "originalTitle": "Children return to school in DR Congo amid growing concerns over Ebola",
-    "urduTitle": "Children return to school in DR Congo amid growing concerns over Ebola",
-    "urduSummary": "Children return to school in DR Congo amid growing concerns over Ebola",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
-    "pubDate": "2026-09-02T21:21:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#0",
-    "originalTitle": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-    "urduTitle": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-    "urduSummary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-02T17:33:45.000Z",
     "category": "world",
     "imageUrl": null
   }
