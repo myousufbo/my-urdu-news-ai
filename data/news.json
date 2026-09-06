@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#0",
+    "originalTitle": "TV presenter among 11 sentenced to death in Egypt drugs case",
+    "urduTitle": "TV presenter among 11 sentenced to death in Egypt drugs case",
+    "urduSummary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-05T21:29:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788657670",
+    "originalTitle": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
+    "urduTitle": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
+    "urduSummary": "A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
+    "pubDate": "2026-09-06T01:38:52.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788636217",
+    "originalTitle": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+    "urduTitle": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+    "urduSummary": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+    "pubDate": "2026-09-06T01:02:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788646656",
+    "originalTitle": "German company launches rocket as Europe enters satellite race",
+    "urduTitle": "German company launches rocket as Europe enters satellite race",
+    "urduSummary": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss",
+    "pubDate": "2026-09-06T00:53:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1788642499",
     "originalTitle": "Building collapses after heavy rain in northern India",
     "urduTitle": "Building collapses after heavy rain in northern India",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-09-03T16:16:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o#0",
-    "originalTitle": "US investigating if missile hit Iran wedding, Vance says",
-    "urduTitle": "US investigating if missile hit Iran wedding, Vance says",
-    "urduSummary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-03T22:19:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788486708",
-    "originalTitle": "Chile police and protesters clash outside far-right forum",
-    "urduTitle": "Chile police and protesters clash outside far-right forum",
-    "urduSummary": "Police and protesters have clashed in Chile’s capital, outside the summit of the far-right Madrid Forum.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
-    "pubDate": "2026-09-04T01:54:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788481763",
-    "originalTitle": "ICC leaders condemn efforts to erode international legal order",
-    "urduTitle": "ICC leaders condemn efforts to erode international legal order",
-    "urduSummary": "Efforts to isolate the International Criminal Court aim to undermine the global rule of law, leaders say.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
-    "pubDate": "2026-09-04T01:51:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788479127",
-    "originalTitle": "US continues to squeeze Cuban economy with new round of sanctions",
-    "urduTitle": "US continues to squeeze Cuban economy with new round of sanctions",
-    "urduSummary": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
-    "pubDate": "2026-09-04T01:45:56.000Z",
     "category": "world",
     "imageUrl": null
   }
