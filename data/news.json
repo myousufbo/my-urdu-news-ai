@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0",
+    "originalTitle": "Israeli strikes in southern Lebanese village kill 11, state media say",
+    "urduTitle": "Israeli strikes in southern Lebanese village kill 11, state media say",
+    "urduSummary": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-07T07:25:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr4vn1e207go#0",
+    "originalTitle": "New videos of man in 9/11 lawsuit reveal extremist links",
+    "urduTitle": "New videos of man in 9/11 lawsuit reveal extremist links",
+    "urduSummary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-07T05:31:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788756920",
+    "originalTitle": "India teams search for survivors after Delhi building collapse kills six",
+    "urduTitle": "India teams search for survivors after Delhi building collapse kills six",
+    "urduSummary": "Rescue teams work to locate survivors after New Delhi building collapse.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
+    "pubDate": "2026-09-07T07:04:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788762033",
+    "originalTitle": "Israeli air attacks kill at least 11 people in southern Lebanon",
+    "urduTitle": "Israeli air attacks kill at least 11 people in southern Lebanon",
+    "urduSummary": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "2026-09-07T06:58:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788758640",
+    "originalTitle": "Six children among 11 people killed in Indonesian market fire",
+    "urduTitle": "Six children among 11 people killed in Indonesian market fire",
+    "urduSummary": "A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
+    "pubDate": "2026-09-07T05:37:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
     "originalTitle": "Five dead after Amazon cargo plane crashes at Miami airport",
     "urduTitle": "Five dead after Amazon cargo plane crashes at Miami airport",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/9/5/have-scientists-discovered-a-dark-matter-particle?traffic_source=rss",
     "pubDate": "2026-09-05T07:13:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788588179",
-    "originalTitle": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
-    "urduTitle": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
-    "urduSummary": "Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
-    "pubDate": "2026-09-05T06:51:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
-    "originalTitle": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks ",
-    "urduTitle": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks ",
-    "urduSummary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-04T22:48:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-09-05T02:28:37.751Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788568036",
-    "originalTitle": "Ecuador defends US sinking of vessels as joint anti-drug operation",
-    "urduTitle": "Ecuador defends US sinking of vessels as joint anti-drug operation",
-    "urduSummary": "Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss",
-    "pubDate": "2026-09-05T01:46:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788571321",
-    "originalTitle": "Asylum seekers caught in US immigration crackdown",
-    "urduTitle": "Asylum seekers caught in US immigration crackdown",
-    "urduSummary": "Dree Collopy argues it could make people who lawfully enter the US more vulnerable to arrest and deportation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss",
-    "pubDate": "2026-09-05T01:27:31.000Z",
     "category": "world",
     "imageUrl": null
   }
