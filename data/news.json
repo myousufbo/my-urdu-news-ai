@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cpd0113082eo#0",
+    "originalTitle": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+    "urduTitle": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+    "urduSummary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-07T14:04:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o#0",
+    "originalTitle": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+    "urduTitle": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+    "urduSummary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-07T14:50:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-09-07T17:02:21.978Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788705849",
+    "originalTitle": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
+    "urduTitle": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
+    "urduSummary": "Israel's continued strikes challenge Lebanon's push for an elusive peace agreement and stability.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss",
+    "pubDate": "2026-09-07T16:42:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788786767",
+    "originalTitle": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
+    "urduTitle": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
+    "urduSummary": "The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/7/uk-relationship-with-israel?traffic_source=rss",
+    "pubDate": "2026-09-07T16:38:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788790660",
+    "originalTitle": "Russia and North Korea deepen relations with symbolic road bridge",
+    "urduTitle": "Russia and North Korea deepen relations with symbolic road bridge",
+    "urduSummary": "Ties between Moscow and Pyongyang have grown extensively amid Russia's invasion of Ukraine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/7/russia-and-north-korea-deepen-relations-with-symbolic-road-bridge?traffic_source=rss",
+    "pubDate": "2026-09-07T16:22:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0",
     "originalTitle": "Israeli strikes in southern Lebanese village kill 11, state media say",
     "urduTitle": "Israeli strikes in southern Lebanese village kill 11, state media say",
@@ -480,72 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-09-05T11:07:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788605157",
-    "originalTitle": "Mudslide in eastern China kills one, leaves 11 missing",
-    "urduTitle": "Mudslide in eastern China kills one, leaves 11 missing",
-    "urduSummary": "A mudslide triggered by days of heavy rain in Jiangxi province, China, has killed one person and left 11 missing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
-    "pubDate": "2026-09-05T10:49:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788601358",
-    "originalTitle": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-    "urduTitle": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-    "urduSummary": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-    "pubDate": "2026-09-05T10:27:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788594727",
-    "originalTitle": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-    "urduTitle": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-    "urduSummary": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-    "pubDate": "2026-09-05T09:56:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c23x0z48x0no#0",
-    "originalTitle": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-    "urduTitle": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-    "urduSummary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-05T04:28:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788592016",
-    "originalTitle": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
-    "urduTitle": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
-    "urduSummary": "Alcaraz beat China's Wu Yibing 6-3, 6-4, 6-1, while Sabalenka defeated Kamilla Rakhimova 6-3, 6-4.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/5/alcaraz-sabalenka-into-us-open-last-16-as-williams-sisters-lose-on-return?traffic_source=rss",
-    "pubDate": "2026-09-05T07:15:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788503849",
-    "originalTitle": "Have scientists discovered a dark matter particle?",
-    "urduTitle": "Have scientists discovered a dark matter particle?",
-    "urduSummary": "Dark matter is an invisible substance that is said to bind the universe; scientists may have found new signs of it.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/9/5/have-scientists-discovered-a-dark-matter-particle?traffic_source=rss",
-    "pubDate": "2026-09-05T07:13:23.000Z",
     "category": "world",
     "imageUrl": null
   }
