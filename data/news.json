@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
+    "originalTitle": "Five dead after Amazon cargo plane crashes at Miami airport",
+    "urduTitle": "Five dead after Amazon cargo plane crashes at Miami airport",
+    "urduSummary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-07T00:57:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788739030",
+    "originalTitle": "Jamaica to file slavery reparations petition during UK visit",
+    "urduTitle": "Jamaica to file slavery reparations petition during UK visit",
+    "urduSummary": "Petition to King Charles questions the legality of slavery under English law and UK’s responsibility for reparations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
+    "pubDate": "2026-09-07T01:34:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788710614",
+    "originalTitle": "Why is Kenya cracking down on foreign traders and small retailers?",
+    "urduTitle": "Why is Kenya cracking down on foreign traders and small retailers?",
+    "urduSummary": "President Ruto says small businesses should be reserved for Kenyans as his government moves against foreign traders.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
+    "pubDate": "2026-09-07T01:08:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788741628",
+    "originalTitle": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
+    "urduTitle": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
+    "urduSummary": "Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
+    "pubDate": "2026-09-07T00:49:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0",
     "originalTitle": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
     "urduTitle": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss",
     "pubDate": "2026-09-05T01:27:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788570015",
-    "originalTitle": "Judge declares mistrial in Lindsay Clancy children’s murder case",
-    "urduTitle": "Judge declares mistrial in Lindsay Clancy children’s murder case",
-    "urduSummary": "Lindsay Clancy’s high-profile trial for the murder of her three children has ended in a mistrial.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/judge-declares-mistrial-in-lindsay-clancy-childrens-murder-case?traffic_source=rss",
-    "pubDate": "2026-09-05T01:02:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788550464",
-    "originalTitle": "Costa Rican president signals openness to domestic US military operations",
-    "urduTitle": "Costa Rican president signals openness to domestic US military operations",
-    "urduSummary": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
-    "pubDate": "2026-09-04T21:45:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788556366",
-    "originalTitle": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
-    "urduTitle": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
-    "urduSummary": "Jose Mourinho's winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
-    "pubDate": "2026-09-04T21:37:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788557116",
-    "originalTitle": "US regulator opens safety investigation as Tesla launches driverless taxis",
-    "urduTitle": "US regulator opens safety investigation as Tesla launches driverless taxis",
-    "urduSummary": "The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
-    "pubDate": "2026-09-04T21:27:26.000Z",
     "category": "world",
     "imageUrl": null
   }
