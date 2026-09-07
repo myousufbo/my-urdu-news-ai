@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o#0",
+    "originalTitle": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "urduTitle": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "urduSummary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-07T21:12:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788807491",
+    "originalTitle": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "urduTitle": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "urduSummary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-09-07T21:17:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788812770",
+    "originalTitle": "Indian temple collapses into Ganges as riverbank erodes",
+    "urduTitle": "Indian temple collapses into Ganges as riverbank erodes",
+    "urduSummary": "A temple collapsed into the Ganges River in India’s West Bengal after severe erosion breached protective barriers",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
+    "pubDate": "2026-09-07T21:09:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788803464",
+    "originalTitle": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+    "urduTitle": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+    "urduSummary": "International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+    "pubDate": "2026-09-07T21:00:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cpd0113082eo#0",
     "originalTitle": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
     "urduTitle": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-09-05T14:23:24.053Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788616018",
-    "originalTitle": "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
-    "urduTitle": "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
-    "urduSummary": "Two points from three matches is ⁠their worst start since the ​2007-08 season, when PSG came close to relegation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/5/coach-luis-enrique-unconcerned-by-psgs-poor-start-to-french-league-season?traffic_source=rss",
-    "pubDate": "2026-09-05T14:07:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788611151",
-    "originalTitle": "Why has the Trump administration ordered staff to take polygraph tests?",
-    "urduTitle": "Why has the Trump administration ordered staff to take polygraph tests?",
-    "urduSummary": "Reports of dwindling US weapons stocks have triggered an unusually sweeping hunt for leakers inside the Pentagon.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
-    "pubDate": "2026-09-05T13:54:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788612285",
-    "originalTitle": "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
-    "urduTitle": "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
-    "urduSummary": "Traffic at Britain's largest international port briefly halted as 'stop the boats' protesters blocked approaching roads.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
-    "pubDate": "2026-09-05T13:51:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
-    "originalTitle": "US envoys arrive in Moscow ahead of Ukraine talks",
-    "urduTitle": "US envoys arrive in Moscow ahead of Ukraine talks",
-    "urduSummary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-05T11:07:08.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
