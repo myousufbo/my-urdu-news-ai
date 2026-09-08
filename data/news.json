@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o#0",
+    "originalTitle": "Four Renoir paintings worth millions stolen in French museum heist",
+    "urduTitle": "Four Renoir paintings worth millions stolen in French museum heist",
+    "urduSummary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-08T13:35:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8jd14glvneo#0",
+    "originalTitle": "Argentina to file criminal case against oil company operating in Falklands",
+    "urduTitle": "Argentina to file criminal case against oil company operating in Falklands",
+    "urduSummary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-08T11:09:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-09-08T15:49:24.412Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788880225",
+    "originalTitle": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
+    "urduTitle": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
+    "urduSummary": "The UK’s foreign secretary has announced a ban on trade with goods from Israeli settlements in the occupied West Bank.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/jerusalem-daily-uk-announces-sanctions-on-israeli-settlement-goods?traffic_source=rss",
+    "pubDate": "2026-09-08T15:12:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788868534",
+    "originalTitle": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
+    "urduTitle": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
+    "urduSummary": "EU leaders condemn Serbian officials' presence at Ratko Mladic's funeral as a failure to confront past war crimes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/8/eu-condemns-serbias-ministers-for-attending-funeral-of-war-criminal-mladic?traffic_source=rss",
+    "pubDate": "2026-09-08T15:01:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788878137",
+    "originalTitle": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
+    "urduTitle": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
+    "urduSummary": "The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss",
+    "pubDate": "2026-09-08T15:00:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c8jdev0422jo#0",
     "originalTitle": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
     "urduTitle": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
@@ -480,72 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
     "pubDate": "2026-09-06T07:45:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788667141",
-    "originalTitle": "Ireland’s boxing great Katie Taylor bows out as undisputed champion",
-    "urduTitle": "Ireland’s boxing great Katie Taylor bows out as undisputed champion",
-    "urduSummary": "The 40-year-old retained her WBA, IBF and WBO super-lightweight belts to become the undisputed champion for third time.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/6/irelands-boxing-great-katie-taylor-bows-out-as-undisputed-champion?traffic_source=rss",
-    "pubDate": "2026-09-06T07:37:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#0",
-    "originalTitle": "TV presenter among 11 sentenced to death in Egypt drugs case",
-    "urduTitle": "TV presenter among 11 sentenced to death in Egypt drugs case",
-    "urduSummary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-05T21:29:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788657670",
-    "originalTitle": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
-    "urduTitle": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
-    "urduSummary": "A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
-    "pubDate": "2026-09-06T01:38:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788636217",
-    "originalTitle": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-    "urduTitle": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-    "urduSummary": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-    "pubDate": "2026-09-06T01:02:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788646656",
-    "originalTitle": "German company launches rocket as Europe enters satellite race",
-    "urduTitle": "German company launches rocket as Europe enters satellite race",
-    "urduSummary": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss",
-    "pubDate": "2026-09-06T00:53:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788642499",
-    "originalTitle": "Building collapses after heavy rain in northern India",
-    "urduTitle": "Building collapses after heavy rain in northern India",
-    "urduSummary": "A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
-    "pubDate": "2026-09-05T21:11:25.000Z",
     "category": "world",
     "imageUrl": null
   }
