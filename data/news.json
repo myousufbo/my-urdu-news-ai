@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o#0",
+    "originalTitle": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+    "urduTitle": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+    "urduSummary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-09T21:23:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788979705",
+    "originalTitle": "US court denies Tate brothers’ bid to be released from Miami jail",
+    "urduTitle": "US court denies Tate brothers’ bid to be released from Miami jail",
+    "urduSummary": "A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+    "pubDate": "2026-09-09T21:28:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788986831",
+    "originalTitle": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
+    "urduTitle": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
+    "urduSummary": "Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss",
+    "pubDate": "2026-09-09T21:20:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788985501",
+    "originalTitle": "Manchester United vs Sabah: UEFA Champions League – preview, team news",
+    "urduTitle": "Manchester United vs Sabah: UEFA Champions League – preview, team news",
+    "urduSummary": "Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss",
+    "pubDate": "2026-09-09T21:15:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0",
     "originalTitle": "Google picks Finland for its largest single investment in Europe",
     "urduTitle": "Google picks Finland for its largest single investment in Europe",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-09-07T17:02:21.978Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788705849",
-    "originalTitle": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
-    "urduTitle": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
-    "urduSummary": "Israel's continued strikes challenge Lebanon's push for an elusive peace agreement and stability.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss",
-    "pubDate": "2026-09-07T16:42:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788786767",
-    "originalTitle": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
-    "urduTitle": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
-    "urduSummary": "The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/7/uk-relationship-with-israel?traffic_source=rss",
-    "pubDate": "2026-09-07T16:38:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788790660",
-    "originalTitle": "Russia and North Korea deepen relations with symbolic road bridge",
-    "urduTitle": "Russia and North Korea deepen relations with symbolic road bridge",
-    "urduSummary": "Ties between Moscow and Pyongyang have grown extensively amid Russia's invasion of Ukraine.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/7/russia-and-north-korea-deepen-relations-with-symbolic-road-bridge?traffic_source=rss",
-    "pubDate": "2026-09-07T16:22:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0",
-    "originalTitle": "Israeli strikes in southern Lebanese village kill 11, state media say",
-    "urduTitle": "Israeli strikes in southern Lebanese village kill 11, state media say",
-    "urduSummary": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-07T07:25:06.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
