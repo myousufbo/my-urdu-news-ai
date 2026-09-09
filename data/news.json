@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0",
+    "originalTitle": "Google picks Finland for its largest single investment in Europe",
+    "urduTitle": "Google picks Finland for its largest single investment in Europe",
+    "urduSummary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-09T17:06:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788950909",
+    "originalTitle": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
+    "urduTitle": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
+    "urduSummary": "Pakistan warns Mecca defence agreement may be activated if Yemen's Houthi rebels continue targeting Saudi Arabia.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/9/pakistan-warns-mecca-defense-pact-will-activate-after-houthi-attacks?traffic_source=rss",
+    "pubDate": "2026-09-09T18:31:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788976338",
+    "originalTitle": "How significant are new European sanctions on illegal Israeli settlements?",
+    "urduTitle": "How significant are new European sanctions on illegal Israeli settlements?",
+    "urduSummary": "Israel is accused of the ethnic cleansing of Palestinians.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+    "pubDate": "2026-09-09T18:23:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788882566",
+    "originalTitle": "Back to work, not school: Yemen’s crisis forces children to drop out",
+    "urduTitle": "Back to work, not school: Yemen’s crisis forces children to drop out",
+    "urduSummary": "Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss",
+    "pubDate": "2026-09-09T17:57:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c98679wr78do#0",
     "originalTitle": "Germany's Merz attacks AfD in stormy debate after far-right election win",
     "urduTitle": "Germany's Merz attacks AfD in stormy debate after far-right election win",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-09-07T07:25:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr4vn1e207go#0",
-    "originalTitle": "New videos of man in 9/11 lawsuit reveal extremist links",
-    "urduTitle": "New videos of man in 9/11 lawsuit reveal extremist links",
-    "urduSummary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-07T05:31:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788756920",
-    "originalTitle": "India teams search for survivors after Delhi building collapse kills six",
-    "urduTitle": "India teams search for survivors after Delhi building collapse kills six",
-    "urduSummary": "Rescue teams work to locate survivors after New Delhi building collapse.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
-    "pubDate": "2026-09-07T07:04:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788762033",
-    "originalTitle": "Israeli air attacks kill at least 11 people in southern Lebanon",
-    "urduTitle": "Israeli air attacks kill at least 11 people in southern Lebanon",
-    "urduSummary": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-    "pubDate": "2026-09-07T06:58:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788758640",
-    "originalTitle": "Six children among 11 people killed in Indonesian market fire",
-    "urduTitle": "Six children among 11 people killed in Indonesian market fire",
-    "urduSummary": "A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
-    "pubDate": "2026-09-07T05:37:32.000Z",
     "category": "world",
     "imageUrl": null
   }
