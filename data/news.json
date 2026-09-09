@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c98679wr78do#0",
+    "originalTitle": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+    "urduTitle": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+    "urduSummary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-09T13:29:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788955984",
+    "originalTitle": "Bangladesh measles deaths surpass 1,000 after vaccination drive falls short",
+    "urduTitle": "Bangladesh measles deaths surpass 1,000 after vaccination drive falls short",
+    "urduSummary": "Bangladesh faces its worst measles outbreak, killing 1,002 children and infecting nearly 190,000 since March.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/9/bangladesh-measles-deaths-pass-1000-as-vaccination-drive-falls-short?traffic_source=rss",
+    "pubDate": "2026-09-09T15:29:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788358137",
+    "originalTitle": "Gaza students with overseas university offers, scholarships remain trapped",
+    "urduTitle": "Gaza students with overseas university offers, scholarships remain trapped",
+    "urduSummary": "As a new term begins, students promised places abroad face impossible immigration rules.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/9/gaza-students-with-overseas-university-offers-scholarships-remain-trapped?traffic_source=rss",
+    "pubDate": "2026-09-09T15:18:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788959417",
+    "originalTitle": "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power",
+    "urduTitle": "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power",
+    "urduSummary": "Kauai grapples with flooding and dangerous debris as Hurricane Lowell batters Hawaii’s western coastline overnight.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
+    "pubDate": "2026-09-09T14:42:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo#0",
     "originalTitle": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
     "urduTitle": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
     "pubDate": "2026-09-07T05:37:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
-    "originalTitle": "Five dead after Amazon cargo plane crashes at Miami airport",
-    "urduTitle": "Five dead after Amazon cargo plane crashes at Miami airport",
-    "urduSummary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-07T00:57:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788739030",
-    "originalTitle": "Jamaica to file slavery reparations petition during UK visit",
-    "urduTitle": "Jamaica to file slavery reparations petition during UK visit",
-    "urduSummary": "Petition to King Charles questions the legality of slavery under English law and UK’s responsibility for reparations.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
-    "pubDate": "2026-09-07T01:34:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788710614",
-    "originalTitle": "Why is Kenya cracking down on foreign traders and small retailers?",
-    "urduTitle": "Why is Kenya cracking down on foreign traders and small retailers?",
-    "urduSummary": "President Ruto says small businesses should be reserved for Kenyans as his government moves against foreign traders.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
-    "pubDate": "2026-09-07T01:08:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788741628",
-    "originalTitle": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
-    "urduTitle": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
-    "urduSummary": "Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
-    "pubDate": "2026-09-07T00:49:33.000Z",
     "category": "world",
     "imageUrl": null
   }
