@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo#0",
+    "originalTitle": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+    "urduTitle": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+    "urduSummary": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-09T04:26:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788865987",
+    "originalTitle": "‘Totally reliant on Mother Nature’: UK drought raises water security fears",
+    "urduTitle": "‘Totally reliant on Mother Nature’: UK drought raises water security fears",
+    "urduSummary": "Record heatwaves have troubled British farmers, raising concerns over reservoir levels and food supply.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/9/uk-drought-raises-fears-over-water-security?traffic_source=rss",
+    "pubDate": "2026-09-09T08:19:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788932999",
+    "originalTitle": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+    "urduTitle": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+    "urduSummary": "Russian drones strike Ukraine-Moldova border in Odesa, killing two and injuring three civilians, officials confirm.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
+    "pubDate": "2026-09-09T08:05:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788934702",
+    "originalTitle": "Ben Shelton shocks Carlos Alcaraz in five sets to win US Open quarterfinal",
+    "urduTitle": "Ben Shelton shocks Carlos Alcaraz in five sets to win US Open quarterfinal",
+    "urduSummary": "Shelton comes through in a 6-7 (5-7), 6-1, 6-3, 1-6, 7-6 (10-6) epic against defending champion Alcaraz.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/9/ben-shelton-shocks-carlos-alcaraz-in-five-sets-to-win-us-open-quarterfinal?traffic_source=rss",
+    "pubDate": "2026-09-09T07:55:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c99dm1000p7o#0",
     "originalTitle": "US slaps import ban on Canadian alcohol and other goods",
     "urduTitle": "US slaps import ban on Canadian alcohol and other goods",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
     "pubDate": "2026-09-07T00:49:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0",
-    "originalTitle": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-    "urduTitle": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-    "urduSummary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-06T20:52:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788726013",
-    "originalTitle": "Amazon cargo plane crashes in US while landing at Miami airport",
-    "urduTitle": "Amazon cargo plane crashes in US while landing at Miami airport",
-    "urduSummary": "The cause of the crash is being investigated.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-    "pubDate": "2026-09-06T21:11:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788724187",
-    "originalTitle": "At least 10 killed in central Mexico fireworks blast during festival",
-    "urduTitle": "At least 10 killed in central Mexico fireworks blast during festival",
-    "urduSummary": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
-    "pubDate": "2026-09-06T21:08:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788728744",
-    "originalTitle": "Amazon Prime plane overruns runway at Miami Airport",
-    "urduTitle": "Amazon Prime plane overruns runway at Miami Airport",
-    "urduSummary": "An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
-    "pubDate": "2026-09-06T21:08:24.000Z",
     "category": "world",
     "imageUrl": null
   }
