@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo#0",
+    "originalTitle": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+    "urduTitle": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+    "urduSummary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-10T22:36:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1788963787",
+    "originalTitle": "From hours at security to bulletproof cockpits: How 9/11 changed air travel",
+    "urduTitle": "From hours at security to bulletproof cockpits: How 9/11 changed air travel",
+    "urduSummary": "One of the biggest changes to US aviation travel was the Aviation and Transportation Security Act (TSA).",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/11/from-hours-at-security-to-bulletproof-cockpits-how-9-11-changed-air?traffic_source=rss",
+    "pubDate": "2026-09-11T07:43:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789062896",
+    "originalTitle": "BRICS summit: Is the bloc truly challenging a Western-dominated world?",
+    "urduTitle": "BRICS summit: Is the bloc truly challenging a Western-dominated world?",
+    "urduSummary": "Some experts say BRICS need not replace the West to succeed - only make Western dominance harder to exercise.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world?traffic_source=rss",
+    "pubDate": "2026-09-11T07:42:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789042932",
+    "originalTitle": "Settlers, soldiers, and Israeli impunity in the West Bank",
+    "urduTitle": "Settlers, soldiers, and Israeli impunity in the West Bank",
+    "urduSummary": "Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss",
+    "pubDate": "2026-09-11T07:36:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1789072894",
     "originalTitle": "Brazil’s Supreme Court shuts down early as political chaos mounts",
     "urduTitle": "Brazil’s Supreme Court shuts down early as political chaos mounts",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_record-breaking-rain-disrupts-daily-life-in-nagoya-080926?traffic_source=rss",
     "pubDate": "2026-09-09T02:23:43.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788912504",
-    "originalTitle": "US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
-    "urduTitle": "US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
-    "urduSummary": "A separate federal court ruling, however, contradicts the Supreme Court judgement, leaving the map up in the air.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/9/us-supreme-court-rejects-missouri-bid-to-reactivate-gop-backed-voting-map?traffic_source=rss",
-    "pubDate": "2026-09-09T02:15:08.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788919410",
-    "originalTitle": "Yemen’s Saudi-backed forces strike Houthis on western coast",
-    "urduTitle": "Yemen’s Saudi-backed forces strike Houthis on western coast",
-    "urduSummary": "Saudi-backed Yemeni government forces are intensifying their counteroffensive against the Houthis.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
-    "pubDate": "2026-09-09T02:06:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o#0",
-    "originalTitle": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-    "urduTitle": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-    "urduSummary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-08T21:46:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788902479",
-    "originalTitle": "Haaland to the double as Manchester City beat Porto in Champions League",
-    "urduTitle": "Haaland to the double as Manchester City beat Porto in Champions League",
-    "urduSummary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
-    "pubDate": "2026-09-08T21:46:58.000Z",
     "category": "world",
     "imageUrl": null
   }
