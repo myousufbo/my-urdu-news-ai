@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c62m933465eo#0",
+    "originalTitle": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+    "urduTitle": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+    "urduSummary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-12T04:43:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno#0",
+    "originalTitle": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "urduTitle": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "urduSummary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-12T00:43:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789193543",
+    "originalTitle": "Trump may be BRICS’s best recruitment agent",
+    "urduTitle": "Trump may be BRICS’s best recruitment agent",
+    "urduSummary": "The US president wants to weaken BRICS, but he may end up doing the opposite.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
+    "pubDate": "2026-09-12T07:44:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789192757",
+    "originalTitle": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+    "urduTitle": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+    "urduSummary": "Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India's capital.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
+    "pubDate": "2026-09-12T07:40:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789115267",
+    "originalTitle": "How to plan a wedding when you don’t know what tomorrow will bring",
+    "urduTitle": "How to plan a wedding when you don’t know what tomorrow will bring",
+    "urduSummary": "In Gaza, weddings have become acts of defiance. Couples marry in tents and rebuild, choosing love despite suffering.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss",
+    "pubDate": "2026-09-12T07:33:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o#0",
     "originalTitle": "Tragic death of woman who testified against father in notorious mafia murder of mother",
     "urduTitle": "Tragic death of woman who testified against father in notorious mafia murder of mother",
@@ -492,61 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
     "pubDate": "2026-09-10T08:34:03.521Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789019882",
-    "originalTitle": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
-    "urduTitle": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
-    "urduSummary": "The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
-    "pubDate": "2026-09-10T07:57:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789019489",
-    "originalTitle": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
-    "urduTitle": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
-    "urduSummary": "PSG coach hails 'marvellous' Dembele after the French forward scored two goals in PSG's 6–1 win over Toure's side.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss",
-    "pubDate": "2026-09-10T07:52:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789013660",
-    "originalTitle": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
-    "urduTitle": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
-    "urduSummary": "Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia's Arctic region.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
-    "pubDate": "2026-09-10T07:50:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789000292",
-    "originalTitle": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
-    "urduTitle": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
-    "urduSummary": "Pennsylvania senator who has clashed with party over Israel support says he will reject 'the extremes and socialism'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss",
-    "pubDate": "2026-09-10T01:54:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1788996766",
-    "originalTitle": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
-    "urduTitle": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
-    "urduSummary": "Federal employees are generally barred from receiving compensation beyond their government salaries.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss",
-    "pubDate": "2026-09-10T01:38:43.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
