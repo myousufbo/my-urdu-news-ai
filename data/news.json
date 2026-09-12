@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#0",
+    "originalTitle": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+    "urduTitle": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+    "urduSummary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-12T21:25:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789245629",
+    "originalTitle": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+    "urduTitle": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+    "urduSummary": "Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
+    "pubDate": "2026-09-12T20:44:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789239799",
+    "originalTitle": "Second crypto billionaire donates record $49m to far-right Reform UK",
+    "urduTitle": "Second crypto billionaire donates record $49m to far-right Reform UK",
+    "urduSummary": "The two donations increase the total sum of money pledged to Reform since Friday to $97m.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
+    "pubDate": "2026-09-12T20:43:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789242077",
+    "originalTitle": "Fire at nursing home in Chile kills 16 elderly residents",
+    "urduTitle": "Fire at nursing home in Chile kills 16 elderly residents",
+    "urduSummary": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+    "pubDate": "2026-09-12T20:42:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#0",
     "originalTitle": "Anthropic boss Dario Amodei calls for AI development to slow down",
     "urduTitle": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss",
     "pubDate": "2026-09-10T21:31:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo#0",
-    "originalTitle": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-    "urduTitle": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-    "urduSummary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-10T18:15:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko#0",
-    "originalTitle": "Can Trump really pay $5,000 to every American adult?",
-    "urduTitle": "Can Trump really pay $5,000 to every American adult?",
-    "urduSummary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-10T16:48:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo#0",
-    "originalTitle": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows ",
-    "urduTitle": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows ",
-    "urduSummary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-10T16:31:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789061905",
-    "originalTitle": "England close in on Pakistan whitewash in third Test as Robinson shines",
-    "urduTitle": "England close in on Pakistan whitewash in third Test as Robinson shines",
-    "urduSummary": "Demoralised tourists reach 52-2 before rain ends play early on day two, needing 268 runs to make England bat again.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss",
-    "pubDate": "2026-09-10T18:01:15.000Z",
     "category": "world",
     "imageUrl": null
   }
