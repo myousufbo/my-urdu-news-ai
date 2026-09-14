@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?p=4949134",
+    "originalTitle": "South Korean officials decry ‘worst ever’ Asian Games accommodation",
+    "urduTitle": "South Korean officials decry ‘worst ever’ Asian Games accommodation",
+    "urduSummary": "Organisers in Japan say they had 'neither the manpower nor the budget' to deal with the accommodation shortage.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/14/south-korean-officials-decry-worst-ever-asian-games-accommodation?traffic_source=rss",
+    "pubDate": "2026-09-14T08:49:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789375170",
+    "originalTitle": "Video: Panicked voters scramble in Philippines polling station shooting",
+    "urduTitle": "Video: Panicked voters scramble in Philippines polling station shooting",
+    "urduSummary": "Gunshots were heard at a polling station in the Muslim-majority Bangsamoro region of the southern Philippines.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/video-panicked-voters-scramble-in-philippines-polling-station-shooting?traffic_source=rss",
+    "pubDate": "2026-09-14T08:43:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789374869",
+    "originalTitle": "Fashion industry leader wrestles PETA activists",
+    "urduTitle": "Fashion industry leader wrestles PETA activists",
+    "urduSummary": "Fashion industry leader wrestles PETA activists",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/fashion-industry-leader-wrestles-peta-activists?traffic_source=rss",
+    "pubDate": "2026-09-14T08:36:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1789321066",
     "originalTitle": "Niger mutiny exposes growing reliance on Russia",
     "urduTitle": "Niger mutiny exposes growing reliance on Russia",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-09-11T20:34:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo#0",
-    "originalTitle": "Passenger train derails in France leaving at least 44 injured",
-    "urduTitle": "Passenger train derails in France leaving at least 44 injured",
-    "urduSummary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-11T21:25:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789169990",
-    "originalTitle": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
-    "urduTitle": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
-    "urduSummary": "A briefer told Clinton in 1998 that bin Laden’s 'preferred option is to strike the US on its own soil in Washington'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
-    "pubDate": "2026-09-12T01:22:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789155544",
-    "originalTitle": "How Canadians are bracing for the impact of Trump’s trade war",
-    "urduTitle": "How Canadians are bracing for the impact of Trump’s trade war",
-    "urduSummary": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
-    "pubDate": "2026-09-12T00:52:00.000Z",
     "category": "world",
     "imageUrl": null
   }
