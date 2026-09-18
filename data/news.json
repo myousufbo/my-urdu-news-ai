@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1789685689",
+    "originalTitle": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+    "urduTitle": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+    "urduSummary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
+    "pubDate": "2026-09-18T01:58:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789678470",
+    "originalTitle": "UN findings show US strikes on Minab could be war crimes",
+    "urduTitle": "UN findings show US strikes on Minab could be war crimes",
+    "urduSummary": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
+    "pubDate": "2026-09-18T01:58:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789688174",
+    "originalTitle": "White House withdraws Lance Schroyer’s nomination to lead ICE",
+    "urduTitle": "White House withdraws Lance Schroyer’s nomination to lead ICE",
+    "urduSummary": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
+    "pubDate": "2026-09-18T01:23:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo#0",
     "originalTitle": "UN experts say grounds to believe US committed war crimes in Iran strikes",
     "urduTitle": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-09-15T11:40:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo#0",
-    "originalTitle": "What weapon could the US have put into space?",
-    "urduTitle": "What weapon could the US have put into space?",
-    "urduSummary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-15T14:23:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-09-15T16:02:30.050Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789481213",
-    "originalTitle": "China does not need to replace the US in the Gulf",
-    "urduTitle": "China does not need to replace the US in the Gulf",
-    "urduSummary": "It can gain leverage over the region without engaging in military overreach.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss",
-    "pubDate": "2026-09-15T15:28:42.000Z",
     "category": "world",
     "imageUrl": null
   }
