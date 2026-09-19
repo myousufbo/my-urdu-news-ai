@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
+    "originalTitle": "Google's Gemini AI hacked three companies in security test",
+    "urduTitle": "Google's Gemini AI hacked three companies in security test",
+    "urduSummary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-19T04:27:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789734073",
+    "originalTitle": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+    "urduTitle": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+    "urduSummary": "Israeli soldiers' Gaza testimony causes backlash across much of the country's political establishment.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
+    "pubDate": "2026-09-19T07:50:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789803000",
+    "originalTitle": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
+    "urduTitle": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
+    "urduSummary": "The US-Denmark Greenland security deal gives Trump an agreement without delivering his ambition to annex the territory.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
+    "pubDate": "2026-09-19T07:35:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789801999",
+    "originalTitle": "Ugo Ugochukwu: Road to F1",
+    "urduTitle": "Ugo Ugochukwu: Road to F1",
+    "urduSummary": "Ugo Ugochukwu has become the first American driver to win the FIA Formula 3 Championship.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/ugo-ugochukwu-road-to-f1?traffic_source=rss",
+    "pubDate": "2026-09-19T07:18:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
     "originalTitle": "US and Denmark reach deal over Greenland after Trump annexation threats",
     "urduTitle": "US and Denmark reach deal over Greenland after Trump annexation threats",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss",
     "pubDate": "2026-09-17T01:14:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o#0",
-    "originalTitle": "US interest rates raised for first time in three years",
-    "urduTitle": "US interest rates raised for first time in three years",
-    "urduSummary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-16T22:16:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789592745",
-    "originalTitle": "Macklemore pledges $1m in tour earnings to Palestinian groups",
-    "urduTitle": "Macklemore pledges $1m in tour earnings to Palestinian groups",
-    "urduSummary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
-    "pubDate": "2026-09-16T22:18:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789592497",
-    "originalTitle": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
-    "urduTitle": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
-    "urduSummary": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
-    "pubDate": "2026-09-16T21:41:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789593197",
-    "originalTitle": "Rescue workers search for survivors after Gaza building collapse",
-    "urduTitle": "Rescue workers search for survivors after Gaza building collapse",
-    "urduSummary": "Rescue workers search for survivors after Gaza building collapse",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
-    "pubDate": "2026-09-16T21:15:42.000Z",
     "category": "world",
     "imageUrl": null
   }
