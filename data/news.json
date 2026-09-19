@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
+    "originalTitle": "US and Denmark reach deal over Greenland after Trump annexation threats",
+    "urduTitle": "US and Denmark reach deal over Greenland after Trump annexation threats",
+    "urduSummary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-18T22:58:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-09-19T02:41:22.380Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789778774",
+    "originalTitle": "US court blocks Trump plan to deport migrants to third countries",
+    "urduTitle": "US court blocks Trump plan to deport migrants to third countries",
+    "urduSummary": "US judges affirm migrants must have opportunities to voice safety concerns before deportation to unfamiliar nations.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
+    "pubDate": "2026-09-19T02:16:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789782230",
+    "originalTitle": "Iranian women defy law and run Tehran race without hijab",
+    "urduTitle": "Iranian women defy law and run Tehran race without hijab",
+    "urduSummary": "Hundreds of Iranian women defy hijab law in Tehran 10K race.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
+    "pubDate": "2026-09-19T01:45:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789772643",
+    "originalTitle": "Google’s Gemini AI hacks 3 companies in security test, then stops",
+    "urduTitle": "Google’s Gemini AI hacks 3 companies in security test, then stops",
+    "urduSummary": "Google discloses first breakout by Gemini following similar incidents by Meta, Anthropic and OpenAI.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
+    "pubDate": "2026-09-19T01:38:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo#0",
     "originalTitle": "Trump says he is banning CNN and Politico from White House",
     "urduTitle": "Trump says he is banning CNN and Politico from White House",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
     "pubDate": "2026-09-16T21:15:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno#0",
-    "originalTitle": "Photos show widespread damage at US sites from Iranian attacks",
-    "urduTitle": "Photos show widespread damage at US sites from Iranian attacks",
-    "urduSummary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-16T18:36:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789492434",
-    "originalTitle": "US Fed raises interest rates as inflation weighs on economy",
-    "urduTitle": "US Fed raises interest rates as inflation weighs on economy",
-    "urduSummary": "The 25 basis-point hike is the first raise in three years and comes ahead of critical midterm elections in the US.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
-    "pubDate": "2026-09-16T18:03:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789578687",
-    "originalTitle": "Geopolitical divides fueling Security Council inaction, Guterres warns",
-    "urduTitle": "Geopolitical divides fueling Security Council inaction, Guterres warns",
-    "urduSummary": "Guterres calls for urgent Security Council reform, says geopolitical divides hindering action on global crises.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
-    "pubDate": "2026-09-16T17:55:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789565358",
-    "originalTitle": "UK trade unions back motion to boycott and sanction Israel",
-    "urduTitle": "UK trade unions back motion to boycott and sanction Israel",
-    "urduSummary": "Motion demands taking action to oppose the 'catastrophic destruction of Gaza' and Israeli settler violence.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
-    "pubDate": "2026-09-16T17:42:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko#0",
-    "originalTitle": "EU chief backs plan for Canada to become 'associate member'",
-    "urduTitle": "EU chief backs plan for Canada to become 'associate member'",
-    "urduSummary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-16T12:36:51.000Z",
     "category": "world",
     "imageUrl": null
   }
