@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cm780ll1de18o#0",
+    "originalTitle": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+    "urduTitle": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+    "urduSummary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-20T01:38:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789865886",
+    "originalTitle": "Australia seeks big tech support for internet safety, AI regulation",
+    "urduTitle": "Australia seeks big tech support for internet safety, AI regulation",
+    "urduSummary": "PM Anthony Albanese asks Apple CEO Tim Cook to back Canberra's online safety laws to 'keep Australians safe'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/20/australia-seeks-big-tech-support-for-internet-safety-ai-regulation?traffic_source=rss",
+    "pubDate": "2026-09-20T02:39:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789841766",
+    "originalTitle": "How much of a challenge are recurrent bombings for Pakistan?",
+    "urduTitle": "How much of a challenge are recurrent bombings for Pakistan?",
+    "urduSummary": "Dozens were killed and injured in an attack by an armed group in a northwestern city.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-much-of-a-challenge-recurrent-bombings-to-pakistan?traffic_source=rss",
+    "pubDate": "2026-09-20T02:38:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1789869001",
+    "originalTitle": "DR Congo begins Ebola vaccination trials for frontline health workers",
+    "urduTitle": "DR Congo begins Ebola vaccination trials for frontline health workers",
+    "urduSummary": "DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
+    "pubDate": "2026-09-20T01:51:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
     "originalTitle": "Houthis say they targeted Saudi capital with ballistic missiles",
     "urduTitle": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
     "pubDate": "2026-09-17T21:27:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo#0",
-    "originalTitle": "Canada welcomes EU proposal to become 'associate member'",
-    "urduTitle": "Canada welcomes EU proposal to become 'associate member'",
-    "urduSummary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-17T12:27:18.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo#0",
-    "originalTitle": "Ninth woman's body found as South African police investigate string of deaths",
-    "urduTitle": "Ninth woman's body found as South African police investigate string of deaths",
-    "urduSummary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-17T13:44:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789652829",
-    "originalTitle": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-    "urduTitle": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-    "urduSummary": "Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
-    "pubDate": "2026-09-17T15:40:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789654167",
-    "originalTitle": "Ninth woman’s body found as South Africa probes series of killings",
-    "urduTitle": "Ninth woman’s body found as South Africa probes series of killings",
-    "urduSummary": "All female victims in their 20s and 30s were killed on the outskirts of Johannesburg in the past two months.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss",
-    "pubDate": "2026-09-17T15:34:09.000Z",
     "category": "world",
     "imageUrl": null
   }
