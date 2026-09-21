@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-09-21T22:57:10.919Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790021337",
+    "originalTitle": "How thousands of migrants stranded in Ceuta are surviving",
+    "urduTitle": "How thousands of migrants stranded in Ceuta are surviving",
+    "urduSummary": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
+    "pubDate": "2026-09-21T21:04:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790016634",
+    "originalTitle": "Former ‘death squad’ leader appears in military trial in The Gambia",
+    "urduTitle": "Former ‘death squad’ leader appears in military trial in The Gambia",
+    "urduSummary": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+    "pubDate": "2026-09-21T20:57:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790022674",
+    "originalTitle": "Trump speech inaudible as US networks boycott White House event",
+    "urduTitle": "Trump speech inaudible as US networks boycott White House event",
+    "urduSummary": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
+    "pubDate": "2026-09-21T20:38:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo#0",
     "originalTitle": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
     "urduTitle": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
     "pubDate": "2026-09-19T13:55:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
-    "originalTitle": "Google's Gemini AI hacked three companies in security test",
-    "urduTitle": "Google's Gemini AI hacked three companies in security test",
-    "urduSummary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-19T04:27:11.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789734073",
-    "originalTitle": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-    "urduTitle": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-    "urduSummary": "Israeli soldiers' Gaza testimony causes backlash across much of the country's political establishment.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
-    "pubDate": "2026-09-19T07:50:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789803000",
-    "originalTitle": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
-    "urduTitle": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
-    "urduSummary": "The US-Denmark Greenland security deal gives Trump an agreement without delivering his ambition to annex the territory.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
-    "pubDate": "2026-09-19T07:35:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789801999",
-    "originalTitle": "Ugo Ugochukwu: Road to F1",
-    "urduTitle": "Ugo Ugochukwu: Road to F1",
-    "urduSummary": "Ugo Ugochukwu has become the first American driver to win the FIA Formula 3 Championship.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/ugo-ugochukwu-road-to-f1?traffic_source=rss",
-    "pubDate": "2026-09-19T07:18:55.000Z",
     "category": "world",
     "imageUrl": null
   }
