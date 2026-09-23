@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o#0",
+    "originalTitle": "Reports of violence against women in Gaza surge, UN agency finds",
+    "urduTitle": "Reports of violence against women in Gaza surge, UN agency finds",
+    "urduSummary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-23T05:02:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo#0",
+    "originalTitle": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+    "urduTitle": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+    "urduSummary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-23T14:55:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790143375",
+    "originalTitle": "UEFA Nations League 2026-27: Groups, teams, top players, format",
+    "urduTitle": "UEFA Nations League 2026-27: Groups, teams, top players, format",
+    "urduSummary": "All to know about the fifth edition of the competition as its league phase begins on Thursday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/23/uefa-nations-league-2026-27-format-teams-players-schedule?traffic_source=rss",
+    "pubDate": "2026-09-23T15:27:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790176450",
+    "originalTitle": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’",
+    "urduTitle": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’",
+    "urduSummary": "Iranian President Masoud Pezeshkian told the UN General Assembly that ‘warfare knows no borders’.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iran-strait-of-hormuz-wont-be-used-to-impose-insecurity-on?traffic_source=rss",
+    "pubDate": "2026-09-23T15:24:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790164409",
+    "originalTitle": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
+    "urduTitle": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
+    "urduSummary": "Ukraine's Zelenskyy met Trump on Tuesday and discussed a potential bilateral ceasefire on energy-related targets.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss",
+    "pubDate": "2026-09-23T14:58:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/ck62m1631d7po#0",
     "originalTitle": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
     "urduTitle": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
     "pubDate": "2026-09-21T01:30:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789945975",
-    "originalTitle": "Trump administration readies sweeping sanctions against ICC, reports say",
-    "urduTitle": "Trump administration readies sweeping sanctions against ICC, reports say",
-    "urduSummary": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-    "pubDate": "2026-09-21T01:19:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-09-20T22:06:08.623Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789937004",
-    "originalTitle": "Qatar PM urges Gulf security framework with Iran",
-    "urduTitle": "Qatar PM urges Gulf security framework with Iran",
-    "urduSummary": "Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
-    "pubDate": "2026-09-20T21:00:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789937496",
-    "originalTitle": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
-    "urduTitle": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
-    "urduSummary": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
-    "pubDate": "2026-09-20T20:58:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789926462",
-    "originalTitle": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-    "urduTitle": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-    "urduSummary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
-    "pubDate": "2026-09-20T20:31:15.000Z",
     "category": "world",
     "imageUrl": null
   }
