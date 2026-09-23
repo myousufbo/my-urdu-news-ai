@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck62m1631d7po#0",
+    "originalTitle": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+    "urduTitle": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+    "urduSummary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-23T06:12:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790145390",
+    "originalTitle": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties",
+    "urduTitle": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties",
+    "urduSummary": "Doha lauded for mediating Brussels-Kigali rupture, showcasing its trusted role in international peace efforts.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/23/qatar-says-no-alternative-to-diplomacy-as-belgium-and-rwanda-restore-ties?traffic_source=rss",
+    "pubDate": "2026-09-23T08:40:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790144233",
+    "originalTitle": "At least 11 people killed in South Africa township shooting",
+    "urduTitle": "At least 11 people killed in South Africa township shooting",
+    "urduSummary": "Armed men open fire at a house party in a Durban township, killing a pregnant woman and 10 others.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting?traffic_source=rss",
+    "pubDate": "2026-09-23T07:31:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790077287",
+    "originalTitle": "Pakistan’s latest Trump bet is on drone firm already selling to India",
+    "urduTitle": "Pakistan’s latest Trump bet is on drone firm already selling to India",
+    "urduSummary": "The company's cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
+    "pubDate": "2026-09-23T07:18:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1790115584",
     "originalTitle": "Canada pledges aid for Palestine as UK and France demand action at UNGA",
     "urduTitle": "Canada pledges aid for Palestine as UK and France demand action at UNGA",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
     "pubDate": "2026-09-20T20:31:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o#0",
-    "originalTitle": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-    "urduTitle": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-    "urduSummary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-20T17:46:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789926086",
-    "originalTitle": "Gaza artists honour Macklemore for supporting Palestine",
-    "urduTitle": "Gaza artists honour Macklemore for supporting Palestine",
-    "urduSummary": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
-    "pubDate": "2026-09-20T17:59:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789926804",
-    "originalTitle": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-    "urduTitle": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-    "urduSummary": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
-    "pubDate": "2026-09-20T17:55:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1789677986",
-    "originalTitle": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
-    "urduTitle": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
-    "urduSummary": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
-    "pubDate": "2026-09-20T17:35:12.000Z",
     "category": "world",
     "imageUrl": null
   }
