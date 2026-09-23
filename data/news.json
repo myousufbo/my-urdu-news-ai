@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo#0",
+    "originalTitle": "AI superpower ambitions take centre stage as Trump and Xi meet",
+    "urduTitle": "AI superpower ambitions take centre stage as Trump and Xi meet",
+    "urduSummary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-23T22:01:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790188836",
+    "originalTitle": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+    "urduTitle": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+    "urduSummary": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+    "pubDate": "2026-09-23T21:18:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790184215",
+    "originalTitle": "US aviation sanctions disrupt Iran flights, push travellers overland",
+    "urduTitle": "US aviation sanctions disrupt Iran flights, push travellers overland",
+    "urduSummary": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+    "pubDate": "2026-09-23T21:05:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790188959",
+    "originalTitle": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+    "urduTitle": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+    "urduSummary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+    "pubDate": "2026-09-23T20:56:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo#0",
     "originalTitle": "Iran's president tells Trump it will never 'bend the knee'",
     "urduTitle": "Iran's president tells Trump it will never 'bend the knee'",
@@ -503,50 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-09-21T17:39:24.462Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790008619",
-    "originalTitle": "How is Europe dealing with ‘hybrid war’?",
-    "urduTitle": "How is Europe dealing with ‘hybrid war’?",
-    "urduSummary": "European leaders accuse Russia of hybrid warfare.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
-    "pubDate": "2026-09-21T17:12:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790002129",
-    "originalTitle": "China expels two top ‘disloyal’ military leaders from Communist Party",
-    "urduTitle": "China expels two top ‘disloyal’ military leaders from Communist Party",
-    "urduSummary": "China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss",
-    "pubDate": "2026-09-21T16:56:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790004148",
-    "originalTitle": "State of world getting worse as UN Security Council paralysed: Guterres",
-    "urduTitle": "State of world getting worse as UN Security Council paralysed: Guterres",
-    "urduSummary": "The UN chief's mandate ends on December 31 this year, with a successor yet to be named.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss",
-    "pubDate": "2026-09-21T16:46:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx4gqv239043o#0",
-    "originalTitle": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-    "urduTitle": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-    "urduSummary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-21T00:05:11.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
