@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cmq8j904212po#0",
+    "originalTitle": "Hundreds of thousands expected in Paris for Pope's visit",
+    "urduTitle": "Hundreds of thousands expected in Paris for Pope's visit",
+    "urduSummary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-24T23:17:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790292704",
+    "originalTitle": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+    "urduTitle": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+    "urduSummary": "Rights groups accuse UN of hosting a 'war criminal' as delegations walk out during Israeli prime minister's speech.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+    "pubDate": "2026-09-25T02:35:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790283864",
+    "originalTitle": "Contrasting treatment of Israel and Palestine on display at the UN",
+    "urduTitle": "Contrasting treatment of Israel and Palestine on display at the UN",
+    "urduSummary": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+    "pubDate": "2026-09-25T02:26:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790296926",
+    "originalTitle": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+    "urduTitle": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+    "urduSummary": "Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+    "pubDate": "2026-09-25T02:24:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo#0",
     "originalTitle": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
     "urduTitle": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
     "pubDate": "2026-09-22T22:07:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790091857",
-    "originalTitle": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
-    "urduTitle": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
-    "urduSummary": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
-    "pubDate": "2026-09-22T21:30:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
-    "originalTitle": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-    "urduTitle": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-    "urduSummary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-22T14:03:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0",
-    "originalTitle": "Developing El Niño becomes strongest on record weeks before expected peak",
-    "urduTitle": "Developing El Niño becomes strongest on record weeks before expected peak",
-    "urduSummary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-22T12:54:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790091086",
-    "originalTitle": "UNGA 2026: Can the UN stop wars?",
-    "urduTitle": "UNGA 2026: Can the UN stop wars?",
-    "urduSummary": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss",
-    "pubDate": "2026-09-22T15:49:12.000Z",
     "category": "world",
     "imageUrl": null
   }
