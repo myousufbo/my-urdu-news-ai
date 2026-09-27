@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#0",
+    "originalTitle": "Two mass shootings in South Africa leave 27 dead",
+    "urduTitle": "Two mass shootings in South Africa leave 27 dead",
+    "urduSummary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-09-27T14:09:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-09-27T16:12:28.098Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790519248",
+    "originalTitle": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+    "urduTitle": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+    "urduSummary": "Relations strain further as Afghanistan and Pakistan trade accusations over terrorism and cross-border violence.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+    "pubDate": "2026-09-27T16:05:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790512140",
+    "originalTitle": "LIVE: Norway vs Portugal – Nations League",
+    "urduTitle": "LIVE: Norway vs Portugal – Nations League",
+    "urduSummary": "Follow updates as Norway host Portugal for a Group A4 clash, including the build-up, analysis and live text commentary.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss",
+    "pubDate": "2026-09-27T16:00:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790486636",
+    "originalTitle": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
+    "urduTitle": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
+    "urduSummary": "Bazunu says his decision to withdraw was based on a 'personal belief that the killing of innocent people is wrong'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/27/who-is-gavin-bazunu-and-why-is-he-boycotting-the-ireland-vs-israel-match?traffic_source=rss",
+    "pubDate": "2026-09-27T15:51:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#0",
     "originalTitle": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
     "urduTitle": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-09-24T23:17:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790292704",
-    "originalTitle": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
-    "urduTitle": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
-    "urduSummary": "Rights groups accuse UN of hosting a 'war criminal' as delegations walk out during Israeli prime minister's speech.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
-    "pubDate": "2026-09-25T02:35:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790283864",
-    "originalTitle": "Contrasting treatment of Israel and Palestine on display at the UN",
-    "urduTitle": "Contrasting treatment of Israel and Palestine on display at the UN",
-    "urduSummary": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
-    "pubDate": "2026-09-25T02:26:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790296926",
-    "originalTitle": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
-    "urduTitle": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
-    "urduSummary": "Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
-    "pubDate": "2026-09-25T02:24:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo#0",
-    "originalTitle": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "urduTitle": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "urduSummary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-24T21:21:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o#0",
-    "originalTitle": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-    "urduTitle": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-    "urduSummary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-24T18:06:40.000Z",
     "category": "world",
     "imageUrl": null
   }
