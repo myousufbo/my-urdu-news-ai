@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1790888268",
+    "originalTitle": "Brazilian government calls for probe into US funding of far-right causes",
+    "urduTitle": "Brazilian government calls for probe into US funding of far-right causes",
+    "urduSummary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+    "pubDate": "2026-10-01T22:48:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790894392",
+    "originalTitle": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+    "urduTitle": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+    "urduSummary": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+    "pubDate": "2026-10-01T22:44:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790853219",
+    "originalTitle": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
+    "urduTitle": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
+    "urduSummary": "France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
+    "pubDate": "2026-10-01T22:31:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o#0",
     "originalTitle": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
     "urduTitle": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
     "pubDate": "2026-09-29T16:57:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790698858",
-    "originalTitle": "Man City guilty of all serious financial breach charges: Premier League",
-    "urduTitle": "Man City guilty of all serious financial breach charges: Premier League",
-    "urduSummary": "Manchester City say they are 'disappointed and surprised' by the verdict and will appeal.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss",
-    "pubDate": "2026-09-29T16:30:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790693316",
-    "originalTitle": "‘New path’: UK’s Burnham promises huge expansion of public services",
-    "urduTitle": "‘New path’: UK’s Burnham promises huge expansion of public services",
-    "urduSummary": "UK prime minister tells his first Labour Party conference 'fundamental rethink' needed to set Britain on right course.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss",
-    "pubDate": "2026-09-29T16:13:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko#0",
-    "originalTitle": "OpenAI scraps rollout of new model over safety concerns",
-    "urduTitle": "OpenAI scraps rollout of new model over safety concerns",
-    "urduSummary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-29T09:14:13.000Z",
     "category": "world",
     "imageUrl": null
   }
