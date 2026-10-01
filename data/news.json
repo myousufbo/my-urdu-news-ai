@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o#0",
+    "originalTitle": "US death row inmate survives execution attempt after two lethal injections",
+    "urduTitle": "US death row inmate survives execution attempt after two lethal injections",
+    "urduSummary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-01T09:59:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790847505",
+    "originalTitle": "Turkish fans show support for Palestine at friendly fixture",
+    "urduTitle": "Turkish fans show support for Palestine at friendly fixture",
+    "urduSummary": "Turkish football fans displayed pro-Palestinian tifos and banners.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-sv-konyaspor-palestine-tifo-tr?traffic_source=rss",
+    "pubDate": "2026-10-01T09:41:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790840559",
+    "originalTitle": "Can Europe still compete with the US and China?",
+    "urduTitle": "Can Europe still compete with the US and China?",
+    "urduSummary": "Europe faces growing pressure from the US and China as it struggles to stay competitive.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/1/can-europe-still-compete-with-the-us-and-china?traffic_source=rss",
+    "pubDate": "2026-10-01T09:40:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790842186",
+    "originalTitle": "India to face Pakistan in Asian Games men’s cricket final",
+    "urduTitle": "India to face Pakistan in Asian Games men’s cricket final",
+    "urduSummary": "India defeated Sri Lanka by 124 runs in the semis to book their spot with Pakistan for a first-ever Asian Games clash.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/10/1/india-to-face-pakistan-in-asian-games-mens-cricket-final?traffic_source=rss",
+    "pubDate": "2026-10-01T09:39:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#0",
     "originalTitle": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
     "urduTitle": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
     "pubDate": "2026-09-29T00:00:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790637823",
-    "originalTitle": "Fiery end for SpaceX Starship mission",
-    "urduTitle": "Fiery end for SpaceX Starship mission",
-    "urduSummary": "Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
-    "pubDate": "2026-09-28T23:48:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790638217",
-    "originalTitle": "UK: ‘Too soon’ to blame airbase plot on foreign state",
-    "urduTitle": "UK: ‘Too soon’ to blame airbase plot on foreign state",
-    "urduSummary": "UK Defence Minister Wes Streeting said it was ‘too soon’ to blame a foreign state for a suspected plot near RAF Fairford",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
-    "pubDate": "2026-09-28T23:34:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o#0",
-    "originalTitle": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "urduTitle": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "urduSummary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-28T14:57:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o#0",
-    "originalTitle": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-    "urduTitle": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-    "urduSummary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-28T17:26:21.000Z",
     "category": "world",
     "imageUrl": null
   }
