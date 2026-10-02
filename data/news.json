@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
+    "originalTitle": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+    "urduTitle": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+    "urduSummary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-02T09:08:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-10-02T10:14:05.409Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790928296",
+    "originalTitle": "NBA closes sole Africa training academy in blow to young players",
+    "urduTitle": "NBA closes sole Africa training academy in blow to young players",
+    "urduSummary": "NBA says its focus is on new global academy opening in Abu Dhabi as Africa, Mexico and Australia hit by closures.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
+    "pubDate": "2026-10-02T09:26:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790919966",
+    "originalTitle": "Arab party leader forced to withdraw from Israeli elections",
+    "urduTitle": "Arab party leader forced to withdraw from Israeli elections",
+    "urduSummary": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+    "pubDate": "2026-10-02T09:25:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1790930307",
+    "originalTitle": "Manchester City to launch appeal as financial breach fallout grows",
+    "urduTitle": "Manchester City to launch appeal as financial breach fallout grows",
+    "urduSummary": "Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
+    "pubDate": "2026-10-02T09:24:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo#0",
     "originalTitle": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
     "urduTitle": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
     "pubDate": "2026-09-30T02:26:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo#0",
-    "originalTitle": "South Africa to clean up high-risk areas after 12 women killed",
-    "urduTitle": "South Africa to clean up high-risk areas after 12 women killed",
-    "urduSummary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-29T22:33:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw14d37446d8o#0",
-    "originalTitle": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-    "urduTitle": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-    "urduSummary": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-09-29T22:33:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790613762",
-    "originalTitle": "Iraq begins high-stakes security balancing act as US troops withdraw",
-    "urduTitle": "Iraq begins high-stakes security balancing act as US troops withdraw",
-    "urduSummary": "Iraq marks national 'Sovereignty Days' as US troops depart, but must navigate risks of new security landscape.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-    "pubDate": "2026-09-29T23:06:53.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790722274",
-    "originalTitle": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
-    "urduTitle": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
-    "urduSummary": "Man City says it will appeal after an independent commission convicted it of breaking Premier League financial rules.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
-    "pubDate": "2026-09-29T23:06:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790706343",
-    "originalTitle": "UN extends mandate of Gang Suppression Force in Haiti for six months",
-    "urduTitle": "UN extends mandate of Gang Suppression Force in Haiti for six months",
-    "urduSummary": "Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
-    "pubDate": "2026-09-29T22:38:10.000Z",
     "category": "world",
     "imageUrl": null
   }
