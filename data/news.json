@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1791062006",
+    "originalTitle": "Israeli settlers attack Palestinian farmers during olive harvest",
+    "urduTitle": "Israeli settlers attack Palestinian farmers during olive harvest",
+    "urduSummary": "Israeli settlers attack Palestinian farmers during olive harvest",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+    "pubDate": "2026-10-03T21:15:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791061032",
+    "originalTitle": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+    "urduTitle": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+    "urduSummary": "Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+    "pubDate": "2026-10-03T21:02:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791051721",
+    "originalTitle": "Trump ramps up pressure on US Republicans to end US clock switching",
+    "urduTitle": "Trump ramps up pressure on US Republicans to end US clock switching",
+    "urduSummary": "The US president published a lawmaker's cell phone number as he called for the passage of a bill making DST permanent.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+    "pubDate": "2026-10-03T20:16:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo#0",
     "originalTitle": "Tennessee prison chief to resign after Christa Pike's failed execution",
     "urduTitle": "Tennessee prison chief to resign after Christa Pike's failed execution",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss",
     "pubDate": "2026-10-01T17:23:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790862271",
-    "originalTitle": "Death penalty bill for forest arsonists clears Algeria lower house",
-    "urduTitle": "Death penalty bill for forest arsonists clears Algeria lower house",
-    "urduSummary": "Human rights organisations accused Algiers of using the law to target political opposition groups.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/1/death-penalty-bill-for-forest-arsonists-clears-algeria-lower-house?traffic_source=rss",
-    "pubDate": "2026-10-01T17:18:30.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o#0",
-    "originalTitle": "US death row inmate survives execution attempt after two lethal injections",
-    "urduTitle": "US death row inmate survives execution attempt after two lethal injections",
-    "urduSummary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-01T09:59:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790847505",
-    "originalTitle": "Turkish fans show support for Palestine at friendly fixture",
-    "urduTitle": "Turkish fans show support for Palestine at friendly fixture",
-    "urduSummary": "Turkish football fans displayed pro-Palestinian tifos and banners.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-sv-konyaspor-palestine-tifo-tr?traffic_source=rss",
-    "pubDate": "2026-10-01T09:41:16.000Z",
     "category": "world",
     "imageUrl": null
   }
