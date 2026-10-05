@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-10-05T03:33:03.253Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791167191",
+    "originalTitle": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
+    "urduTitle": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
+    "urduSummary": "Ireland and Israel drew 1-1 in a second ill-tempered Nations League match.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss",
+    "pubDate": "2026-10-05T02:28:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791160609",
+    "originalTitle": "Brazil’s presidential race: Three key takeaways from the first round",
+    "urduTitle": "Brazil’s presidential race: Three key takeaways from the first round",
+    "urduSummary": "Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss",
+    "pubDate": "2026-10-05T01:55:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791124316",
+    "originalTitle": "Can the KKK find a new foothold in the US?",
+    "urduTitle": "Can the KKK find a new foothold in the US?",
+    "urduSummary": "The infamous hate group is trying to rebrand itself as the 'Knights Party' in an attempt to grow its base.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss",
+    "pubDate": "2026-10-05T01:47:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1791113753",
     "originalTitle": "Cornell case puts New York’s progressive image at odds with its rape laws",
     "urduTitle": "Cornell case puts New York’s progressive image at odds with its rape laws",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-02T17:05:39.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790913842",
-    "originalTitle": "How the Banco Master scandal injected chaos into Brazil’s presidential race",
-    "urduTitle": "How the Banco Master scandal injected chaos into Brazil’s presidential race",
-    "urduSummary": "Figures across Brazil's political spectrum have been linked to the scandal in the midst of a key election.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race?traffic_source=rss",
-    "pubDate": "2026-10-02T16:36:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790953750",
-    "originalTitle": "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
-    "urduTitle": "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
-    "urduSummary": "Taiwan’s Coast Guard used a water cannon to drive two Chinese fishing boats away from waters near the Dongsha Islands.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss",
-    "pubDate": "2026-10-02T16:23:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1790953556",
-    "originalTitle": "US job growth slows as unemployment rises before midterm elections",
-    "urduTitle": "US job growth slows as unemployment rises before midterm elections",
-    "urduSummary": "The US economy added 29,000 jobs in September, with unemployment rising to 4.2 percent, according to Labor Department.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
-    "pubDate": "2026-10-02T16:20:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
-    "originalTitle": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-    "urduTitle": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-    "urduSummary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-02T09:08:06.000Z",
     "category": "world",
     "imageUrl": null
   }
