@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo#0",
+    "originalTitle": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+    "urduTitle": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+    "urduSummary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-07T21:40:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo#0",
+    "originalTitle": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+    "urduTitle": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+    "urduSummary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-07T20:27:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791408735",
+    "originalTitle": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+    "urduTitle": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+    "urduSummary": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
+    "pubDate": "2026-10-07T23:33:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791404562",
+    "originalTitle": "Christa Pike was nearly taken off life support before waking, lawyers say",
+    "urduTitle": "Christa Pike was nearly taken off life support before waking, lawyers say",
+    "urduSummary": "Death row inmate who survived execution by lethal injection is said to be 'angry and confused' about what happened.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
+    "pubDate": "2026-10-07T23:20:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791405441",
+    "originalTitle": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
+    "urduTitle": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
+    "urduSummary": "Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil's presidential run-off.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
+    "pubDate": "2026-10-07T22:14:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o#0",
     "originalTitle": "Israelis demand accountability over 7 October failures three years after attacks",
     "urduTitle": "Israelis demand accountability over 7 October failures three years after attacks",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
     "pubDate": "2026-10-04T21:10:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo#0",
-    "originalTitle": "Watch: What we know about Russian strikes on Kyiv bridges",
-    "urduTitle": "Watch: What we know about Russian strikes on Kyiv bridges",
-    "urduSummary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-04T14:25:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o#0",
-    "originalTitle": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-    "urduTitle": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-    "urduSummary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-04T14:24:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791126963",
-    "originalTitle": "LIVE: Portugal vs Norway – UEFA Nations League",
-    "urduTitle": "LIVE: Portugal vs Norway – UEFA Nations League",
-    "urduSummary": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
-    "pubDate": "2026-10-04T15:47:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791117879",
-    "originalTitle": "Japan summons US envoy as marine arrested over Okinawa murder",
-    "urduTitle": "Japan summons US envoy as marine arrested over Okinawa murder",
-    "urduSummary": "Ambassador vows cooperation as Japan protests after a US marine’s arrest in connection to Okinawa murder case.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
-    "pubDate": "2026-10-04T15:45:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791127670",
-    "originalTitle": "Why does the US want to deport Salah Sarsour?",
-    "urduTitle": "Why does the US want to deport Salah Sarsour?",
-    "urduSummary": "A US judge has ruled a prominent Palestinian rights advocate can be deported under a controversial, cold-war era law.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
-    "pubDate": "2026-10-04T15:36:10.000Z",
     "category": "world",
     "imageUrl": null
   }
