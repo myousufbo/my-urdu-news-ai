@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo#0",
+    "originalTitle": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+    "urduTitle": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+    "urduSummary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-08T23:11:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#0",
+    "originalTitle": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+    "urduTitle": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+    "urduSummary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-09T03:36:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791510032",
+    "originalTitle": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
+    "urduTitle": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
+    "urduSummary": "Mayor Zohran Mamdani says agents fired at a car with a child inside; DHS says it was conducting enforcement activity.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
+    "pubDate": "2026-10-09T03:25:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791481470",
+    "originalTitle": "Christa Pike case underscores prevalence of botched executions in US",
+    "urduTitle": "Christa Pike case underscores prevalence of botched executions in US",
+    "urduSummary": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
+    "pubDate": "2026-10-09T02:05:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791500587",
+    "originalTitle": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
+    "urduTitle": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
+    "urduSummary": "Democrat Abdul El-Sayed and Republican Mike Rogers are locked in a toss-up race for the US Senate.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
+    "pubDate": "2026-10-09T02:00:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo#0",
     "originalTitle": "Christa Pike now walking after failed US execution, lawyer tells BBC",
     "urduTitle": "Christa Pike now walking after failed US execution, lawyer tells BBC",
@@ -492,61 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-10-06T14:39:02.095Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791293153",
-    "originalTitle": "UK police arrest British national linked to airbase incident",
-    "urduTitle": "UK police arrest British national linked to airbase incident",
-    "urduSummary": "22-year old British national arrested on suspicion of a terror offence after other suspects released on bail.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
-    "pubDate": "2026-10-06T13:44:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791287924",
-    "originalTitle": "Demonstrators clash with riot police in France as education protests mount",
-    "urduTitle": "Demonstrators clash with riot police in France as education protests mount",
-    "urduSummary": "School blockades and clashes intensify in France as frustration rises over government education policy.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss",
-    "pubDate": "2026-10-06T13:28:54.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791282713",
-    "originalTitle": "Former German spy chief arrested on suspicion of treason and espionage",
-    "urduTitle": "Former German spy chief arrested on suspicion of treason and espionage",
-    "urduSummary": "August Hanning's former chief of staff was also arrested on suspicion of 'aiding and abetting attempted treason'.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss",
-    "pubDate": "2026-10-06T12:52:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo#0",
-    "originalTitle": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-    "urduTitle": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-    "urduSummary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-05T21:46:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo#0",
-    "originalTitle": "France braces for national day of school protests after injuries and mass arrests",
-    "urduTitle": "France braces for national day of school protests after injuries and mass arrests",
-    "urduSummary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-05T21:18:10.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
