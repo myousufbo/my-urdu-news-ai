@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o#0",
+    "originalTitle": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+    "urduTitle": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+    "urduSummary": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-09T21:55:51.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791617977",
+    "originalTitle": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
+    "urduTitle": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
+    "urduSummary": "Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss",
+    "pubDate": "2026-10-10T09:45:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791620969",
+    "originalTitle": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+    "urduTitle": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+    "urduSummary": "Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+    "pubDate": "2026-10-10T09:30:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791614490",
+    "originalTitle": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
+    "urduTitle": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
+    "urduSummary": "Conflicting reports emerge on the circumstances of the killing, prompting calls for justice from advocacy groups.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss",
+    "pubDate": "2026-10-10T09:27:08.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo#0",
     "originalTitle": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
     "urduTitle": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-07T17:29:46.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791386873",
-    "originalTitle": "Over 100 arrested in Belgium student protests over education costs",
-    "urduTitle": "Over 100 arrested in Belgium student protests over education costs",
-    "urduSummary": "Protesting students have demanded education reforms in French-speaking areas of the country.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss",
-    "pubDate": "2026-10-07T17:28:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791388996",
-    "originalTitle": "US mortgage rates hit their highest level in three years",
-    "urduTitle": "US mortgage rates hit their highest level in three years",
-    "urduSummary": "Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss",
-    "pubDate": "2026-10-07T17:05:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791389225",
-    "originalTitle": "UEFA football leaders meet to shape strategy to oust FIFA’s Infantino",
-    "urduTitle": "UEFA football leaders meet to shape strategy to oust FIFA’s Infantino",
-    "urduSummary": "European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/7/uefa-football-leaders-meet-to-shape-strategy-to-oust-fifas-infantino?traffic_source=rss",
-    "pubDate": "2026-10-07T16:47:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko#0",
-    "originalTitle": "France halts use of stun grenades after boy's hand blown off in student protests",
-    "urduTitle": "France halts use of stun grenades after boy's hand blown off in student protests",
-    "urduSummary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-07T10:23:23.000Z",
     "category": "world",
     "imageUrl": null
   }
