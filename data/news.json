@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c84g179n2393o#0",
+    "originalTitle": "Delhi sees more protests as 'cockroach' group's leaders released",
+    "urduTitle": "Delhi sees more protests as 'cockroach' group's leaders released",
+    "urduSummary": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-11T08:50:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791699931",
+    "originalTitle": "Photos: Thousands detained in police crackdown on India’s youth protest",
+    "urduTitle": "Photos: Thousands detained in police crackdown on India’s youth protest",
+    "urduSummary": "Demonstrators intercepted and detained as authorities crack down on 'cockroach' movement rally in central New Delhi.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss",
+    "pubDate": "2026-10-11T09:58:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791706768",
+    "originalTitle": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
+    "urduTitle": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
+    "urduSummary": "Third strike on Yandex facilities in a week comes as Russia and Ukraine escalate attacks on tech infrastructure.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss",
+    "pubDate": "2026-10-11T09:33:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791698042",
+    "originalTitle": "What can Man City expect against Liverpool at Anfield on Sunday?",
+    "urduTitle": "What can Man City expect against Liverpool at Anfield on Sunday?",
+    "urduSummary": "Man City face Liverpool in their first game since being found guilty of serious EPL financial breaches.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss",
+    "pubDate": "2026-10-11T08:46:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o#0",
     "originalTitle": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
     "urduTitle": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss",
     "pubDate": "2026-10-08T19:57:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c875pwq134l3o#0",
-    "originalTitle": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-    "urduTitle": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-    "urduSummary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-08T12:43:56.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo#0",
-    "originalTitle": "US and Lebanon protecting wanted Syrian general, BBC finds",
-    "urduTitle": "US and Lebanon protecting wanted Syrian general, BBC finds",
-    "urduSummary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-08T05:00:44.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno#0",
-    "originalTitle": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "urduTitle": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "urduSummary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-08T08:18:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791468341",
-    "originalTitle": "New York Mayor Mamdani under fire for attending October 7 vigil",
-    "urduTitle": "New York Mayor Mamdani under fire for attending October 7 vigil",
-    "urduSummary": "New York City’s Mayor Zohran Mamdani was met by crowds calling him a ‘traitor’ for attending a vigil for October 7.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
-    "pubDate": "2026-10-08T14:07:13.000Z",
     "category": "world",
     "imageUrl": null
   }
