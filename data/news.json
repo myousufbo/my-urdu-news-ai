@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo#0",
+    "originalTitle": "Pope walking and recovering 'as expected' after surgery, doctors say",
+    "urduTitle": "Pope walking and recovering 'as expected' after surgery, doctors say",
+    "urduSummary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-14T15:12:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#0",
+    "originalTitle": "US inflation rises more than expected - here's what is happening with prices",
+    "urduTitle": "US inflation rises more than expected - here's what is happening with prices",
+    "urduSummary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-14T15:26:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791992758",
+    "originalTitle": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
+    "urduTitle": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
+    "urduSummary": "Netanyahu warns again of Israel’s ‘enemies’ planning an attack before elections.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss",
+    "pubDate": "2026-10-14T15:49:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791989737",
+    "originalTitle": "Ronaldo’s among three Saudi Arabia games postponed due to Houthi attacks",
+    "urduTitle": "Ronaldo’s among three Saudi Arabia games postponed due to Houthi attacks",
+    "urduSummary": "Saudi Pro League postpones three matches after Houthi attacks, including one involving Cristiano Ronaldo's Al Nassr.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/10/14/ronaldos-among-three-saudi-arabia-games-postponed-due-to-houthi-attacks?traffic_source=rss",
+    "pubDate": "2026-10-14T15:49:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791987972",
+    "originalTitle": "US inflation rises before midterm elections, fuelling rate hike fears",
+    "urduTitle": "US inflation rises before midterm elections, fuelling rate hike fears",
+    "urduSummary": "Economists divided on Fed rate hike as inflation creates uncertainty before US midterm elections in a tense market.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears?traffic_source=rss",
+    "pubDate": "2026-10-14T15:31:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do#0",
     "originalTitle": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
     "urduTitle": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
     "pubDate": "2026-10-11T22:49:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791757327",
-    "originalTitle": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-    "urduTitle": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-    "urduSummary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-    "pubDate": "2026-10-11T22:24:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791752014",
-    "originalTitle": "Waves crash into homes as excavators try to protect California properties",
-    "urduTitle": "Waves crash into homes as excavators try to protect California properties",
-    "urduSummary": "Construction crews were seen trying to block waves entering homes along California's coast",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
-    "pubDate": "2026-10-11T21:03:41.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#0",
-    "originalTitle": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
-    "urduTitle": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
-    "urduSummary": "The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-11T16:41:37.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#0",
-    "originalTitle": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-    "urduTitle": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-    "urduSummary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-11T14:38:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#0",
-    "originalTitle": "Pope Leo to have surgery after lump found on lung",
-    "urduTitle": "Pope Leo to have surgery after lump found on lung",
-    "urduSummary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-11T13:38:55.000Z",
     "category": "world",
     "imageUrl": null
   }
