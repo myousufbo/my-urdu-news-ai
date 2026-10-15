@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-10-15T02:46:19.615Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792015901",
+    "originalTitle": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
+    "urduTitle": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
+    "urduSummary": "Katie Zacharia has repeatedly claimed to be a lawyer, but critics question whether she was ever licensed.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
+    "pubDate": "2026-10-15T01:35:40.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792023224",
+    "originalTitle": "Trump suggests those who leak government information should ‘be shot’",
+    "urduTitle": "Trump suggests those who leak government information should ‘be shot’",
+    "urduSummary": "The US president has long been unhappy with inside information about his administration being leaked to the media.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
+    "pubDate": "2026-10-15T01:34:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792027651",
+    "originalTitle": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
+    "urduTitle": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
+    "urduSummary": "Torrential rain has triggered flash floods across Istanbul.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
+    "pubDate": "2026-10-15T01:29:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo#0",
     "originalTitle": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
     "urduTitle": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
     "pubDate": "2026-10-12T10:35:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791784889",
-    "originalTitle": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
-    "urduTitle": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
-    "urduSummary": "City beat Reds despite a hostile Anfield reception, but Premier League season still hangs in the balance.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
-    "pubDate": "2026-10-12T10:18:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791792243",
-    "originalTitle": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
-    "urduTitle": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
-    "urduSummary": "Samir Mohtadi \"strongly rejects\" any attempt to associate him or Islamic centre in Melbourne with the alleged attacker.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
-    "pubDate": "2026-10-12T10:05:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791769924",
-    "originalTitle": "North Korea fires multiple ballistic missiles towards the sea",
-    "urduTitle": "North Korea fires multiple ballistic missiles towards the sea",
-    "urduSummary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-    "pubDate": "2026-10-12T03:37:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791774158",
-    "originalTitle": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-    "urduTitle": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-    "urduSummary": "At least 139 migrants, including 15 children, have died and 84 remain missing after a migrant boat capsized.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
-    "pubDate": "2026-10-12T03:09:11.000Z",
     "category": "world",
     "imageUrl": null
   }
