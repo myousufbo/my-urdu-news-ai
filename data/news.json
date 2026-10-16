@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0",
+    "originalTitle": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "urduTitle": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "urduSummary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-16T05:00:17.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792134507",
+    "originalTitle": "Tesla unveils car that can drive upside down and jump through the air",
+    "urduTitle": "Tesla unveils car that can drive upside down and jump through the air",
+    "urduSummary": "Tesla has unveiled an electric car that can drive upside down and use rocket-like thrusters to jump and turn mid-air.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss",
+    "pubDate": "2026-10-16T07:10:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792134099",
+    "originalTitle": "How Israel’s elections will affect Palestinians",
+    "urduTitle": "How Israel’s elections will affect Palestinians",
+    "urduSummary": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
+    "pubDate": "2026-10-16T07:04:54.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791896633",
+    "originalTitle": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+    "urduTitle": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+    "urduSummary": "As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
+    "pubDate": "2026-10-16T06:41:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#0",
     "originalTitle": "Three children and teacher killed by 16-year-old at Oregon primary school",
     "urduTitle": "Three children and teacher killed by 16-year-old at Oregon primary school",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-13T20:46:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o#0",
-    "originalTitle": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-    "urduTitle": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-    "urduSummary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-13T15:52:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
-    "originalTitle": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "urduTitle": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "urduSummary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-13T20:02:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791924313",
-    "originalTitle": "Tupac Shakur killer sentenced to 40 years in prison",
-    "urduTitle": "Tupac Shakur killer sentenced to 40 years in prison",
-    "urduSummary": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-    "pubDate": "2026-10-13T20:46:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791923527",
-    "originalTitle": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-    "urduTitle": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-    "urduSummary": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-    "pubDate": "2026-10-13T20:33:10.000Z",
     "category": "world",
     "imageUrl": null
   }
