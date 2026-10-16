@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#0",
+    "originalTitle": "Three children and teacher killed by 16-year-old at Oregon primary school",
+    "urduTitle": "Three children and teacher killed by 16-year-old at Oregon primary school",
+    "urduSummary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-16T02:32:49.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o#0",
+    "originalTitle": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+    "urduTitle": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+    "urduSummary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-16T01:36:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-10-16T02:42:49.939Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792108052",
+    "originalTitle": "Argentine students protest on campus over Milei’s austerity",
+    "urduTitle": "Argentine students protest on campus over Milei’s austerity",
+    "urduSummary": "Judge fines the government for failing to fund universities as protests over Milei's cuts turn violent.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+    "pubDate": "2026-10-16T02:11:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792115840",
+    "originalTitle": "Peshawar mourns children killed in school roof collapse",
+    "urduTitle": "Peshawar mourns children killed in school roof collapse",
+    "urduSummary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+    "pubDate": "2026-10-16T02:01:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792062546",
+    "originalTitle": "Progressives, AIPAC and the future of the Democratic Party",
+    "urduTitle": "Progressives, AIPAC and the future of the Democratic Party",
+    "urduSummary": "Mehdi Hasan goes Head to Head with ex-Biden official Neera Tanden on the Democratic Party’s chances in the US midterms.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
+    "pubDate": "2026-10-16T02:01:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o#0",
     "originalTitle": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured   ",
     "urduTitle": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured   ",
@@ -480,72 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
     "pubDate": "2026-10-13T20:33:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791904473",
-    "originalTitle": "How podcasts became political powerhouses",
-    "urduTitle": "How podcasts became political powerhouses",
-    "urduSummary": "Are podcasts remaking politics or just bypassing scrutiny?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss",
-    "pubDate": "2026-10-13T20:12:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#0",
-    "originalTitle": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "urduTitle": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "urduSummary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-13T05:02:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmn045en7d88o#0",
-    "originalTitle": "Breaking Bad actor RJ Mitte dies aged 34",
-    "urduTitle": "Breaking Bad actor RJ Mitte dies aged 34",
-    "urduSummary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-13T08:03:34.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#0",
-    "originalTitle": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-    "urduTitle": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-    "urduSummary": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-13T15:21:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791899419",
-    "originalTitle": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-    "urduTitle": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-    "urduSummary": "Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-    "pubDate": "2026-10-13T15:01:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1791880020",
-    "originalTitle": "Atletico Madrid vs Manchester United LIVE: Champions League",
-    "urduTitle": "Atletico Madrid vs Manchester United LIVE: Champions League",
-    "urduSummary": "Follow updates from the league stage clash, including the build-up, analysis and live text commentary of the game.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
-    "pubDate": "2026-10-13T15:00:00.000Z",
     "category": "world",
     "imageUrl": null
   }
