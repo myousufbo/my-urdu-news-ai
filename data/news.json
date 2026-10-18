@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1792281111",
+    "originalTitle": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+    "urduTitle": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+    "urduSummary": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "2026-10-18T01:54:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792286529",
+    "originalTitle": "Buildings burn as French protests go into the night",
+    "urduTitle": "Buildings burn as French protests go into the night",
+    "urduSummary": "Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+    "pubDate": "2026-10-18T01:30:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792285788",
+    "originalTitle": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+    "urduTitle": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+    "urduSummary": "Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
+    "pubDate": "2026-10-18T01:12:44.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo#0",
     "originalTitle": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
     "urduTitle": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
@@ -514,39 +547,6 @@
     "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
     "pubDate": "2026-10-15T22:50:05.014Z",
     "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792090235",
-    "originalTitle": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-    "urduTitle": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-    "urduSummary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-    "pubDate": "2026-10-15T21:57:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792099600",
-    "originalTitle": "Man United’s Martinez apologises for outburst after talks with Carrick",
-    "urduTitle": "Man United’s Martinez apologises for outburst after talks with Carrick",
-    "urduSummary": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
-    "pubDate": "2026-10-15T21:54:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792087091",
-    "originalTitle": "Trump administration sues California over noncitizens on voter rolls",
-    "urduTitle": "Trump administration sues California over noncitizens on voter rolls",
-    "urduSummary": "Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss",
-    "pubDate": "2026-10-15T21:44:59.000Z",
-    "category": "world",
     "imageUrl": null
   }
 ]
