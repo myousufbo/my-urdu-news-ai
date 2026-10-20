@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-10-20T02:59:42.157Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792454914",
+    "originalTitle": "Four dead as torrential rain batters eastern Spain",
+    "urduTitle": "Four dead as torrential rain batters eastern Spain",
+    "urduSummary": "Cars swept away, roads submerged and residents isolated in parts of Spain's Mediterranean coast.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
+    "pubDate": "2026-10-20T02:36:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1791634503",
+    "originalTitle": "The human cost of surging US air strikes in Somalia",
+    "urduTitle": "The human cost of surging US air strikes in Somalia",
+    "urduSummary": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
+    "pubDate": "2026-10-20T01:52:32.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792460863",
+    "originalTitle": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
+    "urduTitle": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
+    "urduSummary": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
+    "pubDate": "2026-10-20T01:50:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo#0",
     "originalTitle": "Curfew imposed in parts of central Paris and other cities after rioting across France",
     "urduTitle": "Curfew imposed in parts of central Paris and other cities after rioting across France",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-17T20:52:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
-    "originalTitle": "European diplomats attacked by Israeli settlers in West Bank",
-    "urduTitle": "European diplomats attacked by Israeli settlers in West Bank",
-    "urduSummary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-17T18:38:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792267139",
-    "originalTitle": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-    "urduTitle": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-    "urduSummary": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
-    "pubDate": "2026-10-17T21:08:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792266795",
-    "originalTitle": "Cost of living protests hit Belgium, Italy, Portugal and France",
-    "urduTitle": "Cost of living protests hit Belgium, Italy, Portugal and France",
-    "urduSummary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-    "pubDate": "2026-10-17T21:02:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792269834",
-    "originalTitle": "Ten killed in fire at beach resort in Bangladesh",
-    "urduTitle": "Ten killed in fire at beach resort in Bangladesh",
-    "urduSummary": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-    "pubDate": "2026-10-17T20:50:01.000Z",
     "category": "world",
     "imageUrl": null
   }
