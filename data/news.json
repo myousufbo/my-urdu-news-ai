@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1792636280",
+    "originalTitle": "Can Trump deport Congresswoman Ilhan Omar?",
+    "urduTitle": "Can Trump deport Congresswoman Ilhan Omar?",
+    "urduSummary": "Can Trump deport Congresswoman Ilhan Omar?",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+    "pubDate": "2026-10-22T02:34:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792635260",
+    "originalTitle": "Russia frees American Stephen Hubbard after 4 years behind bars",
+    "urduTitle": "Russia frees American Stephen Hubbard after 4 years behind bars",
+    "urduSummary": "Russia frees American Stephen Hubbard after 4 years behind bars",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+    "pubDate": "2026-10-22T02:16:25.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792504151",
+    "originalTitle": "Tigray resumes daily life amid fears of wider war",
+    "urduTitle": "Tigray resumes daily life amid fears of wider war",
+    "urduSummary": "Mekelle’s reopening offers little relief as instability and economic hardship persist.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+    "pubDate": "2026-10-22T02:08:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo#0",
     "originalTitle": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
     "urduTitle": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-19T17:18:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0",
-    "originalTitle": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-    "urduTitle": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-    "urduSummary": "The Saudi government did not immediately respond to BBC requests for comment.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-19T16:22:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792431623",
-    "originalTitle": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
-    "urduTitle": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
-    "urduSummary": "Cristiano Ronaldo has been handed a month-long ban by the disciplinary council of Portugal's Football Association.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
-    "pubDate": "2026-10-19T17:52:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792421819",
-    "originalTitle": "Chuck Schumer urges FCC to block AI robocalls before elections",
-    "urduTitle": "Chuck Schumer urges FCC to block AI robocalls before elections",
-    "urduSummary": "Chuck Schumer urges FCC to reject petition allowing AI robocalls ahead of key November midterm elections.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss",
-    "pubDate": "2026-10-19T17:40:56.000Z",
     "category": "world",
     "imageUrl": null
   }
