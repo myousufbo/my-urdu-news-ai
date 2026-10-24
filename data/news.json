@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
+    "originalTitle": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+    "urduTitle": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+    "urduSummary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-24T17:21:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792864578",
+    "originalTitle": "Kim Jong Un crosses new bridge linking North Korea and China",
+    "urduTitle": "Kim Jong Un crosses new bridge linking North Korea and China",
+    "urduSummary": "Kim Jong Un crosses new bridge linking North Korea and China",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+    "pubDate": "2026-10-24T18:00:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792854202",
+    "originalTitle": "Trump says he may move White House press corps to new location",
+    "urduTitle": "Trump says he may move White House press corps to new location",
+    "urduSummary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+    "pubDate": "2026-10-24T17:01:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792849909",
+    "originalTitle": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+    "urduTitle": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+    "urduSummary": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+    "pubDate": "2026-10-24T16:48:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go#0",
     "originalTitle": "Ukraine says Starlink connection 'now stable' after network limits",
     "urduTitle": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
     "pubDate": "2026-10-22T15:35:07.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0",
-    "originalTitle": "What is PHP and why did it spark a global cyber-security scramble?",
-    "urduTitle": "What is PHP and why did it spark a global cyber-security scramble?",
-    "urduSummary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-22T06:24:59.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o#0",
-    "originalTitle": "How Arab parties could hold critical balance of power in Israeli election",
-    "urduTitle": "How Arab parties could hold critical balance of power in Israeli election",
-    "urduSummary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-22T05:30:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792655486",
-    "originalTitle": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
-    "urduTitle": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
-    "urduSummary": "Yemen's government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
-    "pubDate": "2026-10-22T09:00:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792659095",
-    "originalTitle": "Israeli elections: Is it just right wing versus right?",
-    "urduTitle": "Israeli elections: Is it just right wing versus right?",
-    "urduSummary": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
-    "pubDate": "2026-10-22T08:55:18.000Z",
     "category": "world",
     "imageUrl": null
   }
