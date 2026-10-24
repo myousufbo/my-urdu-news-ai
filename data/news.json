@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0",
+    "originalTitle": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+    "urduTitle": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+    "urduSummary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-24T21:09:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792875269",
+    "originalTitle": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+    "urduTitle": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+    "urduSummary": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+    "pubDate": "2026-10-24T21:39:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792877539",
+    "originalTitle": "Brazil’s candidates hold final rallies before knife-edge run off",
+    "urduTitle": "Brazil’s candidates hold final rallies before knife-edge run off",
+    "urduSummary": "Brazil’s candidates hold final rallies before knife-edge run off",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+    "pubDate": "2026-10-24T21:36:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792871189",
+    "originalTitle": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+    "urduTitle": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+    "urduSummary": "Tehran warns that even limited strikes would trigger a response 'several times greater'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+    "pubDate": "2026-10-24T21:30:11.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
     "originalTitle": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
     "urduTitle": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-22T16:15:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#0",
-    "originalTitle": "At least four dead after storm brings flooding to southern France",
-    "urduTitle": "At least four dead after storm brings flooding to southern France",
-    "urduSummary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-22T11:23:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792676367",
-    "originalTitle": "Israeli attacks in Gaza kill four, including a young girl",
-    "urduTitle": "Israeli attacks in Gaza kill four, including a young girl",
-    "urduSummary": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
-    "pubDate": "2026-10-22T16:06:55.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792674880",
-    "originalTitle": "Italy and Spain lift border controls after months of tension over Ceuta",
-    "urduTitle": "Italy and Spain lift border controls after months of tension over Ceuta",
-    "urduSummary": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
-    "pubDate": "2026-10-22T16:04:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792678375",
-    "originalTitle": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
-    "urduTitle": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
-    "urduSummary": "La Liga ⁠chief ⁠Javier Tebas compared Real Madrid's communication to Nazi propaganda and now faces a tribunal in Spain.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
-    "pubDate": "2026-10-22T15:35:07.000Z",
     "category": "world",
     "imageUrl": null
   }
