@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1792892651",
+    "originalTitle": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+    "urduTitle": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+    "urduSummary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+    "pubDate": "2026-10-25T02:07:29.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792883207",
+    "originalTitle": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+    "urduTitle": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+    "urduSummary": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+    "pubDate": "2026-10-25T00:34:43.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792887675",
+    "originalTitle": "Violence breaks out across Europe after another day of protests",
+    "urduTitle": "Violence breaks out across Europe after another day of protests",
+    "urduSummary": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+    "pubDate": "2026-10-25T00:23:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0",
     "originalTitle": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
     "urduTitle": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
     "pubDate": "2026-10-22T22:09:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792698091",
-    "originalTitle": "US judge blocks federal operations seeking to identify non-citizen voters",
-    "urduTitle": "US judge blocks federal operations seeking to identify non-citizen voters",
-    "urduSummary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
-    "pubDate": "2026-10-22T21:52:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#0",
-    "originalTitle": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-    "urduTitle": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-    "urduSummary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-22T15:56:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego#0",
-    "originalTitle": "Crowd of 50 beats foreigner to death in South Africa",
-    "urduTitle": "Crowd of 50 beats foreigner to death in South Africa",
-    "urduSummary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-22T16:15:25.000Z",
     "category": "world",
     "imageUrl": null
   }
