@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo#0",
+    "originalTitle": "Trump administration illegally fired James Comey's daughter, judge rules",
+    "urduTitle": "Trump administration illegally fired James Comey's daughter, judge rules",
+    "urduSummary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-26T19:27:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793056545",
+    "originalTitle": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+    "urduTitle": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+    "urduSummary": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+    "pubDate": "2026-10-26T23:18:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793051712",
+    "originalTitle": "Former FBI director James Comey hit with third set of charges under Trump",
+    "urduTitle": "Former FBI director James Comey hit with third set of charges under Trump",
+    "urduSummary": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+    "pubDate": "2026-10-26T22:03:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793040471",
+    "originalTitle": "Africa food security under threat due to Iran war, trade officials warn",
+    "urduTitle": "Africa food security under threat due to Iran war, trade officials warn",
+    "urduSummary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+    "pubDate": "2026-10-26T21:42:18.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo#0",
     "originalTitle": "Lula wins fourth term in dramatic Brazil election comeback",
     "urduTitle": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
     "pubDate": "2026-10-24T16:48:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go#0",
-    "originalTitle": "Ukraine says Starlink connection 'now stable' after network limits",
-    "urduTitle": "Ukraine says Starlink connection 'now stable' after network limits",
-    "urduSummary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-24T12:12:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792851740",
-    "originalTitle": "Full lockdown of occupied West Bank begins",
-    "urduTitle": "Full lockdown of occupied West Bank begins",
-    "urduSummary": "The Israeli army begins its lockdown and military operations across the West Bank.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-    "pubDate": "2026-10-24T14:24:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792844149",
-    "originalTitle": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-    "urduTitle": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-    "urduSummary": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-    "pubDate": "2026-10-24T14:23:40.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792493535",
-    "originalTitle": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-    "urduTitle": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-    "urduSummary": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
-    "pubDate": "2026-10-24T14:21:34.000Z",
     "category": "world",
     "imageUrl": null
   }
