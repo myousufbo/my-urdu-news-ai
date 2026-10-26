@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#0",
+    "originalTitle": "Deeply divided Israel braces for pivotal election",
+    "urduTitle": "Deeply divided Israel braces for pivotal election",
+    "urduSummary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-25T22:11:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792969929",
+    "originalTitle": "Two storms slam northern Europe, cut power to 150,000 homes",
+    "urduTitle": "Two storms slam northern Europe, cut power to 150,000 homes",
+    "urduSummary": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
+    "pubDate": "2026-10-26T02:04:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792976086",
+    "originalTitle": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+    "urduTitle": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+    "urduSummary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+    "pubDate": "2026-10-26T01:02:57.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1792973706",
+    "originalTitle": "Serbia celebrates historic election win for student-backed movement",
+    "urduTitle": "Serbia celebrates historic election win for student-backed movement",
+    "urduSummary": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+    "pubDate": "2026-10-26T00:58:21.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
     "originalTitle": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
     "urduTitle": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-23T20:18:13.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-    "pubDate": "2026-10-23T22:49:32.287Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792792784",
-    "originalTitle": "Why is Israel increasing its presence in the Balkans?",
-    "urduTitle": "Why is Israel increasing its presence in the Balkans?",
-    "urduSummary": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-    "pubDate": "2026-10-23T22:01:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792789263",
-    "originalTitle": "Masked gunmen kill seven in attack on church funeral in Jordan",
-    "urduTitle": "Masked gunmen kill seven in attack on church funeral in Jordan",
-    "urduSummary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-    "pubDate": "2026-10-23T21:27:32.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792775478",
-    "originalTitle": "‘Generation Right’: Israeli youth show strong support for the right",
-    "urduTitle": "‘Generation Right’: Israeli youth show strong support for the right",
-    "urduSummary": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
-    "pubDate": "2026-10-23T20:52:32.000Z",
     "category": "world",
     "imageUrl": null
   }
