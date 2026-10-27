@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o#0",
+    "originalTitle": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+    "urduTitle": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+    "urduSummary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-27T17:08:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo#0",
+    "originalTitle": "Norway and Finland leaders hold rare call with Putin",
+    "urduTitle": "Norway and Finland leaders hold rare call with Putin",
+    "urduSummary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-27T14:23:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793120356",
+    "originalTitle": "Funeral held for family killed in Jordanian airstrikes in Syria",
+    "urduTitle": "Funeral held for family killed in Jordanian airstrikes in Syria",
+    "urduSummary": "Mourners have buried four members of a family, including three children, killed in Jordanian airstrikes in Syria.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
+    "pubDate": "2026-10-27T17:03:45.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793102696",
+    "originalTitle": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
+    "urduTitle": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
+    "urduSummary": "Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
+    "pubDate": "2026-10-27T16:05:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793108057",
+    "originalTitle": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+    "urduTitle": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+    "urduSummary": "Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+    "pubDate": "2026-10-27T15:53:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
     "originalTitle": "Israel heads to polls for pivotal election defined by security and democracy",
     "urduTitle": "Israel heads to polls for pivotal election defined by security and democracy",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
     "pubDate": "2026-10-25T14:46:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
-    "originalTitle": "Israel to close West Bank crossings on election day as crackdown escalates",
-    "urduTitle": "Israel to close West Bank crossings on election day as crackdown escalates",
-    "urduSummary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-25T05:15:52.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o#0",
-    "originalTitle": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-    "urduTitle": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-    "urduSummary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-24T23:50:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792905545",
-    "originalTitle": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
-    "urduTitle": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
-    "urduSummary": "Alexander Volkanovski secured a total knockout in the closing seconds of second round at UFC 333 in Abu Dhabi.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss",
-    "pubDate": "2026-10-25T08:26:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792916139",
-    "originalTitle": "Who are the best players never to win the Ballon d’Or?",
-    "urduTitle": "Who are the best players never to win the Ballon d’Or?",
-    "urduSummary": "Al Jazeera’s Samantha Johnson looks at the greatest players to never win the Ballon d'Or",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/who-are-the-best-players-never-to-win-the-ballon?traffic_source=rss",
-    "pubDate": "2026-10-25T08:20:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792602092",
-    "originalTitle": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-    "urduTitle": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-    "urduSummary": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
-    "pubDate": "2026-10-25T07:59:38.000Z",
     "category": "world",
     "imageUrl": null
   }
