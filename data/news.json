@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-10-28T03:33:49.924Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793138234",
+    "originalTitle": "Five key takeaways from Israel’s parliamentary elections",
+    "urduTitle": "Five key takeaways from Israel’s parliamentary elections",
+    "urduSummary": "Netanyahu's Likud emerges as single largest Israeli party, bloc edges past opposition.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+    "pubDate": "2026-10-28T02:53:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793154087",
+    "originalTitle": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+    "urduTitle": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+    "urduSummary": "Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
+    "pubDate": "2026-10-28T02:26:27.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793136360",
+    "originalTitle": "Arab parties could win record 18 seats in Israel election, exit polls show",
+    "urduTitle": "Arab parties could win record 18 seats in Israel election, exit polls show",
+    "urduSummary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+    "pubDate": "2026-10-28T00:43:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#0",
     "originalTitle": "Ceasefire extended across Ukraine's Kherson region, officials say",
     "urduTitle": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-25T16:05:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792926407",
-    "originalTitle": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-    "urduTitle": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-    "urduSummary": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
-    "pubDate": "2026-10-25T18:05:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792950558",
-    "originalTitle": "US and Israel elections: New leaders, same policies?",
-    "urduTitle": "US and Israel elections: New leaders, same policies?",
-    "urduSummary": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-    "pubDate": "2026-10-25T17:53:23.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1792944994",
-    "originalTitle": "Can protests in Europe bring about change?",
-    "urduTitle": "Can protests in Europe bring about change?",
-    "urduSummary": "People have been taking to the streets to demand action.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-    "pubDate": "2026-10-25T17:39:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#0",
-    "originalTitle": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    "urduTitle": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    "urduSummary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-25T09:00:00.000Z",
     "category": "world",
     "imageUrl": null
   }
