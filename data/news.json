@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#0",
+    "originalTitle": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "urduTitle": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "urduSummary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-10-31T02:12:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793407666",
+    "originalTitle": "Ebola death toll in DR Congo passes 5,000",
+    "urduTitle": "Ebola death toll in DR Congo passes 5,000",
+    "urduSummary": "Authorities ​are struggling to find a way to control the ⁠outbreak, with no approved treatments or vaccines.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+    "pubDate": "2026-10-31T02:51:52.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793413848",
+    "originalTitle": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+    "urduTitle": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+    "urduSummary": "Hundreds have been evacuated from Russia-occupied Oleshky under a localised ceasefire brokered by Melania Trump.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+    "pubDate": "2026-10-31T02:44:38.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793413246",
+    "originalTitle": "Poland’s president joins protest amid constitutional crisis at top court",
+    "urduTitle": "Poland’s president joins protest amid constitutional crisis at top court",
+    "urduSummary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+    "pubDate": "2026-10-31T02:24:00.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#0",
     "originalTitle": "US approves sale of 500 Patriot missiles to Ukraine",
     "urduTitle": "US approves sale of 500 Patriot missiles to Ukraine",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-10-28T16:59:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
-    "originalTitle": "How could Israel break election deadlock? Here are four scenarios",
-    "urduTitle": "How could Israel break election deadlock? Here are four scenarios",
-    "urduSummary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-28T14:30:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793113390",
-    "originalTitle": "Sudan war and inflation leave families struggling to survive in Khartoum",
-    "urduTitle": "Sudan war and inflation leave families struggling to survive in Khartoum",
-    "urduSummary": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-    "pubDate": "2026-10-28T17:09:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793109680",
-    "originalTitle": "Canada-EU summit: What do both sides want, and what’s at stake?",
-    "urduTitle": "Canada-EU summit: What do both sides want, and what’s at stake?",
-    "urduSummary": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
-    "pubDate": "2026-10-28T16:54:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793199009",
-    "originalTitle": "Bank of Canada raises interest rates for the first time in three years",
-    "urduTitle": "Bank of Canada raises interest rates for the first time in three years",
-    "urduSummary": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-    "pubDate": "2026-10-28T16:44:44.000Z",
     "category": "world",
     "imageUrl": null
   }
