@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-11-01T10:57:29.939Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793521580",
+    "originalTitle": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+    "urduTitle": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+    "urduSummary": "Qatar Gas Transport Company says no injuries or environmental damage.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
+    "pubDate": "2026-11-01T10:21:48.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793527000",
+    "originalTitle": "Jamaal Bowman: ‘If I had kept my mouth shut, I’d be in Congress’",
+    "urduTitle": "Jamaal Bowman: ‘If I had kept my mouth shut, I’d be in Congress’",
+    "urduSummary": "Marc Lamont Hill speaks to Jamaal Bowman about the growing battle between progressives and the Democratic establishment.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/upfront/2026/11/1/jamaal-bowman-if-i-had-kept-my-mouth-shut-id-be-in-congress?traffic_source=rss",
+    "pubDate": "2026-11-01T10:10:30.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793521921",
+    "originalTitle": "Yemeni government forces seize strategic positions in al-Jawf",
+    "urduTitle": "Yemeni government forces seize strategic positions in al-Jawf",
+    "urduSummary": "Weapons and ammunition depots are seized after a counteroffensive.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+    "pubDate": "2026-11-01T10:08:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#0",
     "originalTitle": "Shops looted as German cost of living protests turn violent",
     "urduTitle": "Shops looted as German cost of living protests turn violent",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
     "pubDate": "2026-10-29T22:16:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793298196",
-    "originalTitle": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-    "urduTitle": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-    "urduSummary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
-    "pubDate": "2026-10-29T21:16:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko#0",
-    "originalTitle": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-    "urduTitle": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-    "urduSummary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-29T14:17:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o#0",
-    "originalTitle": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-    "urduTitle": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-    "urduSummary": "The defeated presidential candidate says he will lead the opposition from the US.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-10-29T14:58:28.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793284563",
-    "originalTitle": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-    "urduTitle": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-    "urduSummary": "Couple say they are 'prisoners of conscience' being made an example of by Pakistan's military-backed authorities.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
-    "pubDate": "2026-10-29T17:28:18.000Z",
     "category": "world",
     "imageUrl": null
   }
