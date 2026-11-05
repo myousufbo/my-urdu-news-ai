@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#0",
+    "originalTitle": "France holds new strikes and protests as unions demand immediate answers",
+    "urduTitle": "France holds new strikes and protests as unions demand immediate answers",
+    "urduSummary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-05T15:43:15.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793876449",
+    "originalTitle": "Why has Cristiano Ronaldo retired from international football?",
+    "urduTitle": "Why has Cristiano Ronaldo retired from international football?",
+    "urduSummary": "Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+    "pubDate": "2026-11-05T15:14:05.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793890917",
+    "originalTitle": "Jerusalem Daily: Settler pogroms in Hebron",
+    "urduTitle": "Jerusalem Daily: Settler pogroms in Hebron",
+    "urduSummary": "Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+    "pubDate": "2026-11-05T15:10:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793876350",
+    "originalTitle": "Ronaldo in records: International milestones from the football icon",
+    "urduTitle": "Ronaldo in records: International milestones from the football icon",
+    "urduSummary": "Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+    "pubDate": "2026-11-05T15:09:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o#0",
     "originalTitle": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
     "urduTitle": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-11-02T11:25:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o#0",
-    "originalTitle": "Nine killed as small jet crashes on Florida street",
-    "urduTitle": "Nine killed as small jet crashes on Florida street",
-    "urduSummary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-02T09:10:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793609585",
-    "originalTitle": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
-    "urduTitle": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
-    "urduSummary": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
-    "pubDate": "2026-11-02T10:25:22.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793607790",
-    "originalTitle": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
-    "urduTitle": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
-    "urduSummary": "Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss",
-    "pubDate": "2026-11-02T10:24:47.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793607836",
-    "originalTitle": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
-    "urduTitle": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
-    "urduSummary": "Sudan's displaced people now face a mounting food crisis, with warnings of famine.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
-    "pubDate": "2026-11-02T10:16:58.000Z",
     "category": "world",
     "imageUrl": null
   }
