@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1794015749",
+    "originalTitle": "Trump confirms new US strikes on Iran’s Qeshm Island",
+    "urduTitle": "Trump confirms new US strikes on Iran’s Qeshm Island",
+    "urduSummary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+    "pubDate": "2026-11-07T03:53:01.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793981428",
+    "originalTitle": "How the US midterm elections reflected resistance to data centres",
+    "urduTitle": "How the US midterm elections reflected resistance to data centres",
+    "urduSummary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
+    "pubDate": "2026-11-07T03:22:41.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794007497",
+    "originalTitle": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+    "urduTitle": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+    "urduSummary": "Children and teenagers make up almost 60 percent of confirmed cases.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+    "pubDate": "2026-11-07T01:55:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#0",
     "originalTitle": "AI stocks climb after trillions wiped from market values",
     "urduTitle": "AI stocks climb after trillions wiped from market values",
@@ -513,39 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
     "pubDate": "2026-11-04T03:56:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793758128",
-    "originalTitle": "Democrat Annie Andrews flips South Carolina’s Senate seat",
-    "urduTitle": "Democrat Annie Andrews flips South Carolina’s Senate seat",
-    "urduSummary": "Andrews beats Republican incumbent Darline Graham, sister of the late Senator Lindsey Graham, in a major upset.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
-    "pubDate": "2026-11-04T03:39:58.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793761910",
-    "originalTitle": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
-    "urduTitle": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
-    "urduSummary": "Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
-    "pubDate": "2026-11-04T03:25:17.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0",
-    "originalTitle": "Spanish transport minister resigns days after deadly train crash",
-    "urduTitle": "Spanish transport minister resigns days after deadly train crash",
-    "urduSummary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-03T21:19:57.000Z",
     "category": "world",
     "imageUrl": null
   }
