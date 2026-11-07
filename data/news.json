@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
+    "originalTitle": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "urduTitle": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "urduSummary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-07T22:19:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+    "pubDate": "2026-11-07T23:18:38.936Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794089556",
+    "originalTitle": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+    "urduTitle": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+    "urduSummary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+    "pubDate": "2026-11-07T22:21:58.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794086209",
+    "originalTitle": "Police clash with protesters as anti-government rallies sweep France",
+    "urduTitle": "Police clash with protesters as anti-government rallies sweep France",
+    "urduSummary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+    "pubDate": "2026-11-07T21:24:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794083912",
+    "originalTitle": "Mélenchon promises action against Israeli annexation if elected President",
+    "urduTitle": "Mélenchon promises action against Israeli annexation if elected President",
+    "urduSummary": "Mélenchon promises action against Israeli annexation if elected President",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+    "pubDate": "2026-11-07T20:53:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
     "originalTitle": "What we know about Krakow mass shooting so far",
     "urduTitle": "What we know about Krakow mass shooting so far",
@@ -491,61 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-11-05T03:56:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793851797",
-    "originalTitle": "Paraguay bank collapses with half of population’s savings",
-    "urduTitle": "Paraguay bank collapses with half of population’s savings",
-    "urduSummary": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
-    "pubDate": "2026-11-05T04:11:45.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793851358",
-    "originalTitle": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-    "urduTitle": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-    "urduSummary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
-    "pubDate": "2026-11-05T04:04:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793849566",
-    "originalTitle": "World record 53 red cards shown in Brazil football match",
-    "urduTitle": "World record 53 red cards shown in Brazil football match",
-    "urduSummary": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
-    "pubDate": "2026-11-05T03:48:19.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo#0",
-    "originalTitle": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-    "urduTitle": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-    "urduSummary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-04T18:01:31.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c98rz6penv86o#0",
-    "originalTitle": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-    "urduTitle": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-    "urduSummary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-04T20:22:40.000Z",
     "category": "world",
     "imageUrl": null
   }
