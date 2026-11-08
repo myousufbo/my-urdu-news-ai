@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0",
+    "originalTitle": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "urduTitle": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "urduSummary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-08T19:58:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794175214",
+    "originalTitle": "Lopez double fires Barcelona to win at Atletico Madrid",
+    "urduTitle": "Lopez double fires Barcelona to win at Atletico Madrid",
+    "urduSummary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+    "pubDate": "2026-11-08T22:42:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794166659",
+    "originalTitle": "President Milei welcomes Pope Leo during historic visit to Argentina",
+    "urduTitle": "President Milei welcomes Pope Leo during historic visit to Argentina",
+    "urduSummary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+    "pubDate": "2026-11-08T22:16:50.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794170942",
+    "originalTitle": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+    "urduTitle": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+    "urduSummary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+    "pubDate": "2026-11-08T22:16:10.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
     "originalTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
     "urduTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-11-06T02:57:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo#0",
-    "originalTitle": "Trump signs order preventing future presidents from changing Oval Office ",
-    "urduTitle": "Trump signs order preventing future presidents from changing Oval Office ",
-    "urduSummary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-06T04:29:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o#0",
-    "originalTitle": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-    "urduTitle": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-    "urduSummary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-06T02:08:57.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793936795",
-    "originalTitle": "Paraguay’s president impeached amid bank collapse crisis",
-    "urduTitle": "Paraguay’s president impeached amid bank collapse crisis",
-    "urduSummary": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-    "pubDate": "2026-11-06T03:49:33.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1793921641",
-    "originalTitle": "Iran’s security chief meets Putin, delivers message from Khamenei",
-    "urduTitle": "Iran’s security chief meets Putin, delivers message from Khamenei",
-    "urduSummary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
-    "pubDate": "2026-11-06T02:48:19.000Z",
     "category": "world",
     "imageUrl": null
   }
