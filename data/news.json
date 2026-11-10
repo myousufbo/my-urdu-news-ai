@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo#0",
+    "originalTitle": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+    "urduTitle": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+    "urduSummary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-10T00:14:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794303200",
+    "originalTitle": "Malaysian court clears former PM Najib Razak for house arrest transfer",
+    "urduTitle": "Malaysian court clears former PM Najib Razak for house arrest transfer",
+    "urduSummary": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
+    "pubDate": "2026-11-10T11:17:36.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794304543",
+    "originalTitle": "Who moves first in Iran-US diplomacy?",
+    "urduTitle": "Who moves first in Iran-US diplomacy?",
+    "urduSummary": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
+    "pubDate": "2026-11-10T11:14:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1793859992",
+    "originalTitle": "Moroccan trio make African Player of Year shortlist as Salah absent",
+    "urduTitle": "Moroccan trio make African Player of Year shortlist as Salah absent",
+    "urduSummary": "WAFCON winners Cameroon dominate women’s list after heroics from Monique Ngock, Michaely Bihina and Marie Ngah Manga.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss",
+    "pubDate": "2026-11-10T11:05:20.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#0",
     "originalTitle": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "urduTitle": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
     "pubDate": "2026-11-07T19:04:04.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crp3gg2z171go#0",
-    "originalTitle": "With Stephen Miller pick, Trump readies for a battle",
-    "urduTitle": "With Stephen Miller pick, Trump readies for a battle",
-    "urduSummary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-06T23:24:15.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
-    "originalTitle": "Paraguay's president impeached and under house arrest after bank collapse",
-    "urduTitle": "Paraguay's president impeached and under house arrest after bank collapse",
-    "urduSummary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-07T07:20:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po#0",
-    "originalTitle": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-    "urduTitle": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-    "urduSummary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-07T12:49:36.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794059860",
-    "originalTitle": "New Zealand’s prime minister says election is ‘too close to call’",
-    "urduTitle": "New Zealand’s prime minister says election is ‘too close to call’",
-    "urduSummary": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
-    "pubDate": "2026-11-07T14:03:06.000Z",
     "category": "world",
     "imageUrl": null
   }
