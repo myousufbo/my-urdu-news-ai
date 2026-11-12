@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o#0",
+    "originalTitle": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+    "urduTitle": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+    "urduSummary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-12T07:59:33.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo#0",
+    "originalTitle": "New York building collapse kills at least four people",
+    "urduTitle": "New York building collapse kills at least four people",
+    "urduSummary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-12T11:48:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794474522",
+    "originalTitle": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+    "urduTitle": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+    "urduSummary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+    "pubDate": "2026-11-12T11:43:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794475436",
+    "originalTitle": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
+    "urduTitle": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
+    "urduSummary": "Mississippi is home to a large Black American population but no Black person has held a Senate seat since the 1800s.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+    "pubDate": "2026-11-12T11:31:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794477884",
+    "originalTitle": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
+    "urduTitle": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
+    "urduSummary": "Al Jazeera’s Rosie Birchard asks a humanoid robot about AI's future at the Web Summit in Lisbon.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
+    "pubDate": "2026-11-12T10:53:23.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
     "originalTitle": "Democrat Scott Colom seals historic win in Mississippi Senate race",
     "urduTitle": "Democrat Scott Colom seals historic win in Mississippi Senate race",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
     "pubDate": "2026-11-09T03:26:21.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794191725",
-    "originalTitle": "South Africa’s ANC suffers worst-ever local elections result",
-    "urduTitle": "South Africa’s ANC suffers worst-ever local elections result",
-    "urduSummary": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
-    "pubDate": "2026-11-09T03:09:51.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0",
-    "originalTitle": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "urduTitle": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "urduSummary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-08T19:58:02.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794175214",
-    "originalTitle": "Lopez double fires Barcelona to win at Atletico Madrid",
-    "urduTitle": "Lopez double fires Barcelona to win at Atletico Madrid",
-    "urduSummary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-    "pubDate": "2026-11-08T22:42:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794166659",
-    "originalTitle": "President Milei welcomes Pope Leo during historic visit to Argentina",
-    "urduTitle": "President Milei welcomes Pope Leo during historic visit to Argentina",
-    "urduSummary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
-    "pubDate": "2026-11-08T22:16:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794170942",
-    "originalTitle": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-    "urduTitle": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-    "urduSummary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
-    "pubDate": "2026-11-08T22:16:10.000Z",
     "category": "world",
     "imageUrl": null
   }
