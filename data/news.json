@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
+    "originalTitle": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "urduTitle": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "urduSummary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-12T01:00:04.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794439101",
+    "originalTitle": "Former Italian Red Brigades member escapes house arrest in Argentina",
+    "urduTitle": "Former Italian Red Brigades member escapes house arrest in Argentina",
+    "urduSummary": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+    "pubDate": "2026-11-12T01:04:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794442919",
+    "originalTitle": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+    "urduTitle": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+    "urduSummary": "Chip giants stock price falls more than 8 percent amid speculation over co-founder's position.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+    "pubDate": "2026-11-12T00:43:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794436317",
+    "originalTitle": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+    "urduTitle": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+    "urduSummary": "Guard at memorial site can be heard yelling at group to 'maintain an atmosphere of silence and respect at all times'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+    "pubDate": "2026-11-12T00:42:37.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#0",
     "originalTitle": "Spain sees widespread disruption in first general strike for 14 years",
     "urduTitle": "Spain sees widespread disruption in first general strike for 14 years",
@@ -502,50 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
     "pubDate": "2026-11-08T22:16:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
-    "originalTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-    "urduTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-    "urduSummary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-08T13:40:24.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro#0",
-    "originalTitle": "Homes and temples glow across India to mark Diwali",
-    "urduTitle": "Homes and temples glow across India to mark Diwali",
-    "urduSummary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-08T14:42:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo#0",
-    "originalTitle": "Iran executes three men for 'armed unrest' after January protests",
-    "urduTitle": "Iran executes three men for 'armed unrest' after January protests",
-    "urduSummary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-08T13:37:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794150342",
-    "originalTitle": "Atletico Madrid vs Barcelona: La Liga live",
-    "urduTitle": "Atletico Madrid vs Barcelona: La Liga live",
-    "urduSummary": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-    "pubDate": "2026-11-08T17:00:00.000Z",
     "category": "world",
     "imageUrl": null
   }
