@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o#0",
+    "originalTitle": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "urduTitle": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "urduSummary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-13T21:14:22.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794602317",
+    "originalTitle": "Pope Leo cheered on return to Peru city where he served as bishop",
+    "urduTitle": "Pope Leo cheered on return to Peru city where he served as bishop",
+    "urduSummary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+    "pubDate": "2026-11-13T20:52:31.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794602134",
+    "originalTitle": "Qatar and Turkiye send message of deterrence with new defence pact",
+    "urduTitle": "Qatar and Turkiye send message of deterrence with new defence pact",
+    "urduSummary": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
+    "pubDate": "2026-11-13T20:48:02.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794601315",
+    "originalTitle": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+    "urduTitle": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+    "urduSummary": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
+    "pubDate": "2026-11-13T20:32:42.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0",
     "originalTitle": "Why is the Microsoft outage lasting so long?",
     "urduTitle": "Why is the Microsoft outage lasting so long?",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-11-10T17:03:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794332951",
-    "originalTitle": "US Senate advances major bill boosting energy infrastructure",
-    "urduTitle": "US Senate advances major bill boosting energy infrastructure",
-    "urduSummary": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-    "pubDate": "2026-11-10T19:09:12.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794334843",
-    "originalTitle": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-    "urduTitle": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-    "urduSummary": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-    "pubDate": "2026-11-10T18:58:05.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794329772",
-    "originalTitle": "UK children’s author David Walliams accused of grooming minors",
-    "urduTitle": "UK children’s author David Walliams accused of grooming minors",
-    "urduSummary": "A joint investigation by The Guardian and ITV News details allegations made by multiple women against the 55-year-old.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
-    "pubDate": "2026-11-10T18:42:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo#0",
-    "originalTitle": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
-    "urduTitle": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
-    "urduSummary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-10T00:14:03.000Z",
     "category": "world",
     "imageUrl": null
   }
