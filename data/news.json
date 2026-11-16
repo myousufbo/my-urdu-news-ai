@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cw987343352go#0",
+    "originalTitle": "Five EU countries announce migrant deportation centre in Rwanda",
+    "urduTitle": "Five EU countries announce migrant deportation centre in Rwanda",
+    "urduSummary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-16T16:27:24.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
+    "originalTitle": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+    "urduTitle": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+    "urduSummary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-16T17:07:55.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794841990",
+    "originalTitle": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+    "urduTitle": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+    "urduSummary": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+    "pubDate": "2026-11-16T17:24:26.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794837889",
+    "originalTitle": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+    "urduTitle": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+    "urduSummary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+    "pubDate": "2026-11-16T17:18:14.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794843017",
+    "originalTitle": "LIVE: Germany vs Netherlands – UEFA Nations League",
+    "urduTitle": "LIVE: Germany vs Netherlands – UEFA Nations League",
+    "urduSummary": "Previews, team news and live text commentary as Germany host the Netherlands in league's final Group A2 football match.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
+    "pubDate": "2026-11-16T17:15:12.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo#0",
     "originalTitle": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
     "urduTitle": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
     "pubDate": "2026-11-13T14:18:25.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794568110",
-    "originalTitle": "Can Netanyahu launch a strike on Iran before he leaves?",
-    "urduTitle": "Can Netanyahu launch a strike on Iran before he leaves?",
-    "urduSummary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
-    "pubDate": "2026-11-13T14:16:20.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0",
-    "originalTitle": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "urduTitle": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "urduSummary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-13T03:57:01.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo#0",
-    "originalTitle": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "urduTitle": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "urduSummary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-13T02:01:35.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o#0",
-    "originalTitle": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "urduTitle": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "urduSummary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-13T02:48:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794542396",
-    "originalTitle": "US envoys shuttle between Putin and Zelenskyy",
-    "urduTitle": "US envoys shuttle between Putin and Zelenskyy",
-    "urduSummary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
-    "pubDate": "2026-11-13T04:12:01.000Z",
     "category": "world",
     "imageUrl": null
   }
