@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo#0",
+    "originalTitle": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "urduTitle": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "urduSummary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-16T21:40:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794874931",
+    "originalTitle": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "urduTitle": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "urduSummary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+    "pubDate": "2026-11-17T01:38:13.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794872359",
+    "originalTitle": "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "urduTitle": "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "urduSummary": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+    "pubDate": "2026-11-17T01:19:56.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1794877824",
+    "originalTitle": "EU countries announce migrant deportation centre in Rwanda",
+    "urduTitle": "EU countries announce migrant deportation centre in Rwanda",
+    "urduSummary": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+    "pubDate": "2026-11-17T01:12:28.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cw987343352go#0",
     "originalTitle": "Five EU countries announce migrant deportation centre in Rwanda",
     "urduTitle": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -502,50 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-11-13T14:21:26.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cqzjr903n01po#0",
-    "originalTitle": "Watch: How a server outage took down Microsoft Teams and Outlook",
-    "urduTitle": "Watch: How a server outage took down Microsoft Teams and Outlook",
-    "urduSummary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-13T11:43:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "originalTitle": "",
-    "urduTitle": "",
-    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-    "source": "CNN Tech",
-    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-    "pubDate": "2026-11-13T15:50:45.170Z",
-    "category": "tech",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794411368",
-    "originalTitle": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-    "urduTitle": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-    "urduSummary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
-    "pubDate": "2026-11-13T15:02:16.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1794562929",
-    "originalTitle": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
-    "urduTitle": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
-    "urduSummary": "Playing their first game since Cristiano Ronaldo's retirement, two-time champions Portugal face Denmark at home.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
-    "pubDate": "2026-11-13T14:18:25.000Z",
     "category": "world",
     "imageUrl": null
   }
