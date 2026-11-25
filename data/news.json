@@ -1,5 +1,82 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#0",
+    "originalTitle": "US announces new tariffs on host of countries including China",
+    "urduTitle": "US announces new tariffs on host of countries including China",
+    "urduSummary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-25T16:21:34.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
+    "originalTitle": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+    "urduTitle": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+    "urduSummary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-25T17:30:16.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#0",
+    "originalTitle": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "urduTitle": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "urduSummary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-25T22:18:06.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "originalTitle": "",
+    "urduTitle": "",
+    "urduSummary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+    "source": "CNN Tech",
+    "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+    "pubDate": "2026-11-25T23:56:34.710Z",
+    "category": "tech",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795648076",
+    "originalTitle": "King tides and big waves batter coastal California",
+    "urduTitle": "King tides and big waves batter coastal California",
+    "urduSummary": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+    "pubDate": "2026-11-25T23:20:03.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795646842",
+    "originalTitle": "Deadly truck fire is latest of Egypt’s transport disasters",
+    "urduTitle": "Deadly truck fire is latest of Egypt’s transport disasters",
+    "urduSummary": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+    "pubDate": "2026-11-25T22:48:47.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795645030",
+    "originalTitle": "Malen and Roma deny injury-hit PSG in Champions League draw",
+    "urduTitle": "Malen and Roma deny injury-hit PSG in Champions League draw",
+    "urduSummary": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+    "pubDate": "2026-11-25T22:41:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#0",
     "originalTitle": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
     "urduTitle": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
@@ -469,83 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
     "pubDate": "2026-11-22T11:15:27.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795302197",
-    "originalTitle": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
-    "urduTitle": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
-    "urduSummary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-    "pubDate": "2026-11-21T23:59:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795295999",
-    "originalTitle": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-    "urduTitle": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-    "urduSummary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-    "pubDate": "2026-11-21T23:44:00.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795302838",
-    "originalTitle": "Iran faces a ‘silent economic war’, says Iranian president",
-    "urduTitle": "Iran faces a ‘silent economic war’, says Iranian president",
-    "urduSummary": "Iran faces a ‘silent economic war’, says Iranian president",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-    "pubDate": "2026-11-21T23:18:14.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#0",
-    "originalTitle": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    "urduTitle": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    "urduSummary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-21T13:17:38.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#0",
-    "originalTitle": "Russia-bound ship attacked in Gulf of Finland",
-    "urduTitle": "Russia-bound ship attacked in Gulf of Finland",
-    "urduSummary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-21T18:22:09.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795283892",
-    "originalTitle": "FBI national crime database suffers suspected breach: Reports",
-    "urduTitle": "FBI national crime database suffers suspected breach: Reports",
-    "urduSummary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-    "pubDate": "2026-11-21T18:19:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795282969",
-    "originalTitle": "Could Brexit be reversed?",
-    "urduTitle": "Could Brexit be reversed?",
-    "urduSummary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
-    "pubDate": "2026-11-21T18:18:11.000Z",
     "category": "world",
     "imageUrl": null
   }
