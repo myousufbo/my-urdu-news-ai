@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o#0",
+    "originalTitle": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+    "urduTitle": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+    "urduSummary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-24T16:49:07.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
+    "originalTitle": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+    "urduTitle": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+    "urduSummary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "2026-11-24T18:07:46.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795569868",
+    "originalTitle": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+    "urduTitle": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+    "urduSummary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+    "pubDate": "2026-11-25T02:40:59.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795564913",
+    "originalTitle": "WHO chief urges end to US fuel blockade on Cuba",
+    "urduTitle": "WHO chief urges end to US fuel blockade on Cuba",
+    "urduSummary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+    "pubDate": "2026-11-25T02:23:19.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795568480",
+    "originalTitle": "Senegal fans celebrate AFCON legal victory over Morocco",
+    "urduTitle": "Senegal fans celebrate AFCON legal victory over Morocco",
+    "urduSummary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+    "pubDate": "2026-11-25T01:39:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo#0",
     "originalTitle": "US attorney general dodges questions about Nvidia investigation",
     "urduTitle": "US attorney general dodges questions about Nvidia investigation",
@@ -491,61 +546,6 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
     "pubDate": "2026-11-21T11:04:10.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795251985",
-    "originalTitle": "Russian missiles hit Poland: What happened, and could NATO respond?",
-    "urduTitle": "Russian missiles hit Poland: What happened, and could NATO respond?",
-    "urduSummary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-    "pubDate": "2026-11-21T11:02:49.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795258702",
-    "originalTitle": "Deadly fire engulfs power station in southern Iraq",
-    "urduTitle": "Deadly fire engulfs power station in southern Iraq",
-    "urduSummary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-    "pubDate": "2026-11-21T11:02:29.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o#0",
-    "originalTitle": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "urduTitle": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "urduSummary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "2026-11-20T17:49:48.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795214635",
-    "originalTitle": "Iran war live: Saudi-led coalition downs Houthi missiles",
-    "urduTitle": "Iran war live: Saudi-led coalition downs Houthi missiles",
-    "urduSummary": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-    "pubDate": "2026-11-21T00:00:06.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795213076",
-    "originalTitle": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
-    "urduTitle": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
-    "urduSummary": "Police say two children among dead as search continues for more victims.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-    "pubDate": "2026-11-20T23:36:36.000Z",
     "category": "world",
     "imageUrl": null
   }
