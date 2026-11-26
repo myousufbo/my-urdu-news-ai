@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1795618547",
+    "originalTitle": "How Silicon Valley became central to Israel’s war on Palestinians",
+    "urduTitle": "How Silicon Valley became central to Israel’s war on Palestinians",
+    "urduSummary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel's war machine.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+    "pubDate": "2026-11-26T06:12:53.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795611523",
+    "originalTitle": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
+    "urduTitle": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
+    "urduSummary": "As Sri Lanka's Tamil separatists fought a deadly war with the army, they also killed hundreds of Muslims.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
+    "pubDate": "2026-11-26T06:10:52.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1795612866",
+    "originalTitle": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+    "urduTitle": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+    "urduSummary": "Apps not working. Bank transfers not going through. And a court fighting for international law must skirt US firms.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+    "pubDate": "2026-11-26T06:07:35.000Z",
+    "category": "world",
+    "imageUrl": null
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#0",
     "originalTitle": "US announces new tariffs on host of countries including China",
     "urduTitle": "US announces new tariffs on host of countries including China",
@@ -513,39 +546,6 @@
     "source": "BBC World",
     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
     "pubDate": "2026-11-22T01:25:03.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795336703",
-    "originalTitle": "What’s behind Iran’s escalation of attacks in the Gulf?",
-    "urduTitle": "What’s behind Iran’s escalation of attacks in the Gulf?",
-    "urduSummary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-    "pubDate": "2026-11-22T11:46:42.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795326803",
-    "originalTitle": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-    "urduTitle": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-    "urduSummary": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
-    "pubDate": "2026-11-22T11:44:50.000Z",
-    "category": "world",
-    "imageUrl": null
-  },
-  {
-    "id": "https://www.aljazeera.com/?t=1795345919",
-    "originalTitle": "Russian ship attacked by drone in Baltic Sea off Finland",
-    "urduTitle": "Russian ship attacked by drone in Baltic Sea off Finland",
-    "urduSummary": "Russian ship attacked by drone in Baltic Sea off Finland",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
-    "pubDate": "2026-11-22T11:15:27.000Z",
     "category": "world",
     "imageUrl": null
   }
